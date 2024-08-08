@@ -2574,32 +2574,32 @@
                 "Range": 25,
                 "Damage": 300,
                 "Cooldown": 2
-            }
+            },
 
             {
                 "Price": 10000,
                 "Range": 28,
                 "Damage": 600,
                 "Cooldown": 1.9
-            }
+            },
             {
                 "Price": 15000,
                 "Range": 31,
                 "Damage": 1200,
                 "Cooldown": 1.8
-            }
+            },
             {
                 "Price": 20000,
                 "Range": 34,
                 "Damage": 1800,
                 "Cooldown": 1.7
-            }
+            },
             {
                 "Price": 25000,
                 "Range": 37,
                 "Damage": 2400,
                 "Cooldown": 1.6
-            }
+            },
             {
                 "Price": 30000,
                 "Range": 45,
