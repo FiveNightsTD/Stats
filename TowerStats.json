@@ -2555,5 +2555,26 @@
                 "Cooldown": 0.4
             }
         ]
+    },
+    "Animdude": {
+        "Type": "Splash",
+        "Image": "rbxassetid://18856588881",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 100,
+                "Cooldown": 1
+            }
+        ]
     }
 }
