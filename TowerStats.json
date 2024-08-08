@@ -2551,8 +2551,8 @@
             {
                 "Price": 2000,
                 "Range": 20,
-                "Damage": 180,
-                "Cooldown": 0.4
+                "Damage": 200,
+                "Cooldown": 0.3
             }
         ]
     },
