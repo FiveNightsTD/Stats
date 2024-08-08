@@ -2571,9 +2571,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1
+                "Range": 30,
+                "Damage": 250,
+                "Cooldown": 1.5
             }
         ]
     }
