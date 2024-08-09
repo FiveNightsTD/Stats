@@ -2634,7 +2634,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 600,
-        "Offset": 0,
+        "Offset": 0.7,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -2644,9 +2644,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 30,
+                "Damage": 500,
+                "Cooldown": 3
+            }
+            {
+                "Price": 10,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            }
+            {
+                "Price": 20,
+                "Range": 30,
+                "Damage": 1500,
+                "Cooldown": 3
+            }
+            {
+                "Price": 30,
+                "Range": 30,
                 "Damage": 100,
-                "Cooldown": 1
+                "Cooldown": 3
             }
         ]
     },
