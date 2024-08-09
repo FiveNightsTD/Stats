@@ -2647,19 +2647,19 @@
                 "Range": 30,
                 "Damage": 500,
                 "Cooldown": 3
-            }
+            },
             {
                 "Price": 10,
                 "Range": 30,
                 "Damage": 1000,
                 "Cooldown": 3
-            }
+            },
             {
                 "Price": 20,
                 "Range": 30,
                 "Damage": 1500,
                 "Cooldown": 3
-            }
+            },
             {
                 "Price": 30,
                 "Range": 30,
