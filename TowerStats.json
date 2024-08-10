@@ -2633,7 +2633,7 @@
         "Type": "Splash",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 600,
+        "PlacePrice": 15000,
         "Offset": 0.7,
         "Max": 3,
         "hitboxOffset": {
@@ -2645,25 +2645,25 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 500,
-                "Cooldown": 3
+                "Damage": 2000,
+                "Cooldown": 4
             },
             {
-                "Price": 10,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3
+                "Price": 20000,
+                "Range": 33,
+                "Damage": 3000,
+                "Cooldown": 3.7
             },
             {
-                "Price": 20,
-                "Range": 30,
-                "Damage": 1500,
-                "Cooldown": 3
+                "Price": 25000,
+                "Range": 36,
+                "Damage": 4000,
+                "Cooldown": 3.4
             },
             {
-                "Price": 30,
-                "Range": 30,
-                "Damage": 100,
+                "Price": 30000,
+                "Range": 40,
+                "Damage": 3000,
                 "Cooldown": 3
             }
         ]
