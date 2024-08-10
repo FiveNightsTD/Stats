@@ -2651,7 +2651,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://18887217738",
         "Rarity": "Secret",
-        "PlacePrice": 15000,
+        "PlacePrice": 12500,
         "Offset": 0.7,
         "Max": 3,
         "hitboxOffset": {
