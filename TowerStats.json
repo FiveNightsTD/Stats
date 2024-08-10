@@ -2630,19 +2630,19 @@
             {
                 "Price": 10000,
                 "Range": 24,
-                "Damage": 350,
+                "Damage": 375,
                 "Cooldown": 0.45
             },
             {
                 "Price": 12500,
                 "Range": 27,
-                "Damage": 400,
+                "Damage": 450,
                 "Cooldown": 0.4
             },
             {
                 "Price": 15000,
                 "Range": 30,
-                "Damage": 500,
+                "Damage": 550,
                 "Cooldown": 0.4
             }
         ]
