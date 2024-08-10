@@ -2688,7 +2688,7 @@
     },
     "Glitched CupCake": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://18888327109",
         "Rarity": "Epic",
         "PlacePrice": 1500,
         "Offset": 0,
