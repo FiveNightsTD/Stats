@@ -2649,7 +2649,7 @@
     },
     "Glitched Puppeteer": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://18887217738",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Offset": 0.7,
