@@ -2690,7 +2690,7 @@
         "Type": "AOE",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 600,
+        "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -2702,8 +2702,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1
+                "Damage": 40,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 2000,
+                "Range": 18,
+                "Damage": 50,
+                "Cooldown": 0.6
+            },
+            {
+                "Price": 2500,
+                "Range": 21,
+                "Damage": 60,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 3000,
+                "Range": 25,
+                "Damage": 70,
+                "Cooldown": 0.35
             }
         ]
     }
