@@ -2689,7 +2689,7 @@
     "Glitched CupCake": {
         "Type": "AOE",
         "Image": "",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
@@ -2702,25 +2702,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 40,
+                "Damage": 20,
                 "Cooldown": 0.7
             },
             {
                 "Price": 2000,
-                "Range": 18,
-                "Damage": 50,
+                "Range": 17,
+                "Damage": 25,
                 "Cooldown": 0.6
             },
             {
                 "Price": 2500,
-                "Range": 21,
-                "Damage": 60,
+                "Range": 18,
+                "Damage": 30,
                 "Cooldown": 0.5
             },
             {
                 "Price": 3000,
-                "Range": 25,
-                "Damage": 70,
+                "Range": 20,
+                "Damage": 40,
                 "Cooldown": 0.35
             }
         ]
