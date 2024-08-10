@@ -2624,8 +2624,8 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1
+                "Damage": 200,
+                "Cooldown": 0.4
             }
         ]
     },
