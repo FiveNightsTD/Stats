@@ -2729,9 +2729,9 @@
         "Type": "Slow",
         "Image": "rbxassetid://18935704086",
         "Rarity": "Secret",
-        "PlacePrice": 1500,
+        "PlacePrice": 800,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2740,10 +2740,38 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 0.1,
+                "Slow": 0.7
+            },
+            {
+                "Price": 1000,
+                "Range": 17,
+                "Damage": 0,
+                "Cooldown": 0.1,
+                "Slow": 0.6
+            },
+            {
+                "Price": 1400,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0.1,
                 "Slow": 0.5
+            },
+            {
+                "Price": 1800,
+                "Range": 22,
+                "Damage": 0,
+                "Cooldown": 0.1,
+                "Slow": 0.5
+            },
+            {
+                "Price": 2000,
+                "Range": 22,
+                "Damage": 0,
+                "Cooldown": 0.1,
+                "Slow": 0.4
             }
         ]
     }
