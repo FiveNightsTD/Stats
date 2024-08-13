@@ -2724,5 +2724,26 @@
                 "Cooldown": 0.35
             }
         ]
+    },
+    "The Crying Child": {
+        "Type": "Slow",
+        "Image": "rbxassetid://18935704086",
+        "Rarity": "Secret",
+        "PlacePrice": 1500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1
+            }
+        ]
     }
 }
