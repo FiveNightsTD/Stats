@@ -2742,7 +2742,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 0,
-                "Cooldown": 0.5,
+                "Cooldown": 0.1,
                 "Slow": 0.5
             }
         ]
