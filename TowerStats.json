@@ -2834,6 +2834,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 10,
+                "Slow": 0.8,
                 "Cooldown": 1
             }
         ]
