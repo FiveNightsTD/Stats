@@ -3017,6 +3017,8 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 10,
+                "Burn": 5,
+                "BurnTime": 1.2,
                 "Cooldown": 1
             }
         ]
