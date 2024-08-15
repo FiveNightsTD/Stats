@@ -3040,6 +3040,8 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 10,
+                "Poison": 5,
+                "PoisonTime": 2,
                 "Cooldown": 1
             }
         ]
