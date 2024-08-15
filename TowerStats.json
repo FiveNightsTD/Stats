@@ -3022,7 +3022,7 @@
         ]
     },
     "Nightmare Mangle": {
-        "Type": "Single Poison",
+        "Type": "AOE Poison",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 1000,
