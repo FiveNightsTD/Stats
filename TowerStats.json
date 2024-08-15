@@ -2910,5 +2910,215 @@
                 "Cooldown": 1
             }
         ]
+    },
+    "Fredbear": {
+        "Type": "AOE",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Nightmare Cupcake": {
+        "Type": "Single Slow",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Nightmare": {
+        "Type": "Splash Poison",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Flamethrower Endo": {
+        "Type": "Cone AOE Burn",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Flame Empress Chica": {
+        "Type": "Splash Burn",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Nightmare Mangle": {
+        "Type": "Single Poison",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Freddle": {
+        "Type": "Summon",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Nightmare Balloon Boy": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Plushtrap": {
+        "Type": "Support",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Nightmare Fredbear": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
     }
 }
