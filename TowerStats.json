@@ -3004,9 +3004,9 @@
         "Type": "Splash Burn",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 2500,
         "Offset": -0.9,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3016,10 +3016,34 @@
             {
                 "Price": 0,
                 "Range": 25,
+                "Damage": 400,
+                "Burn": 200,
+                "BurnTime": 1.5,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 3500,
+                "Range": 25,
                 "Damage": 600,
-                "Burn": 250,
+                "Burn": 300,
+                "BurnTime": 1.5,
+                "Cooldown": 1.3
+            },
+            {
+                "Price": 5000,
+                "Range": 25,
+                "Damage": 700,
+                "Burn": 350,
                 "BurnTime": 1.5,
                 "Cooldown": 1.2
+            },
+            {
+                "Price": 6500,
+                "Range": 25,
+                "Damage": 800,
+                "Burn": 400,
+                "BurnTime": 1.5,
+                "Cooldown": 1
             }
         ]
     },
