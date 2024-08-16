@@ -3016,10 +3016,10 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 400,
-                "Burn": 150,
+                "Damage": 600,
+                "Burn": 250,
                 "BurnTime": 1.5,
-                "Cooldown": 1
+                "Cooldown": 2.5
             }
         ]
     },
