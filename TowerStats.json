@@ -3019,7 +3019,7 @@
                 "Damage": 600,
                 "Burn": 250,
                 "BurnTime": 1.5,
-                "Cooldown": 2.5
+                "Cooldown": 2
             }
         ]
     },
