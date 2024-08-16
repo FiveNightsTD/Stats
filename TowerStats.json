@@ -2820,6 +2820,24 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
                 "Range": 15,
                 "Damage": 10,
                 "Cooldown": 1
