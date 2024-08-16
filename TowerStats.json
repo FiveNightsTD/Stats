@@ -3024,24 +3024,24 @@
             {
                 "Price": 9000,
                 "Range": 22,
-                "Damage": 600,
-                "Burn": 150,
+                "Damage": 700,
+                "Burn": 175,
                 "BurnTime": 1.5,
                 "Cooldown": 1.3
             },
             {
                 "Price": 12000,
                 "Range": 24,
-                "Damage": 700,
-                "Burn": 175,
+                "Damage": 900,
+                "Burn": 225,
                 "BurnTime": 1.5,
                 "Cooldown": 1.2
             },
             {
                 "Price": 15000,
                 "Range": 27,
-                "Damage": 900,
-                "Burn": 250,
+                "Damage": 1100,
+                "Burn": 275,
                 "BurnTime": 1.5,
                 "Cooldown": 1
             }
