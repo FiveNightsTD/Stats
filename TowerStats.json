@@ -2889,7 +2889,7 @@
     },
     "Nightmare Freddy": {
         "Type": "Melee",
-        "Image": "",
+        "Image": "rbxassetid://18975866920",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0.25,
@@ -3165,7 +3165,7 @@
     },
     "Nightmare Fredbear": {
         "Type": "Single",
-        "Image": "rbxassetid://18975866920",
+        "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0.7,
