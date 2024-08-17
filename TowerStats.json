@@ -2940,7 +2940,7 @@
     },
     "Nightmare Cupcake": {
         "Type": "Single Slow",
-        "Image": "",
+        "Image": "rbxassetid://18978229455",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -2985,7 +2985,7 @@
     },
     "Endo 04": {
         "Type": "Cone AOE Burn",
-        "Image": "",
+        "Image": "rbxassetid://18978249208",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -3086,7 +3086,7 @@
     },
     "Freddle": {
         "Type": "Summoner",
-        "Image": "",
+        "Image": "rbxassetid://18978374958",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -3110,7 +3110,7 @@
     },
     "Nightmare Balloon Boy": {
         "Type": "Pierce",
-        "Image": "",
+        "Image": "rbxassetid://18978330449",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -3131,7 +3131,7 @@
     },
     "Plushtrap": {
         "Type": "Support",
-        "Image": "",
+        "Image": "rbxassetid://18978316223",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -3153,7 +3153,7 @@
     },
     "Nightmare Fredbear": {
         "Type": "Single",
-        "Image": "rbxassetid://18977747429",
+        "Image": "rbxassetid://18978153260",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0.7,
