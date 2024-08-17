@@ -3113,7 +3113,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 10,
-                "SummonTime": 5,
+                "SummonTime": 1,
                 "Unit": "Helper Freddle",
                 "Health": 50,
                 "Cooldown": 1
