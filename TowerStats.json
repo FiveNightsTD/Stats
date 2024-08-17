@@ -2813,19 +2813,19 @@
                 "Cooldown": 3
             },
             {
-                "Price": 0,
+                "Price": 6500,
                 "Range": 24,
                 "Damage": 700,
                 "Cooldown": 2.85
             },
             {
-                "Price": 0,
+                "Price": 8000,
                 "Range": 27,
                 "Damage": 800,
                 "Cooldown": 2.7
             },
             {
-                "Price": 0,
+                "Price": 1000,
                 "Range": 30,
                 "Damage": 900,
                 "Cooldown": 2.5
@@ -2852,19 +2852,19 @@
                 "Cooldown": 1.5
             },
             {
-                "Price": 0,
+                "Price": 20000,
                 "Range": 13,
                 "Damage": 2500,
                 "Cooldown": 1.4
             },
             {
-                "Price": 0,
+                "Price": 25000,
                 "Range": 14,
                 "Damage": 3000,
                 "Cooldown": 1.3
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 15,
                 "Damage": 4000,
                 "Cooldown": 1.2
@@ -2892,7 +2892,7 @@
                 "Cooldown": 3
             },
             {
-                "Price": 0,
+                "Price": 6000,
                 "Range": 15,
                 "Damage": 250,
                 "Slow": 1.2,
@@ -2901,12 +2901,12 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 300,
+                "Damage": 7000,
                 "Slow": 1.2,
                 "Cooldown": 2.4
             },
             {
-                "Price": 0,
+                "Price": 8000,
                 "Range": 20,
                 "Damage": 400,
                 "Slow": 1.2,
@@ -3075,7 +3075,7 @@
         },
         "Upgrades": [
             {
-                "Price": 0,
+                "Price": 15000,
                 "Range": 25,
                 "Damage": 700,
                 "Poison": 350,
@@ -3083,7 +3083,7 @@
                 "Cooldown": 3
             },
             {
-                "Price": 0,
+                "Price": 20000,
                 "Range": 17,
                 "Damage": 800,
                 "Poison": 400,
@@ -3091,7 +3091,7 @@
                 "Cooldown": 1
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 35,
                 "Damage": 900,
                 "Poison": 450,
@@ -3099,7 +3099,7 @@
                 "Cooldown": 1
             },
             {
-                "Price": 0,
+                "Price": 40000,
                 "Range": 35,
                 "Damage": 1000,
                 "Poison": 500,
@@ -3112,7 +3112,7 @@
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://18983634791",
         "Rarity": "Secret",
-        "PlacePrice": 2500,
+        "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3123,33 +3123,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 10,
-                "Burn": 5,
+                "Range": 17,
+                "Damage": 150,
+                "Burn": 38,
                 "BurnTime": 1.2,
                 "Cooldown": 1
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 10,
-                "Burn": 5,
+                "Price": 4000,
+                "Range": 19,
+                "Damage": 200,
+                "Burn": 50,
                 "BurnTime": 1.2,
                 "Cooldown": 1
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 10,
-                "Burn": 5,
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 250,
+                "Burn": 62,
                 "BurnTime": 1.2,
                 "Cooldown": 1
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 10,
-                "Burn": 5,
+                "Price": 6000,
+                "Range": 22,
+                "Damage":300,
+                "Burn": 80,
                 "BurnTime": 1.2,
                 "Cooldown": 1
             }
@@ -3232,7 +3232,7 @@
                 "Cooldown": 2
             },
             {
-                "Price": 0,
+                "Price": 20000,
                 "Range": 12,
                 "Damage": 1500,
                 "Poison": 1000,
@@ -3240,7 +3240,7 @@
                 "Cooldown": 1.85
             },
             {
-                "Price": 0,
+                "Price": 25000,
                 "Range": 13,
                 "Damage": 1750,
                 "Poison": 1166,
@@ -3248,7 +3248,7 @@
                 "Cooldown": 1.7
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 14,
                 "Damage": 1500,
                 "Poison": 1000,
