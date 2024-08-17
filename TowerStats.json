@@ -2836,7 +2836,7 @@
         "Type": "Melee",
         "Image": "rbxassetid://18975677946",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 15000,
         "Offset": 0.25,
         "Max": 3,
         "hitboxOffset": {
@@ -2847,9 +2847,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 10,
+                "Range": 12,
+                "Damage": 1500,
                 "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 14,
+                "Damage": 1700,
+                "Cooldown": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 1900,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 2200,
+                "Cooldown": 0.7
             }
         ]
     },
@@ -3016,8 +3034,8 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 10,
+                "Range": 25,
+                "Damage": 1000,
                 "Poison": 5,
                 "PoisonTime": 2,
                 "Cooldown": 1
@@ -3025,23 +3043,23 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 10,
+                "Damage": 1000,
                 "Poison": 5,
                 "PoisonTime": 2,
                 "Cooldown": 1
             },
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 10,
+                "Range": 35,
+                "Damage": 1000,
                 "Poison": 5,
                 "PoisonTime": 2,
                 "Cooldown": 1
             },
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 10,
+                "Range": 35,
+                "Damage": 1000,
                 "Poison": 5,
                 "PoisonTime": 2,
                 "Cooldown": 2
