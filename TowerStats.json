@@ -2924,6 +2924,7 @@
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2934,7 +2935,8 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 10,
-                "Cooldown": 1
+                "Cooldown": 1,
+                "RangeBoost": 1.2
             }
         ]
     },
@@ -3163,6 +3165,7 @@
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
