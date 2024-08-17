@@ -2807,7 +2807,7 @@
     },
     "Nightmare Foxy": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://18974775213",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 1,
@@ -2846,7 +2846,7 @@
     },
     "Nightmare Bonnie": {
         "Type": "Melee",
-        "Image": "",
+        "Image": "rbxassetid://18975677946",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0.25,
@@ -2867,7 +2867,7 @@
     },
     "Nightmare Chica": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://18975771590",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0.25,
@@ -2910,7 +2910,7 @@
     },
     "NightMarionne": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://18975916197",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -3162,7 +3162,7 @@
     },
     "Nightmare Fredbear": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://18975866920",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
