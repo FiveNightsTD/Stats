@@ -2978,7 +2978,7 @@
         "Type": "Support",
         "Image": "rbxassetid://18977659349",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 1250,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -2993,7 +2993,28 @@
                 "Range": 15,
                 "Damage": 10,
                 "Cooldown": 1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 2000,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1,
                 "RangeBoost": 1.2
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1,
+                "RangeBoost": 1.3
             }
         ]
     },
@@ -3001,7 +3022,7 @@
         "Type": "Single Slow",
         "Image": "rbxassetid://18978229455",
         "Rarity": "Epic",
-        "PlacePrice": 1000,
+        "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3013,9 +3034,30 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 10,
-                "Slow": 0.8,
-                "Cooldown": 1
+                "Damage": 175,
+                "Slow": 1.2,
+                "Cooldown": 2
+            },
+            {
+                "Price": 2000,
+                "Range": 17,
+                "Damage": 200,
+                "Slow": 1.2,
+                "Cooldown": 1.85
+            },
+            {
+                "Price": 2500,
+                "Range": 18,
+                "Damage": 225,
+                "Slow": 1.2,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 3000,
+                "Range": 20,
+                "Damage": 250,
+                "Slow": 1.2,
+                "Cooldown": 1.5
             }
         ]
     },
