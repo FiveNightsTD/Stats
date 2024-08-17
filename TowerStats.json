@@ -2796,7 +2796,7 @@
     "Nightmare Foxy": {
         "Type": "Splash",
         "Image": "rbxassetid://18974775213",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 5000,
         "Offset": 1,
         "Max": 3,
@@ -2874,7 +2874,7 @@
     "Nightmare Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://18975771590",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 4000,
         "Offset": 0.25,
         "Max": 3,
@@ -2917,7 +2917,7 @@
     "Nightmare Freddy": {
         "Type": "Melee",
         "Image": "rbxassetid://18975866920",
-        "Rarity": "Secret",
+        "Rarity": "Rare",
         "PlacePrice": 750,
         "Offset": 0.25,
         "Max": 3,
@@ -2956,7 +2956,7 @@
     "NightMarionne": {
         "Type": "AOE",
         "Image": "rbxassetid://18975916197",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
@@ -3000,7 +3000,7 @@
     "Nightmare Cupcake": {
         "Type": "Single Slow",
         "Image": "rbxassetid://18978229455",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
@@ -3023,7 +3023,7 @@
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977738423",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 10000,
         "Offset": 0.5,
         "Max": 3,
         "hitboxOffset": {
@@ -3035,34 +3035,34 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1000,
-                "Poison": 5,
-                "PoisonTime": 2,
-                "Cooldown": 1
+                "Damage": 700,
+                "Poison": 350,
+                "PoisonTime": 3,
+                "Cooldown": 3
             },
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 1000,
-                "Poison": 5,
-                "PoisonTime": 2,
+                "Damage": 800,
+                "Poison": 400,
+                "PoisonTime": 3,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 900,
+                "Poison": 450,
+                "PoisonTime": 3,
                 "Cooldown": 1
             },
             {
                 "Price": 0,
                 "Range": 35,
                 "Damage": 1000,
-                "Poison": 5,
-                "PoisonTime": 2,
-                "Cooldown": 1
-            },
-            {
-                "Price": 0,
-                "Range": 35,
-                "Damage": 1000,
-                "Poison": 5,
-                "PoisonTime": 2,
-                "Cooldown": 2
+                "Poison": 500,
+                "PoisonTime": 3,
+                "Cooldown": 2.5
             }
         ]
     },
@@ -3171,7 +3171,7 @@
     "Nightmare Mangle": {
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": -2.5,
         "Max": 3,
@@ -3269,7 +3269,7 @@
     "Nightmare Balloon Boy": {
         "Type": "Pierce",
         "Image": "rbxassetid://18978330449",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
