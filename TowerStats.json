@@ -3088,9 +3088,9 @@
         "Type": "Summoner",
         "Image": "rbxassetid://18978374958",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 400,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3101,9 +3101,36 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 10,
-                "SummonTime": 1,
+                "SummonTime": 10,
                 "Unit": "Helper Freddle",
-                "Health": 50,
+                "Health": 500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 500,
+                "Range": 15,
+                "Damage": 10,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 10,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 2000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 2500,
+                "Range": 15,
+                "Damage": 10,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 3000,
                 "Cooldown": 1
             }
         ]
