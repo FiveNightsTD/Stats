@@ -2989,7 +2989,7 @@
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://18978249208",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 2500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -2998,6 +2998,30 @@
             "Z": 0
         },
         "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Burn": 5,
+                "BurnTime": 1.2,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Burn": 5,
+                "BurnTime": 1.2,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Burn": 5,
+                "BurnTime": 1.2,
+                "Cooldown": 1
+            },
             {
                 "Price": 0,
                 "Range": 15,
@@ -3067,7 +3091,7 @@
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 15000,
         "Offset": -2.5,
         "Max": 3,
         "hitboxOffset": {
@@ -3078,11 +3102,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 10,
-                "Poison": 5,
+                "Range": 10,
+                "Damage": 1750,
+                "Poison": 875,
                 "PoisonTime": 2,
-                "Cooldown": 1
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 12,
+                "Damage": 2000,
+                "Poison": 1000,
+                "PoisonTime": 2,
+                "Cooldown": 1.85
+            },
+            {
+                "Price": 0,
+                "Range": 13,
+                "Damage": 2250,
+                "Poison": 1125,
+                "PoisonTime": 2,
+                "Cooldown": 1.7
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 2500,
+                "Poison": 1250,
+                "PoisonTime": 2,
+                "Cooldown": 1.5
             }
         ]
     },
