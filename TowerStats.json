@@ -2919,7 +2919,7 @@
     },
     "Fredbear": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://18977659349",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -2962,7 +2962,7 @@
     },
     "Nightmare": {
         "Type": "Splash Poison",
-        "Image": "",
+        "Image": "rbxassetid://18977738423",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0.5,
@@ -3063,7 +3063,7 @@
     },
     "Nightmare Mangle": {
         "Type": "AOE Poison",
-        "Image": "",
+        "Image": "rbxassetid://18977428026",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": -2.5,
@@ -3153,7 +3153,7 @@
     },
     "Nightmare Fredbear": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://18977747429",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0.7,
