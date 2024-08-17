@@ -3140,7 +3140,7 @@
         "Rarity": "Secret",
         "PlacePrice": 400,
         "Offset": 0,
-        "Max": 1,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3150,38 +3150,38 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 10,
+                "Damage": 500,
                 "SummonTime": 10,
                 "Unit": "Helper Freddle",
                 "Health": 500,
-                "Cooldown": 1
+                "Cooldown": 10
             },
             {
                 "Price": 500,
                 "Range": 15,
-                "Damage": 10,
+                "Damage": 1000,
                 "SummonTime": 10,
                 "Unit": "Helper Freddle",
                 "Health": 1000,
-                "Cooldown": 1
+                "Cooldown": 9
             },
             {
                 "Price": 1500,
                 "Range": 15,
-                "Damage": 10,
+                "Damage": 2000,
                 "SummonTime": 10,
                 "Unit": "Helper Freddle",
                 "Health": 2000,
-                "Cooldown": 1
+                "Cooldown": 8
             },
             {
                 "Price": 2500,
                 "Range": 15,
-                "Damage": 10,
+                "Damage": 3000,
                 "SummonTime": 10,
                 "Unit": "Helper Freddle",
                 "Health": 3000,
-                "Cooldown": 1
+                "Cooldown": 7
             }
         ]
     },
