@@ -3020,7 +3020,7 @@
         ]
     },
     "Nightmare": {
-        "Type": "Splash Poison",
+        "Type": "AOE Poison",
         "Image": "rbxassetid://18977738423",
         "Rarity": "Secret",
         "PlacePrice": 1000,
