@@ -3035,28 +3035,28 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 175,
-                "Slow": 1.2,
+                "Slow": 0.6,
                 "Cooldown": 2
             },
             {
                 "Price": 2000,
                 "Range": 17,
                 "Damage": 200,
-                "Slow": 1.2,
+                "Slow": 0.6,
                 "Cooldown": 1.85
             },
             {
                 "Price": 2500,
                 "Range": 18,
                 "Damage": 225,
-                "Slow": 1.2,
+                "Slow":  0.6,
                 "Cooldown": 1.7
             },
             {
                 "Price": 3000,
                 "Range": 20,
                 "Damage": 250,
-                "Slow": 1.2,
+                "Slow": 0.6,
                 "Cooldown": 1.5
             }
         ]
