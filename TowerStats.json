@@ -2768,28 +2768,28 @@
                 "Range": 17,
                 "Damage": 0,
                 "Cooldown": 0.1,
-                "Slow": 0.6
+                "Slow": 0.68
             },
             {
                 "Price": 1400,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 0.1,
-                "Slow": 0.5
+                "Slow": 0.66
             },
             {
                 "Price": 1800,
                 "Range": 22,
                 "Damage": 0,
                 "Cooldown": 0.1,
-                "Slow": 0.5
+                "Slow": 0.64
             },
             {
                 "Price": 2000,
                 "Range": 22,
                 "Damage": 0,
                 "Cooldown": 0.1,
-                "Slow": 0.4
+                "Slow": 0.6
             }
         ]
     },
