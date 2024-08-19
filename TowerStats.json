@@ -3084,7 +3084,7 @@
             },
             {
                 "Price": 20000,
-                "Range": 17,
+                "Range": 27,
                 "Damage": 800,
                 "Poison": 400,
                 "PoisonTime": 3,
@@ -3092,7 +3092,7 @@
             },
             {
                 "Price": 30000,
-                "Range": 35,
+                "Range": 32,
                 "Damage": 900,
                 "Poison": 450,
                 "PoisonTime": 3,
