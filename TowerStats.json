@@ -3226,24 +3226,24 @@
             {
                 "Price": 0,
                 "Range": 11,
-                "Damage": 1250,
-                "Poison": 825,
+                "Damage": 1000,
+                "Poison": 660,
                 "PoisonTime": 3,
                 "Cooldown": 2
             },
             {
                 "Price": 20000,
                 "Range": 12,
-                "Damage": 1500,
-                "Poison": 1000,
+                "Damage": 1200,
+                "Poison": 800,
                 "PoisonTime": 3,
                 "Cooldown": 1.85
             },
             {
                 "Price": 25000,
                 "Range": 13,
-                "Damage": 1750,
-                "Poison": 1166,
+                "Damage": 1400,
+                "Poison": 920,
                 "PoisonTime": 3,
                 "Cooldown": 1.7
             },
