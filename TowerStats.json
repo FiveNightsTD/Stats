@@ -3088,7 +3088,7 @@
                 "Damage": 800,
                 "Poison": 400,
                 "PoisonTime": 3,
-                "Cooldown": 1
+                "Cooldown": 2.85
             },
             {
                 "Price": 30000,
@@ -3096,7 +3096,7 @@
                 "Damage": 900,
                 "Poison": 450,
                 "PoisonTime": 3,
-                "Cooldown": 1
+                "Cooldown": 2.7
             },
             {
                 "Price": 40000,
