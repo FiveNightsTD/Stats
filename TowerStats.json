@@ -3551,7 +3551,7 @@
     "Buccaneer Foxy": {
         "Type": "Single",
         "Image": "rbxassetid://116374108172820",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 400,
         "Offset": 0.7,
         "Max": 6,
@@ -3590,7 +3590,7 @@
     "Party Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://103160362573950",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 500,
         "Offset": 0.7,
         "Max": 3,
