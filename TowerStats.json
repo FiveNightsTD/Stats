@@ -3075,7 +3075,7 @@
         },
         "Upgrades": [
             {
-                "Price": 15000,
+                "Price": 0,
                 "Range": 25,
                 "Damage": 700,
                 "Poison": 350,
