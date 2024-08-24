@@ -3413,9 +3413,9 @@
         "Type": "AOE",
         "Image": "rbxassetid://72255826429430",
         "Rarity": "Nightmare",
-        "PlacePrice": 100,
+        "PlacePrice": 50000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3424,8 +3424,38 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 2000,
+                "Range": 25,
+                "Damage": 5000,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 10000,
+                "Range": 26,
+                "Damage": 7500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 125000,
+                "Range": 27,
+                "Damage": 10000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 150000,
+                "Range": 28,
+                "Damage": 12500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 200000,
+                "Range": 29,
+                "Damage": 15000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 250000,
+                "Range": 32,
+                "Damage": 17500,
                 "Cooldown": 3
             }
         ]
@@ -3434,9 +3464,9 @@
         "Type": "Splash Slow",
         "Image": "rbxassetid://132601847652242",
         "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 3,
+        "PlacePrice": 15000,
+        "Offset": 1.5,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3445,9 +3475,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 80,
-                "Cooldown": 0.2
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 0.4,
+                "Slow": 0.6
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 170,
+                "Cooldown": 0.4,
+                "Slow": 0.6
+            },
+            {
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 180,
+                "Cooldown": 0.3,
+                "Slow": 0.6
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 200,
+                "Cooldown": 0.2,
+                "Slow": 0.6
             }
         ]
     },
@@ -3455,7 +3507,7 @@
         "Type": "Cone AOE",
         "Image": "rbxassetid://100372638867635",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 7500,
         "Offset": 0.7,
         "Max": 3,
         "hitboxOffset": {
@@ -3466,19 +3518,43 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 18,
+                "Damage": 120,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 0,
                 "Range": 20,
-                "Damage": 80,
+                "Damage": 160,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 250,
+                "Cooldown": 0.35
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 300,
                 "Cooldown": 0.35
             }
         ]
     },
     "Buccaneer Foxy": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://116374108172820",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 400,
         "Offset": 0.7,
-        "Max": 3,
+        "Max": 6,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3487,17 +3563,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 80,
+                "Range": 15,
+                "Damage": 30,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 35,
                 "Cooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 40,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.7
             }
         ]
     },
     "Party Chica": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://103160362573950",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 500,
         "Offset": 0.7,
         "Max": 3,
         "hitboxOffset": {
@@ -3508,8 +3602,26 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 16,
+                "Damage": 14,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 18,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 0,
                 "Range": 20,
-                "Damage": 80,
+                "Damage": 20,
                 "Cooldown": 0.2
             }
         ]
