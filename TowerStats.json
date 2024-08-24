@@ -3411,8 +3411,8 @@
     },
     "Goliath Endo Freddy": {
         "Type": "AOE",
-        "Image": "",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://72255826429430",
+        "Rarity": "Nightmare",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
@@ -3432,7 +3432,7 @@
     },
     "Galleon Foxy": {
         "Type": "Splash Slow",
-        "Image": "",
+        "Image": "rbxassetid://132601847652242",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -3453,7 +3453,7 @@
     },
     "Rave Demon Bonnie": {
         "Type": "Cone AOE",
-        "Image": "",
+        "Image": "rbxassetid://100372638867635",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
