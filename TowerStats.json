@@ -3411,7 +3411,7 @@
     },
     "Goliath Endo Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://72255826429430",
+        "Image": "rbxassetid://112659672284119",
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Offset": 0,
@@ -3462,7 +3462,7 @@
     },
     "Galleon Foxy": {
         "Type": "Splash Slow",
-        "Image": "rbxassetid://132601847652242",
+        "Image": "rbxassetid://86847745305563",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": 1.5,
