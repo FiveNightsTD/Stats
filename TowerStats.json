@@ -3464,7 +3464,7 @@
         "Type": "Splash Slow",
         "Image": "rbxassetid://86847745305563",
         "Rarity": "Nightmare",
-        "PlacePrice": 15000,
+        "PlacePrice": 10000,
         "Offset": 1.5,
         "Max": 2,
         "hitboxOffset": {
@@ -3481,21 +3481,21 @@
                 "Slow": 0.6
             },
             {
-                "Price": 20000,
+                "Price": 12500,
                 "Range": 24,
                 "Damage": 170,
                 "Cooldown": 0.4,
                 "Slow": 0.6
             },
             {
-                "Price": 25000,
+                "Price": 15000,
                 "Range": 27,
                 "Damage": 180,
                 "Cooldown": 0.3,
                 "Slow": 0.6
             },
             {
-                "Price": 30000,
+                "Price": 20000,
                 "Range": 30,
                 "Damage": 200,
                 "Cooldown": 0.2,
