@@ -3429,7 +3429,7 @@
                 "Cooldown": 3.5
             },
             {
-                "Price": 10000,
+                "Price": 100000,
                 "Range": 26,
                 "Damage": 7500,
                 "Cooldown": 3
