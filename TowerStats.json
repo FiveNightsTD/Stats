@@ -3214,7 +3214,7 @@
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
         "Rarity": "Nightmare",
-        "PlacePrice": 15000,
+        "PlacePrice": 17500,
         "Offset": -2.5,
         "Max": 3,
         "hitboxOffset": {
@@ -3225,33 +3225,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 11,
+                "Range": 15,
                 "Damage": 1000,
-                "Poison": 660,
+                "Poison": 300,
                 "PoisonTime": 3,
                 "Cooldown": 2
             },
             {
                 "Price": 20000,
-                "Range": 12,
+                "Range": 17,
                 "Damage": 1200,
-                "Poison": 800,
+                "Poison": 400,
                 "PoisonTime": 3,
                 "Cooldown": 1.85
             },
             {
                 "Price": 25000,
-                "Range": 13,
+                "Range": 18,
                 "Damage": 1400,
-                "Poison": 920,
+                "Poison": 450,
                 "PoisonTime": 3,
                 "Cooldown": 1.7
             },
             {
                 "Price": 30000,
-                "Range": 14,
-                "Damage": 1500,
-                "Poison": 1000,
+                "Range": 20,
+                "Damage": 1600,
+                "Poison": 500,
                 "PoisonTime": 3,
                 "Cooldown": 1.5
             }
