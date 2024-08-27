@@ -3466,7 +3466,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 1.5,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3478,28 +3478,28 @@
                 "Range": 22,
                 "Damage": 150,
                 "Cooldown": 0.4,
-                "Slow": 0.6
+                "Slow": 0.4
             },
             {
                 "Price": 12500,
                 "Range": 24,
-                "Damage": 170,
+                "Damage": 180,
                 "Cooldown": 0.4,
-                "Slow": 0.6
+                "Slow": 0.4
             },
             {
                 "Price": 15000,
                 "Range": 27,
-                "Damage": 180,
+                "Damage": 210,
                 "Cooldown": 0.3,
-                "Slow": 0.6
+                "Slow": 0.4
             },
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 200,
+                "Damage": 250,
                 "Cooldown": 0.2,
-                "Slow": 0.6
+                "Slow": 0.4
             }
         ]
     },
