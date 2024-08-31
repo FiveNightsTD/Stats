@@ -3625,6 +3625,28 @@
                 "Cooldown": 0.4
             }
         ]
+    },
+    "Hydra Mangle": {
+        "Type": "Charge",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 500,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 15,
+                "Cooldown": 0.1,
+                "ChargeTime": 2
+            }
+        ]
     }
 }
 
