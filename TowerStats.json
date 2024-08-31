@@ -3630,7 +3630,7 @@
         "Type": "Charge AOE Burn",
         "Image": "rbxassetid://89516642145576",
         "Rarity": "Secret",
-        "PlacePrice": 500,
+        "PlacePrice": 20000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3641,8 +3641,44 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 15,
+                "Range": 20,
+                "Damage": 100,
+                "Burn": 5,
+                "BurnTime": 3,
+                "Cooldown": 0.1,
+                "ChargeTime": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 22,
+                "Damage": 125,
+                "Burn": 5,
+                "BurnTime": 3,
+                "Cooldown": 0.1,
+                "ChargeTime": 2
+            },
+            {
+                "Price": 30000,
+                "Range": 24,
+                "Damage": 150,
+                "Burn": 5,
+                "BurnTime": 3,
+                "Cooldown": 0.1,
+                "ChargeTime": 2
+            },
+            {
+                "Price": 35000,
+                "Range": 25,
+                "Damage": 175,
+                "Burn": 5,
+                "BurnTime": 3,
+                "Cooldown": 0.1,
+                "ChargeTime": 2
+            } ,
+             {
+                "Price": 40000,
+                "Range": 27,
+                "Damage": 200,
                 "Burn": 5,
                 "BurnTime": 3,
                 "Cooldown": 0.1,
