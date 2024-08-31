@@ -3351,7 +3351,7 @@
         "Type": "Support",
         "Image": "rbxassetid://18978316223",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -3360,13 +3360,34 @@
             "Y": 0,
             "Z": 0
         },
-        "Upgrades": [
+               "Upgrades": [
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 10,
+                "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.1
+            },
+            {
+                "Price": 800,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.15
+            },
+            {
+                "Price": 1200,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.2
+            },
+            {
+                "Price": 1500,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "RangeBoost": 1.24
             }
         ]
     },
@@ -3628,7 +3649,7 @@
     },
     "Hydra Mangle": {
         "Type": "Charge AOE Burn",
-        "Image": "rbxassetid://89516642145576",
+        "Image": "rbxassetid://78092879730354",
         "Rarity": "Secret",
         "PlacePrice": 20000,
         "Offset": 0,
@@ -3643,7 +3664,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 100,
-                "Burn": 5,
+                "Burn": 50,
                 "BurnTime": 3,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
@@ -3652,7 +3673,7 @@
                 "Price": 25000,
                 "Range": 22,
                 "Damage": 125,
-                "Burn": 5,
+                "Burn": 50,
                 "BurnTime": 3,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
@@ -3661,7 +3682,7 @@
                 "Price": 30000,
                 "Range": 24,
                 "Damage": 150,
-                "Burn": 5,
+                "Burn": 50,
                 "BurnTime": 3,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
@@ -3670,7 +3691,7 @@
                 "Price": 35000,
                 "Range": 25,
                 "Damage": 175,
-                "Burn": 5,
+                "Burn": 50,
                 "BurnTime": 3,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
@@ -3679,7 +3700,7 @@
                 "Price": 40000,
                 "Range": 27,
                 "Damage": 200,
-                "Burn": 5,
+                "Burn": 50,
                 "BurnTime": 3,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
