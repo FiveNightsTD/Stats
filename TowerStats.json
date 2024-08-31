@@ -3667,7 +3667,7 @@
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
-                "ChargeTime": 2.5
+                "ChargeTime": 2
             },
             {
                 "Price": 25000,
@@ -3676,7 +3676,7 @@
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
-                "ChargeTime": 2.5
+                "ChargeTime": 2
             },
             {
                 "Price": 30000,
@@ -3685,7 +3685,7 @@
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
-                "ChargeTime": 2.5
+                "ChargeTime": 2
             },
             {
                 "Price": 35000,
@@ -3694,7 +3694,7 @@
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
-                "ChargeTime": 2.5
+                "ChargeTime": 2
             } ,
              {
                 "Price": 40000,
@@ -3703,7 +3703,7 @@
                 "Burn": 25,
                 "BurnTime": 2,
                 "Cooldown": 0.1,
-                "ChargeTime": 2.5
+                "ChargeTime": 2
             }
         ]
     }
