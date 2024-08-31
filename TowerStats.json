@@ -3627,7 +3627,7 @@
         ]
     },
     "Hydra Mangle": {
-        "Type": "Charge",
+        "Type": "Charge AOE Burn",
         "Image": "rbxassetid://89516642145576",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -3643,6 +3643,8 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 15,
+                "Burn": 5,
+                "BurnTime": 3,
                 "Cooldown": 0.1,
                 "ChargeTime": 2
             }
