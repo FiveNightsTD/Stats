@@ -3722,27 +3722,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
+                "Range": 10,
                 "Damage": 10,
                 "Cooldown": 1
             },
             {
                 "Price": 100,
-                "Range": 30,
+                "Range": 10,
                 "Damage": 10,
                 "Cooldown": 1,
                 "Turret1": {"Range": 10, "Damage": 5, "Cooldown": 0.1}
             },
             {
                 "Price": 100,
-                "Range": 30,
+                "Range": 10,
                 "Damage": 10,
                 "Cooldown": 1,
                 "Turret1": {"Range": 10, "Damage": 5, "Cooldown": 0.1}
             },
             {
                 "Price": 100,
-                "Range": 30,
+                "Range": 10,
                 "Damage": 10,
                 "Cooldown": 1,
                 "Turret1": {"Range": 10, "Damage": 5, "Cooldown": 0.1},
@@ -3750,7 +3750,7 @@
             },
             {
                 "Price": 100,
-                "Range": 30,
+                "Range": 10,
                 "Damage": 10,
                 "Cooldown": 1,
                 "Turret1": {"Range": 15, "Damage": 5, "Cooldown": 0.1},
