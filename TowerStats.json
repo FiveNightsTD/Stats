@@ -3758,7 +3758,7 @@
             }
         ]
     },
-    "Marionette's Revenant": {
+    "Master Puppeter": {
         "Type": "Continuous Pierce",
         "Image": "",
         "Rarity": "Secret",
@@ -3842,7 +3842,7 @@
             }
         ]
     },
-    "Overkill SpringTrap": {
+    "Agonized SpringTrap": {
         "Type": "Pierce",
         "Image": "",
         "Rarity": "Secret",
@@ -3863,8 +3863,8 @@
             }
         ]
     },
-    "Released Void": {
-        "Type": "AOE",
+    "Limitless Shadow": {
+        "Type": "Cone AOE",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
