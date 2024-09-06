@@ -3757,6 +3757,132 @@
                 "Turret2": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
             }
         ]
+    },
+    "Marionette's Revenant": {
+        "Type": "Continuous Pierce",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Tuned Mangle": {
+        "Type": "Splash",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Wraith Freddy": {
+        "Type": "AOE",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Spectral Chica": {
+        "Type": "AOE",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Overkill SpringTrap": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Released Void": {
+        "Type": "AOE",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 1
+            }
+        ]
     }
 }
 
