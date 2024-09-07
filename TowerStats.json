@@ -3711,7 +3711,7 @@
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3722,46 +3722,46 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 10,
+                "Range": 20,
+                "Damage": 250,
                 "Cooldown": 1
             },
             {
-                "Price": 100,
-                "Range": 10,
-                "Damage": 10,
+                "Price": 800,
+                "Range": 21,
+                "Damage": 400,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
             },
             {
-                "Price": 100,
-                "Range": 10,
-                "Damage": 10,
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 400,
                 "Cooldown": 1,
-                "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
+                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
             },
             {
-                "Price": 100,
-                "Range": 10,
-                "Damage": 10,
+                "Price": 1200,
+                "Range": 23,
+                "Damage": 400,
                 "Cooldown": 1,
-                "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.1},
-                "Turret2": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
+                "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
             },
             {
-                "Price": 100,
-                "Range": 10,
-                "Damage": 10,
+                "Price": 1400,
+                "Range": 25,
+                "Damage": 400,
                 "Cooldown": 1,
-                "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.1},
-                "Turret2": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
+                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
+                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
             }
         ]
     },
     "Master Puppeteer": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://139994062140962",
-        "Rarity": "Secret",
+        "Rarity": "Nightmre",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
@@ -3845,7 +3845,7 @@
     "Agonized SpringTrap": {
         "Type": "Pierce",
         "Image": "rbxassetid://132655301839150",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
@@ -3866,8 +3866,8 @@
     "Limitless Shadow": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://134973909366355",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Nightmare",
+        "PlacePrice": 14500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3878,17 +3878,35 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 15,
+                "Damage": 4000,
+                "Cooldown": 4
+            },
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 5000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
+                "Range": 18,
+                "Damage": 6000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
                 "Range": 20,
-                "Damage": 10,
-                "Cooldown": 1
+                "Damage": 8000,
+                "Cooldown": 3
             }
         ]
     },
     "Fractured Bonnie": {
         "Type": "Continuous",
-        "Image": "rbxassetid://122905004125419",
+        "Image": "rbxassetid://124956379444337",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 25000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3900,7 +3918,31 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10,
+                "Damage": 120,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 30000,
+                "Range": 24,
+                "Damage": 150,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 40000,
+                "Range": 27,
+                "Damage": 180,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 60000,
+                "Range": 35,
+                "Damage": 250,
                 "Cooldown": 0.1
             }
         ]
