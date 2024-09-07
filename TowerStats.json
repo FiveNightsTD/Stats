@@ -3883,6 +3883,27 @@
                 "Cooldown": 1
             }
         ]
+    },
+    "Fractured Bonnie": {
+        "Type": "Continuous",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 0.1
+            }
+        ]
     }
 }
 
