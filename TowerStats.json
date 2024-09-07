@@ -3819,13 +3819,13 @@
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 10,
+                "Damage": 400,
                 "Cooldown": 0.5
             },
             {
                 "Price": 25000,
                 "Range": 24,
-                "Damage": 10,
+                "Damage": 500,
                 "Cooldown": 0.5
             },
             {
