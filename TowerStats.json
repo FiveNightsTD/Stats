@@ -3781,7 +3781,7 @@
     },
     "Tuned Mangle": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://76334441620646",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -3802,7 +3802,7 @@
     },
     "Wraith Freddy": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://119671357517632",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -3823,7 +3823,7 @@
     },
     "Spectral Chica": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://130677986382080",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -3844,7 +3844,7 @@
     },
     "Agonized SpringTrap": {
         "Type": "Pierce",
-        "Image": "",
+        "Image": "rbxassetid://81432439560973",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -3865,7 +3865,7 @@
     },
     "Limitless Shadow": {
         "Type": "Cone AOE",
-        "Image": "",
+        "Image": "rbxassetid://137940490386303",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -3886,7 +3886,7 @@
     },
     "Fractured Bonnie": {
         "Type": "Continuous",
-        "Image": "",
+        "Image": "rbxassetid://122905004125419",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
