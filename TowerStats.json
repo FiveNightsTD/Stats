@@ -3961,19 +3961,19 @@
                 "Cooldown": 4
             },
             {
-                "Price": 0,
+                "Price": 17000,
                 "Range": 17,
                 "Damage": 5000,
                 "Cooldown": 3
             },
             {
-                "Price": 0,
+                "Price": 20000,
                 "Range": 18,
                 "Damage": 6000,
                 "Cooldown": 3
             },
             {
-                "Price": 0,
+                "Price": 24000,
                 "Range": 20,
                 "Damage": 8000,
                 "Cooldown": 3
