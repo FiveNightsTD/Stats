@@ -3761,10 +3761,10 @@
     "Master Puppeteer": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://139994062140962",
-        "Rarity": "Nightmre",
-        "PlacePrice": 100,
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3774,7 +3774,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10,
+                "Damage": 500,
+                "Cooldown": 4
+            },
+           {
+                "Price": 15000,
+                "Range": 22,
+                "Damage": 600,
+                "Cooldown": 3.7
+            },
+           {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 700,
+                "Cooldown": 3.4
+            },
+           {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 800,
                 "Cooldown": 3
             }
         ]
@@ -3795,8 +3813,32 @@
             {
                 "Price": 0,
                 "Range": 20,
+                "Damage": 300,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
                 "Damage": 10,
-                "Cooldown": 1
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 0.5
             }
         ]
     },
@@ -3804,7 +3846,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://115627084338568",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 20000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -3815,9 +3857,27 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 16,
+                "Damage": 20,
+                "Cooldown": 0.05
+            },
+           {
+                "Price": 25000,
+                "Range": 18,
+                "Damage": 28,
+                "Cooldown": 0.05
+            },
+           {
+                "Price": 30000,
                 "Range": 20,
-                "Damage": 10,
-                "Cooldown": 1
+                "Damage": 34,
+                "Cooldown": 0.05
+            },
+           {
+                "Price": 35000,
+                "Range": 22,
+                "Damage": 40,
+                "Cooldown": 0.05
             }
         ]
     },
