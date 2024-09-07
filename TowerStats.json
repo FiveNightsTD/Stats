@@ -3917,10 +3917,28 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 10,
+                "Range": 25,
+                "Damage": 1500,
                 "Cooldown": 1
-            }
+            },
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 2000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 2500,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 3000,
+                "Cooldown": 0.8
+            },
         ]
     },
     "Limitless Shadow": {
