@@ -3781,7 +3781,7 @@
     },
     "Tuned Mangle": {
         "Type": "Splash",
-        "Image": "rbxassetid://76334441620646",
+        "Image": "rbxassetid://139180573868562",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -3802,7 +3802,7 @@
     },
     "Wraith Freddy": {
         "Type": "AOE",
-        "Image": "rbxassetid://119671357517632",
+        "Image": "rbxassetid://115627084338568",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -3844,7 +3844,7 @@
     },
     "Agonized SpringTrap": {
         "Type": "Pierce",
-        "Image": "rbxassetid://81432439560973",
+        "Image": "rbxassetid://132655301839150",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -3865,7 +3865,7 @@
     },
     "Limitless Shadow": {
         "Type": "Cone AOE",
-        "Image": "rbxassetid://137940490386303",
+        "Image": "rbxassetid://134973909366355",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
