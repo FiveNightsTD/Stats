@@ -3876,7 +3876,7 @@
         ]
     },
     "Spectral Chica": {
-        "Type": "AOE",
+        "Type": "Splash",
         "Image": "rbxassetid://130677986382080",
         "Rarity": "Secret",
         "PlacePrice": 15000,
