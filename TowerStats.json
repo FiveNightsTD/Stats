@@ -4096,7 +4096,8 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 100,
-                "Cooldown": 1
+                "Cooldown": 1,
+                "RangeBoost": 1.1
             }
         ]
     },
