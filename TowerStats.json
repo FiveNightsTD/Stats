@@ -4039,7 +4039,7 @@
     },
     "Cowboy Freddy": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://75145495587772",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -4060,7 +4060,7 @@
     },
     "Tavern Chica": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://75064673887993",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -4081,7 +4081,7 @@
     },
     "Maestro Puppet": {
         "Type": "Support",
-        "Image": "",
+        "Image": "rbxassetid://124446963849830",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -4104,7 +4104,7 @@
     },
     "Slick Bonnie": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://123472154860279",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -4125,7 +4125,7 @@
     },
     "Bounty Mangle": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://86267470826666",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -4146,7 +4146,7 @@
     },
     "Hooligan Toy Bonnie": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://99820154884996",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -4167,7 +4167,7 @@
     },
     "BlindEye Foxy": {
         "Type": "Single Slow",
-        "Image": "",
+        "Image": "rbxassetid://122884069811995",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -4189,7 +4189,7 @@
     },
     "Gunslinger Endo": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://128673605608035",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -4210,7 +4210,7 @@
     },
     "Outlaw Freddy": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://117973486785987",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -4231,7 +4231,7 @@
     },
     "Jackpot Freddy": {
         "Type": "Single Farm",
-        "Image": "",
+        "Image": "rbxassetid://108467505723572",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
