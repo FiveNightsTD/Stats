@@ -4144,7 +4144,7 @@
         ]
     },
     "Hooligan Toy Bonnie": {
-        "Type": "Splash",
+        "Type": "AOE",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
