@@ -4041,7 +4041,7 @@
         "Type": "Single",
         "Image": "rbxassetid://75145495587772",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 700,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4054,6 +4054,24 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 100,
+                "Range": 21,
+                "Damage": 125,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1500,
+                "Range": 25,
+                "Damage": 200,
                 "Cooldown": 1
             }
         ]
@@ -4062,7 +4080,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://75064673887993",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4074,8 +4092,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100,
-                "Cooldown": 1
+                "Damage": 80,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 115,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 130,
+                "Cooldown": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 0.5
             }
         ]
     },
