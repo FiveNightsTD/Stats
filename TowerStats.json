@@ -4309,21 +4309,45 @@
     },
     "Valkyrie Prime": {
         "Type": "Continuous",
-        "Image": "",
+        "Image": "40000",
         "Rarity": "Nightmare",
-        "PlacePrice": 100,
+        "PlacePrice": 60000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
             "Z": 0
         },
-        "Upgrades": [
+       "Upgrades": [
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100,
+                "Damage": 400,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 24,
+                "Damage": 500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 60000,
+                "Range": 27,
+                "Damage": 600,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 70000,
+                "Range": 30,
+                "Damage": 700,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 80000,
+                "Range": 35,
+                "Damage": 900,
                 "Cooldown": 0.1
             }
         ]
