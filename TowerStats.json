@@ -4168,7 +4168,7 @@
     "Hooligan Toy Bonnie": {
         "Type": "AOE",
         "Image": "rbxassetid://99820154884996",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
@@ -4232,7 +4232,7 @@
     "Outlaw Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://117973486785987",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 17000,
         "Offset": 0,
         "Max": 3,
@@ -4356,7 +4356,7 @@
         "Type": "Pierce",
         "Image": "",
         "Rarity": "Nightmare",
-        "PlacePrice": 100,
+        "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4368,8 +4368,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100,
+                "Damage": 1500,
                 "Cooldown": 1
+            },
+            {
+                "Price": 34000,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 0.8
+            },
+            {
+                "Price": 48000,
+                "Range": 25,
+                "Damage": 3000,
+                "Cooldown": 0.7
+            },
+            {
+                "Price": 62000,
+                "Range": 30,
+                "Damage": 2500,
+                "Cooldown": 0.5
             }
         ]
     },
