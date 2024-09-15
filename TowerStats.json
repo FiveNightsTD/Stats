@@ -4145,7 +4145,7 @@
         ]
     },
     "Bounty Mangle": {
-        "Type": "Splash",
+        "Type": "Splash Farm",
         "Image": "rbxassetid://86267470826666",
         "Rarity": "Secret",
         "PlacePrice": 100,
@@ -4272,7 +4272,7 @@
         "Type": "Single Farm",
         "Image": "rbxassetid://108467505723572",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4283,9 +4283,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 10,
                 "Damage": 100,
                 "Cooldown": 1
+            },
+            {
+                "Price": 600,
+                "Range": 12,
+                "Damage": 175,
+                "Cooldown": 1
+            },
+            {
+                "Price": 750,
+                "Range": 14,
+                "Damage": 250,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1250,
+                "Range": 15,
+                "Damage": 300,
+                "Cooldown": 0.8
             }
         ]
     },
