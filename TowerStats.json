@@ -4096,19 +4096,19 @@
                 "Cooldown": 0.5
             },
             {
-                "Price": 0,
+                "Price": 1500,
                 "Range": 20,
                 "Damage": 115,
                 "Cooldown": 0.5
             },
             {
-                "Price": 0,
+                "Price": 2000,
                 "Range": 20,
                 "Damage": 130,
                 "Cooldown": 0.5
             },
             {
-                "Price": 0,
+                "Price": 2500,
                 "Range": 20,
                 "Damage": 150,
                 "Cooldown": 0.5
