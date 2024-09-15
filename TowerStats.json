@@ -4438,7 +4438,7 @@
     },
     "Valkyrie Prime": {
         "Type": "Continuous",
-        "Image": "40000",
+        "Image": "rbxassetid://95812555069505",
         "Rarity": "Nightmare",
         "PlacePrice": 60000,
         "Offset": 0,
@@ -4483,7 +4483,7 @@
     },
     "Nautic Crusher Mangle": {
         "Type": "Pierce",
-        "Image": "",
+        "Image": "rbxassetid://85506116594248",
         "Rarity": "Nightmare",
         "PlacePrice": 27000,
         "Offset": 0,
@@ -4522,7 +4522,7 @@
     },
     "RWQFSFASXC": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://127646561328941",
         "Rarity": "Nightmare",
         "PlacePrice": 30000,
         "Offset": 0,
