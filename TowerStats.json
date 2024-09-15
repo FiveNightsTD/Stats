@@ -3434,7 +3434,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
         "Rarity": "Nightmare",
-        "PlacePrice": 50000,
+        "PlacePrice": 100000,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -3450,7 +3450,7 @@
                 "Cooldown": 3.5
             },
             {
-                "Price": 100000,
+                "Price": 110000,
                 "Range": 26,
                 "Damage": 7500,
                 "Cooldown": 3
