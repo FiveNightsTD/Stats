@@ -4238,7 +4238,7 @@
         ]
     },
     "Hooligan Toy Bonnie": {
-        "Type": "AOE",
+        "Type": "Splash",
         "Image": "rbxassetid://99820154884996",
         "Rarity": "Epic",
         "PlacePrice": 1500,
