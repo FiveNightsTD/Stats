@@ -4208,7 +4208,7 @@
         "Type": "Single Slow",
         "Image": "rbxassetid://122884069811995",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 5000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4220,9 +4220,30 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 100,
+                "Damage": 600,
                 "Cooldown": 1,
-                "Slow": 0.6
+                "Slow": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 21,
+                "Damage": 800,
+                "Cooldown": 1,
+                "Slow": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 900,
+                "Cooldown": 1,
+                "Slow": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.1
             }
         ]
     },
