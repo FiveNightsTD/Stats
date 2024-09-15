@@ -4438,7 +4438,7 @@
     },
     "Valkyrie Prime": {
         "Type": "Continuous",
-        "Image": "rbxassetid://95812555069505",
+        "Image": "rbxassetid://136035340656184",
         "Rarity": "Nightmare",
         "PlacePrice": 60000,
         "Offset": 0,
@@ -4476,7 +4476,7 @@
             {
                 "Price": 80000,
                 "Range": 35,
-                "Damage": 900,
+                "Damage": 750,
                 "Cooldown": 0.1
             }
         ]
