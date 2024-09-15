@@ -4127,7 +4127,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://123472154860279",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 2000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4138,9 +4138,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 100,
-                "Cooldown": 1
+                "Range": 10,
+                "Damage": 600,
+                "Cooldown": 2
+            },
+            {
+                "Price": 3000,
+                "Range": 12,
+                "Damage": 8000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 4000,
+                "Range": 15,
+                "Damage": 1000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 5000,
+                "Range": 15,
+                "Damage": 1200,
+                "Cooldown": 1.5
             }
         ]
     },
