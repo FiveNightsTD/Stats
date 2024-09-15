@@ -4541,19 +4541,19 @@
             },
             {
                 "Price": 40000,
-                "Range": 20,
+                "Range": 22,
                 "Damage": 100,
                 "Cooldown": 0.05
             },
             {
                 "Price": 50000,
-                "Range": 20,
+                "Range": 24,
                 "Damage": 125,
                 "Cooldown": 0.05
             },
             {
                 "Price": 60000,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 150,
                 "Cooldown": 0.05
             }
