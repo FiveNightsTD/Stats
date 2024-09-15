@@ -4040,7 +4040,7 @@
     "Cowboy Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://75145495587772",
-        "Rarity": "Secret",
+        "Rarity": "Rare",
         "PlacePrice": 700,
         "Offset": 0,
         "Max": 3,
@@ -4079,7 +4079,7 @@
     "Tavern Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://75064673887993",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
@@ -4118,7 +4118,7 @@
     "Maestro Puppet": {
         "Type": "Support",
         "Image": "rbxassetid://124446963849830",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
