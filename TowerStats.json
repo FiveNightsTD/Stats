@@ -1011,7 +1011,7 @@
         "Rarity": "Rare",
         "PlacePrice": 800,
         "Max": 3,
-        "Passive": "Slow",
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1757,7 +1757,7 @@
         "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 2,
-        "Passive": "Slow",
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2036,7 +2036,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
-        "Passive": "Poison",
+        "Passive": {"Name": "Poison", "Description": "Poisons enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2084,7 +2084,7 @@
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Max": 3,
-        "Passive": "Slow",
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2754,7 +2754,7 @@
         "PlacePrice": 800,
         "Offset": 0,
         "Max": 2,
-        "Passive": "Slow",
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2883,7 +2883,7 @@
         "PlacePrice": 4000,
         "Offset": 0.25,
         "Max": 3,
-        "Passive": "Slow",
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3031,7 +3031,7 @@
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
-        "Passive": "Slow",
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3075,7 +3075,7 @@
         "PlacePrice": 10000,
         "Offset": 0.5,
         "Max": 3,
-        "Passive": "Poison",
+        "Passive": {"Name": "Poison", "Description": "Poisons enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3123,7 +3123,7 @@
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
-        "Passive": "Burn",
+        "Passive": {"Name": "Burn", "Description": "Burns enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3171,7 +3171,7 @@
         "PlacePrice": 7500,
         "Offset": 0.5,
         "Max": 3,
-        "Passive": "Burn",
+        "Passive": {"Name": "Burn", "Description": "Burns enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3227,7 +3227,7 @@
         "PlacePrice": 17500,
         "Offset": -2.5,
         "Max": 3,
-        "Passive": "Poison",
+        "Passive": {"Name": "Poison", "Description": "Poisons enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3499,7 +3499,7 @@
         "PlacePrice": 8000,
         "Offset": 1.5,
         "Max": 3,
-        "Passive": "Slow",
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3666,7 +3666,7 @@
         "PlacePrice": 20000,
         "Offset": 0,
         "Max": 3,
-        "Passive": "Burn",
+        "Passive": {"Name": "Burn", "Description": "Burns enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4296,7 +4296,7 @@
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 2,
-        "Passive": "Slow",
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
