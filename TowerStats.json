@@ -4572,6 +4572,89 @@
                 "Cooldown": 0.05
             }
         ]
+    },
+"Astral Bonnie": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://85506116594248",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Phone Guy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://85506116594248",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Reactor Freddy": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://85506116594248",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Bloodmoon Sheriff": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://85506116594248",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
     }
 }
-
