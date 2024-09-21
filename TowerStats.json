@@ -4615,7 +4615,7 @@
                 "Cooldown": 0.2,
                 "Bleed": 0.75,
                 "BleedTime": 0.5,
-                "Slow": 0.5
+                "Slow": 0.7
             }
         ]
     },
