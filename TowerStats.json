@@ -4577,7 +4577,7 @@
         "Type": "Continuous Splash",
         "Image": "rbxassetid://138982182129000",
         "Rarity": "Apex",
-        "PlacePrice": 27000,
+        "PlacePrice": 50000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -4589,6 +4589,24 @@
             {
                 "Price": 0,
                 "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 75000,
+                "Range": 22,
+                "Damage": 600,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 100000,
+                "Range": 24,
+                "Damage": 700,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 125000,
+                "Range": 25,
                 "Damage": 800,
                 "Cooldown": 0.1
             }
@@ -4596,7 +4614,7 @@
     },
 
 "Phone Guy": {
-        "Type": "AOE",
+        "Type": "AOE DMG + Slow",
         "Image": "rbxassetid://138275060327175",
         "Rarity": "Secret",
         "PlacePrice": 750,
@@ -4611,7 +4629,34 @@
             {
                 "Price": 0,
                 "Range": 20,
+                "Damage": 50,
+                "Cooldown": 0.2,
+                "Bleed": 0.75,
+                "BleedTime": 0.5,
+                "Slow": 0.7
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 60,
+                "Cooldown": 0.2,
+                "Bleed": 0.75,
+                "BleedTime": 0.5,
+                "Slow": 0.7
+            },
+            {
+                "Price": 1000,
+                "Range": 24,
                 "Damage": 70,
+                "Cooldown": 0.2,
+                "Bleed": 0.75,
+                "BleedTime": 0.5,
+                "Slow": 0.7
+            },
+            {
+                "Price": 1250,
+                "Range": 25,
+                "Damage": 80,
                 "Cooldown": 0.2,
                 "Bleed": 0.75,
                 "BleedTime": 0.5,
@@ -4624,7 +4669,7 @@
         "Type": "Pierce",
         "Image": "rbxassetid://77248304349602",
         "Rarity": "Secret",
-        "PlacePrice": 27000,
+        "PlacePrice": 40000,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
@@ -4637,7 +4682,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1500,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 50000,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 60000,
+                "Range": 24,
+                "Damage": 300,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 70000,
+                "Range": 25,
+                "Damage": 400,
                 "Cooldown": 0.1
             }
         ]
