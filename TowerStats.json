@@ -4599,7 +4599,7 @@
         "Type": "AOE",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 27000,
+        "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
