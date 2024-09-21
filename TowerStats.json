@@ -4575,8 +4575,8 @@
     },
 "Astral Bonnie": {
         "Type": "Pierce",
-        "Image": "rbxassetid://85506116594248",
-        "Rarity": "Nightmare",
+        "Image": "",
+        "Rarity": "Apex",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4596,7 +4596,7 @@
     },
 "Phone Guy": {
         "Type": "Pierce",
-        "Image": "rbxassetid://85506116594248",
+        "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 27000,
         "Offset": 0,
@@ -4617,7 +4617,7 @@
     },
 "Reactor Freddy": {
         "Type": "Pierce",
-        "Image": "rbxassetid://85506116594248",
+        "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 27000,
         "Offset": 0,
@@ -4638,7 +4638,7 @@
     },
 "Bloodmoon Sheriff": {
         "Type": "Pierce",
-        "Image": "rbxassetid://85506116594248",
+        "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 27000,
         "Offset": 0,
