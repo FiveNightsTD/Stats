@@ -4574,7 +4574,7 @@
         ]
     },
 "Astral Bonnie": {
-        "Type": "Pierce",
+        "Type": "Continuous Splash",
         "Image": "",
         "Rarity": "Apex",
         "PlacePrice": 27000,
@@ -4589,8 +4589,8 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1500,
-                "Cooldown": 1
+                "Damage": 800,
+                "Cooldown": 0.1
             }
         ]
     },
