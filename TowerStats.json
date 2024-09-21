@@ -4611,7 +4611,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 80,
+                "Damage": 50,
                 "Cooldown": 0.2,
                 "Bleed": 0.75,
                 "BleedTime": 0.5,
