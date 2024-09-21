@@ -4594,10 +4594,11 @@
             }
         ]
     },
+
 "Phone Guy": {
-        "Type": "Pierce",
+        "Type": "AOE",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4610,11 +4611,15 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1500,
-                "Cooldown": 1
+                "Damage": 100,
+                "Cooldown": 0.2,
+                "Bleed": 0.75,
+                "BleedTime": 0.5,
+                "Slow": 0.6
             }
         ]
     },
+
 "Reactor Freddy": {
         "Type": "Pierce",
         "Image": "",
