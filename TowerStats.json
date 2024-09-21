@@ -4575,7 +4575,7 @@
     },
 "Astral Bonnie": {
         "Type": "Continuous Splash",
-        "Image": "",
+        "Image": "rbxassetid://138982182129000",
         "Rarity": "Apex",
         "PlacePrice": 27000,
         "Offset": 0,
@@ -4622,8 +4622,8 @@
 
 "Reactor Freddy": {
         "Type": "Pierce",
-        "Image": "",
-        "Rarity": "Nightmare",
+        "Image": "rbxassetid://77248304349602",
+        "Rarity": "Secret",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
