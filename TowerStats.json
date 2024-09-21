@@ -4666,7 +4666,7 @@
     },
 
 "Reactor Freddy": {
-        "Type": "Pierce",
+        "Type": "Continuous Splash",
         "Image": "rbxassetid://77248304349602",
         "Rarity": "Secret",
         "PlacePrice": 40000,
