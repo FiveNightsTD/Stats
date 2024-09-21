@@ -4612,10 +4612,12 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 50,
-                "Cooldown": 0.2,
+                "Cooldown": 3,
                 "Bleed": 0.75,
                 "BleedTime": 0.5,
-                "Slow": 0.7
+                "Slow": 0.7,
+                "Poison": 350,
+                "PoisonTime": 3
             }
         ]
     },
