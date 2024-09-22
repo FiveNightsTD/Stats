@@ -3728,7 +3728,7 @@
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Animatronic Engineer", "Description": "When upgraded spawns turrets that have 50 -> 150 DPS each"},
+        "Passive": {"Name": "Animatronic Engineer", "Description": "Spawns turrets that have 50 -> 150 DPS each"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3773,6 +3773,7 @@
             }
         ]
     },
+
     "Master Puppeteer": {
         "Type": "Continuous Pierce",
         "Image": "rbxassetid://139994062140962",
@@ -3780,6 +3781,7 @@
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Lethal Rebound", "Description": "Attacks hit enemies 10 times"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
