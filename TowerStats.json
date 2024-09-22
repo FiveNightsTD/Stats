@@ -3720,6 +3720,7 @@
             }
         ]
     },
+
     "Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
@@ -3727,6 +3728,7 @@
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Animatronic Engineer", "Description": "When upgraded spawns turrets that have 50 -> 150 DPS each"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4218,6 +4220,7 @@
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Bounty Hunter", "Description": "Generates lots of extra cash after every shot"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4296,7 +4299,7 @@
         "PlacePrice": 5000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
+        "Passive": {"Name": "Lethal Precision", "Description": "Enemies hit are slowed by 90% momentarily"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
