@@ -4411,6 +4411,7 @@
             }
         ]
     },
+
     "Jackpot Freddy": {
         "Type": "Single Farm",
         "Image": "rbxassetid://108467505723572",
@@ -4418,6 +4419,7 @@
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Gold Rush", "Description": "Generates lots of extra cash after every shot"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4580,6 +4582,7 @@
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Nuclear Fission", "Description": "..."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4620,6 +4623,7 @@
         "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Radio Waves", "Description": "Slows all enemies in range by 30%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
