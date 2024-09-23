@@ -2883,7 +2883,6 @@
         "PlacePrice": 4000,
         "Offset": 0.25,
         "Max": 3,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
