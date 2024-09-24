@@ -2036,7 +2036,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
-        "Passive": {"Name": "Poison", "Description": "Poisons enemies"},
+        "Passive": {"Name": "Lethal Potions", "Description": "Deals an extra 30% damage in poison"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2047,15 +2047,15 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 100,
-                "Cooldown": 4,
+                "Damage": 200,
+                "Cooldown": 3.5,
                 "Poison": 10,
                 "PoisonLength": 3
             },
             {
                 "Price": 800,
                 "Range": 17,
-                "Damage": 125,
+                "Damage": 225,
                 "Cooldown": 3,
                 "Poison": 15,
                 "PoisonLength": 3
@@ -2063,7 +2063,7 @@
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 150,
+                "Damage": 250,
                 "Cooldown": 3,
                 "Poison": 20,
                 "PoisonLength": 3
@@ -2071,9 +2071,9 @@
             {
                 "Price": 1200,
                 "Range": 25,
-                "Damage": 200,
+                "Damage": 300,
                 "Cooldown": 2,
-                "Poison": 25,
+                "Poison": 30,
                 "PoisonLength": 3
             }
         ]
