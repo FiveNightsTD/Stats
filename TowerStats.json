@@ -2548,32 +2548,32 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 100,
+                "Range": 17,
+                "Damage": 140,
                 "Cooldown": 0.8
             },
             {
                 "Price": 800,
-                "Range": 16,
-                "Damage": 120,
+                "Range": 19,
+                "Damage": 180,
                 "Cooldown": 0.7
             },
             {
                 "Price": 1200,
-                "Range": 17,
-                "Damage": 140,
+                "Range": 20,
+                "Damage": 200,
                 "Cooldown": 0.6
             },
             {
                 "Price": 1600,
-                "Range": 18,
-                "Damage": 160,
+                "Range": 21,
+                "Damage": 220,
                 "Cooldown": 0.5
             },
             {
                 "Price": 2000,
-                "Range": 20,
-                "Damage": 200,
+                "Range": 22,
+                "Damage": 240,
                 "Cooldown": 0.3
             }
         ]
@@ -3736,27 +3736,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 24,
                 "Damage": 250,
                 "Cooldown": 1
             },
             {
                 "Price": 800,
-                "Range": 21,
+                "Range": 25,
                 "Damage": 400,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
             },
             {
                 "Price": 1000,
-                "Range": 22,
+                "Range": 27,
                 "Damage": 400,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
             },
             {
                 "Price": 1200,
-                "Range": 23,
+                "Range": 28,
                 "Damage": 400,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1},
@@ -3764,7 +3764,7 @@
             },
             {
                 "Price": 1400,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 400,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
