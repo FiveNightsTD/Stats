@@ -4587,7 +4587,6 @@
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Nuclear Fission", "Description": "Stops regeneration while attacking"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4598,33 +4597,25 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 500,
-                "Cooldown": 0.1,
-                "Bleed": 0,
-                "BleedTime": 0.5,
+                "Cooldown": 0.1
             },
             {
                 "Price": 75000,
                 "Range": 22,
                 "Damage": 600,
-                "Cooldown": 0.1,
-                "Bleed": 0,
-                "BleedTime": 0.5,
+                "Cooldown": 0.1
             },
             {
                 "Price": 100000,
                 "Range": 24,
                 "Damage": 700,
-                "Cooldown": 0.1,
-                "Bleed": 0,
-                "BleedTime": 0.5,
+                "Cooldown": 0.1
             },
             {
                 "Price": 125000,
                 "Range": 25,
                 "Damage": 800,
-                "Cooldown": 0.1,
-                "Bleed": 0,
-                "BleedTime": 0.5,
+                "Cooldown": 0.1
             }
         ]
     },
