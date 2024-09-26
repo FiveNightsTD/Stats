@@ -3597,24 +3597,32 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 30,
+                "Poison": 350,
+                "PoisonTime": 3,
                 "Cooldown": 1
             },
             {
                 "Price": 600,
                 "Range": 16,
                 "Damage": 35,
+                "Poison": 350,
+                "PoisonTime": 3,
                 "Cooldown": 0.9
             },
             {
                 "Price": 800,
                 "Range": 17,
                 "Damage": 40,
+                "Poison": 350,
+                "PoisonTime": 3,
                 "Cooldown": 0.8
             },
             {
                 "Price": 1200,
                 "Range": 20,
                 "Damage": 50,
+                "Poison": 350,
+                "PoisonTime": 3,
                 "Cooldown": 0.7
             }
         ]
