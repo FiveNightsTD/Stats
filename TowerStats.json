@@ -4785,9 +4785,9 @@
         ]
     },
 "Circus Baby": {
-        "Type": "Pierce",
+        "Type": "Splash Stun",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4806,9 +4806,9 @@
         ]
     },
 "Ballora": {
-        "Type": "Pierce",
+        "Type": "Support",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Mythic",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4827,9 +4827,9 @@
         ]
     },
 "Funtime Foxy": {
-        "Type": "Pierce",
+        "Type": "Splash",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Rare",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4848,9 +4848,9 @@
         ]
     },
 "Funtime Freddy": {
-        "Type": "Pierce",
+        "Type": "Splash",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Epic",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4869,9 +4869,9 @@
         ]
     },
 "Mendo": {
-        "Type": "Pierce",
+        "Type": "Trap Layer",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4890,9 +4890,9 @@
         ]
     },
 "Lolbit": {
-        "Type": "Pierce",
+        "Type": "Cone Aoe Stun",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4911,7 +4911,7 @@
         ]
     },
 "Tangle": {
-        "Type": "Pierce",
+        "Type": "Splash",
         "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 27000,
