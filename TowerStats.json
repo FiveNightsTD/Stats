@@ -4762,5 +4762,257 @@
                 "Cooldown": 1
             }
         ]
+    },
+"Ennard": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Circus Baby": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Ballora": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Funtime Foxy": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Funtime Freddy": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Mendo": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Lolbit": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Tangle": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Music Man": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Bonnet": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Elizabeth": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Endo 05": {
+        "Type": "Pierce",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 27000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1500,
+                "Cooldown": 1
+            }
+        ]
     }
 }
