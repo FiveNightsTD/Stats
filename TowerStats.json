@@ -4932,7 +4932,7 @@
         ]
     },
 "Music Man": {
-        "Type": "Pierce",
+        "Type": "Cooldown Booster",
         "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 27000,
@@ -4953,9 +4953,9 @@
         ]
     },
 "Bonnet": {
-        "Type": "Pierce",
+        "Type": "Splash",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4974,9 +4974,9 @@
         ]
     },
 "Elizabeth": {
-        "Type": "Pierce",
+        "Type": "Splash Slow",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Epic",
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
@@ -4995,7 +4995,7 @@
         ]
     },
 "Endo 05": {
-        "Type": "Pierce",
+        "Type": "Splash Stun",
         "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 27000,
