@@ -5236,9 +5236,15 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 3500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 8000,
                 "Cooldown": 2
-            }
+            },
         ]
     },
     "Fortified Endo 02": {
@@ -5257,9 +5263,15 @@
             {
                 "Price": 0,
                 "Range": 20,
+                "Damage": 60,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
                 "Damage": 120,
                 "Cooldown": 0.2
-            }
+            },
         ]
     },
     "Bomber Boy": {
@@ -5277,8 +5289,14 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 200,
+                "Cooldown": 0.3
+            },
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 500,
                 "Cooldown": 0.2
             }
         ]
@@ -5299,8 +5317,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 1250,
                 "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 1.8
+            },
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 1000,
+                "Cooldown": 1.6
+            },
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 2000,
+                "Cooldown": 1.5
             }
         ]
     }
