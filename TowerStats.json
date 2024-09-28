@@ -5069,7 +5069,7 @@
     },
 "Music Man": {
         "Type": "Cooldown Booster",
-        "Image": "",
+        "Image": "rbxassetid://77906930997624",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -5152,7 +5152,7 @@
     },
 "Elizabeth": {
         "Type": "Splash Slow",
-        "Image": "",
+        "Image": "rbxassetid://102659257102214",
         "Rarity": "Epic",
         "PlacePrice": 400,
         "Offset": 0,
@@ -5238,7 +5238,7 @@
     },
     "Animdude": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://77112261441145",
         "Rarity": "Secret",
         "PlacePrice": 5000,
         "Offset": 1.25,
@@ -5289,7 +5289,7 @@
     },
     "Fortified Endo 02": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://86634335404738",
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Offset": 0,
@@ -5367,7 +5367,7 @@
     },
     "ITS ME": {
         "Type": "Cone AOE",
-        "Image": "",
+        "Image": "rbxassetid://120282726125561",
         "Rarity": "Secret",
         "PlacePrice": 15000,
         "Offset": -0.8,
