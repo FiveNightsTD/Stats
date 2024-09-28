@@ -5001,29 +5001,29 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 400,
-                "Cooldown": 1.4,
+                "Damage": 800,
+                "Cooldown": 2,
                 "Slow": 0.1
             },
             {
                 "Price": 5000,
                 "Range": 22,
-                "Damage": 500,
-                "Cooldown": 1.3,
+                "Damage": 1000,
+                "Cooldown": 2,
                 "Slow": 0.1
             },
             {
                 "Price": 6000,
                 "Range": 24,
-                "Damage": 600,
-                "Cooldown": 1.2,
-                "Slow": 0.1
+                "Damage": 1200,
+                "Cooldown": 2,
+                "Slow": 0.2
             },
             {
                 "Price": 7000,
                 "Range": 25,
-                "Damage": 750,
-                "Cooldown": 1,
+                "Damage": 1400,
+                "Cooldown": 2,
                 "Slow": 0.1
             }
         ]
