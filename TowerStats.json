@@ -4761,7 +4761,7 @@
     },
 "Ennard": {
         "Type": "Pierce",
-        "Image": "",
+        "Image": "rbxassetid://109381228663902",
         "Rarity": "Nightmare",
         "PlacePrice": 27000,
         "Offset": 0,
@@ -4782,7 +4782,7 @@
     },
 "Circus Baby": {
         "Type": "Splash Stun",
-        "Image": "",
+        "Image": "rbxassetid://135824811756102",
         "Rarity": "Secret",
         "PlacePrice": 17500,
         "Offset": 0,
@@ -4825,7 +4825,7 @@
     },
 "Ballora": {
         "Type": "Support",
-        "Image": "",
+        "Image": "rbxassetid://96561789964833",
         "Rarity": "Mythic",
         "PlacePrice": 1200,
         "Offset": 0,
@@ -4869,7 +4869,7 @@
     },
 "Funtime Foxy": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://130210196007742",
         "Rarity": "Rare",
         "PlacePrice": 450,
         "Offset": 0.3,
@@ -4908,7 +4908,7 @@
     },
 "Funtime Freddy": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://113691386593768",
         "Rarity": "Epic",
         "PlacePrice": 7500,
         "Offset": 0,
@@ -4987,7 +4987,7 @@
     },
 "Lolbit": {
         "Type": "Cone Aoe Stun",
-        "Image": "",
+        "Image": "rbxassetid://123600440160662",
         "Rarity": "Secret",
         "PlacePrice": 4000,
         "Offset": 0,
