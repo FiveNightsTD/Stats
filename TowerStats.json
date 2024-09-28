@@ -5033,7 +5033,7 @@
         "Image": "rbxassetid://75252636792874",
         "Rarity": "Nightmare",
         "PlacePrice": 12500,
-        "Offset": 0,
+        "Offset": -0.2,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
