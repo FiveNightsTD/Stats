@@ -5333,7 +5333,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
-        "Offset": 0,
+        "Offset": -0.8,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
