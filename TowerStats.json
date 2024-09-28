@@ -5294,7 +5294,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Offset": 0,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
