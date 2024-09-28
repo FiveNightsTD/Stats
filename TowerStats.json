@@ -5244,7 +5244,7 @@
                 "Range": 20,
                 "Damage": 8000,
                 "Cooldown": 2
-            },
+            }
         ]
     },
     "Fortified Endo 02": {
@@ -5271,7 +5271,7 @@
                 "Range": 25,
                 "Damage": 120,
                 "Cooldown": 0.2
-            },
+            }
         ]
     },
     "Bomber Boy": {
