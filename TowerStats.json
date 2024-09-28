@@ -4854,7 +4854,7 @@
         "Image": "",
         "Rarity": "Rare",
         "PlacePrice": 450,
-        "Offset": 0,
+        "Offset": 0.3,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
