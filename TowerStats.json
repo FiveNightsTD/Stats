@@ -4831,7 +4831,7 @@
         "Type": "Support",
         "Image": "",
         "Rarity": "Mythic",
-        "PlacePrice": 27000,
+        "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -4844,8 +4844,30 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1500,
-                "Cooldown": 1
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 1.1
+            },
+            {
+                "Price": 1500,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 1.15
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 1.2
+            },
+            {
+                "Price": 2500,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 1.24
             }
         ]
     },
@@ -5034,7 +5056,7 @@
         "Type": "Cooldown Booster",
         "Image": "",
         "Rarity": "Nightmare",
-        "PlacePrice": 27000,
+        "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -5042,12 +5064,34 @@
             "Y": 0,
             "Z": 0
         },
-        "Upgrades": [
+         "Upgrades": [
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1500,
-                "Cooldown": 1
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 1.1
+            },
+            {
+                "Price": 1200,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 1.2
+            },
+            {
+                "Price": 1600,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 1.25
+            },
+            {
+                "Price": 2000,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 1.3
             }
         ]
     },
