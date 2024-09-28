@@ -4947,9 +4947,9 @@
     },
 "Mendo": {
         "Type": "Trap Layer",
-        "Image": "",
+        "Image": "rbxassetid://117153987968201",
         "Rarity": "Secret",
-        "PlacePrice": 27000,
+        "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -4959,6 +4959,24 @@
             "Z": 0
         },
         "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1300,
+                "Cooldown": 1.4
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1600,
+                "Cooldown": 1.2
+            },
             {
                 "Price": 0,
                 "Range": 20,
@@ -5012,7 +5030,7 @@
     },
     "Tangle": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://75252636792874",
         "Rarity": "Nightmare",
         "PlacePrice": 12500,
         "Offset": 0,
@@ -5310,7 +5328,7 @@
     },
     "Bomber Boy": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://130210196007742",
         "Rarity": "Secret",
         "PlacePrice": 25000,
         "Offset": 0,
