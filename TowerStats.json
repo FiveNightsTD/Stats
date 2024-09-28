@@ -5269,10 +5269,10 @@
         ]
     },
     "Fortified Endo 02": {
-        "Type": "Splash",
+        "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -5288,19 +5288,19 @@
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
+                "Price": 700,
                 "Range": 22,
                 "Damage": 80,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
+                "Price": 900,
                 "Range": 24,
                 "Damage": 100,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
+                "Price": 1200,
                 "Range": 25,
                 "Damage": 120,
                 "Cooldown": 0.2
@@ -5311,7 +5311,7 @@
         "Type": "Splash",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 25000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -5327,19 +5327,19 @@
                 "Cooldown": 0.3
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 27,
                 "Damage": 300,
                 "Cooldown": 0.27
             },
             {
-                "Price": 0,
+                "Price": 40000,
                 "Range": 34,
                 "Damage": 400,
                 "Cooldown": 0.23
             },
             {
-                "Price": 0,
+                "Price": 50000,
                 "Range": 35,
                 "Damage": 500,
                 "Cooldown": 0.2
@@ -5347,12 +5347,12 @@
         ]
     },
     "ITS ME": {
-        "Type": "Splash",
+        "Type": "Cone AOE",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 15000,
         "Offset": -0.8,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5366,19 +5366,19 @@
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
+                "Price": 20000,
                 "Range": 22,
                 "Damage": 1500,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 24,
                 "Damage": 1750,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
+                "Price": 4000,
                 "Range": 27,
                 "Damage": 2000,
                 "Cooldown": 0.2
