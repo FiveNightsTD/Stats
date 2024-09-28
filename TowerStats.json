@@ -2976,6 +2976,24 @@
                 "Range": 15,
                 "Damage": 10,
                 "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 10,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 45,
+                "Damage": 3000,
+                "Cooldown": 1
             }
         ]
     },
