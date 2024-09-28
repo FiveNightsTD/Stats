@@ -4741,28 +4741,6 @@
             }
         ]
     },
-"Spike Factory": {
-        "Type": "?",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 3,
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 100,
-                "Cooldown": 1
-            }
-        ]
-    },
 "Ennard": {
         "Type": "Pierce",
         "Image": "",
@@ -4956,6 +4934,7 @@
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
