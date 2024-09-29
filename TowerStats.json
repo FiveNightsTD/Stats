@@ -4795,31 +4795,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 1800,
+                "Range": 18,
+                "Damage": 2000,
                 "Cooldown": 3,
-                "Slow": 0.1
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 20000,
-                "Range": 22,
-                "Damage": 2000,
+                "Range": 20,
+                "Damage": 3000,
                 "Cooldown": 2.6,
-                "Slow": 0.1
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 25000,
-                "Range": 24,
-                "Damage": 2200,
+                "Range": 21,
+                "Damage": 3000,
                 "Cooldown": 2.3,
-                "Slow": 0.1
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 30000,
-                "Range": 25,
-                "Damage": 2500,
+                "Range": 22,
+                "Damage": 4000,
                 "Cooldown": 2,
-                "Slow": 0.1
+                "Slow": 0,
+                "SlowTime": 0.5
             }
         ]
     },
@@ -5004,28 +5008,32 @@
                 "Range": 20,
                 "Damage": 800,
                 "Cooldown": 2,
-                "Slow": 0.1
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 5000,
                 "Range": 22,
                 "Damage": 1000,
                 "Cooldown": 2,
-                "Slow": 0.1
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 6000,
                 "Range": 24,
                 "Damage": 1200,
                 "Cooldown": 2,
-                "Slow": 0.2
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 7000,
                 "Range": 25,
-                "Damage": 1400,
+                "Damage": 1800,
                 "Cooldown": 2,
-                "Slow": 0.1
+                "Slow": 0,
+                "SlowTime": 0.5
             }
         ]
     },
