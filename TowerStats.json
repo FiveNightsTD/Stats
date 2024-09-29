@@ -4803,7 +4803,7 @@
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 200,
+                "Damage": 2000,
                 "Cooldown": 2.6,
                 "Slow": 0.1
             },
