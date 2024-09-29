@@ -5305,13 +5305,13 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 60,
+                "Damage": 40,
                 "Cooldown": 0.2
             },
             {
                 "Price": 700,
                 "Range": 22,
-                "Damage": 80,
+                "Damage": 60,
                 "Cooldown": 0.2
             },
             {
