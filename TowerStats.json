@@ -5435,7 +5435,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
-                "Cooldown": 0.2
+                "Cooldown": 1
             }
         ]
     }
