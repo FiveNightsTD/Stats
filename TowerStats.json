@@ -5417,5 +5417,26 @@
                 "Cooldown": 0.2
             }
         ]
+    },
+    "Old Man Consequences": {
+        "Type": "AOE",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 0.2
+            }
+        ]
     }
 }
