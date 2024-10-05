@@ -5414,7 +5414,7 @@
     },
 
     "Old Man Consequences": {
-        "Type": "AOE",
+        "Type": "AOE + Passive",
         "Image": "rbxassetid://120510862835968",
         "Rarity": "Apex",
         "PlacePrice": 11340,
@@ -5429,26 +5429,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 300,
+                "Range": 25,
+                "Damage": 600,
                 "Cooldown": 0.1
             },
             {
                 "Price": 22222,
-                "Range": 20,
-                "Damage": 400,
+                "Range": 28,
+                "Damage": 700,
                 "Cooldown": 0.1
             },
             {
                 "Price": 33333,
-                "Range": 20,
-                "Damage": 500,
+                "Range": 32,
+                "Damage": 800,
                 "Cooldown": 0.1
             },
             {
                 "Price": 44444,
-                "Range": 20,
-                "Damage": 600,
+                "Range": 35,
+                "Damage": 1000,
                 "Cooldown": 0.1
             }
         ]
