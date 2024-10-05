@@ -5420,7 +5420,7 @@
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every few seconds, erasing them completely."},
+        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every few seconds, erasing them completely. Bosses hit by this attack are stunned"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
