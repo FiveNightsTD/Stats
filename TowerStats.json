@@ -5472,7 +5472,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 600,
+                "Damage": 800,
                 "Cooldown": 0.4,
                 "SummonTime": 30,
                 "Unit": "Fazbear Mafia Car",
@@ -5483,7 +5483,7 @@
             {
                 "Price": 12000,
                 "Range": 28,
-                "Damage": 800,
+                "Damage": 1000,
                 "Cooldown": 0.4,
                 "SummonTime": 30,
                 "Unit": "Fazbear Mafia Car",
@@ -5494,7 +5494,7 @@
             {
                 "Price": 16000,
                 "Range": 32,
-                "Damage": 1000,
+                "Damage": 1200,
                 "Cooldown": 0.4,
                 "SummonTime": 30,
                 "Unit": "Fazbear Mafia Car",
@@ -5505,7 +5505,7 @@
             {
                 "Price": 20000,
                 "Range": 35,
-                "Damage": 1200,
+                "Damage": 1400,
                 "Cooldown": 0.4,
                 "SummonTime": 30,
                 "Unit": "Fazbear Mafia Car",
