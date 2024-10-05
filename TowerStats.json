@@ -5466,6 +5466,7 @@
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 1,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5477,7 +5478,8 @@
                 "Range": 20,
                 "Damage": 1000,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.9,
+                "Slow": 0.8
             }
         ]
     }
