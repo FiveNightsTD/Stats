@@ -5492,7 +5492,7 @@
                 "SummonCooldown": 0.2
             },
             {
-                "Price": 1600,
+                "Price": 16000,
                 "Range": 32,
                 "Damage": 1000,
                 "Cooldown": 0.4,
@@ -5503,7 +5503,7 @@
                 "SummonCooldown": 0.2
             },
             {
-                "Price": 2000,
+                "Price": 20000,
                 "Range": 35,
                 "Damage": 1200,
                 "Cooldown": 0.4,
