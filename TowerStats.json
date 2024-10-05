@@ -5432,5 +5432,47 @@
                 "Cooldown": 1
             }
         ]
+    },
+     "Fazbear Mafia": {
+        "Type": "Summoner",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Boombox Foxy": {
+        "Type": "AOE and Booster",
+        "Image": "",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
     }
 }
