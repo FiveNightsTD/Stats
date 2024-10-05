@@ -5471,8 +5471,8 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 200,
-                "Cooldown": 0.15,
+                "Damage": 600,
+                "Cooldown": 0.4,
                 "SummonTime": 15,
                 "Unit": "Fazbear Mafia Car",
                 "WalkSpeed": 10,
@@ -5480,10 +5480,10 @@
                 "SummonCooldown": 0.2
             },
             {
-                "Price": 0,
+                "Price": 12000,
                 "Range": 28,
-                "Damage": 300,
-                "Cooldown": 0.15,
+                "Damage": 800,
+                "Cooldown": 0.4,
                 "SummonTime": 15,
                 "Unit": "Fazbear Mafia Car",
                 "WalkSpeed": 10,
@@ -5491,10 +5491,10 @@
                 "SummonCooldown": 0.2
             },
             {
-                "Price": 0,
+                "Price": 1600,
                 "Range": 32,
-                "Damage": 400,
-                "Cooldown": 0.15,
+                "Damage": 1000,
+                "Cooldown": 0.4,
                 "SummonTime": 15,
                 "Unit": "Fazbear Mafia Car",
                 "WalkSpeed": 10,
@@ -5502,10 +5502,10 @@
                 "SummonCooldown": 0.2
             },
             {
-                "Price": 0,
+                "Price": 2000,
                 "Range": 35,
-                "Damage": 500,
-                "Cooldown": 0.15,
+                "Damage": 1200,
+                "Cooldown": 0.4,
                 "SummonTime": 15,
                 "Unit": "Fazbear Mafia Car",
                 "WalkSpeed": 10,
@@ -5514,11 +5514,12 @@
             }
         ]
     },
+
     "Boombox Foxy": {
         "Type": "AOE Slow and Booster",
         "Image": "",
         "Rarity": "Nightmare",
-        "PlacePrice": 100,
+        "PlacePrice": 250,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Slows enemies"},
@@ -5531,6 +5532,30 @@
             {
                 "Price": 0,
                 "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.97,
+                "Slow": 0.8
+            },
+            {
+                "Price": 100,
+                "Range": 22,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.95,
+                "Slow": 0.8
+            },
+            {
+                "Price": 150,
+                "Range": 24,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.92,
+                "Slow": 0.8
+            },
+            {
+                "Price": 200,
+                "Range": 25,
                 "Damage": 1000,
                 "Cooldown": 1,
                 "CooldownBoost": 0.9,
