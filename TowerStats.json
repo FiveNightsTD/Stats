@@ -5417,7 +5417,7 @@
         "Type": "AOE",
         "Image": "",
         "Rarity": "Apex",
-        "PlacePrice": 100,
+        "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every few seconds, completely erasing them."},
