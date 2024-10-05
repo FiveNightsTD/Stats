@@ -5476,7 +5476,7 @@
                 "Cooldown": 0.4,
                 "SummonTime": 15,
                 "Unit": "Fazbear Mafia Car",
-                "WalkSpeed": 10,
+                "WalkSpeed": 15,
                 "SummonRange": 25,
                 "SummonCooldown": 0.2
             },
@@ -5487,7 +5487,7 @@
                 "Cooldown": 0.4,
                 "SummonTime": 15,
                 "Unit": "Fazbear Mafia Car",
-                "WalkSpeed": 10,
+                "WalkSpeed": 15,
                 "SummonRange": 25,
                 "SummonCooldown": 0.2
             },
@@ -5498,7 +5498,7 @@
                 "Cooldown": 0.4,
                 "SummonTime": 15,
                 "Unit": "Fazbear Mafia Car",
-                "WalkSpeed": 10,
+                "WalkSpeed": 15,
                 "SummonRange": 25,
                 "SummonCooldown": 0.2
             },
@@ -5509,7 +5509,7 @@
                 "Cooldown": 0.4,
                 "SummonTime": 15,
                 "Unit": "Fazbear Mafia Car",
-                "WalkSpeed": 10,
+                "WalkSpeed": 15,
                 "SummonRange": 25,
                 "SummonCooldown": 0.2
             }
