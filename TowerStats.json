@@ -5412,6 +5412,7 @@
             }
         ]
     },
+
     "Old Man Consequences": {
         "Type": "AOE",
         "Image": "",
@@ -5419,6 +5420,7 @@
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 1,
+        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every few seconds, completely erasing them."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5428,18 +5430,38 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 3000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 4000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 5000,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 6000,
+                "Cooldown": 0.1
             }
         ]
     },
+
+
      "Fazbear Mafia": {
         "Type": "Attacking Summoner",
         "Image": "",
         "Rarity": "Nightmare",
-        "PlacePrice": 100,
+        "PlacePrice": 8000,
         "Offset": 0,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5448,14 +5470,47 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "SummonTime": 10,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 0.15,
+                "SummonTime": 15,
                 "Unit": "Fazbear Mafia Car",
-                "WalkSpeed": 5,
-                "SummonRange": 15,
-                "SummonCooldown": 0.25
+                "WalkSpeed": 10,
+                "SummonRange": 25,
+                "SummonCooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 300,
+                "Cooldown": 0.15,
+                "SummonTime": 15,
+                "Unit": "Fazbear Mafia Car",
+                "WalkSpeed": 10,
+                "SummonRange": 25,
+                "SummonCooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 32,
+                "Damage": 400,
+                "Cooldown": 0.15,
+                "SummonTime": 15,
+                "Unit": "Fazbear Mafia Car",
+                "WalkSpeed": 10,
+                "SummonRange": 25,
+                "SummonCooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 35,
+                "Damage": 500,
+                "Cooldown": 0.15,
+                "SummonTime": 15,
+                "Unit": "Fazbear Mafia Car",
+                "WalkSpeed": 10,
+                "SummonRange": 25,
+                "SummonCooldown": 0.2
             }
         ]
     },
