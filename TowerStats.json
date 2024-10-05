@@ -3526,28 +3526,28 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 150,
+                "Damage": 200,
                 "Cooldown": 0.4,
                 "Slow": 0.4
             },
             {
                 "Price": 12500,
                 "Range": 24,
-                "Damage": 180,
+                "Damage": 250,
                 "Cooldown": 0.4,
                 "Slow": 0.4
             },
             {
                 "Price": 15000,
                 "Range": 27,
-                "Damage": 210,
+                "Damage": 300,
                 "Cooldown": 0.3,
                 "Slow": 0.4
             },
             {
                 "Price": 20000,
                 "Range": 30,
-                "Damage": 250,
+                "Damage": 400,
                 "Cooldown": 0.2,
                 "Slow": 0.4
             }
