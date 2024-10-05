@@ -5455,7 +5455,6 @@
                 "Unit": "Fazbear Mafia Car",
                 "WalkSpeed": 5,
                 "SummonRange": 15,
-                "SummonDamage": 20,
                 "SummonCooldown": 0.25
             }
         ]
