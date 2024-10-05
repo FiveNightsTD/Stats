@@ -5458,7 +5458,7 @@
      "Fazbear Mafia": {
         "Type": "Attacking Summoner",
         "Image": "rbxassetid://131447165249179",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 2,
@@ -5519,7 +5519,7 @@
     "Boombox Foxy": {
         "Type": "AOE Slow and Booster",
         "Image": "",
-        "Rarity": "Nightmare",
+        "Rarity": "Secret",
         "PlacePrice": 250,
         "Offset": 0,
         "Max": 1,
