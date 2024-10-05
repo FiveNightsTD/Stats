@@ -2549,31 +2549,31 @@
             {
                 "Price": 0,
                 "Range": 17,
-                "Damage": 140,
+                "Damage": 200,
                 "Cooldown": 0.8
             },
             {
                 "Price": 800,
                 "Range": 19,
-                "Damage": 180,
+                "Damage": 240,
                 "Cooldown": 0.7
             },
             {
                 "Price": 1200,
                 "Range": 20,
-                "Damage": 200,
+                "Damage": 280,
                 "Cooldown": 0.6
             },
             {
                 "Price": 1600,
                 "Range": 21,
-                "Damage": 220,
+                "Damage": 320,
                 "Cooldown": 0.5
             },
             {
                 "Price": 2000,
                 "Range": 22,
-                "Damage": 240,
+                "Damage": 360,
                 "Cooldown": 0.3
             }
         ]
@@ -3763,27 +3763,27 @@
             {
                 "Price": 0,
                 "Range": 24,
-                "Damage": 250,
+                "Damage": 500,
                 "Cooldown": 1
             },
             {
                 "Price": 800,
                 "Range": 25,
-                "Damage": 400,
+                "Damage": 600,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 5, "Cooldown": 0.1}
             },
             {
                 "Price": 1000,
                 "Range": 27,
-                "Damage": 400,
+                "Damage": 600,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
             },
             {
                 "Price": 1200,
                 "Range": 28,
-                "Damage": 400,
+                "Damage": 600,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 10, "Cooldown": 0.1},
                 "Turret2": {"Range": 30, "Damage": 10, "Cooldown": 0.1}
@@ -3791,7 +3791,7 @@
             {
                 "Price": 1400,
                 "Range": 30,
-                "Damage": 400,
+                "Damage": 700,
                 "Cooldown": 1,
                 "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
                 "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
@@ -5301,6 +5301,7 @@
             }
         ]
     },
+
     "Fortified Endo 02": {
         "Type": "Single",
         "Image": "rbxassetid://86634335404738",
@@ -5317,29 +5318,30 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 40,
+                "Damage": 60,
                 "Cooldown": 0.2
             },
             {
                 "Price": 700,
                 "Range": 22,
-                "Damage": 60,
+                "Damage": 100,
                 "Cooldown": 0.2
             },
             {
                 "Price": 900,
                 "Range": 24,
-                "Damage": 100,
+                "Damage": 15,
                 "Cooldown": 0.2
             },
             {
                 "Price": 1200,
                 "Range": 25,
-                "Damage": 120,
+                "Damage": 200,
                 "Cooldown": 0.2
             }
         ]
     },
+
     "Bomber Boy": {
         "Type": "Splash",
         "Image": "rbxassetid://105906895649413",
