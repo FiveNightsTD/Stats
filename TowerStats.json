@@ -5415,7 +5415,7 @@
 
     "Old Man Consequences": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://120510862835968",
         "Rarity": "Apex",
         "PlacePrice": 11340,
         "Offset": 0,
@@ -5457,11 +5457,12 @@
 
      "Fazbear Mafia": {
         "Type": "Attacking Summoner",
-        "Image": "",
+        "Image": "rbxassetid://131447165249179",
         "Rarity": "Nightmare",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Fazbear Family", "Description": "Spawns armored cars to help assit him (Concept by Nogurt)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
