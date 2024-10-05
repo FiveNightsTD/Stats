@@ -4665,8 +4665,6 @@
                 "Range": 20,
                 "Damage": 50,
                 "Cooldown": 0.2,
-                "Bleed": 0.75,
-                "BleedTime": 0.5,
                 "Slow": 0.7
             },
             {
@@ -4674,8 +4672,6 @@
                 "Range": 22,
                 "Damage": 60,
                 "Cooldown": 0.2,
-                "Bleed": 0.75,
-                "BleedTime": 0.5,
                 "Slow": 0.7
             },
             {
@@ -4683,8 +4679,6 @@
                 "Range": 24,
                 "Damage": 70,
                 "Cooldown": 0.2,
-                "Bleed": 0.75,
-                "BleedTime": 0.5,
                 "Slow": 0.7
             },
             {
@@ -4692,8 +4686,6 @@
                 "Range": 25,
                 "Damage": 80,
                 "Cooldown": 0.2,
-                "Bleed": 0.75,
-                "BleedTime": 0.5,
                 "Slow": 0.7
             }
         ]
