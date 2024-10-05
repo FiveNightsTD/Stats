@@ -5322,7 +5322,7 @@
             {
                 "Price": 900,
                 "Range": 24,
-                "Damage": 15,
+                "Damage": 150,
                 "Cooldown": 0.2
             },
             {
