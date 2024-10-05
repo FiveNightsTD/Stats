@@ -5420,7 +5420,7 @@
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every few seconds, completely erasing them."},
+        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every few seconds, erasing them completely."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5434,19 +5434,19 @@
                 "Cooldown": 0.1
             },
             {
-                "Price": 0,
+                "Price": 22222,
                 "Range": 20,
                 "Damage": 4000,
                 "Cooldown": 0.1
             },
             {
-                "Price": 0,
+                "Price": 33333,
                 "Range": 20,
                 "Damage": 5000,
                 "Cooldown": 0.1
             },
             {
-                "Price": 0,
+                "Price": 44444,
                 "Range": 20,
                 "Damage": 6000,
                 "Cooldown": 0.1
