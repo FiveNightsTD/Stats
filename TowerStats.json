@@ -5450,7 +5450,13 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
-                "Cooldown": 1
+                "Cooldown": 1,
+                "SummonTime": 5,
+                "Unit": "Fazbear Mafia Car",
+                "WalkSpeed": 5,
+                "SummonRange": 15,
+                "SummonDamage": 20,
+                "SummonCooldown": 0.25
             }
         ]
     },
@@ -5471,7 +5477,8 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
-                "Cooldown": 1
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
             }
         ]
     }
