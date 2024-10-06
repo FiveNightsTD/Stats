@@ -5522,7 +5522,7 @@
         "Rarity": "Secret",
         "PlacePrice": 250,
         "Offset": 0,
-        "Max": 1,
+        "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 20%"},
         "hitboxOffset": {
             "X": 0,
