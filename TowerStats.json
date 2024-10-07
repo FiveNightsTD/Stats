@@ -2958,6 +2958,7 @@
             }
         ]
     },
+
     "NightMarionne": {
         "Type": "AOE",
         "Image": "rbxassetid://18975916197",
@@ -2974,29 +2975,30 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1800,
+                "Damage": 2000,
                 "Cooldown": 1
             },
             {
                 "Price": 30000,
                 "Range": 35,
-                "Damage": 2200,
+                "Damage": 2500,
                 "Cooldown": 1
             },
             {
                 "Price": 40000,
                 "Range": 40,
-                "Damage": 2600,
+                "Damage": 3000,
                 "Cooldown": 1
             },
             {
                 "Price": 50000,
                 "Range": 45,
-                "Damage": 3000,
+                "Damage": 4000,
                 "Cooldown": 1
             }
         ]
     },
+
     "Fredbear": {
         "Type": "Support",
         "Image": "rbxassetid://18977659349",
@@ -3962,7 +3964,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5389,25 +5391,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 600,
+                "Damage": 800,
                 "Cooldown": 0.2
             },
             {
                 "Price": 15000,
                 "Range": 22,
-                "Damage": 700,
+                "Damage": 1000,
                 "Cooldown": 0.2
             },
             {
                 "Price": 20000,
                 "Range": 24,
-                "Damage": 800,
+                "Damage": 1200,
                 "Cooldown": 0.2
             },
             {
                 "Price": 25000,
                 "Range": 27,
-                "Damage": 1000,
+                "Damage": 1500,
                 "Cooldown": 0.2
             }
         ]
