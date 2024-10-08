@@ -5523,7 +5523,7 @@
         "Image": "rbxassetid://122976176441685",
         "Rarity": "Secret",
         "PlacePrice": 250,
-        "Offset": 0,
+        "Offset": -0.4,
         "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 20%"},
         "hitboxOffset": {
