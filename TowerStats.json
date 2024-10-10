@@ -5565,5 +5565,54 @@
                 "Slow": 0.8
             }
         ]
+    },
+
+    "Overclocked Puppet": {
+        "Type": "Splash",
+        "Image": "rbxassetid://100495958746039",
+        "Rarity": "Secret",
+        "PlacePrice": 21000,
+        "Offset": -0.4,
+        "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Stops regen and deals an extra 50% damage overtime"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 10000,
+                "Cooldown": 4,
+                "CooldownBoost": 0.97,
+                "Slow": 0.8
+            },
+            {
+                "Price": 25000,
+                "Range": 22,
+                "Damage": 12000,
+                "Cooldown": 3.7,
+                "CooldownBoost": 0.95,
+                "Slow": 0.8
+            },
+            {
+                "Price": 30000,
+                "Range": 24,
+                "Damage": 14000,
+                "Cooldown": 3.4,
+                "CooldownBoost": 0.92,
+                "Slow": 0.8
+            },
+            {
+                "Price": 35000,
+                "Range": 25,
+                "Damage": 16000,
+                "Cooldown": 3,
+                "CooldownBoost": 0.9,
+                "Slow": 0.8
+            }
+        ]
     }
 }
