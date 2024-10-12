@@ -5722,5 +5722,120 @@
                 "Cooldown": 1
             }
         ]
+    },
+"Dreadbear": {
+        "Type": "AOE Burn + Stun",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Burn": 30,
+                "BurnTime": 1
+            }
+        ]
+    },
+"Jack O Bonnie": {
+        "Type": "Cone AOE Burst",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1
+            }
+        ]
+    },
+"Jack O Endo": {
+        "Type": "Continuous Burn",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "Burn": 10,
+                "BurnTime": 0.5
+            }
+        ]
+    },
+"Jack O Chica": {
+        "Type": "Splash Burn",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "Burn": 10,
+                "BurnTime": 1
+            }
+        ]
+    },
+"Pumpkin Balloon Boy": {
+        "Type": "Splash Burn",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "Burn": 10,
+                "BurnTime": 1
+            }
+        ]
     }
 }
