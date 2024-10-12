@@ -5714,7 +5714,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://112050273953919",
         "Rarity": "Nightmare",
-        "PlacePrice": 100,
+        "PlacePrice": 16000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -5734,7 +5734,7 @@
                 "BurnTime": 2
             },
             {
-                "Price": 25000,
+                "Price": 20000,
                 "Range": 27,
                 "Damage": 4000,
                 "Cooldown": 2.7,
@@ -5744,7 +5744,7 @@
                 "BurnTime": 2
             },
             {
-                "Price": 30000,
+                "Price": 25000,
                 "Range": 28,
                 "Damage": 5000,
                 "Cooldown": 2.5,
@@ -5754,7 +5754,7 @@
                 "BurnTime": 2
             },
             {
-                "Price": 60000,
+                "Price": 30000,
                 "Range": 30,
                 "Damage": 7000,
                 "Cooldown": 2.5,
