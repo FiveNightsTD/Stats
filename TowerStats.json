@@ -5617,7 +5617,7 @@
     },
 "Eclipse Ballora": {
         "Type": "Damage + Cooldown Booster",
-        "Image": "",
+        "Image": "rbxassetid://87973816034102",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -5641,7 +5641,7 @@
     },
 "Jack O Cannon": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://96604370427078",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -5662,7 +5662,7 @@
     },
 "Scarecrow Foxy": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://112050273953919",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -5683,7 +5683,7 @@
     },
  "Clowntrap": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://98100058612651",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -5704,7 +5704,7 @@
     },
  "Grimm Foxy": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://101295016610509",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -5725,7 +5725,7 @@
     },
 "Dreadbear": {
         "Type": "AOE Burn + Stun",
-        "Image": "",
+        "Image": "rbxassetid://71876084991999",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -5750,7 +5750,7 @@
     },
 "Jack O Bonnie": {
         "Type": "Cone AOE Burst",
-        "Image": "",
+        "Image": "rbxassetid://138089489409264",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -5771,7 +5771,7 @@
     },
 "Jack O Endo": {
         "Type": "Continuous Burn",
-        "Image": "",
+        "Image": "rbxassetid://140269643382452",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -5794,7 +5794,7 @@
     },
 "Jack O Chica": {
         "Type": "Splash Burn",
-        "Image": "",
+        "Image": "rbxassetid://127828338385715",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -5817,7 +5817,7 @@
     },
 "Pumpkin Balloon Boy": {
         "Type": "Splash Burn",
-        "Image": "",
+        "Image": "rbxassetid://114209077497389",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
