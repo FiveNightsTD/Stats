@@ -5711,7 +5711,7 @@
 
 
 "Scarecrow Foxy": {
-        "Type": "Splash",
+        "Type": "Splash + Burn + Stun",
         "Image": "rbxassetid://112050273953919",
         "Rarity": "Nightmare",
         "PlacePrice": 16000,
