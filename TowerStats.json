@@ -5655,7 +5655,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 1
             }
         ]
@@ -5676,7 +5676,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 1
             }
         ]
@@ -5697,7 +5697,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 1
             }
         ]
@@ -5718,7 +5718,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 1
             }
         ]
@@ -5739,7 +5739,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 1,
                 "Slow": 0,
                 "SlowTime": 0.5,
@@ -5764,7 +5764,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 1
             }
         ]
@@ -5785,7 +5785,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 1,
                 "Burn": 10,
                 "BurnTime": 0.5
@@ -5808,7 +5808,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 1,
                 "Burn": 10,
                 "BurnTime": 1
@@ -5831,7 +5831,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
+                "Damage": 100,
                 "Cooldown": 1,
                 "Burn": 10,
                 "BurnTime": 1
