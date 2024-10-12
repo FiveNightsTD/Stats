@@ -5860,7 +5860,6 @@
 
 
 
-
 "Dreadbear": {
         "Type": "AOE Burn + Stun",
         "Image": "rbxassetid://71876084991999",
@@ -5880,8 +5879,8 @@
                 "Damage": 4000,
                 "Cooldown": 3,
                 "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 200,
+                "SlowTime": 0.35,
+                "Burn": 50,
                 "BurnTime": 2
             },
             {
@@ -5890,8 +5889,8 @@
                 "Damage": 5000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 200,
+                "SlowTime": 0.35,
+                "Burn": 50,
                 "BurnTime": 2
             },
             {
@@ -5900,8 +5899,8 @@
                 "Damage": 6000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 200,
+                "SlowTime": 0.35,
+                "Burn": 50,
                 "BurnTime": 2
             },
             {
@@ -5910,8 +5909,8 @@
                 "Damage": 7000,
                 "Cooldown": 2,
                 "Slow": 0,
-                "SlowTime": 0.5,
-                "Burn": 200,
+                "SlowTime": 0.35,
+                "Burn": 50,
                 "BurnTime": 2
             }
         ]
