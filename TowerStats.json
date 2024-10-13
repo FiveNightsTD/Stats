@@ -5660,8 +5660,8 @@
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.73,
-                "DamageBoost": 1.27
+                "CooldownBoost": 0.7,
+                "DamageBoost": 1.3
             }
         ]
     },
