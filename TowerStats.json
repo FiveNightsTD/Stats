@@ -5772,7 +5772,7 @@
         "Type": "Splash Stun",
         "Image": "rbxassetid://98100058612651",
         "Rarity": "Secret",
-        "PlacePrice": 12000,
+        "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
