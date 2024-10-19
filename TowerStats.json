@@ -6552,12 +6552,12 @@
         ]
     },
 "Blighted Endo Bonnie": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://100997380896121",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 30% and reduces enemy regen by 50%"},
         "hitboxOffset": {
             "X": 0,
