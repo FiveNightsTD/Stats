@@ -6120,5 +6120,29 @@
                 "Cooldown": 2.5
             }
         ]
+    },
+    "Spike Summoner": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "SummonTime": 10,
+                "Unit": "Helper Freddle",
+                "Health": 500,
+                "Cooldown": 10
+            }
+        ]
     }
 }
