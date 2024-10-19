@@ -6599,7 +6599,7 @@
                 "Price": 40000,
                 "Range": 25,
                 "Damage": 2500,
-                "Cooldown": 1,
+                "Cooldown": 0.8,
                 "Slow": 0.65,
                 "SlowTime": 0.8,
                 "Bleed": 0.50,
