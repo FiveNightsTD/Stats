@@ -6139,7 +6139,6 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "SummonTime": 10,
                 "Unit": "Helper Freddle",
                 "Health": 500,
                 "Cooldown": 10
