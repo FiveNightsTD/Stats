@@ -6440,7 +6440,7 @@
         "Rarity": "Uncommon",
         "PlacePrice": 300,
         "Offset": 0,
-        "Max": 3,
+        "Max": 8,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
