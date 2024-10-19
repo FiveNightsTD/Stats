@@ -5568,7 +5568,7 @@
         ]
     },
 
-    "Overclocked Puppeteer": {
+    "Overclocked Puppet": {
         "Type": "Splash",
         "Image": "rbxassetid://100495958746039",
         "Rarity": "Nightmare",
@@ -6124,7 +6124,7 @@
     },
     "Gravelord Foxy": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://76307842206911",
         "Rarity": "Secret",
         "PlacePrice": 400,
         "Offset": 0,
@@ -6351,7 +6351,7 @@
     },
 "Cool Toy Bonnie": {
         "Type": "Single",
-        "Image": "rbxassetid://99151054438999",
+        "Image": "rbxassetid://102583887192750",
         "Rarity": "Epic",
         "PlacePrice": 100,
         "Offset": 0,
@@ -6548,14 +6548,44 @@
                 "SlowTime": 1,
                 "Bleed": 0.70,
                 "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1,
+                "Bleed": 0.70,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1,
+                "Bleed": 0.70,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1,
+                "Bleed": 0.70,
+                "BleedTime": 1
             }
         ]
     },
     "Super Freddy": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://92313535673690",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 12000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6567,8 +6597,26 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 500,
-                "Cooldown": 1
+                "Damage": 160,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14000,
+                "Range": 15,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 15,
+                "Damage": 240,
+                "Cooldown": 0.1
+            },          
+             {
+                "Price": 18000,
+                "Range": 15,
+                "Damage": 280,
+                "Cooldown": 0.1
             }
         ]
     }
