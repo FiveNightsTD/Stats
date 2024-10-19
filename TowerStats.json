@@ -1,3 +1,4 @@
+
 {
     "Freddy": {
         "Type": "Single",
@@ -6126,7 +6127,7 @@
         "Type": "Single",
         "Image": "rbxassetid://76307842206911",
         "Rarity": "Secret",
-        "PlacePrice": 400,
+        "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -6144,7 +6145,15 @@
                 "Health": 500,
                 "Cooldown": 5
             },
-                        {
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
+                "Health": 500,
+                "Cooldown": 5
+            },
+            {
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
@@ -6158,7 +6167,7 @@
         "Type": "Single",
         "Image": "rbxassetid://113183024632182",
         "Rarity": "Mythic",
-        "PlacePrice": 100,
+        "PlacePrice": 4000,
         "Offset": -2,
         "Max": 3,
         "hitboxOffset": {
@@ -6197,7 +6206,7 @@
         "Type": "Single",
         "Image": "rbxassetid://98140234704161",
         "Rarity": "Rare",
-        "PlacePrice": 100,
+        "PlacePrice": 750,
         "Offset": 5,
         "Max": 3,
         "hitboxOffset": {
@@ -6236,7 +6245,7 @@
         "Type": "Single",
         "Image": "rbxassetid://80554534210979",
         "Rarity": "Rare",
-        "PlacePrice": 100,
+        "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6275,7 +6284,7 @@
         "Type": "Continuous",
         "Image": "rbxassetid://76006977041371",
         "Rarity": "Mythic",
-        "PlacePrice": 100,
+        "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6314,7 +6323,7 @@
         "Type": "Single",
         "Image": "rbxassetid://99151054438999",
         "Rarity": "Rare",
-        "PlacePrice": 100,
+        "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6353,7 +6362,7 @@
         "Type": "Single",
         "Image": "rbxassetid://102583887192750",
         "Rarity": "Epic",
-        "PlacePrice": 100,
+        "PlacePrice": 750,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6392,7 +6401,7 @@
         "Type": "Splash",
         "Image": "rbxassetid://117417835066117",
         "Rarity": "Epic",
-        "PlacePrice": 100,
+        "PlacePrice": 1250,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6431,7 +6440,7 @@
         "Type": "Single",
         "Image": "rbxassetid://120373540270181",
         "Rarity": "Uncommon",
-        "PlacePrice": 100,
+        "PlacePrice": 300,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6470,7 +6479,7 @@
         "Type": "Single",
         "Image": "rbxassetid://107530099452850",
         "Rarity": "Uncommon",
-        "PlacePrice": 100,
+        "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6509,7 +6518,7 @@
         "Type": "Single",
         "Image": "rbxassetid://131013206661426",
         "Rarity": "Epic",
-        "PlacePrice": 100,
+        "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6521,7 +6530,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 600,
+                "Range": 16,
+                "Damage": 120,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 17,
+                "Damage": 140,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 150,
                 "Cooldown": 1
             }
         ]
