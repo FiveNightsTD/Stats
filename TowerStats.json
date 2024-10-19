@@ -6130,34 +6130,34 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 47000,
+                "Damage": 70000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
-                "Cooldown": 5
+                "Cooldown": 7
             },
             {
                 "Price": 43000,
                 "Range": 15,
-                "Damage": 67000,
+                "Damage": 80000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
-                "Cooldown": 5
+                "Cooldown": 7
             },
             {
                 "Price": 54000,
                 "Range": 15,
-                "Damage": 78000,
+                "Damage": 100000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
-                "Cooldown": 5
+                "Cooldown": 7
             },
             {
                 "Price": 67000,
                 "Range": 15,
-                "Damage": 92000,
+                "Damage": 120000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 50000,
-                "Cooldown": 5
+                "Cooldown": 7
             }
         ]
     },
