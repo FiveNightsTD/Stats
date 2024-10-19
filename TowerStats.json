@@ -6140,7 +6140,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Unit": "Necro Spawn",
+                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 5
             },
@@ -6148,7 +6148,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Unit": "Necro Spawn 2",
+                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 5
             }
