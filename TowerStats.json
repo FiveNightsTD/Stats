@@ -6381,7 +6381,11 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Cooldown": 1
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1,
+                "Bleed": 0.70,
+                "BleedTime": 1
             }
         ]
     }
