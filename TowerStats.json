@@ -6118,7 +6118,7 @@
         "Image": "rbxassetid://76307842206911",
         "Rarity": "Apex",
         "PlacePrice": 34000,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 3,
         "NoEnemyAttack": true,
         "hitboxOffset": {
