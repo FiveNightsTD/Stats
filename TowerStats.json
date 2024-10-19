@@ -6150,6 +6150,14 @@
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 5
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
+                "Health": 50000,
+                "Cooldown": 5
             }
         ]
     },
@@ -6614,25 +6622,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 160,
                 "Cooldown": 0.1
             },
             {
                 "Price": 14000,
-                "Range": 15,
+                "Range": 23,
                 "Damage": 200,
                 "Cooldown": 0.1
             },
             {
                 "Price": 16000,
-                "Range": 15,
+                "Range": 27,
                 "Damage": 240,
                 "Cooldown": 0.1
             },          
              {
                 "Price": 18000,
-                "Range": 15,
+                "Range": 30,
                 "Damage": 280,
                 "Cooldown": 0.1
             }
