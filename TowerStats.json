@@ -6558,7 +6558,7 @@
         "PlacePrice": 20000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 30% and reduces enemy regen by 50%"},
+        "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 35% and reduces enemy regen by 50%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -6569,8 +6569,8 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1800,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Cooldown": 0.8,
+                "Slow": 0.65,
                 "SlowTime": 1,
                 "Bleed": 0.50,
                 "BleedTime": 1
@@ -6579,8 +6579,8 @@
                 "Price": 25000,
                 "Range": 22,
                 "Damage": 2000,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Cooldown": 0.8,
+                "Slow": 0.65,
                 "SlowTime": 1,
                 "Bleed": 0.50,
                 "BleedTime": 1
@@ -6589,8 +6589,8 @@
                 "Price": 30000,
                 "Range": 23,
                 "Damage": 2200,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Cooldown": 0.8,
+                "Slow": 0.65,
                 "SlowTime": 1,
                 "Bleed": 0.50,
                 "BleedTime": 1
@@ -6600,8 +6600,8 @@
                 "Range": 25,
                 "Damage": 2500,
                 "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1,
+                "Slow": 0.65,
+                "SlowTime": 0.8,
                 "Bleed": 0.50,
                 "BleedTime": 1
             }
