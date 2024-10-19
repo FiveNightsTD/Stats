@@ -6117,7 +6117,7 @@
         "Type": "Single",
         "Image": "rbxassetid://76307842206911",
         "Rarity": "Apex",
-        "PlacePrice": 30000,
+        "PlacePrice": 34000,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -6130,31 +6130,31 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 47000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 5
             },
             {
-                "Price": 0,
+                "Price": 43000,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 67000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 5
             },
             {
-                "Price": 0,
+                "Price": 54000,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 78000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 5
             },
             {
-                "Price": 0,
+                "Price": 67000,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 92000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 50000,
                 "Cooldown": 5
