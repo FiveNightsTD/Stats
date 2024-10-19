@@ -6141,7 +6141,7 @@
                 "Damage": 500,
                 "Unit": "Helper Freddle",
                 "Health": 500,
-                "Cooldown": 10
+                "Cooldown": 5
             }
         ]
     },
@@ -6162,7 +6162,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Cooldown": 10
+                "Cooldown": 1
             }
         ]
     },
@@ -6183,7 +6183,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Cooldown": 10
+                "Cooldown": 1
             }
         ]
     },
@@ -6204,7 +6204,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Cooldown": 10
+                "Cooldown": 1
             }
         ]
     },
@@ -6225,7 +6225,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Cooldown": 10
+                "Cooldown": 1
             }
         ]
     },
@@ -6246,7 +6246,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Cooldown": 10
+                "Cooldown": 1
             }
         ]
     },
@@ -6267,7 +6267,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Cooldown": 10
+                "Cooldown": 1
             }
         ]
     },
@@ -6288,7 +6288,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 500,
-                "Cooldown": 10
+                "Cooldown": 1
             }
         ]
     }
