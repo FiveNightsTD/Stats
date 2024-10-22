@@ -6561,7 +6561,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://100997380896121",
         "Rarity": "Nightmare",
-        "PlacePrice": 20000,
+        "PlacePrice": 12500,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 35% and reduces enemy regen by 50%"},
@@ -6578,37 +6578,37 @@
                 "Cooldown": 0.8,
                 "Slow": 0.65,
                 "SlowTime": 1,
-                "Bleed": 0.50,
+                "Bleed": 0.75,
                 "BleedTime": 1
             },
             {
-                "Price": 25000,
+                "Price": 14000,
                 "Range": 22,
                 "Damage": 2000,
                 "Cooldown": 0.8,
                 "Slow": 0.65,
                 "SlowTime": 1,
-                "Bleed": 0.50,
+                "Bleed": 0.75,
                 "BleedTime": 1
             },
             {
-                "Price": 30000,
+                "Price": 16000,
                 "Range": 23,
                 "Damage": 2200,
                 "Cooldown": 0.8,
                 "Slow": 0.65,
                 "SlowTime": 1,
-                "Bleed": 0.50,
+                "Bleed": 0.75,
                 "BleedTime": 1
             },
             {
-                "Price": 40000,
+                "Price": 18000,
                 "Range": 25,
                 "Damage": 2500,
                 "Cooldown": 0.8,
                 "Slow": 0.65,
                 "SlowTime": 0.8,
-                "Bleed": 0.50,
+                "Bleed": 0.75,
                 "BleedTime": 1
             }
         ]
