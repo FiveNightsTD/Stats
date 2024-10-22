@@ -4616,7 +4616,6 @@
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Nuclear Fission", "Description": "Nullifys all enemy on contact"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
