@@ -6113,6 +6113,8 @@
             }
         ]
     },
+
+
     "Gravelord Foxy": {
         "Type": "Summon",
         "Image": "rbxassetid://76307842206911",
@@ -6126,41 +6128,44 @@
             "Y": 0,
             "Z": 0
         },
+
         "Upgrades": [
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 70000,
+                "Damage": 7000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
-                "Cooldown": 7
+                "Cooldown": 3
             },
             {
                 "Price": 43000,
                 "Range": 15,
-                "Damage": 80000,
+                "Damage": 9000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
-                "Cooldown": 7
+                "Cooldown": 2.75
             },
             {
                 "Price": 54000,
                 "Range": 15,
-                "Damage": 100000,
+                "Damage": 11000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
-                "Cooldown": 7
+                "Cooldown": 2.5
             },
             {
                 "Price": 67000,
                 "Range": 15,
-                "Damage": 120000,
+                "Damage": 13000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 50000,
-                "Cooldown": 7
+                "Cooldown": 2
             }
         ]
     },
+
+
     "Haunted Golden Freddy": {
         "Type": "Single",
         "Image": "rbxassetid://113183024632182",
