@@ -4626,33 +4626,25 @@
                 "Price": 0,
                 "Range": 30,
                 "Damage": 500,
-                "Cooldown": 0.1,
-                "Bleed": 1,
-                "BleedTime": 1
+                "Cooldown": 0.1
             },
             {
                 "Price": 75000,
                 "Range": 32,
                 "Damage": 600,
-                "Cooldown": 0.1,
-                "Bleed": 1,
-                "BleedTime": 1
+                "Cooldown": 0.1
             },
             {
                 "Price": 100000,
                 "Range": 34,
                 "Damage": 700,
-                "Cooldown": 0.1,
-                "Bleed": 1,
-                "BleedTime": 1
+                "Cooldown": 0.1
             },
             {
                 "Price": 125000,
                 "Range": 35,
                 "Damage": 800,
-                "Cooldown": 0.1,
-                "Bleed": 1,
-                "BleedTime": 1
+                "Cooldown": 0.1
             }
         ]
     },
