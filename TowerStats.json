@@ -4546,25 +4546,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1500,
+                "Damage": 1800,
                 "Cooldown": 1
             },
             {
                 "Price": 34000,
                 "Range": 22,
-                "Damage": 1700,
+                "Damage": 2000,
                 "Cooldown": 0.8
             },
             {
                 "Price": 48000,
                 "Range": 25,
-                "Damage": 1800,
+                "Damage": 2400,
                 "Cooldown": 0.7
             },
             {
                 "Price": 62000,
                 "Range": 30,
-                "Damage": 2000,
+                "Damage": 2750,
                 "Cooldown": 0.5
             }
         ]
@@ -4616,6 +4616,7 @@
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Nuclear Fission", "Description": "Nullifys all enemy on contact"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4626,25 +4627,33 @@
                 "Price": 0,
                 "Range": 30,
                 "Damage": 500,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             },
             {
                 "Price": 75000,
                 "Range": 32,
                 "Damage": 600,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             },
             {
                 "Price": 100000,
                 "Range": 34,
                 "Damage": 700,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             },
             {
                 "Price": 125000,
                 "Range": 35,
                 "Damage": 800,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             }
         ]
     },
