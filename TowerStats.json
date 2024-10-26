@@ -2536,7 +2536,7 @@
         ]
     },
     "Tarnished Spring Bonnie": {
-        "Type": "Melee",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://18777411515",
         "Rarity": "Secret",
         "PlacePrice": 600,
@@ -3753,7 +3753,7 @@
     "Purple Guy": {
         "Type": "Turret Spawner",
         "Image": "rbxassetid://74846136473322",
-        "Rarity": "Secret",
+        "Rarity": "Cone AOE",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
@@ -5328,7 +5328,7 @@
     },
 
     "Fortified Endo 02": {
-        "Type": "Single",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://86634335404738",
         "Rarity": "Secret",
         "PlacePrice": 500,
