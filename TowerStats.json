@@ -6682,7 +6682,7 @@
         ]
     },
     "Juggernaut Bonnie": {
-        "Type": "Single",
+        "Type": "Continuous Splash + Passive",
         "Image": "rbxassetid://101410205353650",
         "Rarity": "Secret",
         "PlacePrice": 100,
@@ -6759,7 +6759,7 @@
         ]
     },
     "President Freddy": {
-        "Type": "Single",
+        "Type": "Splash",
         "Image": "rbxassetid://133399431749556",
         "Rarity": "Secret",
         "PlacePrice": 300,
@@ -6799,7 +6799,7 @@
     },
 
     "Sharpshooter Puppet": {
-        "Type": "Single",
+        "Type": "Pierce",
         "Image": "rbxassetid://122218118663611",
         "Rarity": "Secret",
         "PlacePrice": 10000,
