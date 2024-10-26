@@ -6684,7 +6684,7 @@
     "Juggernaut Bonnie": {
         "Type": "Continuous Splash + Passive",
         "Image": "rbxassetid://101410205353650",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 75000,
         "Offset": 0,
         "Max": 2,
@@ -6859,7 +6859,7 @@
     "Augmetned Endo": {
         "Type": "Single",
         "Image": "rbxassetid://135702265461354",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Max": 4,
         "hitboxOffset": {
