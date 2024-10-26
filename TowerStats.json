@@ -6762,9 +6762,9 @@
         "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 300,
         "Offset": 0,
-        "Max": 3,
+        "Max": 4,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -6773,17 +6773,36 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 15,
+                "Damage": 1100,
+                "Cooldown": 4
+            },
+            {
+                "Price": 500,
+                "Range": 18,
+                "Damage": 1300,
+                "Cooldown": 3.8
+            },
+            {
+                "Price": 800,
                 "Range": 20,
-                "Damage": 240,
-                "Cooldown": 1
+                "Damage": 1500,
+                "Cooldown": 3.7
+            },
+            {
+                "Price": 1200,
+                "Range": 22,
+                "Damage": 1700,
+                "Cooldown": 3
             }
         ]
     },
+
     "Sharpshooter Puppet": {
         "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -6818,11 +6837,12 @@
             }
         ]
     },
+
     "Ghastly Phantom Freddy": {
         "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
