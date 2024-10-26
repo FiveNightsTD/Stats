@@ -4740,7 +4740,7 @@
 
 "Deadeye Freddy": {
         "Type": "Pierce",
-        "Image": "",
+        "Image": "rbxassetid://139393570539370",
         "Rarity": "Nightmare",
         "PlacePrice": 27000,
         "Offset": 0,
@@ -6683,7 +6683,7 @@
     },
     "Juggernaut Bonnie": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://101410205353650",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -6704,7 +6704,7 @@
     },
     "Nightguard Afton": {
         "Type": "Cone AOE Slow + Poison",
-        "Image": "",
+        "Image": "rbxassetid://105795940597453",
         "Rarity": "Secret",
         "PlacePrice": 550,
         "Offset": 0,
@@ -6760,7 +6760,7 @@
     },
     "President Freddy": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://133399431749556",
         "Rarity": "Secret",
         "PlacePrice": 300,
         "Offset": 0,
@@ -6800,7 +6800,7 @@
 
     "Sharpshooter Puppet": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://122218118663611",
         "Rarity": "Secret",
         "PlacePrice": 10000,
         "Offset": 0,
@@ -6840,7 +6840,7 @@
 
     "Ghastly Phantom Freddy": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://107487482857244",
         "Rarity": "Secret",
         "PlacePrice": 10000,
         "Offset": 0,
