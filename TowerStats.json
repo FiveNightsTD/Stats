@@ -4791,6 +4791,7 @@
         "PlacePrice": 27000,
         "Offset": 0,
         "Max": 3,
+        "MaxChain": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -7089,6 +7090,7 @@
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
+        "MaxChain": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
