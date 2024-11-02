@@ -4800,9 +4800,9 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 1500,
-                "Cooldown": 1,
+                "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             }
