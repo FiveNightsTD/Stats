@@ -4802,7 +4802,9 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1500,
-                "Cooldown": 1
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
             }
         ]
     },
