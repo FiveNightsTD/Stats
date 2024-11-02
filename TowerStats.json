@@ -7415,7 +7415,7 @@
         "PlacePrice": 1000,
         "Offset": -2,
         "Max": 3,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
+        "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 50%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -7424,37 +7424,37 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.2,
+                "RangeBoost": 1.5,
                 "Slow": 0.50,
                 "SlowTime": 1
             },
             {
                 "Price": 1200,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.3,
+                "RangeBoost": 1.7,
                 "Slow": 0.50,
                 "SlowTime": 1
             },
             {
                 "Price": 1400,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.4,
+                "RangeBoost": 1.9,
                 "Slow": 0.50,
                 "SlowTime": 1
             },
             {
                 "Price": 1600,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.5,
+                "RangeBoost": 2,
                 "Slow": 0.50,
                 "SlowTime": 1
             }
