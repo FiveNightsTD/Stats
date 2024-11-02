@@ -4788,7 +4788,7 @@
         "Type": "Chain Shock",
         "Image": "rbxassetid://109381228663902",
         "Rarity": "Nightmare",
-        "PlacePrice": 27000,
+        "PlacePrice": 18000,
         "Offset": 0,
         "Max": 3,
         "MaxChain": 5,
@@ -4801,7 +4801,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1800,
+                "Damage": 3600,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -4809,7 +4809,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 2000,
+                "Damage": 4000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -4817,7 +4817,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 2250,
+                "Damage": 4500,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -4825,7 +4825,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 2500,
+                "Damage": 5000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
