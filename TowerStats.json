@@ -7131,6 +7131,7 @@
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Inspiring Melody", "Description": "All units in range get +25% range (x1.25 if shiny)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
