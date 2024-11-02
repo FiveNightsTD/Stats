@@ -4789,7 +4789,7 @@
         "Image": "rbxassetid://109381228663902",
         "Rarity": "Nightmare",
         "PlacePrice": 18000,
-        "Offset": 0,
+        "Offset": 0.75,
         "Max": 3,
         "MaxChain": 5,
         "hitboxOffset": {
@@ -7175,7 +7175,7 @@
         "Image": "rbxassetid://135679216615409",
         "Rarity": "Secret",
         "PlacePrice": 800,
-        "Offset": 0,
+        "Offset": -0.75,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -7222,7 +7222,7 @@
         "Image": "rbxassetid://72496434217414",
         "Rarity": "Secret",
         "PlacePrice": 17500,
-        "Offset": 0,
+        "Offset": -0.75,
         "Max": 3,
         "MaxChain": 5,
         "hitboxOffset": {
@@ -7361,7 +7361,7 @@
         "Image": "rbxassetid://126581484399291",
         "Rarity": "Secret",
         "PlacePrice": 300,
-        "Offset": 0,
+        "Offset": -0.925,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -7410,7 +7410,7 @@
         "Image": "rbxassetid://98177156677827",
         "Rarity": "Secret",
         "PlacePrice": 1000,
-        "Offset": -1,
+        "Offset": -2,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -7463,7 +7463,7 @@
         "Image": "rbxassetid://75811990729586",
         "Rarity": "Epic",
         "PlacePrice": 500,
-        "Offset": 0,
+        "Offset": -2.25,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
