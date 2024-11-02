@@ -4791,7 +4791,8 @@
         "PlacePrice": 18000,
         "Offset": 0.75,
         "Max": 3,
-        "MaxChain": 5,
+        "MaxChain": 10,
+        "Passive": {"Name": "Controlled Shock", "Description": "Sends out a controlled shock that bounces between up to 10 nearby units dealing damage and stunning them"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
