@@ -7463,7 +7463,7 @@
         "Image": "rbxassetid://75811990729586",
         "Rarity": "Epic",
         "PlacePrice": 500,
-        "Offset": 500,
+        "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
