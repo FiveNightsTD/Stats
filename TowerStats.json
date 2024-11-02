@@ -7318,7 +7318,7 @@
     
 
     "Scrap Baby": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://96792758281792",
         "Rarity": "Secret",
         "PlacePrice": 8000,
