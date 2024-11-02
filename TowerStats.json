@@ -6936,5 +6936,45 @@
                 "Cooldown": 0.05
             }
         ]
+    },
+    
+    "Lefty": {
+        "Type": "Single",
+        "Image": "rbxassetid://83919975703193",
+        "Rarity": "Nightmare",
+        "PlacePrice": 10000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 60,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 70,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 80,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 40000,
+                "Range": 30,
+                "Damage": 110,
+                "Cooldown": 0.05
+            }
+        ]
     }
 }
