@@ -7142,14 +7142,14 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 10,
+                "Damage": 100,
                 "Cooldown": 0.1,
                 "RangeBoost": 1.3
             },
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 10,
+                "Damage": 150,
                 "Cooldown": 0.1,
                 "RangeBoost": 1.3
 
@@ -7157,7 +7157,7 @@
             {
                 "Price": 25000,
                 "Range": 24,
-                "Damage": 10,
+                "Damage": 200,
                 "Cooldown": 0.1,
                 "RangeBoost": 1.3
 
