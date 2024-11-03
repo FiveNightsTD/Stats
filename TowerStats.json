@@ -4790,7 +4790,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 18000,
         "Offset": 0.75,
-        "Max": 3,
+        "Max": 2,
         "MaxChain": 10,
         "Passive": {"Name": "Controlled Shock", "Description": "Sends out a controlled shock that bounces between up to 10 nearby units dealing damage and stunning them"},
         "hitboxOffset": {
@@ -4801,7 +4801,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 3600,
                 "Cooldown": 2,
                 "Slow": 0,
@@ -4809,7 +4809,7 @@
             },
             {
                 "Price": 22000,
-                "Range": 22,
+                "Range": 27,
                 "Damage": 4000,
                 "Cooldown": 2,
                 "Slow": 0,
@@ -4817,7 +4817,7 @@
             },
             {
                 "Price": 24000,
-                "Range": 24,
+                "Range": 28,
                 "Damage": 4500,
                 "Cooldown": 2,
                 "Slow": 0,
@@ -4825,7 +4825,7 @@
             },
             {
                 "Price": 26000,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 5000,
                 "Cooldown": 2,
                 "Slow": 0,
