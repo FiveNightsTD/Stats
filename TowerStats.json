@@ -7383,7 +7383,7 @@
             {
                 "Price": 450,
                 "Range": 20,
-                "Damage": 100,
+                "Damage": 70,
                 "Cooldown": 0.5,
                 "Slow": 0.80,
                 "SlowTime": 1
@@ -7391,7 +7391,7 @@
             {
                 "Price": 600,
                 "Range": 22,
-                "Damage": 100,
+                "Damage": 80,
                 "Cooldown": 0.4,
                 "Slow": 0.80,
                 "SlowTime": 1
