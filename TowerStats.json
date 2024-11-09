@@ -7561,14 +7561,14 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 150,
+                "Damage": 200,
                 "Cooldown": 0.1,
                 "DamageBoost": 1.35
             },
             {
                 "Price": 20000,
                 "Range": 40,
-                "Damage": 200,
+                "Damage": 250,
                 "Cooldown": 0.1,
                 "DamageBoost": 1.35
 
@@ -7584,7 +7584,7 @@
             {
                 "Price": 30000,
                 "Range": 50,
-                "Damage": 400,
+                "Damage": 450,
                 "Cooldown": 0.1,
                 "DamageBoost": 1.35
             }
