@@ -7594,7 +7594,7 @@
         "Type": "Summon",
         "Image": "",
         "Rarity": "Apex",
-        "PlacePrice": 100,
+        "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Crushing Pressure", "Description": "All enemies in range are slowed by 40% and targeting enemies are slowed by 65%"},
@@ -7607,14 +7607,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 3500,
-                "Cooldown": 0.1,
-                "Slow": 0.70,
-                "SlowTime": 1
+                "Range": 25,
+                "Damage": 160,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 12000,
+                "Range": 27,
+                "Damage": 180,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 14000,
+                "Range": 28,
+                "Damage": 200,
+                "Cooldown": 0.1
+            },
+            {
+                "Price": 16000,
+                "Range": 30,
+                "Damage": 250,
+                "Cooldown": 0.1
             }
         ]
     },
+
 
     "Mr Can Do": {
         "Type": "Single",
