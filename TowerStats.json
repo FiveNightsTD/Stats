@@ -7546,10 +7546,10 @@
 
     "Popstar Chica": {
         "Type": "AOE + Damage Boost",
-        "Image": "",
+        "Image": "rbxassetid://122725475592106",
         "Rarity": "Secret",
         "PlacePrice": 12000,
-        "Offset": -7,
+        "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -7591,8 +7591,8 @@
     },
 
     "Overseer Foxy": {
-        "Type": "Summon",
-        "Image": "",
+        "Type": "Splash Slow + Passive",
+        "Image": "rbxassetid://75863350712625",
         "Rarity": "Nightmare",
         "PlacePrice": 8000,
         "Offset": 0,
