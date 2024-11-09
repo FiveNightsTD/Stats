@@ -7551,6 +7551,7 @@
         "PlacePrice": 12000,
         "Offset": -7,
         "Max": 2,
+        "Passive": {"Name": "Inspire", "Description": "All units in range gain a +32% damage boost (x1.25 if shiny)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
