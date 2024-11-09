@@ -7551,7 +7551,7 @@
         "PlacePrice": 15000,
         "Offset": -7,
         "Max": 1,
-        "Passive": {"Name": "Inspire", "Description": "All units in range gain a +32% damage boost (x1.25 if shiny)"},
+        "Passive": {"Name": "Inspire", "Description": "All units in range gain a +35% damage boost (x1.25 if shiny)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -7563,14 +7563,14 @@
                 "Range": 35,
                 "Damage": 150,
                 "Cooldown": 0.1,
-                "DamageBoost": 1.32
+                "DamageBoost": 1.35
             },
             {
                 "Price": 20000,
                 "Range": 40,
                 "Damage": 200,
                 "Cooldown": 0.1,
-                "DamageBoost": 1.32
+                "DamageBoost": 1.35
 
             },
             {
@@ -7578,7 +7578,7 @@
                 "Range": 45,
                 "Damage": 300,
                 "Cooldown": 0.1,
-                "DamageBoost": 1.32
+                "DamageBoost": 1.35
 
             },
             {
@@ -7586,7 +7586,7 @@
                 "Range": 50,
                 "Damage": 400,
                 "Cooldown": 0.1,
-                "DamageBoost": 1.32
+                "DamageBoost": 1.35
             }
         ]
     },
