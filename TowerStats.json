@@ -7597,7 +7597,7 @@
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Crushing Pressure", "Description": "All enemies in range are slowed by 40% and targeting enemies are slowed by 65%"},
+        "Passive": {"Name": "Crushing Pressure", "Description": "All enemies in range are slowed by 40% and targeted enemies are slowed by 65%"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
