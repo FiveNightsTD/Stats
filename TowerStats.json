@@ -7549,7 +7549,7 @@
         "Image": "rbxassetid://122725475592106",
         "Rarity": "Secret",
         "PlacePrice": 15000,
-        "Offset": -7,
+        "Offset": -5,
         "Max": 1,
         "Passive": {"Name": "Inspire", "Description": "All units in range gain a +35% damage boost (x1.25 if shiny)"},
         "hitboxOffset": {
