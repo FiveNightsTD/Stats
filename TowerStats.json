@@ -7548,9 +7548,9 @@
         "Type": "AOE + Damage Boost",
         "Image": "rbxassetid://122725475592106",
         "Rarity": "Secret",
-        "PlacePrice": 12000,
+        "PlacePrice": 15000,
         "Offset": -7,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "Inspire", "Description": "All units in range gain a +32% damage boost (x1.25 if shiny)"},
         "hitboxOffset": {
             "X": 0,
@@ -7560,31 +7560,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 100,
-                "Cooldown": 0.1,
-                "DamageBoost": 1.32
-            },
-            {
-                "Price": 14000,
-                "Range": 22,
-                "Damage": 150,
-                "Cooldown": 0.1,
-                "DamageBoost": 1.32
-
-            },
-            {
-                "Price": 16000,
-                "Range": 24,
+                "Range": 35,
                 "Damage": 200,
                 "Cooldown": 0.1,
                 "DamageBoost": 1.32
+            },
+            {
+                "Price": 20000,
+                "Range": 40,
+                "Damage": 300,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.32
 
             },
             {
-                "Price": 18000,
-                "Range": 25,
-                "Damage": 250,
+                "Price": 25000,
+                "Range": 45,
+                "Damage": 400,
+                "Cooldown": 0.1,
+                "DamageBoost": 1.32
+
+            },
+            {
+                "Price": 30000,
+                "Range": 50,
+                "Damage": 500,
                 "Cooldown": 0.1,
                 "DamageBoost": 1.32
             }
