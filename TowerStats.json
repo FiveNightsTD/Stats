@@ -7549,13 +7549,13 @@
         "Image": "rbxassetid://105795940597453",
         "Rarity": "Secret",
         "PlacePrice": 550,
-        "Offset": 0,
+        "Offset": 1.8,
         "Max": 3,
         "Passive": {"Name": "FEAR", "Description": "Slows enemies by 40% and deals +50% damage in poison"},
         "hitboxOffset": {
             "X": 3,
             "Y": 0,
-            "Z": 0
+            "Z": 5
         },
         "Upgrades": [
             {
