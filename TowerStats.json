@@ -7553,7 +7553,7 @@
         "Max": 3,
         "Passive": {"Name": "FEAR", "Description": "Slows enemies by 40% and deals +50% damage in poison"},
         "hitboxOffset": {
-            "X": 0,
+            "X": 3,
             "Y": 0,
             "Z": 0
         },
