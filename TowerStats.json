@@ -7542,5 +7542,72 @@
             }
 
         ]
+    },
+    "Popstar Chica": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Overseer Foxy": {
+        "Type": "Summon",
+        "Image": "",
+        "Rarity": "Apex",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "Necromancer", "Description": "Summons spawns every 10 seconds that have health equal to 45 or 60 times this units damage"},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 3500,
+                "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
+                "Health": 500,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Mr Can Do": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 1
+            }
+        ]
     }
 }
