@@ -7180,6 +7180,7 @@
         "PlacePrice": 800,
         "Offset": -0.75,
         "Max": 3,
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
