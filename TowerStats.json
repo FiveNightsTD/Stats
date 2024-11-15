@@ -7131,6 +7131,7 @@
         "Image": "rbxassetid://94327478010876",
         "Rarity": "Secret",
         "PlacePrice": 15000,
+        "NoEnemyAttack": true,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Inspiring Melody", "Description": "All units in range get +25% range (x1.25 if shiny)"},
