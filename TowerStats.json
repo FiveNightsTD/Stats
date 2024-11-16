@@ -7853,5 +7853,28 @@
                 "Cooldown": 3
             }
         ]
+    },
+    "Windup Bonnie": {
+        "Type": "Cooldown Booster",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
+            }
+        ]
     }
 }
