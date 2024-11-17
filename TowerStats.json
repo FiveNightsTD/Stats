@@ -7887,7 +7887,7 @@
     },
 
     "Diver Endo": {
-        "Type": "Cone AOE",
+        "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://123144805229790",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
