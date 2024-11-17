@@ -4618,6 +4618,7 @@
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4628,25 +4629,33 @@
                 "Price": 0,
                 "Range": 30,
                 "Damage": 1200,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             },
             {
                 "Price": 35000,
                 "Range": 32,
                 "Damage": 1400,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             },
             {
                 "Price": 40000,
                 "Range": 34,
                 "Damage": 1500,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             },
             {
                 "Price": 50000,
                 "Range": 35,
                 "Damage": 1600,
-                "Cooldown": 0.1
+                "Cooldown": 0.1,
+                "Bleed": 1,
+                "BleedTime": 1
             }
         ]
     },
