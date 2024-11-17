@@ -7681,139 +7681,12 @@
         ]
     },
 
+
     "Geared Endo": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Splash Continuous",
+        "Image": "rbxassetid://89920479623802",
         "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-                      {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1,
-                "Cooldown": 1
-            }
-        ]
-    },
-    "Duelist Puppet": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-                      {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1,
-                "Cooldown": 1
-            }
-        ]
-    },
-    "Mechanical Freddy": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-                      {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1,
-                "Cooldown": 1
-            }
-        ]
-    },
-    "Brawler Foxy": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-                      {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1,
-                "Cooldown": 1
-            }
-        ]
-    },
-    "Steampunk Mangle": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-                      {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1,
-                "Cooldown": 1
-            }
-        ]
-    },
-    "Diver Endo": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-                      {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1,
-                "Cooldown": 1,
-                "Slow": 0.8,
-                "SlowTime": 1
-            }
-        ]
-    },
-    "Mechanic Afton": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -7824,10 +7697,290 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 20,
+                "Damage": 70,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 20000,
+                "Range": 22,
+                "Damage": 80,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 30000,
                 "Range": 25,
-                "Damage": 800,
-                "Cooldown": 0.4,
-                "SummonTime": 30,
+                "Damage": 90,
+                "Cooldown": 0.05
+            },
+            {
+                "Price": 40000,
+                "Range": 27,
+                "Damage": 125,
+                "Cooldown": 0.05
+            }
+        ]
+    },
+
+
+    "Duelist Puppet": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://127027664698206",
+        "Rarity": "Secret",
+        "PlacePrice": 9000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1800,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 2400,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 2800,
+                "Cooldown": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 3200,
+                "Cooldown": 1
+            }
+
+        ]
+    },
+
+
+    "Mechanical Freddy": {
+        "Type": "Single",
+        "Image": "rbxassetid://116234603453447",
+        "Rarity": "Epic",
+        "PlacePrice": 2750,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+            "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 400,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 4000,
+                "Range": 18,
+                "Damage": 500,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 6000,
+                "Range": 20,
+                "Damage": 600,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 9000,
+                "Range": 22,
+                "Damage": 700,
+                "Cooldown": 1
+            }
+        ]
+
+    },
+
+    "Brawler Foxy": {
+        "Type": "Single",
+        "Image": "rbxassetid://105737871914622",
+        "Rarity": "Rare",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+          "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 80,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 16,
+                "Damage": 75,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 17,
+                "Damage": 100,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1400,
+                "Range": 17,
+                "Damage": 125,
+                "Cooldown": 0.7
+            }
+        ]
+    },
+
+    "Steampunk Mangle": {
+        "Type": "Splash",
+        "Image": "rbxassetid://79766987241564",
+        "Rarity": "Secret",
+        "PlacePrice": 11000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 1200,
+                "Cooldown": 1.25
+            },
+            {
+                "Price": 15000,
+                "Range": 18,
+                "Damage": 1500,
+                "Cooldown": 1.15
+            },
+            {
+                "Price": 20000,
+                "Range": 21,
+                "Damage": 1700,
+                "Cooldown": 1.05
+            },
+            {
+                "Price": 25000,
+                "Range": 22,
+                "Damage": 2000,
+                "Cooldown": 1
+            }
+        ]
+    },
+
+    "Diver Endo": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://123144805229790",
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+                      {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 2200,
+                "Cooldown": 1.2,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 2600,
+                "Cooldown": 1.1,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 25,
+                "Damage": 3400,
+                "Cooldown": 1,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 1,
+                "Slow": 0.5,
+                "SlowTime": 1
+            }
+        
+        ]
+    },
+
+    "Mechanic Afton": {
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://112906782624352",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 150,
+                "Cooldown": 0.6,
+                "SummonTime": 15,
+                "Unit": "Mechanical Cupcake",
+                "WalkSpeed": 15
+            },
+            {
+                "Price": 800,
+                "Range": 22,
+                "Damage": 175,
+                "Cooldown": 0.55,
+                "SummonTime": 15,
+                "Unit": "Mechanical Cupcake",
+                "WalkSpeed": 15
+            },
+            {
+                "Price": 1000,
+                "Range": 24,
+                "Damage": 200,
+                "Cooldown": 0.5,
+                "SummonTime": 15,
+                "Unit": "Mechanical Cupcake",
+                "WalkSpeed": 15
+            },
+            {
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 240,
+                "Cooldown": 0.5,
+                "SummonTime": 15,
                 "Unit": "Mechanical Cupcake",
                 "WalkSpeed": 15
             }
@@ -7836,7 +7989,7 @@
     "Kronos Endo Freddy": {
         "Type": "Single",
         "Image": "",
-        "Rarity": "Secret",
+        "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
@@ -7856,9 +8009,9 @@
     },
     "Windup Bonnie": {
         "Type": "Cooldown Booster",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Image": "rbxassetid://95407534025882",
+        "Rarity": "Mythic",
+        "PlacePrice": 800,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -7867,21 +8020,42 @@
             "Y": 0,
             "Z": 0
         },
-        "Upgrades": [
+       "Upgrades": [
             {
                 "Price": 0,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
                 "CooldownBoost": 0.9
+            },
+            {
+                "Price": 1000,
+                "Range": 22,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.85
+            },
+            {
+                "Price": 1200,
+                "Range": 24,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.8
+            },
+            {
+                "Price": 1500,
+                "Range": 25,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.74
             }
         ]
     },
     "Widow Baby": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Type": "Cone AOE",
+        "Image": "rbxassetid://88651417030551",
+        "Rarity": "Nighmare",
+        "PlacePrice": 22000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -7893,8 +8067,26 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 0,
-                "Cooldown": 1
+                "Damage": 4000,
+                "Cooldown": 1.5
+            },
+            {
+                "Price": 0,
+                "Range": 25000,
+                "Damage": 5000,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 30000,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 35000,
+                "Range": 27,
+                "Damage": 7500,
+                "Cooldown": 1.2
             }
         ]
     }
