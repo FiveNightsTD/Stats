@@ -8011,7 +8011,7 @@
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://95407534025882",
         "Rarity": "Mythic",
-        "PlacePrice": 800,
+        "PlacePrice": 1200,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -8020,7 +8020,7 @@
             "Y": 0,
             "Z": 0
         },
-       "Upgrades": [
+        "Upgrades": [
             {
                 "Price": 0,
                 "Range": 20,
@@ -8029,25 +8029,25 @@
                 "CooldownBoost": 0.9
             },
             {
-                "Price": 1000,
-                "Range": 22,
+                "Price": 1500,
+                "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
                 "CooldownBoost": 0.85
             },
             {
-                "Price": 1200,
-                "Range": 24,
+                "Price": 2000,
+                "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
                 "CooldownBoost": 0.8
             },
             {
-                "Price": 1500,
-                "Range": 25,
+                "Price": 2500,
+                "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.74
+                "CooldownBoost": 0.76
             }
         ]
     },
