@@ -4615,9 +4615,9 @@
         "Type": "Continuous Splash",
         "Image": "rbxassetid://138982182129000",
         "Rarity": "Apex",
-        "PlacePrice": 50000,
+        "PlacePrice": 25000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4627,25 +4627,25 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 500,
+                "Damage": 1200,
                 "Cooldown": 0.1
             },
             {
-                "Price": 75000,
+                "Price": 35000,
                 "Range": 32,
-                "Damage": 600,
+                "Damage": 1400,
                 "Cooldown": 0.1
             },
             {
-                "Price": 100000,
+                "Price": 40000,
                 "Range": 34,
-                "Damage": 700,
+                "Damage": 1500,
                 "Cooldown": 0.1
             },
             {
-                "Price": 125000,
+                "Price": 50000,
                 "Range": 35,
-                "Damage": 800,
+                "Damage": 1600,
                 "Cooldown": 0.1
             }
         ]
