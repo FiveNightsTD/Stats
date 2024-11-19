@@ -4616,7 +4616,7 @@
         "Image": "rbxassetid://128604882971057",
         "Rarity": "Apex",
         "PlacePrice": 25000,
-        "Offset": 0.5,
+        "Offset": 1,
         "Max": 2,
         "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
         "hitboxOffset": {
