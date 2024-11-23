@@ -8140,7 +8140,7 @@
                 "Cooldown": 2.5
             },
             {
-                "Price": 0,
+                "Price": 50000,
                 "Range": 24,
                 "Damage": 11000,
                 "Burn": 250,
@@ -8148,7 +8148,7 @@
                 "Cooldown": 2.5
             },
             {
-                "Price": 0,
+                "Price": 60000,
                 "Range": 27,
                 "Damage": 13000,
                 "Burn": 250,
@@ -8156,7 +8156,7 @@
                 "Cooldown": 2.5
             },
             {
-                "Price": 0,
+                "Price": 70000,
                 "Range": 30,
                 "Damage": 15000,
                 "Burn": 250,
