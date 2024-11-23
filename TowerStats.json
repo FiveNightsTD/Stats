@@ -8099,5 +8099,28 @@
                 "Cooldown": 1.2
             }
         ]
+    },
+    "StoneTrap": {
+        "Type": "Cone AOE Burn",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 3000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 17,
+                "Damage": 150,
+                "Burn": 10,
+                "BurnTime": 1.2,
+                "Cooldown": 1
+            }
+        ]
     }
 }
