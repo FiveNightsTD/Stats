@@ -7997,12 +7997,12 @@
         ]
     },
     "Kronos Endo Freddy": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Splash + Passive",
+        "Image": "rbxassetid://79544942842280",
         "Rarity": "Apex",
-        "PlacePrice": 100,
+        "PlacePrice": 57000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8011,8 +8011,26 @@
         "Upgrades": [
                       {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 1,
+                "Range": 27,
+                "Damage": 50000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 70000,
+                "Range": 30,
+                "Damage": 60000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 80000,
+                "Range": 33,
+                "Damage": 70000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 90000,
+                "Range": 35,
+                "Damage": 80000,
                 "Cooldown": 3
             }
         ]
@@ -8102,11 +8120,11 @@
     },
     "StoneTrap": {
         "Type": "Cone AOE Burn",
-        "Image": "",
+        "Image": "rbxassetid://102592059060827",
         "Rarity": "Secret",
-        "PlacePrice": 3000,
+        "PlacePrice": 40000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8115,11 +8133,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 17,
-                "Damage": 150,
+                "Range": 22,
+                "Damage": 9000,
                 "Burn": 10,
                 "BurnTime": 1.2,
-                "Cooldown": 1
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 11000,
+                "Burn": 10,
+                "BurnTime": 1.2,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 13000,
+                "Burn": 10,
+                "BurnTime": 1.2,
+                "Cooldown": 2.5
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 15000,
+                "Burn": 10,
+                "BurnTime": 1.2,
+                "Cooldown": 2.5
             }
         ]
     }
