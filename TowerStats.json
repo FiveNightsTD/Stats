@@ -8135,7 +8135,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 9000,
-                "Burn": 10,
+                "Burn": 250,
                 "BurnTime": 1.2,
                 "Cooldown": 2.5
             },
@@ -8143,7 +8143,7 @@
                 "Price": 0,
                 "Range": 24,
                 "Damage": 11000,
-                "Burn": 10,
+                "Burn": 250,
                 "BurnTime": 1.2,
                 "Cooldown": 2.5
             },
@@ -8151,7 +8151,7 @@
                 "Price": 0,
                 "Range": 27,
                 "Damage": 13000,
-                "Burn": 10,
+                "Burn": 250,
                 "BurnTime": 1.2,
                 "Cooldown": 2.5
             },
@@ -8159,7 +8159,7 @@
                 "Price": 0,
                 "Range": 30,
                 "Damage": 15000,
-                "Burn": 10,
+                "Burn": 250,
                 "BurnTime": 1.2,
                 "Cooldown": 2.5
             }
