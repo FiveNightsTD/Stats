@@ -7427,7 +7427,7 @@
         "PlacePrice": 1000,
         "Offset": -2,
         "Max": 3,
-        "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 50%"},
+        "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 35%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -7439,8 +7439,8 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.5,
-                "Slow": 0.50,
+                "RangeBoost": 1.3,
+                "Slow": 0.65,
                 "SlowTime": 1
             },
             {
@@ -7448,8 +7448,8 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.7,
-                "Slow": 0.50,
+                "RangeBoost": 1.3,
+                "Slow": 0.65,
                 "SlowTime": 1
             },
             {
@@ -7457,8 +7457,8 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.9,
-                "Slow": 0.50,
+                "RangeBoost": 1.4,
+                "Slow": 0.65,
                 "SlowTime": 1
             },
             {
@@ -7466,8 +7466,8 @@
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 2,
-                "Slow": 0.50,
+                "RangeBoost": 1.5,
+                "Slow": 0.65,
                 "SlowTime": 1
             }
         ]
