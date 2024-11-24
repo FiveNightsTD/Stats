@@ -7998,7 +7998,7 @@
     },
 
     "Kronos Endo Freddy": {
-        "Type": "Splash + Passive",
+        "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://138634254895239",
         "Rarity": "Apex",
         "PlacePrice": 24879,
