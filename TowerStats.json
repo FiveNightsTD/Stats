@@ -7996,11 +7996,12 @@
             }
         ]
     },
+
     "Kronos Endo Freddy": {
         "Type": "Splash + Passive",
         "Image": "rbxassetid://138634254895239",
         "Rarity": "Apex",
-        "PlacePrice": 57000,
+        "PlacePrice": 24879,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds slows all enemeis in range for 10 seconds."},
@@ -8013,29 +8014,30 @@
                       {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 50000,
+                "Damage": 30000,
                 "Cooldown": 3
             },
             {
-                "Price": 70000,
+                "Price": 30000,
                 "Range": 30,
                 "Damage": 60000,
                 "Cooldown": 3
             },
             {
-                "Price": 80000,
+                "Price": 40000,
                 "Range": 33,
-                "Damage": 70000,
+                "Damage": 75000,
                 "Cooldown": 3
             },
             {
-                "Price": 90000,
+                "Price": 50000,
                 "Range": 35,
-                "Damage": 80000,
+                "Damage": 85000,
                 "Cooldown": 3
             }
         ]
     },
+    
     "Windup Bonnie": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://95407534025882",
