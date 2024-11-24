@@ -5606,7 +5606,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 0.5,
                 "CooldownBoost": 0.97,
                 "Slow": 0.75
             },
@@ -5614,7 +5614,7 @@
                 "Price": 100,
                 "Range": 27,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 0.5,
                 "CooldownBoost": 0.95,
                 "Slow": 0.75
             },
@@ -5622,7 +5622,7 @@
                 "Price": 150,
                 "Range": 28,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 0.5,
                 "CooldownBoost": 0.92,
                 "Slow": 0.75
             },
@@ -5630,7 +5630,7 @@
                 "Price": 200,
                 "Range": 30,
                 "Damage": 0,
-                "Cooldown": 1,
+                "Cooldown": 0.5,
                 "CooldownBoost": 0.9,
                 "Slow": 0.75
             }
