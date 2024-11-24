@@ -5620,7 +5620,7 @@
             },
             {
                 "Price": 150,
-                "Range": 30,
+                "Range": 28,
                 "Damage": 0,
                 "Cooldown": 1,
                 "CooldownBoost": 0.92,
@@ -5628,7 +5628,7 @@
             },
             {
                 "Price": 200,
-                "Range": 35,
+                "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
                 "CooldownBoost": 0.9,
