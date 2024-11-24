@@ -8004,7 +8004,7 @@
         "PlacePrice": 24879,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds slows all enemies in range for 10 seconds."},
+        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds freezes all enemies on the map for 10 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
