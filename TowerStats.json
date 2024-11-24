@@ -7998,13 +7998,13 @@
     },
 
     "Kronos Endo Freddy": {
-        "Type": "Cone AOE + Passive",
+        "Type": "Nuke + Passive",
         "Image": "rbxassetid://138634254895239",
         "Rarity": "Apex",
         "PlacePrice": 24879,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds slows all enemeis in range for 10 seconds."},
+        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds slows all enemies in range for 10 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
