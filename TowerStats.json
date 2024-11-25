@@ -5607,7 +5607,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 0,
-                "Cooldown": 0.5,
+                "Cooldown": 0.25,
                 "CooldownBoost": 0.97,
                 "Slow": 0.75
             },
@@ -5615,7 +5615,7 @@
                 "Price": 100,
                 "Range": 27,
                 "Damage": 0,
-                "Cooldown": 0.5,
+                "Cooldown": 0.25,
                 "CooldownBoost": 0.95,
                 "Slow": 0.75
             },
@@ -5623,7 +5623,7 @@
                 "Price": 150,
                 "Range": 28,
                 "Damage": 0,
-                "Cooldown": 0.5,
+                "Cooldown": 0.25,
                 "CooldownBoost": 0.92,
                 "Slow": 0.75
             },
@@ -5631,7 +5631,7 @@
                 "Price": 200,
                 "Range": 30,
                 "Damage": 0,
-                "Cooldown": 0.5,
+                "Cooldown": 0.25,
                 "CooldownBoost": 0.9,
                 "Slow": 0.75
             }
@@ -6192,7 +6192,7 @@
         "PlacePrice": 34000,
         "Offset": 0.5,
         "Max": 3,
-        "Passive": {"Name": "Necromancer", "Description": "Summons spawns every 10 seconds that have health equal to 45 or 60 times this units damage"},
+        "Passive": {"Name": "Necromancer", "Description": "Summons spawns every 10 seconds that have health equal to 25 or 40 times this units damage"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -6204,7 +6204,7 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 3500,
+                "Damage": 7000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 3
@@ -6212,7 +6212,7 @@
             {
                 "Price": 43000,
                 "Range": 27,
-                "Damage": 4000,
+                "Damage": 9000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 2.75
@@ -6220,7 +6220,7 @@
             {
                 "Price": 54000,
                 "Range": 28,
-                "Damage": 5000,
+                "Damage": 10000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 500,
                 "Cooldown": 2.5
@@ -6228,7 +6228,7 @@
             {
                 "Price": 67000,
                 "Range": 30,
-                "Damage": 6000,
+                "Damage": 12000,
                 "Unit": {"Necro Spawn": 0.75, "Necro Spawn 2": 0.25},
                 "Health": 50000,
                 "Cooldown": 2
