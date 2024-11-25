@@ -2559,19 +2559,19 @@
                 "Price": 700,
                 "Range": 26,
                 "Damage": 320,
-                "Cooldown": 0.7
+                "Cooldown": 0.4
             },
             {
                 "Price": 900,
                 "Range": 27,
                 "Damage": 340,
-                "Cooldown": 0.6
+                "Cooldown": 0.35
             },
             {
                 "Price": 1000,
                 "Range": 28,
                 "Damage": 350,
-                "Cooldown": 0.5
+                "Cooldown": 0.3
             },
             {
                 "Price": 1200,
