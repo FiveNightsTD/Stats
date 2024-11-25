@@ -2543,6 +2543,7 @@
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "The King", "Description": "..."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
