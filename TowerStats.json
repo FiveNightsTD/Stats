@@ -7424,7 +7424,7 @@
         "Type": "Single",
         "Image": "rbxassetid://98177156677827",
         "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "PlacePrice": 5500,
         "Offset": -2,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 50%"},
