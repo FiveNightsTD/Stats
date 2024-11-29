@@ -7462,7 +7462,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 1000,
+                "Price": 10000,
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
