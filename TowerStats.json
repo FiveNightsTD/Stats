@@ -8186,7 +8186,7 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 180,
+                "Damage": 200,
                 "Bleed": 0.3,
                 "BleedTime": 0.3,
                 "Slow": 0.75,
@@ -8196,7 +8196,7 @@
             {
                 "Price": 800,
                 "Range": 24,
-                "Damage": 275,
+                "Damage": 300,
                 "Bleed": 0.3,
                 "BleedTime": 0.3,
                 "Slow": 0.75,
@@ -8216,7 +8216,7 @@
             {
                 "Price": 1200,
                 "Range": 27,
-                "Damage": 400,
+                "Damage": 450,
                 "Bleed": 0.3,
                 "BleedTime": 1,
                 "Slow": 0.75,
