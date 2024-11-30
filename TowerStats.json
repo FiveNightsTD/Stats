@@ -8170,12 +8170,13 @@
         ]
     },
     "Tarnished Fredbear": {
-        "Type": "Cone AOE",
-        "Image": "",
+        "Type": "Cone AOE + Passive",
+        "Image": "rbxassetid://133537149098627",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Bite of '87", "Description": "Reduces Enemy regen by 30% and slows by 25%."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8185,12 +8186,42 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 9000,
-                "Bleed": 0.5,
-                "BleedTime": 1,
-                "Slow": 0.70,
+                "Damage": 180,
+                "Bleed": 0.3,
+                "BleedTime": 0.3,
+                "Slow": 0.75,
                 "SlowTime": 1,
-                "Cooldown": 2.5
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 275,
+                "Bleed": 0.3,
+                "BleedTime": 0.3,
+                "Slow": 0.75,
+                "SlowTime": 1,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 350,
+                "Bleed": 0.3,
+                "BleedTime": 1,
+                "Slow": 0.75,
+                "SlowTime": 1,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 400,
+                "Bleed": 0.3,
+                "BleedTime": 1,
+                "Slow": 0.75,
+                "SlowTime": 1,
+                "Cooldown": 0.4
             }
         ]
     }
