@@ -8168,5 +8168,30 @@
                 "Cooldown": 2.5
             }
         ]
+    },
+    "Tarnished Fredbear": {
+        "Type": "Cone AOE",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 9000,
+                "Bleed": 0.5,
+                "BleedTime": 1,
+                "Slow": 0.70,
+                "SlowTime": 1,
+                "Cooldown": 2.5
+            }
+        ]
     }
 }
