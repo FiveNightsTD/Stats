@@ -8173,7 +8173,7 @@
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://133537149098627",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Bite of '87", "Description": "Reduces Enemy regen by 30% and slows by 25%."},
@@ -8194,7 +8194,7 @@
                 "Cooldown": 0.4
             },
             {
-                "Price": 0,
+                "Price": 800,
                 "Range": 24,
                 "Damage": 275,
                 "Bleed": 0.3,
@@ -8204,7 +8204,7 @@
                 "Cooldown": 0.4
             },
             {
-                "Price": 0,
+                "Price": 1000,
                 "Range": 25,
                 "Damage": 350,
                 "Bleed": 0.3,
@@ -8214,7 +8214,7 @@
                 "Cooldown": 0.4
             },
             {
-                "Price": 0,
+                "Price": 1200,
                 "Range": 27,
                 "Damage": 400,
                 "Bleed": 0.3,
