@@ -8175,7 +8175,7 @@
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
-        "Max": 2,
+        "Max": 3,
         "Passive": {"Name": "Bite of '87", "Description": "Reduces Enemy regen by 30% and slows by 25%."},
         "hitboxOffset": {
             "X": 0,
