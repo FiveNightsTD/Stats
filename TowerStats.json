@@ -7346,19 +7346,19 @@
             {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 1800,
+                "Damage": 4000,
                 "Cooldown": 2
             },
             {
                 "Price": 12000,
                 "Range": 30,
-                "Damage": 2200,
+                "Damage": 5000,
                 "Cooldown": 1.8
             },
             {
                 "Price": 14000,
                 "Range": 32,
-                "Damage": 2600,
+                "Damage": 6000,
                 "Cooldown": 1.6
             },
             {
