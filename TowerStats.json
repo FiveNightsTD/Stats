@@ -2543,7 +2543,6 @@
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "The King", "Description": "His time his come time."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
