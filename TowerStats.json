@@ -8227,7 +8227,7 @@
     },
     "Gladiator Foxy": {
         "Type": "Cone AOE",
-        "Image": "",
+        "Image": "rbxassetid://75495154036126",
         "Rarity": "Secret",
         "PlacePrice": 600,
         "Offset": 0,
@@ -8240,19 +8240,38 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 17,
                 "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 800,
+                "Range": 19,
+                "Damage": 300,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1000,
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 1
+            },
+            {
+                "Price": 1200,
+                "Range": 22,
+                "Damage": 500,
                 "Cooldown": 1
             }
         ]
     },
     "Dark Knight Puppet": {
         "Type": "AOE + Passive",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
+        "Image": "rbxassetid://86604943457071",
+        "Rarity": "Apex",
+        "PlacePrice": 21000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "Equinox", "Description": "Every 3rd attack deals 300% damage."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8261,19 +8280,37 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 25,
                 "Damage": 200,
-                "Cooldown": 1
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 200,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 200,
+                "Cooldown": 2.6
+            },
+            {
+                "Price": 35000,
+                "Range": 35,
+                "Damage": 17500,
+                "Cooldown": 2.5
             }
         ]
     },
     "The King": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
+        "Type": "Pierce Spread",
+        "Image": "rbxassetid://95564353539990",
+        "Rarity": "Nightmare",
+        "PlacePrice": 20000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8283,8 +8320,26 @@
             {
                 "Price": 0,
                 "Range": 20,
+                "Damage": 10000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 20000,
+                "Range": 25,
                 "Damage": 200,
-                "Cooldown": 1
+                "Cooldown": 2
+            },
+            {
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 20000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 25000,
+                "Cooldown": 2
             }
         ]
     }
