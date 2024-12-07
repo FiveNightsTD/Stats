@@ -8281,19 +8281,19 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 200,
+                "Damage": 12000,
                 "Cooldown": 3
             },
             {
                 "Price": 25000,
                 "Range": 30,
-                "Damage": 200,
+                "Damage": 14000,
                 "Cooldown": 2.8
             },
             {
                 "Price": 30000,
-                "Range": 35,
-                "Damage": 200,
+                "Range": 32,
+                "Damage": 16000,
                 "Cooldown": 2.6
             },
             {
