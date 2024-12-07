@@ -8125,7 +8125,7 @@
     "StoneTrap": {
         "Type": "Cone AOE Burn",
         "Image": "rbxassetid://102592059060827",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
