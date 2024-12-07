@@ -8169,8 +8169,50 @@
             }
         ]
     },
-    "Dark Knight Puppet": {
+    "Gladiator Foxy": {
+        "Type": "Cone AOE",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 1
+            }
+        ]
+    },
+        "Dark Knight Puppet": {
         "Type": "AOE + Passive",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 600,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 200,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "The King": {
+        "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 600,
