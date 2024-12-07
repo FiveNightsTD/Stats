@@ -8169,13 +8169,14 @@
             }
         ]
     },
-    "Gladiator Foxy": {
-        "Type": "Cone AOE",
-        "Image": "",
+    "Tarnished Fredbear": {
+        "Type": "Cone AOE + Passive",
+        "Image": "rbxassetid://87312476983878",
         "Rarity": "Secret",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Bite of '87", "Description": "Reduces Enemy regen by 30% and slows by 25%."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8184,51 +8185,43 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 22,
                 "Damage": 200,
-                "Cooldown": 1
-            }
-        ]
-    },
-        "Dark Knight Puppet": {
-        "Type": "AOE + Passive",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
+                "Bleed": 0.3,
+                "BleedTime": 0.3,
+                "Slow": 0.75,
+                "SlowTime": 1,
+                "Cooldown": 0.4
+            },
             {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 200,
-                "Cooldown": 1
-            }
-        ]
-    },
-    "The King": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 600,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
+                "Price": 800,
+                "Range": 24,
+                "Damage": 300,
+                "Bleed": 0.3,
+                "BleedTime": 0.3,
+                "Slow": 0.75,
+                "SlowTime": 1,
+                "Cooldown": 0.4
+            },
             {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 200,
-                "Cooldown": 1
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 350,
+                "Bleed": 0.3,
+                "BleedTime": 1,
+                "Slow": 0.75,
+                "SlowTime": 1,
+                "Cooldown": 0.4
+            },
+            {
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 450,
+                "Bleed": 0.3,
+                "BleedTime": 1,
+                "Slow": 0.75,
+                "SlowTime": 1,
+                "Cooldown": 0.4
             }
         ]
     }
