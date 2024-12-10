@@ -8271,7 +8271,7 @@
         "PlacePrice": 21000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Equinox", "Description": "Every 3rd attack deals +300% damage."},
+        "Passive": {"Name": "Equinox", "Description": "Every 3rd attack deals 300% damage."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
