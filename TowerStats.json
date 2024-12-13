@@ -1851,27 +1851,27 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 0,
+                "Damage": 25,
                 "Cooldown": 4,
                 "DamageBoost": 1.1
             },
             {
                 "Price": 1500,
-                "Range": 15,
+                "Range": 25,
                 "Damage": 0,
                 "Cooldown": 4,
                 "DamageBoost": 1.15
             },
             {
                 "Price": 2000,
-                "Range": 15,
+                "Range": 25,
                 "Damage": 0,
                 "Cooldown": 4,
                 "DamageBoost": 1.22
             },
             {
                 "Price": 2500,
-                "Range": 15,
+                "Range": 25,
                 "Damage": 0,
                 "Cooldown": 4,
                 "DamageBoost": 1.3
