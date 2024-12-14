@@ -8551,19 +8551,19 @@
                 "Cooldown": 4
             },
             {
-                "Price": 8000,
+                "Price": 1000,
                 "Range": 17,
                 "Damage": 600,
                 "Cooldown": 3.5
             },
             {
-                "Price": 12000,
+                "Price": 1250,
                 "Range": 20,
                 "Damage": 700,
                 "Cooldown": 3
             },
             {
-                "Price": 18000,
+                "Price": 1400,
                 "Range": 25,
                 "Damage": 900,
                 "Cooldown": 3
