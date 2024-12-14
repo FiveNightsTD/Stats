@@ -8571,12 +8571,13 @@
         ]
     },
     "Black Ice Freddy": {
-        "Type": "Single",
+        "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://86213031666835",
         "Rarity": "Apex",
-        "PlacePrice": 100,
+        "PlacePrice": 27500,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "Glacial Chill", "Description": "Enemies hit are slowed by 60% for 2 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8585,33 +8586,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 1000,
+                "Range": 25,
+                "Damage": 8000,
                 "Cooldown": 2,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 2,
+                "Price": 30000,
+                "Range": 27,
+                "Damage": 10000,
+                "Cooldown": 1.8,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 2,
+                "Price": 40000,
+                "Range": 28,
+                "Damage": 12500,
+                "Cooldown": 1.7,
                 "Slow": 0.4,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 20,
-                "Damage": 1000,
-                "Cooldown": 2,
+                "Price": 50000,
+                "Range": 30,
+                "Damage": 15000,
+                "Cooldown": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 1
             }
