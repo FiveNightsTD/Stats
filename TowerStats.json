@@ -8611,7 +8611,7 @@
             {
                 "Price": 50000,
                 "Range": 30,
-                "Damage": 15000,
+                "Damage": 14000,
                 "Cooldown": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 1
