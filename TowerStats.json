@@ -8482,7 +8482,7 @@
         "Type": "Cooldown Boost + Passive",
         "Image": "rbxassetid://134318454455185",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 800,
         "Offset": 0,
         "Max": 3,
         "Passive": {"Name": "Frigid Ballad", "Description": "Slows all enemies in range by 40%."},
@@ -8503,7 +8503,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 0,
+                "Price": 1000,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
@@ -8512,7 +8512,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 0,
+                "Price": 1200,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
@@ -8521,7 +8521,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 0,
+                "Price": 1400,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
