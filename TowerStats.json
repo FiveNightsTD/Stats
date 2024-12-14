@@ -1850,7 +1850,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 25,
                 "Damage": 25,
                 "Cooldown": 4,
                 "DamageBoost": 1.1
