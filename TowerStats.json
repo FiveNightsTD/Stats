@@ -8393,7 +8393,7 @@
     },
     "Dark Frostbear": {
         "Type": "Pierce Slow + Passive",
-        "Image": "rbxassetid://130800122285848",
+        "Image": "rbxassetid://79281029634533",
         "Rarity": "Secret",
         "PlacePrice": 399,
         "Offset": 0.25,
@@ -8407,32 +8407,32 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 400,
+                "Range": 22,
+                "Damage": 700,
                 "Cooldown": 1.2,
                 "Slow": 0.67,
                 "SlowTime": 1
             },
             {
                 "Price": 500,
-                "Range": 22,
-                "Damage": 500,
+                "Range": 24,
+                "Damage": 850,
                 "Cooldown": 1.1,
                 "Slow": 0.67,
                 "SlowTime": 1
             },
             {
                 "Price": 600,
-                "Range": 24,
-                "Damage": 600,
+                "Range": 26,
+                "Damage": 1000,
                 "Cooldown": 2,
                 "Slow": 0.67,
                 "SlowTime": 1
             },
             {
                 "Price": 800,
-                "Range": 25,
-                "Damage": 700,
+                "Range": 27,
+                "Damage": 1100,
                 "Cooldown": 1,
                 "Slow": 0.67,
                 "SlowTime": 1
