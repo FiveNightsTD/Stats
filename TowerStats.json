@@ -8398,7 +8398,7 @@
         "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
-        "Passive": {"Name": "Icicles", "Description": "Enemies hit by attacks are slowed by 33%."},
+        "Passive": {"Name": "Icicles", "Description": "Enemies hit by attacks are slowed by 35%."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8410,7 +8410,7 @@
                 "Range": 22,
                 "Damage": 700,
                 "Cooldown": 1.2,
-                "Slow": 0.67,
+                "Slow": 0.65,
                 "SlowTime": 1
             },
             {
@@ -8418,7 +8418,7 @@
                 "Range": 24,
                 "Damage": 850,
                 "Cooldown": 1.1,
-                "Slow": 0.67,
+                "Slow": 0.65,
                 "SlowTime": 1
             },
             {
@@ -8426,7 +8426,7 @@
                 "Range": 26,
                 "Damage": 1000,
                 "Cooldown": 2,
-                "Slow": 0.67,
+                "Slow": 0.65,
                 "SlowTime": 1
             },
             {
@@ -8434,7 +8434,7 @@
                 "Range": 27,
                 "Damage": 1100,
                 "Cooldown": 1,
-                "Slow": 0.67,
+                "Slow": 0.65,
                 "SlowTime": 1
             }
         ]
