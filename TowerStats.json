@@ -8392,7 +8392,7 @@
         ]
     },
     "Dark Frostbear": {
-        "Type": "Pierce Slow + Passive",
+        "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://79281029634533",
         "Rarity": "Secret",
         "PlacePrice": 399,
