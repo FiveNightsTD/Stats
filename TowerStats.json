@@ -8574,7 +8574,7 @@
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://86213031666835",
         "Rarity": "Apex",
-        "PlacePrice": 27500,
+        "PlacePrice": 17500,
         "Offset": 0.65,
         "Max": 2,
         "Passive": {"Name": "Glacial Chill", "Description": "Enemies hit are slowed by 65%."},
@@ -8593,7 +8593,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 30000,
+                "Price": 22000,
                 "Range": 27,
                 "Damage": 10000,
                 "Cooldown": 1.8,
@@ -8601,7 +8601,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 40000,
+                "Price": 25000,
                 "Range": 28,
                 "Damage": 12500,
                 "Cooldown": 1.7,
@@ -8609,7 +8609,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 50000,
+                "Price": 30000,
                 "Range": 30,
                 "Damage": 13500,
                 "Cooldown": 1.5,
