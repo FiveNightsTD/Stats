@@ -8395,7 +8395,7 @@
         "Type": "Cone AOE Slow + Passive",
         "Image": "rbxassetid://79281029634533",
         "Rarity": "Secret",
-        "PlacePrice": 399,
+        "PlacePrice": 400,
         "Offset": 0.25,
         "Max": 3,
         "Passive": {"Name": "Icicles", "Description": "Enemies hit by attacks are slowed by 33%."},
