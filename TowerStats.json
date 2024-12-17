@@ -8216,7 +8216,7 @@
             {
                 "Price": 1200,
                 "Range": 27,
-                "Damage": 450,
+                "Damage": 480,
                 "Bleed": 0.3,
                 "BleedTime": 1,
                 "Slow": 0.7,
