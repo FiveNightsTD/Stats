@@ -8573,7 +8573,7 @@
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
-                "CooldownBoost": 0.73,
+                "CooldownBoost": 0.7,
                 "Slow": 0.60,
                 "SlowTime": 1
             }
