@@ -8176,7 +8176,7 @@
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Bite of '87", "Description": "Reduces Enemy regen by 30% and slows by 25%."},
+        "Passive": {"Name": "Bite of '87", "Description": "Reduces enemies slows by 30%."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8189,7 +8189,7 @@
                 "Damage": 200,
                 "Bleed": 0.3,
                 "BleedTime": 0.3,
-                "Slow": 0.75,
+                "Slow": 0.7,
                 "SlowTime": 1,
                 "Cooldown": 0.4
             },
@@ -8199,7 +8199,7 @@
                 "Damage": 300,
                 "Bleed": 0.3,
                 "BleedTime": 0.3,
-                "Slow": 0.75,
+                "Slow": 0.7,
                 "SlowTime": 1,
                 "Cooldown": 0.4
             },
@@ -8209,7 +8209,7 @@
                 "Damage": 350,
                 "Bleed": 0.3,
                 "BleedTime": 1,
-                "Slow": 0.75,
+                "Slow": 0.7,
                 "SlowTime": 1,
                 "Cooldown": 0.4
             },
@@ -8219,7 +8219,7 @@
                 "Damage": 450,
                 "Bleed": 0.3,
                 "BleedTime": 1,
-                "Slow": 0.75,
+                "Slow": 0.7,
                 "SlowTime": 1,
                 "Cooldown": 0.4
             }
