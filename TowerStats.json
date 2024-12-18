@@ -4631,7 +4631,7 @@
                 "Range": 30,
                 "Damage": 1200,
                 "Cooldown": 0.1,
-                "Bleed": 1,
+                "Bleed": 0,
                 "BleedTime": 1
             },
             {
@@ -4639,7 +4639,7 @@
                 "Range": 32,
                 "Damage": 1400,
                 "Cooldown": 0.1,
-                "Bleed": 1,
+                "Bleed": 0,
                 "BleedTime": 1
             },
             {
@@ -4647,7 +4647,7 @@
                 "Range": 34,
                 "Damage": 1500,
                 "Cooldown": 0.1,
-                "Bleed": 1,
+                "Bleed": 0,
                 "BleedTime": 1
             },
             {
@@ -4655,7 +4655,7 @@
                 "Range": 35,
                 "Damage": 1600,
                 "Cooldown": 0.1,
-                "Bleed": 1,
+                "Bleed": 0,
                 "BleedTime": 1
             }
         ]
