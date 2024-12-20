@@ -8752,5 +8752,49 @@
                 "Cooldown": 0.5
             }
         ]
+    },
+    "Overlord Scott": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 140,
+                "Cooldown": 1,
+                "Slow": 0.5,
+                "SlowTime": 1.5
+            }
+        ]
+    },
+    "Bouncer": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1500,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 140,
+                "Cooldown": 0.5,
+                "Slow": 0.5,
+                "SlowTime": 1.5
+            }
+        ]
     }
 }
