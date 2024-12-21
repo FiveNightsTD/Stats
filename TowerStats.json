@@ -8754,12 +8754,13 @@
         ]
     },
     "Overlord Scott": {
-        "Type": "Single",
+        "Type": "Nuke + Stun",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 16000,
         "Offset": -1,
         "Max": 3,
+        "Passive": {"Name": "Shell Shock", "Description": "All enemies are stunned for 1 second on Impact."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8769,10 +8770,34 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 140,
+                "Damage": 25000,
                 "Cooldown": 4,
                 "Slow": 0.5,
-                "SlowTime": 1.5
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 24,
+                "Damage": 35000,
+                "Cooldown": 4,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 42000,
+                "Cooldown": 4,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 4,
+                "Slow": 0.5,
+                "SlowTime": 1
             }
         ]
     },
