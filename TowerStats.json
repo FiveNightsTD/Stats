@@ -8759,7 +8759,7 @@
         "Rarity": "Secret",
         "PlacePrice": 16000,
         "Offset": -1,
-        "Max": 3,
+        "Max": 1,
         "Passive": {"Name": "Shell Shock", "Description": "All enemies are stunned for 1 second on Impact."},
         "hitboxOffset": {
             "X": 0,
@@ -8772,7 +8772,7 @@
                 "Range": 20,
                 "Damage": 25000,
                 "Cooldown": 4,
-                "Slow": 0.5,
+                "Slow": 0,
                 "SlowTime": 1
             },
             {
@@ -8780,7 +8780,7 @@
                 "Range": 24,
                 "Damage": 35000,
                 "Cooldown": 4,
-                "Slow": 0.5,
+                "Slow": 0,
                 "SlowTime": 1
             },
             {
@@ -8788,7 +8788,7 @@
                 "Range": 27,
                 "Damage": 42000,
                 "Cooldown": 4,
-                "Slow": 0.5,
+                "Slow": 0,
                 "SlowTime": 1
             },
             {
@@ -8796,7 +8796,7 @@
                 "Range": 30,
                 "Damage": 50000,
                 "Cooldown": 4,
-                "Slow": 0.5,
+                "Slow": 0,
                 "SlowTime": 1
             }
         ]
