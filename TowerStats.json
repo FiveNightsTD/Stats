@@ -8758,7 +8758,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
-        "Offset": 0,
+        "Offset": -1,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -8770,7 +8770,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 140,
-                "Cooldown": 3,
+                "Cooldown": 4,
                 "Slow": 0.5,
                 "SlowTime": 1.5
             }
