@@ -8755,7 +8755,7 @@
     },
     "Overlord Scott": {
         "Type": "Nuke + Stun",
-        "Image": "",
+        "Image": "rbxassetid://135915053690231",
         "Rarity": "Secret",
         "PlacePrice": 16000,
         "Offset": -1,
@@ -8826,7 +8826,7 @@
     },
     "Frostbite Freddy": {
         "Type": "Pierce Spread + Slow",
-        "Image": "rbxassetid://86213031666835",
+        "Image": "rbxassetid://105411536427656",
         "Rarity": "Apex",
         "PlacePrice": 17500,
         "Offset": 0.65,
