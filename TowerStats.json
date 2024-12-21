@@ -8805,10 +8805,10 @@
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
         "Rarity": "Nightmare",
-        "PlacePrice": 7500,
+        "PlacePrice": 4000,
         "Offset": 0.75,
         "Max": 2,
-        "Passive": {"Name": "Chills", "Description": "Attacks slow enemies by 40%."},
+        "Passive": {"Name": "Chills", "Description": "Attacks slow enemies by 50%."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8820,7 +8820,7 @@
                 "Range": 20,
                 "Damage": 250,
                 "Cooldown": 0.5,
-                "Slow": 0.6,
+                "Slow": 0.5,
                 "SlowTime": 1.5
             },
             {
@@ -8828,7 +8828,7 @@
                 "Range": 20,
                 "Damage": 400,
                 "Cooldown": 0.5,
-                "Slow": 0.6,
+                "Slow": 0.5,
                 "SlowTime": 1.5
             },
             {
@@ -8836,7 +8836,7 @@
                 "Range": 20,
                 "Damage": 600,
                 "Cooldown": 0.5,
-                "Slow": 0.6,
+                "Slow": 0.5,
                 "SlowTime": 1.5
             },
             {
@@ -8844,7 +8844,7 @@
                 "Range": 20,
                 "Damage": 500,
                 "Cooldown": 0.1,
-                "Slow": 0.6,
+                "Slow": 0.5,
                 "SlowTime": 1.5
             }
         ]
