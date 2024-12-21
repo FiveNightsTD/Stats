@@ -7425,7 +7425,7 @@
         "Type": "Single",
         "Image": "rbxassetid://98177156677827",
         "Rarity": "Secret",
-        "PlacePrice": 5500,
+        "PlacePrice": 3000,
         "Offset": -2,
         "Max": 3,
         "Passive": {"Name": "Slow", "Description": "Slows all enemies in range by 50%"},
@@ -7445,7 +7445,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 7000,
+                "Price": 4000,
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
@@ -7454,7 +7454,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 8000,
+                "Price": 5000,
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
@@ -7463,7 +7463,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 10000,
+                "Price": 6000,
                 "Range": 50,
                 "Damage": 0,
                 "Cooldown": 1,
@@ -8530,7 +8530,7 @@
         "Type": "Cooldown Boost + Passive",
         "Image": "rbxassetid://134318454455185",
         "Rarity": "Secret",
-        "PlacePrice": 3000,
+        "PlacePrice": 1200,
         "Offset": 0.5,
         "Max": 3,
         "Passive": {"Name": "Frigid Ballad", "Description": "Slows all enemies in range by 40%."},
@@ -8551,7 +8551,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 3000,
+                "Price": 1400,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
@@ -8560,7 +8560,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 4000,
+                "Price": 1500,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
@@ -8569,7 +8569,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 5000,
+                "Price": 1700,
                 "Range": 25,
                 "Damage": 0,
                 "Cooldown": 0.25,
