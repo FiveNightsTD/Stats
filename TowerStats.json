@@ -8817,31 +8817,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 27,
                 "Damage": 250,
-                "Cooldown": 0.5,
+                "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 1.5
             },
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 30,
                 "Damage": 400,
-                "Cooldown": 0.5,
+                "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 1.5
             },
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 32,
                 "Damage": 600,
-                "Cooldown": 0.5,
+                "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 1.5
             },
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 35,
                 "Damage": 500,
                 "Cooldown": 0.1,
                 "Slow": 0.5,
