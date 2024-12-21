@@ -8802,12 +8802,13 @@
         ]
     },
     "Bouncer": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://111690369757083",
         "Rarity": "Secret",
-        "PlacePrice": 1500,
+        "PlacePrice": 7500,
         "Offset": 0.75,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "Chills", "Description": "Attacks slow enemies by 40%."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8819,7 +8820,31 @@
                 "Range": 20,
                 "Damage": 140,
                 "Cooldown": 0.5,
-                "Slow": 0.5,
+                "Slow": 0.6,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 140,
+                "Cooldown": 0.5,
+                "Slow": 0.6,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 140,
+                "Cooldown": 0.5,
+                "Slow": 0.6,
+                "SlowTime": 1.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 500,
+                "Cooldown": 0.1,
+                "Slow": 0.6,
                 "SlowTime": 1.5
             }
         ]
