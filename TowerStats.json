@@ -8842,7 +8842,7 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 500,
+                "Damage": 750,
                 "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 1.5
