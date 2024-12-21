@@ -8804,7 +8804,7 @@
     "Bouncer": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://111690369757083",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 7500,
         "Offset": 0.75,
         "Max": 2,
