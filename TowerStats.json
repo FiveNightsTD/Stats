@@ -8798,5 +8798,53 @@
                 "SlowTime": 1.5
             }
         ]
+    },
+    "Frostbite Freddy": {
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://86213031666835",
+        "Rarity": "Apex",
+        "PlacePrice": 17500,
+        "Offset": 0.65,
+        "Max": 2,
+        "Passive": {"Name": "Glacial Chill", "Description": "Enemies hit are slowed by 65%."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 8000,
+                "Cooldown": 2,
+                "Slow": 0.35,
+                "SlowTime": 1
+            },
+            {
+                "Price": 22000,
+                "Range": 27,
+                "Damage": 10000,
+                "Cooldown": 1.8,
+                "Slow": 0.35,
+                "SlowTime": 1
+            },
+            {
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 12500,
+                "Cooldown": 1.7,
+                "Slow": 0.35,
+                "SlowTime": 1
+            },
+            {
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 13500,
+                "Cooldown": 1.5,
+                "Slow": 0.35,
+                "SlowTime": 1
+            }
+        ]
     }
 }
