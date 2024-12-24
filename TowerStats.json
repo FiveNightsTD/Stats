@@ -8898,7 +8898,7 @@
         ]
     },
     "Frost Plushtrap": {
-        "Type": "Pierce Spread + Slow",
+        "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
@@ -8913,7 +8913,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 30000,
+                "Damage": 100,
                 "Cooldown": 2.5,
                 "Slow": 0.35,
                 "SlowTime": 2
@@ -8921,7 +8921,7 @@
         ]
     },
     "Winter Soldier Bonnie": {
-        "Type": "Pierce Spread + Slow",
+        "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
@@ -8936,7 +8936,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 30000,
+                "Damage": 100,
                 "Cooldown": 2.5,
                 "Slow": 0.35,
                 "SlowTime": 2
@@ -8944,7 +8944,7 @@
         ]
     },
     "Old Man Krampus": {
-        "Type": "Pierce Spread + Slow",
+        "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
@@ -8959,7 +8959,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 30000,
+                "Damage": 100,
                 "Cooldown": 2.5,
                 "Slow": 0.35,
                 "SlowTime": 2
