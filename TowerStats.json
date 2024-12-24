@@ -8896,5 +8896,74 @@
                 "SlowTime": 2
             }
         ]
+    },
+    "Frost Plushtrap": {
+        "Type": "Pierce Spread + Slow",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 30000,
+                "Cooldown": 2.5,
+                "Slow": 0.35,
+                "SlowTime": 2
+            }
+        ]
+    },
+    "Winter Soldier Bonnie": {
+        "Type": "Pierce Spread + Slow",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 30000,
+                "Cooldown": 2.5,
+                "Slow": 0.35,
+                "SlowTime": 2
+            }
+        ]
+    },
+    "Old Man Krampus": {
+        "Type": "Pierce Spread + Slow",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 30000,
+                "Cooldown": 2.5,
+                "Slow": 0.35,
+                "SlowTime": 2
+            }
+        ]
     }
 }
