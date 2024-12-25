@@ -8960,8 +8960,8 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 120000,
-                "Cooldown": 4,
+                "Damage": 200,
+                "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
