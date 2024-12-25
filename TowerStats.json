@@ -8944,12 +8944,13 @@
         ]
     },
     "Old Man Krampus": {
-        "Type": "Single",
+        "Type": "AOE Slow + Passive",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 1,
+        "Passive": {"Name": "Snowstorm", "Description": "All enemies in range get slowed by 65%."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8958,10 +8959,10 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 100,
-                "Cooldown": 2.5,
-                "Slow": 0.35,
+                "Range": 35,
+                "Damage": 200,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
                 "SlowTime": 2
             }
         ]
