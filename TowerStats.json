@@ -8898,12 +8898,12 @@
         ]
     },
     "Frost Plushtrap": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Splash Slow",
+        "Image": "rbxassetid://83475745010763",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 3500,
         "Offset": 0,
-        "Max": 1,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8912,21 +8912,45 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 100,
+                "Range": 20,
+                "Damage": 3000,
+                "Cooldown": 3,
+                "Slow": 0.6,
+                "SlowTime": 2
+            },
+            {
+                "Price": 4000,
+                "Range": 22,
+                "Damage": 4500,
+                "Cooldown": 2.7,
+                "Slow": 0.6,
+                "SlowTime": 2
+            },
+            {
+                "Price": 5000,
+                "Range": 24,
+                "Damage": 6000,
                 "Cooldown": 2.5,
-                "Slow": 0.35,
+                "Slow": 0.6,
+                "SlowTime": 2
+            },
+            {
+                "Price": 6000,
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 2.5,
+                "Slow": 0.6,
                 "SlowTime": 2
             }
         ]
     },
     "Winter Soldier Bonnie": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Type": "Pierce + Stun",
+        "Image": "rbxassetid://124730858766216",
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
         "Offset": 0,
-        "Max": 1,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8935,8 +8959,32 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 9000,
+                "Range": 24,
+                "Damage": 2000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 11000,
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 14000,
+                "Range": 27,
+                "Damage": 3000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -8945,9 +8993,9 @@
     },
     "Old Man Krampus": {
         "Type": "AOE Slow + Passive",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Image": "rbxassetid://138508234321719",
+        "Rarity": "Apex",
+        "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 5 seconds deals splash damage to a group of enemies equal to 50x this units damage in poison. All enemies in range are slowed by 50%."},
@@ -8959,6 +9007,30 @@
         "Upgrades": [
             {
                 "Price": 0,
+                "Range": 25,
+                "Damage": 110,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            },
+            {
+                "Price": 22222,
+                "Range": 27,
+                "Damage": 130,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            },
+            {
+                "Price": 33333,
+                "Range": 30,
+                "Damage": 160,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            },
+            {
+                "Price": 44444,
                 "Range": 35,
                 "Damage": 200,
                 "Cooldown": 0.1,
