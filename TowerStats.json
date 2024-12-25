@@ -8998,7 +8998,7 @@
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 3 seconds deals splash damage to a group of enemies equal to 50x this units damage in poison. All enemies in range are slowed by 50%."},
+        "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 3 seconds deals splash damage to a group of enemies equal to 30x this units damage in poison. All enemies in range are slowed by 50%."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
