@@ -9458,21 +9458,21 @@
                 "CooldownBoost": 0.85
             },
             {
-                "Price": 0,
+                "Price": 500,
                 "Range": 25,
                 "Damage": 300,
                 "Cooldown": 0.1,
                 "CooldownBoost": 0.85
             },
             {
-                "Price": 0,
+                "Price": 600,
                 "Range": 25,
                 "Damage": 400,
                 "Cooldown": 0.1,
                 "CooldownBoost": 0.85
             },
             {
-                "Price": 0,
+                "Price": 700,
                 "Range": 25,
                 "Damage": 500,
                 "Cooldown": 0.1,
