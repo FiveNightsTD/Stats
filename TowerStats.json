@@ -6979,12 +6979,13 @@
     },
     
     "Lefty": {
-        "Type": "Cone AOE",
+        "Type": "AOE + Summon",
         "Image": "rbxassetid://71854603701229",
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Puppet", "Description": "Summons crying souls that are equal to 100x this units damage."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -6994,31 +6995,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 60,
+                "Range": 22,
+                "Damage": 275,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.05
+                "Cooldown": 0.1
             },
             {
                 "Price": 20000,
-                "Range": 22,
-                "Damage": 70,
+                "Range": 24,
+                "Damage": 350,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.05
+                "Cooldown": 0.1
             },
             {
                 "Price": 30000,
-                "Range": 25,
-                "Damage": 80,
+                "Range": 27,
+                "Damage": 450,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.05
+                "Cooldown": 0.1
             },
             {
                 "Price": 40000,
                 "Range": 30,
-                "Damage": 110,
+                "Damage": 500,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.05
+                "Cooldown": 0.1
             }
         ]
     },
@@ -9255,10 +9256,10 @@
     "Moondrop": {
         "Type": "AOE Stun",
         "Image": "rbxassetid://123157660320018",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Nightmare",
+        "PlacePrice": 7500,
         "Offset": 0.5,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9267,35 +9268,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1,
-                "Slow": 0.5,
-                "SlowTime": 2
+                "Range": 27,
+                "Damage": 3500,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1,
-                "Slow": 0.5,
-                "SlowTime": 2
+                "Price": 7000,
+                "Range": 28,
+                "Damage": 4000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1,
-                "Slow": 0.5,
-                "SlowTime": 2
+                "Price": 8000,
+                "Range": 29,
+                "Damage": 5000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1,
-                "Slow": 0.5,
-                "SlowTime": 2
+                "Price": 9000,
+                "Range": 32,
+                "Damage": 6000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
             }
         ]
     },
