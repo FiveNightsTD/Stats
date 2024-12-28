@@ -9045,7 +9045,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 0,
+        "Offset": 2.8,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
@@ -9069,7 +9069,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 0,
+        "Offset": 3,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
@@ -9094,7 +9094,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 0,
+        "Offset": -0.5,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
@@ -9119,7 +9119,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 0,
+        "Offset": -0.25,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
@@ -9144,7 +9144,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 0,
+        "Offset": 2.8,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
@@ -9194,8 +9194,9 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 0,
+        "Offset": 1,
         "Max": 1,
+        "NoEnemyAttack": true,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
             "X": 0,
@@ -9223,6 +9224,7 @@
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9241,6 +9243,48 @@
     },
 
     "Burntrap": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+    "Exotic Butters": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.1
+            }
+        ]
+    },
+    "Wet Floor Bot": {
         "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
