@@ -9245,7 +9245,7 @@
             {
                 "Price": 2000,
                 "Range": 30,
-                "Damage": 7000,
+                "Damage": 6000,
                 "Cooldown": 2,
                 "Burn": 100,
                 "BurnTime": 1.2
