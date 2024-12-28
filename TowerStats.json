@@ -6984,7 +6984,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Puppet", "Description": "Summons crying souls that are equal to 100x this units damage."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
