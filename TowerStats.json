@@ -9048,11 +9048,10 @@
     "Glamrock Freddy": {
         "Type": "Splash",
         "Image": "rbxassetid://136791971118007",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Rare",
+        "PlacePrice": 500,
         "Offset": 0.5,
-        "Max": 1,
-        "Passive": {"Name": "...", "Description": "..."},
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9061,38 +9060,37 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Range": 15,
+                "Damage": 250,
+                "Cooldown": 2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 600,
+                "Range": 20,
+                "Damage": 350,
+                "Cooldown": 2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 800,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 2
             },
             {
-                "Price": 0,
+                "Price": 900,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Damage": 600,
+                "Cooldown": 1.5
             }
         ]
     },
     "Glamrock Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://113567040447471",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Epic",
+        "PlacePrice": 2500,
         "Offset": 0.5,
-        "Max": 1,
-        "Passive": {"Name": "...", "Description": "..."},
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9101,27 +9099,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Range": 15,
+                "Damage": 500,
+                "Cooldown": 1.4
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 3000,
+                "Range": 17,
+                "Damage": 700,
+                "Cooldown": 1.3
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 4000,
+                "Range": 20,
+                "Damage": 800,
+                "Cooldown": 1.2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 5000,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1.2
             }
         ]
     },
@@ -9129,11 +9127,10 @@
     "Roxanne Wolf": {
         "Type": "Pierce",
         "Image": "rbxassetid://130600731757622",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Mythic",
+        "PlacePrice": 5000,
         "Offset": 0.3,
-        "Max": 1,
-        "Passive": {"Name": "...", "Description": "..."},
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9142,39 +9139,38 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Range": 17,
+                "Damage": 2000,
+                "Cooldown": 2.5
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 6000,
+                "Range": 22,
+                "Damage": 3000,
+                "Cooldown": 2.4
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 7000,
+                "Range": 24,
+                "Damage": 4000,
+                "Cooldown": 2.2
             },
             {
-                "Price": 0,
+                "Price": 8000,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Damage": 5000,
+                "Cooldown": 2
             }
         ]
     },
 
     "Montgomery Gator": {
-        "Type": "AOE Slow + Passive",
+        "Type": "Cone AOE Continuous",
         "Image": "rbxassetid://107200001609382",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 17000,
         "Offset": 0.5,
-        "Max": 1,
-        "Passive": {"Name": "...", "Description": "..."},
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9183,27 +9179,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 400,
+                "Cooldown": 0.1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 500,
+                "Cooldown": 0.1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Price": 3000,
+                "Range": 30,
+                "Damage": 580,
+                "Cooldown": 0.1
             }
         ]
     },
@@ -9212,10 +9208,9 @@
         "Type": "AOE Burn",
         "Image": "rbxassetid://73088362644228",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 14000,
         "Offset": 0.5,
         "Max": 1,
-        "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9225,8 +9220,8 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 0.1,
+                "Damage": 4000,
+                "Cooldown": 2.5,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
@@ -9234,7 +9229,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1,
+                "Cooldown": 2.4,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
@@ -9242,15 +9237,15 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1,
+                "Cooldown": 2.3,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 0.1,
+                "Damage": 6000,
+                "Cooldown": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             }
@@ -9264,7 +9259,6 @@
         "PlacePrice": 100,
         "Offset": 0.5,
         "Max": 1,
-        "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9310,11 +9304,10 @@
         "Type": "Cooldown + Range Boost",
         "Image": "rbxassetid://92862090905850",
         "Rarity": "Secret",
-        "PlacePrice": 11340,
+        "PlacePrice": 1000,
         "Offset": 1,
         "Max": 1,
         "NoEnemyAttack": true,
-        "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9324,34 +9317,34 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
+                "Damage": 0,
                 "Cooldown": 1,
                 "CooldownBoost": 0.9,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.1
             },
             {
-                "Price": 0,
+                "Price": 1200,
                 "Range": 25,
-                "Damage": 1100,
+                "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
-                "RangeBoost": 1.05
+                "CooldownBoost": 0.82,
+                "RangeBoost": 1.17
             },
             {
-                "Price": 0,
+                "Price": 1500,
                 "Range": 25,
-                "Damage": 1100,
+                "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
-                "RangeBoost": 1.05
+                "CooldownBoost": 0.75,
+                "RangeBoost": 1.22
             },
             {
-                "Price": 0,
+                "Price": 1600,
                 "Range": 25,
-                "Damage": 1100,
+                "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
-                "RangeBoost": 1.05
+                "CooldownBoost": 0.73,
+                "RangeBoost": 1.27
             }
         ]
     },
