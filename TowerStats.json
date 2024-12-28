@@ -9190,7 +9190,7 @@
     },
 
     "DJ Music Man": {
-        "Type": "AOE Slow + Passive",
+        "Type": "Cooldown + Range Boost",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
@@ -9216,7 +9216,7 @@
 
 
     "Queen of Hearts Ballora": {
-        "Type": "AOE Slow + Passive",
+        "Type": "Damage + Cooldown Boost",
         "Image": "",
         "Rarity": "Forgotten",
         "PlacePrice": 11340,
