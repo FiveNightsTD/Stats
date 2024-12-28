@@ -9223,7 +9223,7 @@
                 "Range": 25,
                 "Damage": 4000,
                 "Cooldown": 2.5,
-                "Burn": 38,
+                "Burn": 100,
                 "BurnTime": 1.2
             },
             {
@@ -9231,7 +9231,7 @@
                 "Range": 25,
                 "Damage": 1100,
                 "Cooldown": 2.4,
-                "Burn": 38,
+                "Burn": 100,
                 "BurnTime": 1.2
             },
             {
@@ -9239,7 +9239,7 @@
                 "Range": 25,
                 "Damage": 1100,
                 "Cooldown": 2.3,
-                "Burn": 38,
+                "Burn": 100,
                 "BurnTime": 1.2
             },
             {
@@ -9247,7 +9247,7 @@
                 "Range": 25,
                 "Damage": 6000,
                 "Cooldown": 2,
-                "Burn": 38,
+                "Burn": 100,
                 "BurnTime": 1.2
             }
         ]
