@@ -9455,7 +9455,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 200,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "CooldownBoost": 0.9
             },
             {
@@ -9469,14 +9469,14 @@
                 "Price": 600,
                 "Range": 25,
                 "Damage": 400,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "CooldownBoost": 0.9
             },
             {
                 "Price": 700,
                 "Range": 25,
                 "Damage": 500,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "CooldownBoost": 0.9
             }
         ]
