@@ -9399,7 +9399,7 @@
     "Exotic Butters": {
         "Type": "AOE",
         "Image": "rbxassetid://91688843147628",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": -2,
         "Max": 1,
@@ -9412,36 +9412,37 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Damage": 1000,
+                "Cooldown": 0.1
             },
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Damage": 1200,
+                "Cooldown": 0.1
             },
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Damage": 1400,
+                "Cooldown": 0.1
             },
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1
+                "Damage": 1900,
+                "Cooldown": 0.1
             }
         ]
     },
     "Wet Floor Bot": {
-        "Type": "Single",
+        "Type": "AOE + Cooldown Boost",
         "Image": "rbxassetid://127516376865863",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 400,
         "Offset": -1.75,
-        "Max": 1,
+        "Max": 3,
+        "Passive": {"Name": "Cooldown Boost", "Description": "All units in range attack 10% faster"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -9452,30 +9453,30 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "Damage": 200,
+                "Cooldown": 0.1,
+                "CooldownBoost": 0.85
             },
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "Damage": 300,
+                "Cooldown": 0.1,
+                "CooldownBoost": 0.85
             },
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "Damage": 400,
+                "Cooldown": 0.1,
+                "CooldownBoost": 0.85
             },
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "Damage": 500,
+                "Cooldown": 0.1,
+                "CooldownBoost": 0.85
             }
         ]
     }
