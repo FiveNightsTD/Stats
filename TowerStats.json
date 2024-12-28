@@ -9211,7 +9211,7 @@
         "Rarity": "Secret",
         "PlacePrice": 14000,
         "Offset": 0.5,
-        "Max": 1,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9221,31 +9221,31 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 4000,
+                "Damage": 3000,
                 "Cooldown": 2.5,
                 "Burn": 100,
                 "BurnTime": 1.2
             },
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
+                "Range": 26,
+                "Damage": 4000,
                 "Cooldown": 2.4,
                 "Burn": 100,
                 "BurnTime": 1.2
             },
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
+                "Range": 27,
+                "Damage": 5000,
                 "Cooldown": 2.3,
                 "Burn": 100,
                 "BurnTime": 1.2
             },
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 6000,
+                "Range": 30,
+                "Damage": 7000,
                 "Cooldown": 2,
                 "Burn": 100,
                 "BurnTime": 1.2
