@@ -9047,7 +9047,7 @@
 
     "Glamrock Freddy": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://136791971118007",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0.5,
@@ -9071,7 +9071,7 @@
     },
     "Glamrock Chica": {
         "Type": "Splash",
-        "Image": "",
+        "Image": "rbxassetid://113567040447471",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0.5,
@@ -9096,7 +9096,7 @@
 
     "Roxanne Wolf": {
         "Type": "Pierce",
-        "Image": "",
+        "Image": "rbxassetid://130600731757622",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0.3,
@@ -9121,7 +9121,7 @@
 
     "Montgomery Gator": {
         "Type": "AOE Slow + Passive",
-        "Image": "",
+        "Image": "rbxassetid://107200001609382",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0.5,
@@ -9146,7 +9146,7 @@
 
     "Shunshine": {
         "Type": "AOE Burn",
-        "Image": "",
+        "Image": "rbxassetid://73088362644228",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0.5,
@@ -9171,7 +9171,7 @@
 
     "Moondrop": {
         "Type": "AOE Stun",
-        "Image": "",
+        "Image": "rbxassetid://123157660320018",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0.5,
@@ -9196,7 +9196,7 @@
 
     "DJ Music Man": {
         "Type": "Cooldown + Range Boost",
-        "Image": "",
+        "Image": "rbxassetid://92862090905850",
         "Rarity": "Secret",
         "PlacePrice": 11340,
         "Offset": 1,
@@ -9213,7 +9213,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-             "Cooldown": 1,
+                "Cooldown": 1,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
@@ -9249,8 +9249,8 @@
 
     "Burntrap": {
         "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://120446334712341",
+        "Rarity": "Nightmare",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 1,
@@ -9268,11 +9268,12 @@
             }
         ]
     },
+
     "Exotic Butters": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "AOE",
+        "Image": "rbxassetid://91688843147628",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 15000,
         "Offset": -2,
         "Max": 1,
         "hitboxOffset": {
@@ -9291,7 +9292,7 @@
     },
     "Wet Floor Bot": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://127516376865863",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": -1.75,
