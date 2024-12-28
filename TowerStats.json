@@ -9193,13 +9193,13 @@
             {
                 "Price": 25000,
                 "Range": 27,
-                "Damage": 500,
+                "Damage": 450,
                 "Cooldown": 0.1
             },
             {
                 "Price": 3000,
                 "Range": 30,
-                "Damage": 580,
+                "Damage": 480,
                 "Cooldown": 0.1
             }
         ]
