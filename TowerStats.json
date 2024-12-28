@@ -9049,7 +9049,7 @@
         "Type": "Splash",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 11340,
+        "PlacePrice": 100,
         "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
@@ -9063,7 +9063,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
@@ -9073,7 +9073,7 @@
         "Type": "Splash",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 11340,
+        "PlacePrice": 100,
         "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
@@ -9087,7 +9087,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
@@ -9098,7 +9098,7 @@
         "Type": "Pierce",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 11340,
+        "PlacePrice": 100,
         "Offset": 0.3,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
@@ -9112,7 +9112,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
@@ -9123,7 +9123,7 @@
         "Type": "AOE Slow + Passive",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 11340,
+        "PlacePrice": 100,
         "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
@@ -9137,7 +9137,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
@@ -9148,7 +9148,7 @@
         "Type": "AOE Burn",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 11340,
+        "PlacePrice": 100,
         "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
@@ -9173,7 +9173,7 @@
         "Type": "AOE Stun",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 11340,
+        "PlacePrice": 100,
         "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
@@ -9187,7 +9187,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
@@ -9213,7 +9213,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1,
+             "Cooldown": 1,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
@@ -9240,7 +9240,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1,
+              "Cooldown": 1,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
@@ -9264,7 +9264,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1
+              "Cooldown": 1
             }
         ]
     },
@@ -9285,7 +9285,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1
+                "Cooldown": 1
             }
         ]
     },
@@ -9307,7 +9307,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1100,
-                "Cooldown": 0.1
+                "Cooldown": 1
             }
         ]
     }
