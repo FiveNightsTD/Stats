@@ -9144,7 +9144,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
@@ -9169,7 +9169,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
