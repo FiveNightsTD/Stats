@@ -9257,7 +9257,7 @@
         "Type": "AOE Stun",
         "Image": "rbxassetid://123157660320018",
         "Rarity": "Nightmare",
-        "PlacePrice": 7500,
+        "PlacePrice": 6000,
         "Offset": 0.5,
         "Max": 2,
         "hitboxOffset": {
