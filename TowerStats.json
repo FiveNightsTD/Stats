@@ -9273,7 +9273,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
-        "Offset": 0,
+        "Offset": -2,
         "Max": 1,
         "hitboxOffset": {
             "X": 0,
@@ -9294,7 +9294,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
-        "Offset": 0,
+        "Offset": -1.75,
         "Max": 1,
         "NoEnemyAttack": true,
         "hitboxOffset": {
