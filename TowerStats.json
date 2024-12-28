@@ -9462,7 +9462,7 @@
                 "Price": 500,
                 "Range": 25,
                 "Damage": 300,
-                "Cooldown": 0.1,
+                "Cooldown": 1,
                 "CooldownBoost": 0.9
             },
             {
