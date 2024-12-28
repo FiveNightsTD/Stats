@@ -9039,14 +9039,15 @@
             }
         ]
     },
-    "Queen of Hearts Ballora": {
+
+    "Glamrock Freddy": {
         "Type": "AOE Slow + Passive",
         "Image": "",
-        "Rarity": "Forgotten",
+        "Rarity": "Secret",
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 3 seconds deals splash damage to a group of enemies equal to 30x this units damage in poison. All enemies in range are slowed by 50%."},
+        "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9060,27 +9061,175 @@
                 "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 2
-            },
+            }
+        ]
+    },
+    "Glamrock Chica": {
+        "Type": "AOE Slow + Passive",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "...", "Description": "..."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
             {
-                "Price": 22222,
-                "Range": 27,
-                "Damage": 1300,
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
                 "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 2
-            },
+            }
+        ]
+    },
+    "Roxy": {
+        "Type": "AOE Slow + Passive",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "...", "Description": "..."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
             {
-                "Price": 33333,
-                "Range": 30,
-                "Damage": 1600,
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
                 "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 2
-            },
+            }
+        ]
+    },
+    "Monty": {
+        "Type": "AOE Slow + Passive",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "...", "Description": "..."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
             {
-                "Price": 44444,
-                "Range": 35,
-                "Damage": 2000,
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            }
+        ]
+    },
+
+    "Sundrop": {
+        "Type": "AOE Slow + Passive",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "...", "Description": "..."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            }
+        ]
+    },
+    "Moondrop": {
+        "Type": "AOE Slow + Passive",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "...", "Description": "..."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            }
+        ]
+    },
+
+    "DJ Music Man": {
+        "Type": "AOE Slow + Passive",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "...", "Description": "..."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.1,
+                "Slow": 0.5,
+                "SlowTime": 2
+            }
+        ]
+    },
+
+
+    "Queen of Hearts Ballora": {
+        "Type": "AOE Slow + Passive",
+        "Image": "",
+        "Rarity": "Forgotten",
+        "PlacePrice": 11340,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "...", "Description": "..."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
                 "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 2
