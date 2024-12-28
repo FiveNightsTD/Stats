@@ -9417,19 +9417,19 @@
                 "Cooldown": 0.1
             },
             {
-                "Price": 0,
+                "Price": 20000,
                 "Range": 25,
                 "Damage": 1200,
                 "Cooldown": 0.1
             },
             {
-                "Price": 0,
+                "Price": 25000,
                 "Range": 25,
                 "Damage": 1400,
                 "Cooldown": 0.1
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 25,
                 "Damage": 1900,
                 "Cooldown": 0.1
