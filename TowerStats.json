@@ -9041,7 +9041,7 @@
     },
 
     "Glamrock Freddy": {
-        "Type": "AOE Slow + Passive",
+        "Type": "Splash",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
@@ -9065,7 +9065,7 @@
         ]
     },
     "Glamrock Chica": {
-        "Type": "AOE Slow + Passive",
+        "Type": "Splash",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
@@ -9088,8 +9088,9 @@
             }
         ]
     },
+
     "Roxy": {
-        "Type": "AOE Slow + Passive",
+        "Type": "Pierce",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
@@ -9112,6 +9113,7 @@
             }
         ]
     },
+
     "Monty": {
         "Type": "AOE Slow + Passive",
         "Image": "",
@@ -9138,7 +9140,7 @@
     },
 
     "Sundrop": {
-        "Type": "AOE Slow + Passive",
+        "Type": "AOE Burn",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
@@ -9161,8 +9163,9 @@
             }
         ]
     },
+
     "Moondrop": {
-        "Type": "AOE Slow + Passive",
+        "Type": "AOE Stun",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
