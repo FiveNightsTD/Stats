@@ -9045,7 +9045,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 2.8,
+        "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
@@ -9069,7 +9069,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 3,
+        "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
@@ -9144,7 +9144,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 11340,
-        "Offset": 2.8,
+        "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "...", "Description": "..."},
         "hitboxOffset": {
