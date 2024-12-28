@@ -9089,7 +9089,7 @@
         ]
     },
 
-    "Roxy": {
+    "Roxanne Wolf": {
         "Type": "Pierce",
         "Image": "",
         "Rarity": "Secret",
@@ -9114,7 +9114,7 @@
         ]
     },
 
-    "Monty": {
+    "Montgomery Gator": {
         "Type": "AOE Slow + Passive",
         "Image": "",
         "Rarity": "Secret",
@@ -9139,7 +9139,7 @@
         ]
     },
 
-    "Sundrop": {
+    "Shunshine": {
         "Type": "AOE Burn",
         "Image": "",
         "Rarity": "Secret",
@@ -9236,6 +9236,28 @@
                 "Cooldown": 0.1,
                 "Slow": 0.5,
                 "SlowTime": 2
+            }
+        ]
+    },
+
+    "Burntrap": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 0.1
             }
         ]
     }
