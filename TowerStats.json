@@ -6996,28 +6996,28 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 60,
-                "Unit": {"Crying Soul": 1},
+                "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.05
             },
             {
                 "Price": 20000,
                 "Range": 22,
                 "Damage": 70,
-                "Unit": {"Crying Soul": 1},
+                "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.05
             },
             {
                 "Price": 30000,
                 "Range": 25,
                 "Damage": 80,
-                "Unit": {"Crying Soul": 1},
+                "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.05
             },
             {
                 "Price": 40000,
                 "Range": 30,
                 "Damage": 110,
-                "Unit": {"Crying Soul": 1},
+                "Unit": {"Haunted Soul": 1},
                 "Cooldown": 0.05
             }
         ]
