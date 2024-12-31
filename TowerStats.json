@@ -9480,5 +9480,48 @@
                 "CooldownBoost": 0.9
             }
         ]
+    },
+    "Stardrop": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 400,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 1,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 500,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 1,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 600,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 1,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 700,
+                "Range": 25,
+                "Damage": 200,
+                "Cooldown": 1,
+                "RangeBoost": 1.05
+            }
+        ]
     }
 }
