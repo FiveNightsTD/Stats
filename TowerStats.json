@@ -9482,12 +9482,13 @@
         ]
     },
     "Stardrop": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 400,
+        "Type": "Pierce + Passive",
+        "Image": "rbxassetid://82878193083039",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Starkindred", "Description": "Grants +35% range to all nearby units. Deal +75% damage if moondrop or sunshine are on the same team."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9497,30 +9498,30 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 200,
-                "Cooldown": 1,
-                "RangeBoost": 1.05
+                "Damage": 18500,
+                "Cooldown": 2,
+                "RangeBoost": 1.35
             },
             {
                 "Price": 500,
                 "Range": 25,
                 "Damage": 200,
-                "Cooldown": 1,
-                "RangeBoost": 1.05
+                "Cooldown": 2,
+                "RangeBoost": 1.35
             },
             {
                 "Price": 600,
                 "Range": 25,
                 "Damage": 200,
-                "Cooldown": 1,
-                "RangeBoost": 1.05
+                "Cooldown": 2,
+                "RangeBoost": 1.35
             },
             {
                 "Price": 700,
                 "Range": 25,
                 "Damage": 200,
-                "Cooldown": 1,
-                "RangeBoost": 1.05
+                "Cooldown": 2,
+                "RangeBoost": 1.35
             }
         ]
     }
