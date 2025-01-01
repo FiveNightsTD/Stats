@@ -9487,7 +9487,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 100,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Starkindred", "Description": "Grants +35% range to all nearby units. Deal +75% damage if Moondrop or Sunshine are on the same team."},
         "hitboxOffset": {
             "X": 0,
