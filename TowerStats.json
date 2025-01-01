@@ -9488,6 +9488,7 @@
         "PlacePrice": 18000,
         "Offset": 0,
         "Max": 2,
+        "NoEnemyAttack": true,
         "Passive": {"Name": "Starkindred", "Description": "Grants +35% range to all nearby units (+70% shiny). Stardrop deals +75% damage if either Moondrop or Sunshine are on the same team."},
         "hitboxOffset": {
             "X": 0,
