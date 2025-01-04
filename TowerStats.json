@@ -9554,7 +9554,7 @@
         "Type": "AOE + Passive",
         "Image": "rbxassetid://120947166823124",
         "Rarity": "Apex",
-        "PlacePrice": 100,
+        "PlacePrice": 21000,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "...", "Description": "The Strongest?"},
