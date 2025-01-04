@@ -9505,10 +9505,10 @@
         "Type": "Damage + Cooldown Boost",
         "Image": "",
         "Rarity": "Forgotten",
-        "PlacePrice": 100,
+        "PlacePrice": 400,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "...", "Description": "..."},
+        "Passive": {"Name": "Coffee", "Description": "Coffee"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -9518,39 +9518,39 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
+                "Range": 20,
+                "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
+                "Price": 500,
+                "Range": 20,
+                "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.85,
+                "DamageBoost": 1.15
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
+                "Price": 600,
+                "Range": 20,
+                "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.8,
+                "DamageBoost": 1.2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
+                "Price": 700,
+                "Range": 20,
+                "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.73,
+                "DamageBoost": 1.27
             }
         ]
     },
-    "Gilded Knight": {
+    "Gilded Puppet": {
         "Type": "AOE + Passive",
         "Image": "",
         "Rarity": "Apex",
@@ -9591,10 +9591,10 @@
         ]
     },
     "Glamrock Endo": {
-        "Type": "Support",
+        "Type": "Damage Boost",
         "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 800,
         "NoEnemyAttack": true,
         "Max": 2,
         "hitboxOffset": {
@@ -9605,31 +9605,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06
+                "DamageBoost": 1.1
             },
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06
+                "DamageBoost": 1.15
             },
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06
+                "DamageBoost": 1.2
             },
             {
                 "Price": 0,
-                "Range": 15,
+                "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06
+                "DamageBoost": 1.26
             }
         ]
     },
@@ -9639,8 +9639,8 @@
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "...", "Description": "..."},
+        "Max": 2,
+        "Passive": {"Name": "Combined Agony", "Description": "Shadow of Afton deals +50% damage if another Springtrap is on the same team (Icetrap, Clowntrap, etc)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9649,27 +9649,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 200,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 8000,
+                "Cooldown": 0.2
+            },
+            {
+                "Price": 0,
+                "Range": 21,
+                "Damage": 1000,
+                "Cooldown": 0.2
             },
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 200,
-                "Cooldown": 1
+                "Damage": 1200,
+                "Cooldown": 0.2
             },
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 200,
-                "Cooldown": 1
-            },
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 200,
-                "Cooldown": 1
+                "Range": 24,
+                "Damage": 1500,
+                "Cooldown": 0.2
             }
         ]
     }
