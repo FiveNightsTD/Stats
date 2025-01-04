@@ -3468,7 +3468,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://112659672284119",
         "Rarity": "Nightmare",
-        "PlacePrice": 100000,
+        "PlacePrice": 50000,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -3484,31 +3484,31 @@
                 "Cooldown": 3.5
             },
             {
-                "Price": 110000,
+                "Price": 60000,
                 "Range": 26,
                 "Damage": 7500,
                 "Cooldown": 3
             },
             {
-                "Price": 125000,
+                "Price": 70000,
                 "Range": 27,
                 "Damage": 10000,
                 "Cooldown": 3
             },
             {
-                "Price": 150000,
+                "Price": 80000,
                 "Range": 28,
                 "Damage": 12500,
                 "Cooldown": 3
             },
             {
-                "Price": 200000,
+                "Price": 90000,
                 "Range": 29,
                 "Damage": 15000,
                 "Cooldown": 3
             },
             {
-                "Price": 250000,
+                "Price": 100000,
                 "Range": 32,
                 "Damage": 17500,
                 "Cooldown": 3
@@ -6726,7 +6726,7 @@
         "Type": "Continuous Splash + Passive",
         "Image": "rbxassetid://101410205353650",
         "Rarity": "Nightmare",
-        "PlacePrice": 75000,
+        "PlacePrice": 40000,
         "Offset": 0.4,
         "Max": 2,
         "Passive": {"Name": "Lethality", "Description": "Every few seconds fires a railgun that deals 50x it's damage and stuns"},
@@ -6743,19 +6743,19 @@
                 "Cooldown": 0.1
             },
             {
-                "Price": 80000,
+                "Price": 45000,
                 "Range": 28,
                 "Damage": 450,
                 "Cooldown": 0.1
             },
             {
-                "Price": 100000,
+                "Price": 50000,
                 "Range": 32,
                 "Damage": 500,
                 "Cooldown": 0.1
             },
             {
-                "Price": 120000,
+                "Price": 60000,
                 "Range": 35,
                 "Damage": 600,
                 "Cooldown": 0.1
