@@ -9635,7 +9635,7 @@
         ]
     },
     "Shadow of Afton": {
-        "Type": "Cone AOE",
+        "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://78940990099734",
         "Rarity": "Nightmare",
         "PlacePrice": 100,
