@@ -9507,7 +9507,7 @@
         "Rarity": "Forgotten",
         "PlacePrice": 400,
         "Offset": 0,
-        "Max": 1,
+        "Max": 4,
         "Passive": {"Name": "Coffee", "Description": "Coffee"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -9550,7 +9550,7 @@
             }
         ]
     },
-    "Gilded Knight": {
+    "Gilded Puppet": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://120947166823124",
         "Rarity": "Apex",
