@@ -9503,7 +9503,7 @@
     },
     "Coffee": {
         "Type": "Damage + Cooldown Boost",
-        "Image": "",
+        "Image": "rbxassetid://95721156946247",
         "Rarity": "Forgotten",
         "PlacePrice": 400,
         "Offset": 0,
@@ -9592,7 +9592,7 @@
     },
     "Glamrock Endo": {
         "Type": "Damage Boost",
-        "Image": "",
+        "Image": "rbxassetid://99936011662010",
         "Rarity": "Secret",
         "PlacePrice": 800,
         "NoEnemyAttack": true,
@@ -9636,7 +9636,7 @@
     },
     "Shadow of Afton": {
         "Type": "Cone AOE",
-        "Image": "",
+        "Image": "rbxassetid://78940990099734",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
