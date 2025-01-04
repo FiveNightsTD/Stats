@@ -9350,31 +9350,6 @@
         ]
     },
 
-
-    "Coffee": {
-        "Type": "Damage + Cooldown Boost",
-        "Image": "",
-        "Rarity": "Forgotten",
-        "PlacePrice": 11340,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "...", "Description": "..."},
-        "NoEnemyAttack": true,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-             "Cooldown": 1
-            }
-        ]
-    },
-
     "Burntrap": {
         "Type": "Single",
         "Image": "rbxassetid://120446334712341",
@@ -9523,6 +9498,178 @@
                 "Damage": 18500,
                 "Cooldown": 2,
                 "RangeBoost": 1.35
+            }
+        ]
+    },
+    "Coffee": {
+        "Type": "Damage + Cooldown Boost",
+        "Image": "",
+        "Rarity": "Forgotten",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "...", "Description": "..."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 1,
+                "DamageBoost": 1.06,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 1,
+                "DamageBoost": 1.06,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 1,
+                "DamageBoost": 1.06,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+                "Cooldown": 1,
+                "DamageBoost": 1.06,
+                "CooldownBoost": 0.9
+            }
+        ]
+    },
+    "Gilded Knight Puppet": {
+        "Type": "AOE + Passive",
+        "Image": "",
+        "Rarity": "Apex",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Equinox", "Description": "Every 3rd attack deals 300% damage."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 12000,
+                "Cooldown": 3
+            },
+            {
+                "Price": 25000,
+                "Range": 30,
+                "Damage": 14000,
+                "Cooldown": 2.8
+            },
+            {
+                "Price": 30000,
+                "Range": 32,
+                "Damage": 16000,
+                "Cooldown": 2.6
+            },
+            {
+                "Price": 35000,
+                "Range": 35,
+                "Damage": 19000,
+                "Cooldown": 2.5
+            }
+        ]
+    },
+    "Glamrock Endo": {
+        "Type": "Support",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "NoEnemyAttack": true,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06
+            }
+        ]
+    },
+    "Shadow of Afton": {
+        "Type": "Cone AOE",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "Passive": {"Name": "...", "Description": "..."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 1
             }
         ]
     }
