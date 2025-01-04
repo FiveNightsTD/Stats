@@ -9612,21 +9612,21 @@
                 "DamageBoost": 1.1
             },
             {
-                "Price": 0,
+                "Price": 1000,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.15
             },
             {
-                "Price": 0,
+                "Price": 1200,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
                 "DamageBoost": 1.2
             },
             {
-                "Price": 0,
+                "Price": 1400,
                 "Range": 20,
                 "Damage": 0,
                 "Cooldown": 1,
@@ -9638,7 +9638,7 @@
         "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://78940990099734",
         "Rarity": "Nightmare",
-        "PlacePrice": 100,
+        "PlacePrice": 14500,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Combined Agony", "Description": "Shadow of Afton deals +50% damage if another Springtrap is on the same team (Icetrap, Clowntrap, etc)"},
@@ -9650,25 +9650,25 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
+                "Range": 22,
                 "Damage": 800,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
-                "Range": 21,
+                "Price": 15000,
+                "Range": 22,
                 "Damage": 1000,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
-                "Range": 22,
+                "Price": 18000,
+                "Range": 24,
                 "Damage": 1200,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
-                "Range": 24,
+                "Price": 20000,
+                "Range": 26,
                 "Damage": 1500,
                 "Cooldown": 0.2
             }
