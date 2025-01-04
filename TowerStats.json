@@ -9596,6 +9596,7 @@
         "Rarity": "Secret",
         "PlacePrice": 800,
         "NoEnemyAttack": true,
+        "Offset": 0.7,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
