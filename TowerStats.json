@@ -9507,7 +9507,7 @@
         "Rarity": "Forgotten",
         "PlacePrice": 400,
         "Offset": 0,
-        "Max": 4,
+        "Max": 8,
         "Passive": {"Name": "Coffee", "Description": "Coffee"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
