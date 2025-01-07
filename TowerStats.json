@@ -584,7 +584,7 @@
         "Rarity": "Mythic",
         "PlacePrice": 4000,
         "Max": 2,
-        "Offset": -2,
+        "Offset": 0,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
