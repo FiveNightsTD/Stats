@@ -1096,7 +1096,7 @@
     },
     "Vendor Toy Chica": {
         "Type": "Explosion",
-        "Image": "rbxassetid://18256363652",
+        "Image": "rbxassetid://103458156932222",
         "Rarity": "Mythic",
         "PlacePrice": 1000,
         "Max": 3,
@@ -1111,25 +1111,25 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
-                "Cooldown": 2
+                "Cooldown": 1.5
             },
             {
                 "Price": 2000,
                 "Range": 22,
                 "Damage": 1050,
-                "Cooldown": 2
+                "Cooldown": 1.5
             },
             {
                 "Price": 3500,
                 "Range": 24,
                 "Damage": 1100,
-                "Cooldown": 2
+                "Cooldown": 1.5
             },
             {
                 "Price": 5000,
                 "Range": 25,
                 "Damage": 1200,
-                "Cooldown": 2
+                "Cooldown": 1.5
             }
         ]
     },
