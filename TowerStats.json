@@ -9675,11 +9675,10 @@
     "Blighted Foxy": {
         "Type": "Single",
         "Image": "",
-        "Rarity": "Temp",
-        "PlacePrice": 14500,
+        "Rarity": "Secret",
+        "PlacePrice": 100,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Combined Agony", "Description": "Shadow of Afton deals +50% damage if another Springtrap is on the same team (Icetrap, Clowntrap, etc)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9727,11 +9726,10 @@
     "Titan Crusher Freddy": {
         "Type": "Single",
         "Image": "",
-        "Rarity": "Temp",
-        "PlacePrice": 14500,
+        "Rarity": "Secret",
+        "PlacePrice": 100,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Combined Agony", "Description": "Shadow of Afton deals +50% damage if another Springtrap is on the same team (Icetrap, Clowntrap, etc)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
