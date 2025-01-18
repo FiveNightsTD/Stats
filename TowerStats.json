@@ -9740,28 +9740,28 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
+                "Range": 30,
                 "Damage": 37000,
                 "Cooldown": 3,
                 "LargeDamage": 1.5
             },
             {
                 "Price": 60000,
-                "Range": 22,
+                "Range": 32,
                 "Damage": 46000,
                 "Cooldown": 3,
                 "LargeDamage": 1.5
             },
             {
                 "Price": 80000,
-                "Range": 22,
+                "Range": 35,
                 "Damage": 55000,
                 "Cooldown": 3,
                 "LargeDamage": 1.5
             },
             {
                 "Price": 100000,
-                "Range": 22,
+                "Range": 40,
                 "Damage": 63000,
                 "Cooldown": 3,
                 "LargeDamage": 1.5
