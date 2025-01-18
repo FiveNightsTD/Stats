@@ -9671,5 +9671,101 @@
                 "Cooldown": 0.2
             }
         ]
+    },
+    "Blighted Foxy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Temp",
+        "PlacePrice": 14500,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Combined Agony", "Description": "Shadow of Afton deals +50% damage if another Springtrap is on the same team (Icetrap, Clowntrap, etc)"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
+            }
+        ]
+    },
+    "Titan Crusher Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Temp",
+        "PlacePrice": 14500,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Combined Agony", "Description": "Shadow of Afton deals +50% damage if another Springtrap is on the same team (Icetrap, Clowntrap, etc)"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.2,
+                "LargeDamage": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.2,
+                "LargeDamage": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.2,
+                "LargeDamage": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 800,
+                "Cooldown": 0.2,
+                "LargeDamage": 1.2
+            }
+        ]
     }
 }
