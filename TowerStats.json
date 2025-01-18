@@ -9728,9 +9728,9 @@
         "Type": "AOE + Passive",
         "Image": "rbxassetid://78775426136136",
         "Rarity": "Apex",
-        "PlacePrice": 14500,
+        "PlacePrice": 40000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "Giant Slayer", "Description": "Deal +50% damage to large enemies"},
         "hitboxOffset": {
             "X": 0,
@@ -9741,30 +9741,30 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 800,
-                "Cooldown": 0.2,
-                "LargeDamage": 1.2
+                "Damage": 37000,
+                "Cooldown": 3,
+                "LargeDamage": 1.5
             },
             {
-                "Price": 0,
+                "Price": 60000,
                 "Range": 22,
-                "Damage": 800,
-                "Cooldown": 0.2,
-                "LargeDamage": 1.2
+                "Damage": 46000,
+                "Cooldown": 3,
+                "LargeDamage": 1.5
             },
             {
-                "Price": 0,
+                "Price": 80000,
                 "Range": 22,
-                "Damage": 800,
-                "Cooldown": 0.2,
-                "LargeDamage": 1.2
+                "Damage": 55000,
+                "Cooldown": 3,
+                "LargeDamage": 1.5
             },
             {
-                "Price": 0,
+                "Price": 100000,
                 "Range": 22,
-                "Damage": 800,
-                "Cooldown": 0.2,
-                "LargeDamage": 1.2
+                "Damage": 63000,
+                "Cooldown": 3,
+                "LargeDamage": 1.5
             }
         ]
     }
