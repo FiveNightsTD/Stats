@@ -9753,28 +9753,28 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 37000,
+                "Damage": 43000,
                 "Cooldown": 3,
                 "LargeDamage": 1.2
             },
             {
                 "Price": 60000,
                 "Range": 32,
-                "Damage": 46000,
+                "Damage": 56000,
                 "Cooldown": 3,
                 "LargeDamage": 1.2
             },
             {
                 "Price": 80000,
                 "Range": 35,
-                "Damage": 55000,
+                "Damage": 65000,
                 "Cooldown": 3,
                 "LargeDamage": 1.2
             },
             {
                 "Price": 100000,
                 "Range": 40,
-                "Damage": 84000,
+                "Damage": 87000,
                 "Cooldown": 3,
                 "LargeDamage": 1.2
             }
