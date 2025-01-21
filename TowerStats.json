@@ -9504,7 +9504,7 @@
         "Image": "rbxassetid://131733393221448",
         "Rarity": "Forgotten",
         "PlacePrice": 400,
-        "Offset": 0,
+        "Offset": -0.3,
         "Max": 8,
         "Passive": {"Name": "Coffee", "Description": "Coffee applies 5% wither to all enemies in range (10% Shiny)"},
         "NoEnemyAttack": true,
