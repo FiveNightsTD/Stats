@@ -9966,7 +9966,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 7000,
-                "Cooldown": 1,
+                "Cooldown": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
@@ -9974,7 +9974,7 @@
                 "Price": 12000,
                 "Range": 26,
                 "Damage": 8000,
-                "Cooldown": 1,
+                "Cooldown": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
@@ -9982,7 +9982,7 @@
                 "Price": 14000,
                 "Range": 28,
                 "Damage": 10000,
-                "Cooldown": 12500,
+                "Cooldown": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
