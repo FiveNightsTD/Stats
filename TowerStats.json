@@ -9779,5 +9779,411 @@
                 "LargeDamage": 1.2
             }
         ]
+    },
+    "Archer Fredeus": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 100,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 100,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 100,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 100,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Ares Endoxus": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Foxseidon": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Hermes Puppeteer": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "NoEnemyAttack": true,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
+            }
+        ]
+    },
+    "Vulcan Withered Bonnie": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Burn": 38,
+                "BurnTime": 1.2
+            }
+        ]
+    },
+    "Zeus Montgomerous": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Kingtrap": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "NoEnemyAttack": true,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06,
+                "MoneyBoost": 1.5
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06,
+                "MoneyBoost": 1.5
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06,
+                "MoneyBoost": 1.5
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 0,
+                "Cooldown": 1,
+                "DamageBoost": 1.06,
+                "MoneyBoost": 1.5
+            }
+        ]
+    },
+    "Apollo's Sun": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Bleed": 0.5,
+                "BleedTime": 1
+            }
+        ]
+    },
+    "Gaia Chica": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "NoEnemyAttack": true,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
     }
 }
