@@ -9953,9 +9953,9 @@
         "Type": "Splash + Burn",
         "Image": "rbxassetid://77325921551661",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 9000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9964,33 +9964,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
+                "Range": 25,
+                "Damage": 7000,
                 "Cooldown": 1,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
+                "Price": 12000,
+                "Range": 26,
+                "Damage": 8000,
                 "Cooldown": 1,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Price": 14000,
+                "Range": 28,
+                "Damage": 10000,
+                "Cooldown": 12500,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
+                "Price": 1500,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Damage": 12000,
+                "Cooldown": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             }
@@ -10037,7 +10037,7 @@
                 "Price": 1200,
                 "Range": 27,
                 "Damage": 1200,
-                "Cooldown": 1.5,
+                "Cooldown": 1.5
                 "Slow": 0,
                 "SlowTime": 0.01
             }
@@ -10051,6 +10051,7 @@
         "NoEnemyAttack": true,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Touch Of Midas", "Description": "All units in range generate +50% income"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10095,7 +10096,7 @@
         "Type": "Splash + Anti Heal",
         "Image": "rbxassetid://120968472381141",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 22000,
         "Offset": 0,
         "Max": 1,
         "hitboxOffset": {
@@ -10115,7 +10116,7 @@
                 "BleedTime": 1
             },
             {
-                "Price": 0,
+                "Price": 24000,
                 "Range": 34,
                 "Damage": 75000,
                 "Cooldown": 3.7,
@@ -10125,7 +10126,7 @@
                 "BleedTime": 1
             },
             {
-                "Price": 0,
+                "Price": 28000,
                 "Range": 37,
                 "Damage": 80000,
                 "Cooldown": 3.4,
@@ -10135,7 +10136,7 @@
                 "BleedTime": 1
             },
             {
-                "Price": 0,
+                "Price": 34000,
                 "Range": 40,
                 "Damage": 90000,
                 "Cooldown": 3.2,
