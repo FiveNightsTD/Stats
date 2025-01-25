@@ -10117,7 +10117,7 @@
                 "BleedTime": 1
             },
             {
-                "Price": 24000,
+                "Price": 30000,
                 "Range": 34,
                 "Damage": 65000,
                 "Cooldown": 3.7,
@@ -10127,7 +10127,7 @@
                 "BleedTime": 1
             },
             {
-                "Price": 28000,
+                "Price": 40000,
                 "Range": 37,
                 "Damage": 80000,
                 "Cooldown": 3.4,
@@ -10137,7 +10137,7 @@
                 "BleedTime": 1
             },
             {
-                "Price": 34000,
+                "Price": 50000,
                 "Range": 40,
                 "Damage": 120000,
                 "Cooldown": 3.2,
