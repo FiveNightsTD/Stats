@@ -9782,11 +9782,11 @@
     },
     "Archer Fredeus": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://113101409953014",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 300,
         "Offset": 0,
-        "Max": 3,
+        "Max": 5,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9795,34 +9795,34 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 100,
-                "Cooldown": 3
+                "Range": 20,
+                "Damage": 180,
+                "Cooldown": 1.5
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 100,
-                "Cooldown": 3
+                "Price": 500,
+                "Range": 22,
+                "Damage": 250,
+                "Cooldown": 1.5
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 100,
-                "Cooldown": 3
+                "Price": 800,
+                "Range": 24,
+                "Damage": 340,
+                "Cooldown": 1.5
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 100,
-                "Cooldown": 3
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 400,
+                "Cooldown": 1.5
             }
         ]
     },
     "Ares Endoxus": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
+        "Type": "Pierce",
+        "Image": "rbxassetid://97883839997626",
+        "Rarity": "Nightmare",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
@@ -9834,37 +9834,37 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Range": 25,
+                "Damage": 6000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 27,
+                "Damage": 7500,
+                "Cooldown": 1.9
+            },
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 9000,
+                "Cooldown": 1.8
             },
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 10000,
+                "Cooldown": 1.8
             }
         ]
     },
     "Foxseidon": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://80289284808475",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 9000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9873,46 +9873,46 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Range": 22,
+                "Damage": 4500,
+                "Cooldown": 2.5,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 6000,
+                "Cooldown": 2.4,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Price": 15000,
+                "Range": 25,
+                "Damage": 7000,
+                "Cooldown": 2.2,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Price": 18000,
+                "Range": 27,
+                "Damage": 8000,
+                "Cooldown": 2,
                 "Slow": 0.70,
                 "SlowTime": 1
             }
         ]
     },
     "Hermes Puppeteer": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Type": "Splash + Booster",
+        "Image": "rbxassetid://83624388314614",
+        "Rarity": "Mythic",
+        "PlacePrice": 10000,
         "NoEnemyAttack": true,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9921,37 +9921,37 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Range": 20,
+                "Damage": 2500,
+                "Cooldown": 2.5,
                 "CooldownBoost": 0.9
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "Price": 12000,
+                "Range": 22,
+                "Damage": 3000,
+                "Cooldown": 2.4,
+                "CooldownBoost": 0.85
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "Price": 14000,
+                "Range": 24,
+                "Damage": 3500,
+                "Cooldown": 2.3,
+                "CooldownBoost": 0.8
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "Price": 16000,
+                "Range": 25,
+                "Damage": 4000,
+                "Cooldown": 2.3,
+                "CooldownBoost": 0.73
             }
         ]
     },
     "Forge Withered Bonnie": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Splash + Burn",
+        "Image": "rbxassetid://77325921551661",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -9998,7 +9998,7 @@
     },
     "Zeus Fredeus": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://135540199495231",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -10015,7 +10015,7 @@
                 "Damage": 1000,
                 "Cooldown": 1,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.01
             },
             {
                 "Price": 0,
@@ -10023,7 +10023,7 @@
                 "Damage": 1000,
                 "Cooldown": 1,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.01
             },
             {
                 "Price": 0,
@@ -10031,7 +10031,7 @@
                 "Damage": 1000,
                 "Cooldown": 1,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.01
             },
             {
                 "Price": 0,
@@ -10039,13 +10039,13 @@
                 "Damage": 1000,
                 "Cooldown": 1,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.01
             }
         ]
     },
     "Kingtrap": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://74384877233992",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "NoEnemyAttack": true,
@@ -10093,7 +10093,7 @@
     },
     "Apollo's Sun": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://120968472381141",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
