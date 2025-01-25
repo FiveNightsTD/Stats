@@ -9997,10 +9997,10 @@
         ]
     },
     "Zeus Fredeus": {
-        "Type": "Single",
+        "Type": "Splash",
         "Image": "rbxassetid://135540199495231",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -10011,43 +10011,43 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Range": 22,
+                "Damage": 700,
+                "Cooldown": 1.5,
                 "Slow": 0,
                 "SlowTime": 0.01
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Price": 600,
+                "Range": 24,
+                "Damage": 900,
+                "Cooldown": 1.5,
                 "Slow": 0,
                 "SlowTime": 0.01
             },
             {
-                "Price": 0,
-                "Range": 30,
+                "Price": 800,
+                "Range": 25,
                 "Damage": 1000,
-                "Cooldown": 1,
+                "Cooldown": 1.5,
                 "Slow": 0,
                 "SlowTime": 0.01
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Price": 1200,
+                "Range": 27,
+                "Damage": 1200,
+                "Cooldown": 1.5
                 "Slow": 0,
                 "SlowTime": 0.01
             }
         ]
     },
     "Kingtrap": {
-        "Type": "Single",
+        "Type": "Booster + Passive",
         "Image": "rbxassetid://74384877233992",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 1200,
         "NoEnemyAttack": true,
         "Offset": 0,
         "Max": 3,
@@ -10062,42 +10062,42 @@
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06,
+                "DamageBoost": 1.15,
                 "MoneyBoost": 1.5
             },
             {
-                "Price": 0,
+                "Price": 1400,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06,
+                "DamageBoost": 1.25,
                 "MoneyBoost": 1.5
             },
             {
-                "Price": 0,
+                "Price": 1600,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06,
+                "DamageBoost": 1.3,
                 "MoneyBoost": 1.5
             },
             {
-                "Price": 0,
+                "Price": 1800,
                 "Range": 30,
                 "Damage": 0,
                 "Cooldown": 1,
-                "DamageBoost": 1.06,
+                "DamageBoost": 1.4,
                 "MoneyBoost": 1.5
             }
         ]
     },
     "Apollo's Sun": {
-        "Type": "Single",
+        "Type": "Splash + Anti Heal",
         "Image": "rbxassetid://120968472381141",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10107,8 +10107,8 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Damage": 49000,
+                "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
                 "Bleed": 0.5,
@@ -10116,9 +10116,9 @@
             },
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Range": 34,
+                "Damage": 75000,
+                "Cooldown": 3.7,
                 "Burn": 38,
                 "BurnTime": 1.2,
                 "Bleed": 0.5,
@@ -10126,9 +10126,9 @@
             },
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Range": 37,
+                "Damage": 80000,
+                "Cooldown": 3.4,
                 "Burn": 38,
                 "BurnTime": 1.2,
                 "Bleed": 0.5,
@@ -10136,9 +10136,9 @@
             },
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Range": 40,
+                "Damage": 90000,
+                "Cooldown": 3.2,
                 "Burn": 38,
                 "BurnTime": 1.2,
                 "Bleed": 0.5,
