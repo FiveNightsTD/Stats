@@ -10099,6 +10099,7 @@
         "PlacePrice": 22000,
         "Offset": 0,
         "Max": 1,
+         "Passive": {"Name": "Lights Final Toll", "Description": "Enemies struck by Apollo's Flames recieve 50% anti regen and take recieve an extra 50% damage in burn."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10118,7 +10119,7 @@
             {
                 "Price": 24000,
                 "Range": 34,
-                "Damage": 75000,
+                "Damage": 65000,
                 "Cooldown": 3.7,
                 "Burn": 38,
                 "BurnTime": 1.2,
@@ -10130,7 +10131,7 @@
                 "Range": 37,
                 "Damage": 80000,
                 "Cooldown": 3.4,
-                "Burn": 38,
+                "Burn": 8000,
                 "BurnTime": 1.2,
                 "Bleed": 0.5,
                 "BleedTime": 1
@@ -10138,9 +10139,9 @@
             {
                 "Price": 34000,
                 "Range": 40,
-                "Damage": 90000,
+                "Damage": 120000,
                 "Cooldown": 3.2,
-                "Burn": 38,
+                "Burn": 90000,
                 "BurnTime": 1.2,
                 "Bleed": 0.5,
                 "BleedTime": 1
