@@ -10036,7 +10036,7 @@
             {
                 "Price": 1200,
                 "Range": 27,
-                "Damage": 1200,
+                "Damage": 1500,
                 "Cooldown": 1.5,
                 "Slow": 0,
                 "SlowTime": 0.01
