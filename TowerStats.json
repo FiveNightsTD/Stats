@@ -10099,7 +10099,7 @@
         "PlacePrice": 22000,
         "Offset": 0,
         "Max": 1,
-         "Passive": {"Name": "Lights Final Toll", "Description": "Enemies struck by Apollo's Flames recieve 50% anti regen and take recieve an extra 50% damage in burn."},
+         "Passive": {"Name": "Lights Final Toll", "Description": "Enemies struck by Apollo's Flames recieve 50% anti regen and recieve an extra 50% damage in burn."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
