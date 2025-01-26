@@ -9908,6 +9908,7 @@
     "Hermes Puppeteer": {
         "Type": "Splash + Booster",
         "Image": "rbxassetid://83624388314614",
+        "Passive": {"Name": "Cooldown Boost", "Description": "All units in range recieve -26% cooldown"},
         "Rarity": "Mythic",
         "PlacePrice": 10000,
         "NoEnemyAttack": true,
