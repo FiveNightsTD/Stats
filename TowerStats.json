@@ -10131,7 +10131,7 @@
                 "Range": 37,
                 "Damage": 80000,
                 "Cooldown": 3.4,
-                "Burn": 8000,
+                "Burn": 80,
                 "BurnTime": 1.2,
                 "Bleed": 0.5,
                 "BleedTime": 1
@@ -10141,7 +10141,7 @@
                 "Range": 40,
                 "Damage": 105000,
                 "Cooldown": 3.2,
-                "Burn": 9000,
+                "Burn": 90,
                 "BurnTime": 1.2,
                 "Bleed": 0.5,
                 "BleedTime": 1
