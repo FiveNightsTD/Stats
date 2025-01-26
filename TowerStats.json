@@ -10051,7 +10051,7 @@
         "NoEnemyAttack": true,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Touch Of Midas", "Description": "All units in range generate +50% income"},
+        "Passive": {"Name": "Midas Touch", "Description": "All units in range generate +50% income"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
