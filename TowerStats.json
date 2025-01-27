@@ -9954,7 +9954,7 @@
         "Type": "Splash + Burn",
         "Image": "rbxassetid://77325921551661",
         "Rarity": "Nightmare",
-        "PlacePrice": 9000,
+        "PlacePrice": 10000,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -9982,7 +9982,7 @@
             {
                 "Price": 14000,
                 "Range": 28,
-                "Damage": 10000,
+                "Damage": 12000,
                 "Cooldown": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
@@ -9990,7 +9990,7 @@
             {
                 "Price": 1500,
                 "Range": 30,
-                "Damage": 12000,
+                "Damage": 13500,
                 "Cooldown": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
