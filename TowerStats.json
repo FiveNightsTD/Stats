@@ -9990,7 +9990,7 @@
             {
                 "Price": 1500,
                 "Range": 30,
-                "Damage": 13500,
+                "Damage": 12500,
                 "Cooldown": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
