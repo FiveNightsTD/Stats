@@ -9267,7 +9267,7 @@
             {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 4000,
+                "Damage": 5500,
                 "Cooldown": 2.2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -9275,7 +9275,7 @@
             {
                 "Price": 7000,
                 "Range": 28,
-                "Damage": 5000,
+                "Damage": 6500,
                 "Cooldown": 2.2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -9283,7 +9283,7 @@
             {
                 "Price": 8000,
                 "Range": 29,
-                "Damage": 6000,
+                "Damage": 8000,
                 "Cooldown": 2.2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -9291,7 +9291,7 @@
             {
                 "Price": 9000,
                 "Range": 32,
-                "Damage": 7500,
+                "Damage": 10000,
                 "Cooldown": 2.2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -9861,6 +9861,7 @@
     "Foxseidon": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://80289284808475",
+        "Passive": {"Name": "Slow", "Description": "Attacks slow enemies by 25%"},
         "Rarity": "Secret",
         "PlacePrice": 9000,
         "Offset": 0,
@@ -9876,7 +9877,7 @@
                 "Range": 22,
                 "Damage": 4500,
                 "Cooldown": 2.5,
-                "Slow": 0.70,
+                "Slow": 0.75,
                 "SlowTime": 1
             },
             {
@@ -9884,7 +9885,7 @@
                 "Range": 24,
                 "Damage": 6000,
                 "Cooldown": 2.4,
-                "Slow": 0.70,
+                "Slow": 0.75,
                 "SlowTime": 1
             },
             {
@@ -9892,7 +9893,7 @@
                 "Range": 25,
                 "Damage": 7000,
                 "Cooldown": 2.2,
-                "Slow": 0.70,
+                "Slow": 0.75,
                 "SlowTime": 1
             },
             {
@@ -9900,7 +9901,7 @@
                 "Range": 27,
                 "Damage": 8000,
                 "Cooldown": 2,
-                "Slow": 0.70,
+                "Slow": 0.75,
                 "SlowTime": 1
             }
         ]
