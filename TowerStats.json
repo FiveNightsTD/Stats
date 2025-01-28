@@ -9291,7 +9291,7 @@
             {
                 "Price": 9000,
                 "Range": 32,
-                "Damage": 10000,
+                "Damage": 9000,
                 "Cooldown": 2.2,
                 "Slow": 0,
                 "SlowTime": 0.5
