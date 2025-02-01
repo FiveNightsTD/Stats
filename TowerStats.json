@@ -10158,7 +10158,7 @@
         "NoEnemyAttack": true,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Flourish", "Description": "Every 7 seconds summons a cupcake trap from the ground with health equal to her damage. (Max traps 100 each)"},
+        "Passive": {"Name": "Flourish", "Description": "Every 7 seconds Gaia Chica summons a cupcake trap from the ground with health equal to her damage. (Max traps 100 per placement)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
