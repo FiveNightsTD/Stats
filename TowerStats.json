@@ -10281,7 +10281,7 @@
         "Type": "Splash + Passive",
         "Image": "rbxassetid://110480135815933",
         "Rarity": "Secret",
-        "PlacePrice": 380000,
+        "PlacePrice": 38000,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
