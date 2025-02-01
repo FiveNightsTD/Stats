@@ -10328,7 +10328,7 @@
             {
                 "Price": 80000,
                 "Range": 40,
-                "Damage": 1600000,
+                "Damage": 160000,
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
