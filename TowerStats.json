@@ -10157,7 +10157,8 @@
         "PlacePrice": 49000,
         "NoEnemyAttack": true,
         "Offset": 0,
-        "Max": 1,
+        "Max": 2,
+        "Passive": {"Name": "Flourish", "Description": "Every 7 seconds summons a cupcake trap from the ground with health equal to her damage. (Max traps 100 each)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10167,25 +10168,25 @@
             {
                 "Price": 0,
                 "Range": 24,
-                "Damage": 65000,
+                "Damage": 43000,
                 "Cooldown": 4
             },
             {
                 "Price": 60000,
                 "Range": 25,
-                "Damage": 80000,
+                "Damage": 55000,
                 "Cooldown": 4
             },
             {
                 "Price": 70000,
                 "Range": 27,
-                "Damage": 100000,
+                "Damage": 76000,
                 "Cooldown": 4
             },
             {
                 "Price": 80000,
                 "Range": 32,
-                "Damage": 120000,
+                "Damage": 85000,
                 "Cooldown": 4
             }
         ]
