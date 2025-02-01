@@ -10157,7 +10157,7 @@
         "PlacePrice": 49000,
         "NoEnemyAttack": true,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
