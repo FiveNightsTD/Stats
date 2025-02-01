@@ -10275,5 +10275,64 @@
                 "Cooldown": 1
             }
         ]
+    },
+    "Apollo's Moon": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 49000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.05,
+                "ShinyWither": 1.1,
+                "WitherTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 49000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.05,
+                "ShinyWither": 1.1,
+                "WitherTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 49000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.05,
+                "ShinyWither": 1.1,
+                "WitherTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 49000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.05,
+                "ShinyWither": 1.1,
+                "WitherTime": 1
+            }
+        ]
     }
 }
