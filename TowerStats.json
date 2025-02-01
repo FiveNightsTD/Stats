@@ -10152,12 +10152,13 @@
     },
     "Gaia Chica": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://137838669403437",
         "Rarity": "Forgotten",
         "PlacePrice": 100,
         "NoEnemyAttack": true,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Midas Touch", "Description": "All units in range generate +50% income"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10192,11 +10193,11 @@
     },
     "Forest Nymph Bonnie": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://98536829599815",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 15000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10205,45 +10206,46 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 4,
+                "Range": 22,
+                "Damage": 9000,
+                "Cooldown": 2.5,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 4,
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 11000,
+                "Cooldown": 2.5,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 4,
+                "Price": 25000,
+                "Range": 26,
+                "Damage": 14000,
+                "Cooldown": 2.5,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 4,
+                "Price": 30000,
+                "Range": 27,
+                "Damage": 16000,
+                "Cooldown": 2.5,
                 "Slow": 0,
                 "SlowTime": 0.5
             }
         ]
     },
     "Glamrock Bonnie": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Cone AOE + Passive",
+        "Image": "rbxassetid://111634413490207",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 18000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "Team Boost", "Description": "Glamrock Bonnie Deals +35% damage if on the same team as another bonnie."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10252,37 +10254,38 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Range": 22,
+                "Damage": 9000,
+                "Cooldown": 2
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 21000,
+                "Range": 24,
+                "Damage": 12000,
+                "Cooldown": 2
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 25000,
+                "Range": 27,
+                "Damage": 15000,
+                "Cooldown": 2
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 17000,
+                "Cooldown": 2
             }
         ]
     },
     "Apollo's Moon": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Splash + Passive",
+        "Image": "rbxassetid://110480135815933",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 380000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
+        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10292,7 +10295,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 49000,
+                "Damage": 85000,
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
@@ -10301,9 +10304,9 @@
                 "WitherTime": 1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 49000,
+                "Price": 45000,
+                "Range": 32,
+                "Damage": 110000,
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
@@ -10312,9 +10315,9 @@
                 "WitherTime": 1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 49000,
+                "Price": 60000,
+                "Range": 35,
+                "Damage": 130000,
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
@@ -10323,9 +10326,9 @@
                 "WitherTime": 1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 49000,
+                "Price": 80000,
+                "Range": 40,
+                "Damage": 1600000,
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
