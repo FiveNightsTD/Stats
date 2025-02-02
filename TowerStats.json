@@ -10282,7 +10282,7 @@
         "Type": "Splash + Passive",
         "Image": "rbxassetid://92233400124489",
         "Rarity": "Apex",
-        "PlacePrice": 38000,
+        "PlacePrice": 22000,
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
@@ -10304,7 +10304,7 @@
                 "WitherTime": 1
             },
             {
-                "Price": 45000,
+                "Price": 25000,
                 "Range": 32,
                 "Damage": 110000,
                 "Cooldown": 4,
@@ -10315,7 +10315,7 @@
                 "WitherTime": 1
             },
             {
-                "Price": 60000,
+                "Price": 30000,
                 "Range": 35,
                 "Damage": 130000,
                 "Cooldown": 4,
@@ -10326,7 +10326,7 @@
                 "WitherTime": 1
             },
             {
-                "Price": 80000,
+                "Price": 40000,
                 "Range": 40,
                 "Damage": 160000,
                 "Cooldown": 4,
