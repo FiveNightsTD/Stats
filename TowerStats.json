@@ -10337,5 +10337,57 @@
                 "WitherTime": 10
             }
         ]
+    },
+    "Soulmate Puppet": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 4,
+                "RangeBoost": 1.05,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 4,
+                "RangeBoost": 1.05,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 4,
+                "RangeBoost": 1.05,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 4,
+                "RangeBoost": 1.05,
+                "Slow": 0.70,
+                "SlowTime": 1
+            }
+        ]
     }
 }
