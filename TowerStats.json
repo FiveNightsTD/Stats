@@ -10355,27 +10355,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
+                "Range": 25,
                 "Damage": 14000,
-                "Cooldown": 3,
+                "Cooldown": 2.5,
                 "RangeBoost": 1.05,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
                 "Price": 22000,
-                "Range": 30,
+                "Range": 27,
                 "Damage": 15000,
-                "Cooldown": 3,
+                "Cooldown": 2.3,
                 "RangeBoost": 1.05,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
                 "Price": 27000,
-                "Range": 30,
+                "Range": 28,
                 "Damage": 17000,
-                "Cooldown": 3,
+                "Cooldown": 2.2,
                 "RangeBoost": 1.05,
                 "Slow": 0.70,
                 "SlowTime": 1
