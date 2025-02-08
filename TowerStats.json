@@ -10358,7 +10358,7 @@
                 "Range": 25,
                 "Damage": 14000,
                 "Cooldown": 2.5,
-                "RangeBoost": 1.05,
+                "RangeBoost": 1.35,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
@@ -10367,7 +10367,7 @@
                 "Range": 27,
                 "Damage": 15000,
                 "Cooldown": 2.3,
-                "RangeBoost": 1.05,
+                "RangeBoost": 1.35,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
@@ -10376,7 +10376,7 @@
                 "Range": 28,
                 "Damage": 17000,
                 "Cooldown": 2.2,
-                "RangeBoost": 1.05,
+                "RangeBoost": 1.35,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
@@ -10385,7 +10385,7 @@
                 "Range": 30,
                 "Damage": 20000,
                 "Cooldown": 2,
-                "RangeBoost": 1.05,
+                "RangeBoost": 1.35,
                 "Slow": 0.70,
                 "SlowTime": 1
             }
