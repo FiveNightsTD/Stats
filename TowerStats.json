@@ -10342,7 +10342,7 @@
         "Type": "Splash + Passive",
         "Image": "rbxassetid://127566861240944",
         "Rarity": "Nightmare",
-        "PlacePrice": 19500,
+        "PlacePrice": 20000,
         "Offset": -0.4,
         "Max": 2,
         "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
