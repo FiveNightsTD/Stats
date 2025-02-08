@@ -10339,12 +10339,13 @@
         ]
     },
     "Soulmate Puppet": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Splash + Passive",
+        "Image": "rbxassetid://74779386441810",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -10355,8 +10356,8 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 4,
+                "Damage": 14000,
+                "Cooldown": 3,
                 "RangeBoost": 1.05,
                 "Slow": 0.70,
                 "SlowTime": 1
@@ -10364,8 +10365,8 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 4,
+                "Damage": 15000,
+                "Cooldown": 3,
                 "RangeBoost": 1.05,
                 "Slow": 0.70,
                 "SlowTime": 1
@@ -10373,8 +10374,8 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 4,
+                "Damage": 17000,
+                "Cooldown": 3,
                 "RangeBoost": 1.05,
                 "Slow": 0.70,
                 "SlowTime": 1
@@ -10382,8 +10383,8 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 4,
+                "Damage": 20000,
+                "Cooldown": 2,
                 "RangeBoost": 1.05,
                 "Slow": 0.70,
                 "SlowTime": 1
