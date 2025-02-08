@@ -10343,7 +10343,7 @@
         "Image": "rbxassetid://127566861240944",
         "Rarity": "Secret",
         "PlacePrice": 19500,
-        "Offset": 0,
+        "Offset": -0.4,
         "Max": 2,
         "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
         "NoEnemyAttack": true,
