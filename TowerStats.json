@@ -10342,7 +10342,7 @@
         "Type": "Splash + Passive",
         "Image": "rbxassetid://74779386441810",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 19500,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
@@ -10363,7 +10363,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 0,
+                "Price": 22000,
                 "Range": 30,
                 "Damage": 15000,
                 "Cooldown": 3,
@@ -10372,7 +10372,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 0,
+                "Price": 27000,
                 "Range": 30,
                 "Damage": 17000,
                 "Cooldown": 3,
@@ -10381,7 +10381,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 0,
+                "Price": 32000,
                 "Range": 30,
                 "Damage": 20000,
                 "Cooldown": 2,
