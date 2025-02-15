@@ -10390,5 +10390,186 @@
                 "SlowTime": 1
             }
         ]
+    },
+
+    "Ruined Glamrock Bonnie": {
+        "Type": "Nuke + Passive",
+        "Image": "rbxassetid://92233400124489",
+        "Rarity": "Secret",
+        "PlacePrice": 22000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 85000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            },
+            {
+                "Price": 25000,
+                "Range": 32,
+                "Damage": 110000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 130000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            },
+            {
+                "Price": 40000,
+                "Range": 40,
+                "Damage": 160000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            }
+        ]
+    },
+    "The Mimic": {
+        "Type": "Nuke + Passive",
+        "Image": "rbxassetid://92233400124489",
+        "Rarity": "Secret",
+        "PlacePrice": 22000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 85000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            },
+            {
+                "Price": 25000,
+                "Range": 32,
+                "Damage": 110000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 130000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            },
+            {
+                "Price": 40000,
+                "Range": 40,
+                "Damage": 160000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            }
+        ]
+    },
+    "Eclipse": {
+        "Type": "Nuke + Passive",
+        "Image": "rbxassetid://92233400124489",
+        "Rarity": "Secret",
+        "PlacePrice": 22000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 85000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            },
+            {
+                "Price": 25000,
+                "Range": 32,
+                "Damage": 110000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            },
+            {
+                "Price": 30000,
+                "Range": 35,
+                "Damage": 130000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            },
+            {
+                "Price": 40000,
+                "Range": 40,
+                "Damage": 160000,
+                "Cooldown": 4,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "Wither": 1.1,
+                "ShinyWither": 1.2,
+                "WitherTime": 10
+            }
+        ]
     }
 }
