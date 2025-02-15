@@ -10412,7 +10412,7 @@
     "Eclipse": {
         "Type": "Single",
         "Image": "rbxassetid://91251907054257",
-        "Rarity": "Epic",
+        "Rarity": "Mythic",
         "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
@@ -10490,7 +10490,7 @@
     "Vanny": {
         "Type": "Slash + Slow",
         "Image": "rbxassetid://86358962940619",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 5500,
         "Offset": 0,
         "Max": 3,
@@ -10538,7 +10538,7 @@
     "Burntrap": {
         "Type": "Splash + Anti Regen",
         "Image": "rbxassetid://120446334712341",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 18000,
         "Offset": 0,
         "Max": 3,
