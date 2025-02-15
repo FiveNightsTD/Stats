@@ -10639,31 +10639,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.85
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
+                "Price": 700,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.78
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
+                "Price": 900,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.72
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9
+                "CooldownBoost": 0.67
             }
         ]
     },
@@ -10707,10 +10707,10 @@
         ]
     },
     "Fan": {
-        "Type": "Single",
+        "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://70879844361967",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 250,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -10721,33 +10721,33 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Price": 300,
+                "Range": 24,
+                "Damage": 350,
+                "Cooldown": 0.5,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Price": 400,
+                "Range": 25,
+                "Damage": 450,
+                "Cooldown": 0.5,
                 "Slow": 0.70,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
+                "Price": 500,
+                "Range": 27,
+                "Damage": 500,
+                "Cooldown": 0.5,
                 "Slow": 0.70,
                 "SlowTime": 1
             }
