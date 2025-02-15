@@ -10541,7 +10541,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 18000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Scourch", "Description": "Attacks apply 80% anti regen for 9 seconds."},
         "hitboxOffset": {
             "X": 0,
