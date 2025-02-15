@@ -10371,13 +10371,12 @@
     },
 
     "Ruined Glamrock Bonnie": {
-        "Type": "Nuke + Passive",
-        "Image": "rbxassetid://85309483901437",
+        "Type": "Single",
+        "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 22000,
+        "PlacePrice": 100,
         "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10387,77 +10386,36 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 85000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
-            }
-        ]
-    },
-    "The Mimic": {
-        "Type": "Nuke + Passive",
-        "Image": "rbxassetid://108843809969916",
-        "Rarity": "Secret",
-        "PlacePrice": 22000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 85000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Damage": 1000,
+                "Cooldown": 1
             },
             {
-                "Price": 40000,
-                "Range": 40,
-                "Damage": 160000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
             }
         ]
     },
     "Eclipse": {
-        "Type": "Nuke + Passive",
-        "Image": "rbxassetid://91251907054257",
+        "Type": "Single",
+        "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 22000,
+        "PlacePrice": 100,
         "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 40000,
-                "Range": 40,
-                "Damage": 160000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
-            }
-        ]
-    },
-    "Pixel OMC": {
-        "Type": "Nuke + Passive",
-        "Image": "rbxassetid://78679487650695",
-        "Rarity": "Secret",
-        "PlacePrice": 22000,
-        "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10467,29 +10425,75 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 85000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Damage": 1000,
+                "Cooldown": 1
             },
             {
-                "Price": 40000,
-                "Range": 40,
-                "Damage": 160000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "The Mimic": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
             }
         ]
     },
     "Vanny": {
-        "Type": "Nuke + Passive",
-        "Image": "rbxassetid://86358962940619",
+        "Type": "Single",
+        "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 22000,
+        "PlacePrice": 100,
         "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10499,29 +10503,44 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 85000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
             },
             {
-                "Price": 40000,
-                "Range": 40,
-                "Damage": 160000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
             }
         ]
     },
-    "Ruined STAFF Bot": {
-        "Type": "Nuke + Passive",
-        "Image": "rbxassetid://122930850408296",
+    "Burntrap": {
+        "Type": "Single",
+        "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 22000,
+        "PlacePrice": 100,
         "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10531,29 +10550,44 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 85000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Bleed": 0,
+                "BleedTime": 1
             },
             {
-                "Price": 40000,
-                "Range": 40,
-                "Damage": 160000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Bleed": 0,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Bleed": 0,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Bleed": 0,
+                "BleedTime": 1
             }
         ]
     },
-    "M.X.E.S.": {
-        "Type": "Nuke + Passive",
-        "Image": "rbxassetid://99807714990509",
+    "Pixel OMC": {
+        "Type": "Single",
+        "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 22000,
+        "PlacePrice": 100,
         "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10563,29 +10597,37 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 85000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Damage": 1000,
+                "Cooldown": 1
             },
             {
-                "Price": 40000,
-                "Range": 40,
-                "Damage": 160000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
             }
         ]
     },
     "Candy Cadet": {
-        "Type": "Nuke + Passive",
-        "Image": "rbxassetid://104356297194309",
+        "Type": "Single",
+        "Image": "",
         "Rarity": "Secret",
-        "PlacePrice": 22000,
+        "PlacePrice": 100,
         "Offset": 0,
-        "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "Max": 3,
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10595,30 +10637,79 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 85000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
             },
             {
-                "Price": 40000,
-                "Range": 40,
-                "Damage": 160000,
-                "Cooldown": 4,
-                "Burn": 38,
-                "BurnTime": 1.2
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9
             }
         ]
     },
-
-    
+    "Nightmare Bot": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
+    },
     "Fan": {
         "Type": "Single",
-        "Image": "rbxassetid://70879844361967",
-        "Rarity": "Nightmare",
+        "Image": "",
+        "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
-        "Max": 1,
+        "Max": 3,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10627,31 +10718,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-              "Cooldown": 1
-            }
-        ]
-    },
-    
-    "Burntrap": {
-        "Type": "Single",
-        "Image": "rbxassetid://120446334712341",
-        "Rarity": "Nightmare",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 1,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 1100,
-              "Cooldown": 1
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
             }
         ]
     }
