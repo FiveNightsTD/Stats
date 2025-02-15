@@ -10610,6 +10610,29 @@
             }
         ]
     },
+
+    
+    "Fan": {
+        "Type": "Single",
+        "Image": "rbxassetid://70879844361967",
+        "Rarity": "Nightmare",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 1,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 1100,
+              "Cooldown": 1
+            }
+        ]
+    },
     
     "Burntrap": {
         "Type": "Single",
