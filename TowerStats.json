@@ -10424,37 +10424,37 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
+                "Range": 20,
                 "Damage": 450,
                 "Cooldown": 1.8
             },
             {
                 "Price": 800,
-                "Range": 30,
+                "Range": 22,
                 "Damage": 500,
                 "Cooldown": 1.7
             },
             {
                 "Price": 1000,
-                "Range": 30,
+                "Range": 24,
                 "Damage": 650,
                 "Cooldown": 1.6
             },
             {
                 "Price": 1200,
-                "Range": 30,
+                "Range": 25,
                 "Damage": 800,
                 "Cooldown": 1.5
             }
         ]
     },
     "The Mimic": {
-        "Type": "Single",
+        "Type": "Slash",
         "Image": "rbxassetid://108843809969916",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 16000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10463,38 +10463,38 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Range": 24,
+                "Damage": 8500,
+                "Cooldown": 2.3
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 20000,
+                "Range": 27,
+                "Damage": 12000,
+                "Cooldown": 2.2
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 25000,
+                "Range": 29,
+                "Damage": 15000,
+                "Cooldown": 2.1
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 17000,
+                "Cooldown": 2
             }
         ]
     },
     "Vanny": {
-        "Type": "Single",
+        "Type": "Slash + Slow",
         "Image": "rbxassetid://86358962940619",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 5500,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
+        "Passive": {"Name": "Afton's Agony", "Description": "Enemies hit are slowed by 65%, deal +50% Damage if on the same team a Springtrap unit."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10536,13 +10536,13 @@
         ]
     },
     "Burntrap": {
-        "Type": "Single",
+        "Type": "Splash + Anti Regen",
         "Image": "rbxassetid://120446334712341",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 18000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
+        "Passive": {"Name": "Scourch", "Description": "Attacks apply 80% anti regen for 9 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10551,42 +10551,42 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Bleed": 0,
-                "BleedTime": 1
+                "Range": 22,
+                "Damage": 12000,
+                "Cooldown": 2.3,
+                "Bleed": 0.2,
+                "BleedTime": 9
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Bleed": 0,
-                "BleedTime": 1
+                "Price": 22000,
+                "Range": 25,
+                "Damage": 15000,
+                "Cooldown": 2.2,
+                "Bleed": 0.2,
+                "BleedTime": 9
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Bleed": 0,
-                "BleedTime": 1
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 18000,
+                "Cooldown": 2.1,
+                "Bleed": 0.2,
+                "BleedTime": 9
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Bleed": 0,
-                "BleedTime": 1
+                "Damage": 22500,
+                "Cooldown": 2,
+                "Bleed": 0.2,
+                "BleedTime": 9
             }
         ]
     },
     "Pixel OMC": {
         "Type": "Single",
         "Image": "rbxassetid://78679487650695",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
@@ -10624,10 +10624,10 @@
         ]
     },
     "Candy Cadet": {
-        "Type": "Single",
+        "Type": "Cooldown Boost",
         "Image": "rbxassetid://104356297194309",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
