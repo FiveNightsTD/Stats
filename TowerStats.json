@@ -10413,7 +10413,7 @@
         "Type": "Single",
         "Image": "rbxassetid://91251907054257",
         "Rarity": "Epic",
-        "PlacePrice": 600,
+        "PlacePrice": 3000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -10425,25 +10425,25 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 450,
+                "Damage": 1700,
                 "Cooldown": 1.8
             },
             {
-                "Price": 800,
+                "Price": 4500,
                 "Range": 22,
-                "Damage": 500,
+                "Damage": 2000,
                 "Cooldown": 1.7
             },
             {
-                "Price": 1000,
+                "Price": 6000,
                 "Range": 24,
-                "Damage": 650,
+                "Damage": 2500,
                 "Cooldown": 1.6
             },
             {
-                "Price": 1200,
+                "Price": 8000,
                 "Range": 25,
-                "Damage": 800,
+                "Damage": 3000,
                 "Cooldown": 1.5
             }
         ]
@@ -10668,10 +10668,10 @@
         ]
     },
     "Nightmare Bot": {
-        "Type": "Single",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://122930850408296",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Epic",
+        "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -10682,27 +10682,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 450,
+                "Cooldown": 1.8
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 800,
+                "Range": 22,
+                "Damage": 500,
+                "Cooldown": 1.7
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 1000,
+                "Range": 24,
+                "Damage": 650,
+                "Cooldown": 1.6
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 1.5
             }
         ]
     },
