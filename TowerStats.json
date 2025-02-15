@@ -10503,35 +10503,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 19000,
-                "Cooldown": 1,
+                "Range": 22,
+                "Damage": 8000,
+                "Cooldown": 2,
                 "Slow": 0.35,
-                "SlowTime": 1
+                "SlowTime": 2
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1800,
-                "Cooldown": 1,
+                "Price": 7000,
+                "Range": 24,
+                "Damage": 10000,
+                "Cooldown": 1.9,
                 "Slow": 0.35,
-                "SlowTime": 1
+                "SlowTime": 2
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 15000,
-                "Cooldown": 1,
+                "Price": 9000,
+                "Range": 25,
+                "Damage": 12000,
+                "Cooldown": 1.8,
                 "Slow": 0.35,
-                "SlowTime": 1
+                "SlowTime": 2
             },
             {
-                "Price": 0,
-                "Range": 30,
+                "Price": 12000,
+                "Range": 27,
                 "Damage": 14000,
                 "Cooldown": 1.8,
                 "Slow": 0.35,
-                "SlowTime": 1
+                "SlowTime": 2
             }
         ]
     },
