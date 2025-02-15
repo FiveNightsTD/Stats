@@ -10371,12 +10371,12 @@
     },
 
     "Ruined Glamrock Bonnie": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://85309483901437",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 15000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10385,35 +10385,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Range": 22,
+                "Damage": 9500,
+                "Cooldown": 2.4
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 18000,
+                "Range": 24,
+                "Damage": 12000,
+                "Cooldown": 2.3
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 22000,
+                "Range": 26,
+                "Damage": 15000,
+                "Cooldown": 2.2
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 27000,
+                "Range": 28,
+                "Damage": 18000,
+                "Cooldown": 2
             }
         ]
     },
     "Eclipse": {
         "Type": "Single",
         "Image": "rbxassetid://91251907054257",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Epic",
+        "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -10425,26 +10425,26 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 450,
+                "Cooldown": 1.8
             },
             {
-                "Price": 0,
+                "Price": 800,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 500,
+                "Cooldown": 1.7
             },
             {
-                "Price": 0,
+                "Price": 1000,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 650,
+                "Cooldown": 1.6
             },
             {
-                "Price": 0,
+                "Price": 1200,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 800,
+                "Cooldown": 1.5
             }
         ]
     },
@@ -10494,6 +10494,7 @@
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10541,6 +10542,7 @@
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10588,6 +10590,7 @@
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
