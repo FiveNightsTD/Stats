@@ -10491,9 +10491,9 @@
         "Type": "Slash + Slow",
         "Image": "rbxassetid://86358962940619",
         "Rarity": "Nightmare",
-        "PlacePrice": 5500,
+        "PlacePrice": 5000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Afton's Agony", "Description": "Enemies hit are slowed by 65%, deal +50% Damage if on the same team a Springtrap unit."},
         "hitboxOffset": {
             "X": 0,
@@ -10504,33 +10504,33 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
+                "Damage": 19000,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.35,
                 "SlowTime": 1
             },
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
+                "Damage": 1800,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.35,
                 "SlowTime": 1
             },
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
+                "Damage": 15000,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.35,
                 "SlowTime": 1
             },
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Damage": 14000,
+                "Cooldown": 1.8,
+                "Slow": 0.35,
                 "SlowTime": 1
             }
         ]
