@@ -10488,7 +10488,7 @@
         ]
     },
     "Vanny": {
-        "Type": "Slash + Slow",
+        "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://86358962940619",
         "Rarity": "Nightmare",
         "PlacePrice": 5000,
