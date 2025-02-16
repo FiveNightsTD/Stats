@@ -10584,13 +10584,13 @@
         ]
     },
     "Pixel OMC": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "rbxassetid://78679487650695",
         "Rarity": "Nightmare",
-        "PlacePrice": 100,
+        "PlacePrice": 11340,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Lovestruck", "Description": "All puppets on the same team deal +50% damage including herself. +35% Range to all units (70% Shiny)."},
+        "Passive": {"Name": "Double Trouble", "Description": "Deal +50% damage if one the same team as OMC or OMK."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10599,27 +10599,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Range": 20,
+                "Damage": 1134,
+                "Cooldown": 0.1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 22222,
+                "Range": 25,
+                "Damage": 1555,
+                "Cooldown": 0.1
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Price": 33333,
+                "Range": 28,
+                "Damage": 1877,
+                "Cooldown": 0.1
             },
             {
-                "Price": 0,
+                "Price": 44444,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 1
+                "Damage": 2333,
+                "Cooldown": 0.1
             }
         ]
     },
