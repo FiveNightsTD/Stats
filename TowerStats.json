@@ -10589,7 +10589,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 11340,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "Passive": {"Name": "Double Trouble", "Description": "Deal +50% damage if one the same team as OMC or OMK."},
         "hitboxOffset": {
             "X": 0,
