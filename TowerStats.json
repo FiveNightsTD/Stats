@@ -10491,7 +10491,7 @@
         "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://86358962940619",
         "Rarity": "Nightmare",
-        "PlacePrice": 5000,
+        "PlacePrice": 3500,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Afton's Agony", "Description": "Enemies hit are slowed by 65%, deal +50% Damage if on the same team a Springtrap unit."},
