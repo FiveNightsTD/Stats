@@ -10583,6 +10583,7 @@
             }
         ]
     },
+
     "8-Bit OMC": {
         "Type": "AOE",
         "Image": "rbxassetid://78679487650695",
@@ -10590,7 +10591,7 @@
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Double Trouble", "Description": "Deal +33% damage if one the same team as OMC or OMK."},
+        "Passive": {"Name": "Double Trouble", "Description": "Deal +33% damage if on the same team as OMC or OMK."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10623,6 +10624,7 @@
             }
         ]
     },
+
     "Candy Cadet": {
         "Type": "Cooldown Boost",
         "Image": "rbxassetid://104356297194309",
