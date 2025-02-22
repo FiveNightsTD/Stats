@@ -10745,10 +10745,10 @@
         ]
     },
     "The Princess": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Damage + Cooldown Booster",
+        "Image": "rbxassetid://81703563273569",
         "Rarity": "Secret",
-        "PlacePrice": 250,
+        "PlacePrice": 650,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -10760,45 +10760,46 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 300,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.06,
+                "DamageBoost": 1.05,
                 "RangeBoost": 1.05
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 300,
+                "Price": 800,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.06,
-                "RangeBoost": 1.05
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.1
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 300,
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.06,
-                "RangeBoost": 1.05
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.15
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 300,
+                "Price": 1200,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 0.5,
-                "DamageBoost": 1.06,
-                "RangeBoost": 1.05
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.2
             }
         ]
     },
     "Flaming Springtrap": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 250,
+        "Type": "Splash Burn + Slow",
+        "Image": "rbxassetid://90439626995960",
+        "Rarity": "Nighmare",
+        "PlacePrice": 16000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "Slow Burn", "Description": "Attacks slow enemies by 50%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10808,40 +10809,40 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 300,
-                "Cooldown": 0.5,
-                "Slow": 0.70,
-                "SlowTime": 1,
+                "Damage": 7800,
+                "Cooldown": 1.8,
+                "Slow": 0.5,
+                "SlowTime": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 300,
-                "Cooldown": 0.5,
-                "Slow": 0.70,
-                "SlowTime": 1,
+                "Price": 20000,
+                "Range": 24,
+                "Damage": 10000,
+                "Cooldown": 1.7,
+                "Slow": 0.5,
+                "SlowTime": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 300,
-                "Cooldown": 0.5,
-                "Slow": 0.70,
-                "SlowTime": 1,
+                "Price": 25000,
+                "Range": 28,
+                "Damage": 12000,
+                "Cooldown": 1.6,
+                "Slow": 0.5,
+                "SlowTime": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 300,
-                "Cooldown": 0.5,
-                "Slow": 0.70,
-                "SlowTime": 1,
+                "Price": 30000,
+                "Range": 30,
+                "Damage": 14200,
+                "Cooldown": 1.5,
+                "Slow": 0.5,
+                "SlowTime": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             }
