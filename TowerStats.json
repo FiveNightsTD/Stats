@@ -10743,5 +10743,108 @@
                 "SlowTime": 1
             }
         ]
+    },
+    "The Princess": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 250,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "DamageBoost": 1.06,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "DamageBoost": 1.06,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "DamageBoost": 1.06,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "DamageBoost": 1.06,
+                "RangeBoost": 1.05
+            }
+        ]
+    },
+    "Flaming Springtrap": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 250,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 300,
+                "Cooldown": 0.5,
+                "Slow": 0.70,
+                "SlowTime": 1,
+                "Burn": 38,
+                "BurnTime": 1.2
+            }
+        ]
     }
 }
