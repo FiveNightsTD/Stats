@@ -10809,7 +10809,7 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 00,
+                "Damage": 8000,
                 "Cooldown": 1.8,
                 "Slow": 0.5,
                 "SlowTime": 2,
