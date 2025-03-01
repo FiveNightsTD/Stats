@@ -10890,7 +10890,7 @@
     },
     "Sorcerer Ennard": {
         "Type": "Continuous Splash",
-        "Image": "",
+        "Image": "rbxassetid://95005179489188",
         "Rarity": "Nightmare",
         "PlacePrice": 21000,
         "Offset": 0,
@@ -10922,7 +10922,7 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 4000,
+                "Damage": 3000,
                 "Cooldown": 0.2
             }
         ]
