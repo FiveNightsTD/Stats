@@ -10934,6 +10934,7 @@
         "PlacePrice": 11000,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 40%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10947,7 +10948,7 @@
                 "Cooldown": 0.25,
                 "Bleed": 0.99,
                 "BleedTime": 1,
-                "Slow": 0.4,
+                "Slow": 0.6,
                 "SlowTime": 1
             },
             {
@@ -10957,7 +10958,7 @@
                 "Cooldown": 0.25,
                 "Bleed": 0.5,
                 "BleedTime": 1,
-                "Slow": 0.4,
+                "Slow": 0.6,
                 "SlowTime": 1
             },
             {
@@ -10967,7 +10968,7 @@
                 "Cooldown": 0.25,
                 "Bleed": 0.99,
                 "BleedTime": 1,
-                "Slow": 0.4,
+                "Slow": 0.6,
                 "SlowTime": 1
             },
             {
@@ -10977,7 +10978,7 @@
                 "Cooldown": 0.25,
                 "Bleed": 0.99,
                 "BleedTime": 1,
-                "Slow": 0.4,
+                "Slow": 0.6,
                 "SlowTime": 1
             }
         ]
