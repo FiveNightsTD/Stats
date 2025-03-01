@@ -10850,7 +10850,7 @@
     },
     "Queen of Hearts Ballora": {
         "Type": "Pierce + Passive",
-        "Image": "",
+        "Image": "rbxassetid://120386866285195",
         "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
@@ -10890,7 +10890,7 @@
     },
     "Sorcerer Ennard": {
         "Type": "Continuous Splash",
-        "Image": "rbxassetid://95005179489188",
+        "Image": "rbxassetid://105966617304955",
         "Rarity": "Nightmare",
         "PlacePrice": 21000,
         "Offset": 0,
