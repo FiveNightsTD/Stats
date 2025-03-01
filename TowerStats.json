@@ -10849,12 +10849,13 @@
         ]
     },
     "Queen of Hearts Ballora": {
-        "Type": "Single",
+        "Type": "Pierce + Passive",
         "Image": "",
-        "Rarity": "Secret",
+        "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Joker", "Description": "The first unit on your team gets an extra placement"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10888,12 +10889,12 @@
         ]
     },
     "Sorcerer Ennard": {
-        "Type": "Single",
+        "Type": "Continuous Splash",
         "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Nightmare",
+        "PlacePrice": 21000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10904,30 +10905,30 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 8000,
-                "Cooldown": 1.8
+                "Cooldown": 0.2
             },
             {
                 "Price": 0,
                 "Range": 22,
                 "Damage": 8000,
-                "Cooldown": 1.8
+                "Cooldown": 0.2
             },
             {
                 "Price": 0,
                 "Range": 22,
                 "Damage": 8000,
-                "Cooldown": 1.8
+                "Cooldown": 0.2
             },
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1.8
+                "Damage": 4000,
+                "Cooldown": 0.2
             }
         ]
     },
     "Great Escape Freddy": {
-        "Type": "Single",
+        "Type": "AOE",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 100,
