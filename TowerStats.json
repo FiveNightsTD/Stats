@@ -10890,7 +10890,7 @@
     },
     "Sorcerer Ennard": {
         "Type": "Continuous Splash",
-        "Image": "rbxassetid://105966617304955",
+        "Image": "rbxassetid://108071824061545",
         "Rarity": "Nightmare",
         "PlacePrice": 21000,
         "Offset": 0,
@@ -10929,7 +10929,7 @@
     },
     "Great Escape Freddy": {
         "Type": "AOE",
-        "Image": "",
+        "Image": "rbxassetid://103794950872304",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
