@@ -10854,7 +10854,7 @@
         "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Joker", "Description": "The first unit on your team gets an extra placement"},
         "hitboxOffset": {
             "X": 0,
@@ -10865,31 +10865,31 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1.8
+                "Damage": 55000,
+                "Cooldown": 1
             },
             {
                 "Price": 0,
                 "Range": 22,
                 "Damage": 8000,
-                "Cooldown": 1.8
+                "Cooldown": 1
             },
             {
                 "Price": 0,
                 "Range": 22,
                 "Damage": 8000,
-                "Cooldown": 1.8
+                "Cooldown": 1
             },
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1.8
+                "Damage": 55000,
+                "Cooldown": 1
             }
         ]
     },
     "Sorcerer Ennard": {
-        "Type": "Continuous Splash",
+        "Type": "Splash",
         "Image": "rbxassetid://108071824061545",
         "Rarity": "Nightmare",
         "PlacePrice": 21000,
@@ -10904,36 +10904,36 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 8000,
+                "Damage": 1500,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 8000,
+                "Price": 25000,
+                "Range": 24,
+                "Damage": 2000,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 8000,
+                "Price": 30000,
+                "Range": 27,
+                "Damage": 2500,
                 "Cooldown": 0.2
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 3000,
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 2800,
                 "Cooldown": 0.2
             }
         ]
     },
     "Great Escape Freddy": {
-        "Type": "AOE",
+        "Type": "AOE + Slow",
         "Image": "rbxassetid://103794950872304",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 11000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10943,41 +10943,41 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1.8,
-                "Bleed": 0.5,
+                "Damage": 550,
+                "Cooldown": 0.25,
+                "Bleed": 0.99,
                 "BleedTime": 1,
-                "Slow": 0.70,
+                "Slow": 0.4,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1.8,
+                "Price": 12000,
+                "Range": 24,
+                "Damage": 650,
+                "Cooldown": 0.25,
                 "Bleed": 0.5,
                 "BleedTime": 1,
-                "Slow": 0.70,
+                "Slow": 0.4,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1.8,
-                "Bleed": 0.5,
+                "Price": 14000,
+                "Range": 25,
+                "Damage": 800,
+                "Cooldown": 0.25,
+                "Bleed": 0.99,
                 "BleedTime": 1,
-                "Slow": 0.70,
+                "Slow": 0.4,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1.8,
-                "Bleed": 0.5,
+                "Price": 16000,
+                "Range": 27,
+                "Damage": 1000,
+                "Cooldown": 0.25,
+                "Bleed": 0.99,
                 "BleedTime": 1,
-                "Slow": 0.70,
+                "Slow": 0.4,
                 "SlowTime": 1
             }
         ]
