@@ -154,83 +154,83 @@
             }
         ]
     },
-    "Withered Chica": {
-        "Type": "Single",
-        "Image": "rbxassetid://16632209265",
-        "Rarity": "Rare",
-        "PlacePrice": 800,
-        "Max": 2,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
+        "Withered Chica": {
+            "Type": "Single",
+            "Image": "rbxassetid://16632209265",
+            "Rarity": "Rare",
+            "PlacePrice": 800,
+            "Max": 2,
+            "hitboxOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Upgrades": [
+                {
+                    "Price": 0,
+                    "Range": 10,
+                    "Damage": 250,
+                    "Cooldown": 1
+                },
+                {
+                    "Price": 1200,
+                    "Range": 12,
+                    "Damage": 375,
+                    "Cooldown": 1
+                },
+                {
+                    "Price": 1500,
+                    "Range": 15,
+                    "Damage": 500,
+                    "Cooldown": 1
+                },
+                {
+                    "Price": 2500,
+                    "Range": 15,
+                    "Damage": 625,
+                    "Cooldown": 0.9
+                }
+            ]
         },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 10,
-                "Damage": 50,
-                "Cooldown": 1
+        "Withered Foxy": {
+            "Type": "Dual",
+            "Image": "rbxassetid://16632135968",
+            "Rarity": "Epic",
+            "PlacePrice": 1200,
+            "Max": 3,
+            "hitboxOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
             },
-            {
-                "Price": 1200,
-                "Range": 12,
-                "Damage": 75,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1500,
-                "Range": 15,
-                "Damage": 100,
-                "Cooldown": 1
-            },
-            {
-                "Price": 2500,
-                "Range": 15,
-                "Damage": 125,
-                "Cooldown": 0.9
-            }
-        ]
-    },
-    "Withered Foxy": {
-        "Type": "Dual",
-        "Image": "rbxassetid://16632135968",
-        "Rarity": "Epic",
-        "PlacePrice": 1200,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
+            "Offset": 0.7,
+            "Upgrades": [
+                {
+                    "Price": 0,
+                    "Range": 15,
+                    "Damage": 250,
+                    "Cooldown": 1
+                },
+                {
+                    "Price": 1800,
+                    "Range": 18,
+                    "Damage": 375,
+                    "Cooldown": 1
+                },
+                {
+                    "Price": 3000,
+                    "Range": 20,
+                    "Damage": 500,
+                    "Cooldown": 0.75
+                },
+                {
+                    "Price": 5000,
+                    "Range": 20,
+                    "Damage": 750,
+                    "Cooldown": 0.75
+                }
+            ]
         },
-        "Offset": 0.7,
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 50,
-                "Cooldown": 1
-            },
-            {
-                "Price": 1800,
-                "Range": 18,
-                "Damage": 75,
-                "Cooldown": 1
-            },
-            {
-                "Price": 3000,
-                "Range": 20,
-                "Damage": 100,
-                "Cooldown": 0.75
-            },
-            {
-                "Price": 5000,
-                "Range": 20,
-                "Damage": 150,
-                "Cooldown": 0.75
-            }
-        ]
-    },
     "Withered Freddy": {
         "Type": "Continuous",
         "Image": "rbxassetid://16632239120",
@@ -1449,7 +1449,7 @@
         "Type": "Single",
         "Image": "rbxassetid://18356274992",
         "Rarity": "Rare",
-        "PlacePrice": 800,
+        "PlacePrice": 900,
         "Max": 4,
         "hitboxOffset": {
             "X": 0,
@@ -1460,25 +1460,25 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 60,
+                "Damage": 180,
                 "Cooldown": 1
             },
             {
                 "Price": 1200,
                 "Range": 18,
-                "Damage": 80,
+                "Damage": 240,
                 "Cooldown": 1
             },
             {
                 "Price": 2000,
                 "Range": 20,
-                "Damage": 125,
+                "Damage": 375,
                 "Cooldown": 0.75
             },
             {
                 "Price": 3000,
                 "Range": 20,
-                "Damage": 200,
+                "Damage": 600,
                 "Cooldown": 0.75
             }
         ]
@@ -1760,7 +1760,7 @@
         "Rarity": "Epic",
         "PlacePrice": 2000,
         "Max": 2,
-        "Passive": {"Name": "Slow", "Description": "Slows enemies"},
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 50%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2879,7 +2879,7 @@
             }
         ]
     },
-    "Nightmare Chica": {
+   "Nightmare Chica": {
         "Type": "Splash",
         "Image": "rbxassetid://18975771590",
         "Rarity": "Epic",
@@ -2895,28 +2895,28 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
+                "Damage": 500,
                 "Slow": 1.1,
                 "Cooldown": 3
             },
             {
                 "Price": 6000,
                 "Range": 15,
-                "Damage": 250,
+                "Damage": 625,
                 "Slow": 1.2,
                 "Cooldown": 2.7
             },
             {
                 "Price": 7000,
                 "Range": 15,
-                "Damage": 300,
+                "Damage": 750,
                 "Slow": 1.2,
                 "Cooldown": 2.4
             },
             {
                 "Price": 8000,
                 "Range": 20,
-                "Damage": 400,
+                "Damage": 1000,
                 "Slow": 1.2,
                 "Cooldown": 2
             }
@@ -2938,25 +2938,25 @@
             {
                 "Price": 0,
                 "Range": 12,
-                "Damage": 80,
+                "Damage": 200,
                 "Cooldown": 0.8
             },
             {
                 "Price": 800,
                 "Range": 13,
-                "Damage": 100,
+                "Damage": 250,
                 "Cooldown": 0.8
             },
             {
                 "Price": 1250,
                 "Range": 14,
-                "Damage": 120,
+                "Damage": 300,
                 "Cooldown": 0.7
             },
             {
                 "Price": 1800,
                 "Range": 15,
-                "Damage": 160,
+                "Damage": 400,
                 "Cooldown": 0.5
             }
         ]
@@ -10852,7 +10852,7 @@
         "Type": "Pierce + Passive",
         "Image": "rbxassetid://120386866285195",
         "Rarity": "Apex",
-        "PlacePrice": 100,
+        "PlacePrice": 32000,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Joker", "Description": "The first unit on your team gets an extra placement"},
@@ -10864,26 +10864,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 55000,
+                "Range": 27,
+                "Damage": 12500,
+                "Cooldown": 1.2
+            },
+            {
+                "Price": 35000,
+                "Range": 30,
+                "Damage": 15000,
+                "Cooldown": 1.1
+            },
+            {
+                "Price": 40000,
+                "Range": 32,
+                "Damage": 20000,
                 "Cooldown": 1
             },
             {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 8000,
-                "Cooldown": 1
-            },
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 55000,
+                "Price": 45000,
+                "Range": 35,
+                "Damage": 24000,
                 "Cooldown": 1
             }
         ]
