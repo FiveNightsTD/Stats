@@ -10988,7 +10988,7 @@
         "Image": "",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
-        "Offset": 0.5,
+        "Offset": 0.45,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
