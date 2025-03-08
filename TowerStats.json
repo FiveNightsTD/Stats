@@ -10985,7 +10985,7 @@
     },
     "Dread Pirate Foxy": {
         "Type": "Splash + Stun",
-        "Image": "",
+        "Image": "rbxassetid://119908435134121",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": 0.45,
