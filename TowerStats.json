@@ -10984,11 +10984,11 @@
         ]
     },
     "Dread Pirate Foxy": {
-        "Type": "Single",
+        "Type": "Splash + Stun",
         "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
-        "Offset": 0,
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
+        "Offset": 0.4,
         "Max": 2,
         "hitboxOffset": {
             "X": 0,
@@ -10999,34 +10999,34 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 200,
-                "Cooldown": 1,
+                "Damage": 14000,
+                "Cooldown": 2.6,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 18000,
                 "Range": 22,
-                "Damage": 200,
-                "Cooldown": 1,
+                "Damage": 18000,
+                "Cooldown": 2.5,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 0.4
             },
             {
-                "Price": 0,
+                "Price": 22000,
                 "Range": 22,
-                "Damage": 200,
-                "Cooldown": 1,
+                "Damage": 22000,
+                "Cooldown": 2.4,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 25000,
                 "Range": 22,
-                "Damage": 200,
-                "Cooldown": 1,
+                "Damage": 25000,
+                "Cooldown": 2.4,
                 "Slow": 0,
-                "SlowTime": 1
+                "SlowTime": 0.5
             }
         ]
     }
