@@ -4612,54 +4612,54 @@
         ]
     },
 
-"Astral Bonnie": {
-        "Type": "Continuous Splash",
-        "Image": "rbxassetid://128604882971057",
-        "Rarity": "Apex",
-        "PlacePrice": 25000,
-        "Offset": 0.5,
-        "Max": 2,
-        "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
+        "Astral Bonnie": {
+            "Type": "Continuous Splash",
+            "Image": "rbxassetid://128604882971057",
+            "Rarity": "Apex",
+            "PlacePrice": 25000,
+            "Offset": 0.5,
+            "Max": 2,
+            "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
+            "hitboxOffset": {
+                "X": 0,
+                "Y": 0,
+                "Z": 0
+            },
+            "Upgrades": [
+                {
+                    "Price": 0,
+                    "Range": 30,
+                    "Damage": 3000,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 1
+                },
+                {
+                    "Price": 35000,
+                    "Range": 32,
+                    "Damage": 3500,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 1
+                },
+                {
+                    "Price": 40000,
+                    "Range": 34,
+                    "Damage": 3750,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 1
+                },
+                {
+                    "Price": 50000,
+                    "Range": 35,
+                    "Damage": 4000,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 1
+                }
+            ]
         },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 1200,
-                "Cooldown": 0.1,
-                "Bleed": 0,
-                "BleedTime": 1
-            },
-            {
-                "Price": 35000,
-                "Range": 32,
-                "Damage": 1400,
-                "Cooldown": 0.1,
-                "Bleed": 0,
-                "BleedTime": 1
-            },
-            {
-                "Price": 40000,
-                "Range": 34,
-                "Damage": 1500,
-                "Cooldown": 0.1,
-                "Bleed": 0,
-                "BleedTime": 1
-            },
-            {
-                "Price": 50000,
-                "Range": 35,
-                "Damage": 1600,
-                "Cooldown": 0.1,
-                "Bleed": 0,
-                "BleedTime": 1
-            }
-        ]
-    },
 
 "Phone Guy": {
         "Type": "AOE DMG + Slow",
@@ -5486,7 +5486,7 @@
         ]
     },
 
-    "Old Man Consequences": {
+"Old Man Consequences": {
         "Type": "AOE + Passive",
         "Image": "rbxassetid://95479691284429",
         "Rarity": "Apex",
@@ -5503,30 +5503,29 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1000,
-                "Cooldown": 0.1
+                "Damage": 2500,
+                "Cooldown": 0.25
             },
             {
                 "Price": 22222,
                 "Range": 28,
-                "Damage": 1250,
-                "Cooldown": 0.1
+                "Damage": 3125,
+                "Cooldown": 0.25
             },
             {
                 "Price": 33333,
                 "Range": 32,
-                "Damage": 1500,
-                "Cooldown": 0.1
+                "Damage": 3750,
+                "Cooldown": 0.25
             },
             {
                 "Price": 44444,
                 "Range": 35,
-                "Damage": 1800,
-                "Cooldown": 0.1
+                "Damage": 4500,
+                "Cooldown": 0.25
             }
         ]
     },
-
 
      "Fazbear Mafia": {
         "Type": "Attacking Summoner",
@@ -8995,6 +8994,7 @@
             }
         ]
     },
+
     "Old Man Krampus": {
         "Type": "AOE Slow + Passive",
         "Image": "rbxassetid://138508234321719",
@@ -9012,32 +9012,32 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1100,
-                "Cooldown": 0.1,
+                "Damage": 2750,
+                "Cooldown": 0.25,
                 "Slow": 0.5,
                 "SlowTime": 2
             },
             {
                 "Price": 22222,
                 "Range": 27,
-                "Damage": 1300,
-                "Cooldown": 0.1,
+                "Damage": 3250,
+                "Cooldown": 0.25,
                 "Slow": 0.5,
                 "SlowTime": 2
             },
             {
                 "Price": 33333,
                 "Range": 30,
-                "Damage": 1600,
-                "Cooldown": 0.1,
+                "Damage": 4000,
+                "Cooldown": 0.25,
                 "Slow": 0.5,
                 "SlowTime": 2
             },
             {
                 "Price": 44444,
                 "Range": 35,
-                "Damage": 2000,
-                "Cooldown": 0.1,
+                "Damage": 5000,
+                "Cooldown": 0.25,
                 "Slow": 0.5,
                 "SlowTime": 2
             }
@@ -9347,8 +9347,7 @@
             }
         ]
     },
-
-    "Exotic Butters": {
+"Exotic Butters": {
         "Type": "AOE",
         "Image": "rbxassetid://91688843147628",
         "Rarity": "Nightmare",
@@ -9364,26 +9363,26 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1000,
-                "Cooldown": 0.1
+                "Damage": 2500,
+                "Cooldown": 0.25
             },
             {
                 "Price": 20000,
                 "Range": 25,
-                "Damage": 1200,
-                "Cooldown": 0.1
+                "Damage": 3000,
+                "Cooldown": 0.25
             },
             {
                 "Price": 25000,
                 "Range": 25,
-                "Damage": 1400,
-                "Cooldown": 0.1
+                "Damage": 3500,
+                "Cooldown": 0.25
             },
             {
                 "Price": 30000,
                 "Range": 25,
-                "Damage": 1900,
-                "Cooldown": 0.1
+                "Damage": 4750,
+                "Cooldown": 0.25
             }
         ]
     },
@@ -10572,7 +10571,7 @@
         ]
     },
 
-    "8-Bit OMC": {
+   "8-Bit OMC": {
         "Type": "AOE",
         "Image": "rbxassetid://78679487650695",
         "Rarity": "Nightmare",
@@ -10589,30 +10588,29 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1134,
-                "Cooldown": 0.1
+                "Damage": 2835,
+                "Cooldown": 0.25
             },
             {
                 "Price": 22222,
                 "Range": 25,
-                "Damage": 1555,
-                "Cooldown": 0.1
+                "Damage": 3887.5,
+                "Cooldown": 0.25
             },
             {
                 "Price": 33333,
                 "Range": 28,
-                "Damage": 1877,
-                "Cooldown": 0.1
+                "Damage": 4692.5,
+                "Cooldown": 0.25
             },
             {
                 "Price": 44444,
                 "Range": 30,
-                "Damage": 2333,
-                "Cooldown": 0.1
+                "Damage": 5832.5,
+                "Cooldown": 0.25
             }
         ]
     },
-
     "Candy Cadet": {
         "Type": "Cooldown Boost",
         "Image": "rbxassetid://104356297194309",
