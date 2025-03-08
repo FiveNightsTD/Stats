@@ -10982,5 +10982,52 @@
                 "SlowTime": 1
             }
         ]
+    },
+    "Dread Pirate Foxy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 1
+            }
+        ]
     }
 }
