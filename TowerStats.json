@@ -5145,7 +5145,7 @@
 "Music Man": {
         "Type": "Cooldown Booster",
         "Image": "rbxassetid://77906930997624",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
@@ -5681,7 +5681,7 @@
 "Eclipse Ballora": {
         "Type": "Damage + Cooldown Booster",
         "Image": "rbxassetid://87973816034102",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 850,
         "Offset": 0,
         "Max": 3,
@@ -7190,7 +7190,7 @@
     "Helpy": {
         "Type": "Damage + Range Booster",
         "Image": "rbxassetid://135679216615409",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 800,
         "Offset": -0.75,
         "Max": 3,
@@ -8532,7 +8532,7 @@
     "Frost Queen Ballora": {
         "Type": "Cooldown Boost + Passive",
         "Image": "rbxassetid://134318454455185",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 1200,
         "Offset": 0.5,
         "Max": 3,
@@ -9302,7 +9302,7 @@
     "DJ Music Man": {
         "Type": "Cooldown + Range Boost",
         "Image": "rbxassetid://92862090905850",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 1000,
         "Offset": 1,
         "Max": 1,
@@ -10013,7 +10013,7 @@
     "Kingtrap": {
         "Type": "Booster + Passive",
         "Image": "rbxassetid://85624068831283",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 1200,
         "NoEnemyAttack": true,
         "Offset": 0,
@@ -10614,7 +10614,7 @@
     "Candy Cadet": {
         "Type": "Cooldown Boost",
         "Image": "rbxassetid://104356297194309",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
