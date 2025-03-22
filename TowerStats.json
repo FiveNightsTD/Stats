@@ -11287,13 +11287,14 @@
             }
         ]
     },
-    "Blaster Bonnie": {
+    "Plushtrap In Space": {
         "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 2,
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11305,32 +11306,32 @@
                 "Range": 20,
                 "Damage": 1000,
                 "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
+                "CooldownBoost": 0.9,
+                "RangeBoost": 1.1
             },
             {
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
                 "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
+                "CooldownBoost": 0.9,
+                "RangeBoost": 1.1
             },
             {
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
                 "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
+                "CooldownBoost": 0.9,
+                "RangeBoost": 1.1
             },
             {
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1000,
                 "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1
+                "CooldownBoost": 0.9,
+                "RangeBoost": 1.1
             }
         ]
     }
