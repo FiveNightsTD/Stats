@@ -11251,7 +11251,7 @@
         ]
     },
     "Alien Helpy": {
-        "Type": "Single",
+        "Type": "Splash",
         "Image": "rbxassetid://139505346452682",
         "Rarity": "Secret",
         "PlacePrice": 450,
