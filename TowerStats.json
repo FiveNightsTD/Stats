@@ -11027,5 +11027,311 @@
                 "SlowTime": 0.5
             }
         ]
+    },
+    "Planet Buster Scott": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Spring Trooper": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Bleed": 0.5,
+                "BleedTime": 5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Bleed": 0.5,
+                "BleedTime": 5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Bleed": 0.5,
+                "BleedTime": 5
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Bleed": 0.5,
+                "BleedTime": 5
+            }
+        ]
+    },
+    "Android Mangle": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Raider Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Overseer Lolbit": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 2,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1
+            }
+        ]
+    },
+    "Alien Helpy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1
+            }
+        ]
+    },
+    "Blaster Bonnie": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 2,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 20,
+                "Damage": 1000,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            }
+        ]
     }
 }
