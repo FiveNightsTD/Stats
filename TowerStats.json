@@ -11031,7 +11031,7 @@
     "Planet Buster Scott": {
         "Type": "Nuke Stun + Passive",
         "Image": "rbxassetid://89049349505606",
-        "Rarity": "Secret",
+        "Rarity": "Apex",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
@@ -11079,7 +11079,7 @@
     "Spring Trooper": {
         "Type": "CONE AOE + Anti Regen",
         "Image": "rbxassetid://124509672214842",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 2,
@@ -11164,9 +11164,9 @@
         ]
     },
     "Raider Freddy": {
-        "Type": "Single",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://73048377720930",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 4,
