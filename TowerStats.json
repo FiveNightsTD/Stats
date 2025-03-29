@@ -11336,5 +11336,92 @@
                 "RangeBoost": 1.22
             }
         ]
+    },
+    "Speed Dial": {
+        "Type": "Summon",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 7000,
+                "Unit": "Speed Dial Clone",
+                "Health": 500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 7000,
+                "Unit": "Speed Dial Clone",
+                "Health": 500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 7000,
+                "Unit": "Speed Dial Clone",
+                "Health": 500,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Bear5": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.8,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.8,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.8,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.8,
+                "Slow": 0.70,
+                "SlowTime": 1
+            }
+        ]
     }
 }
