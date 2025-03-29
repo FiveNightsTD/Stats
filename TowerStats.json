@@ -11353,11 +11353,11 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
+                "Range": 35,
                 "Damage": 7000,
                 "Unit": "Clone Guy",
                 "Health": 500,
-                "Cooldown": 3
+                "Cooldown": 0.5
             },
             {
                 "Price": 0,
@@ -11365,27 +11365,27 @@
                 "Damage": 7000,
                 "Unit": "Clone Guy",
                 "Health": 500,
-                "Cooldown": 3
+                "Cooldown": 0.5
             },
             {
                 "Price": 0,
-                "Range": 25,
+                "Range": 30,
                 "Damage": 7000,
                 "Unit": "Clone Guy",
                 "Health": 500,
-                "Cooldown": 3
+                "Cooldown": 0.5
             },
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 7000,
+                "Range": 33,
+                "Damage": 7500,
                 "Unit": "Clone Guy",
                 "Health": 500,
-                "Cooldown": 3
+                "Cooldown": 0.5
             }
         ]
     },
-    "bear5": {
+    "Bear5": {
         "Type": "bear5",
         "Image": "rbxassetid://111268061255623",
         "Rarity": "Nightmare",
