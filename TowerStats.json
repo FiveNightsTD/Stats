@@ -11355,7 +11355,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 7000,
-                "Unit": "Speed Dial Clone",
+                "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 3
             },
@@ -11363,7 +11363,7 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 7000,
-                "Unit": "Speed Dial Clone",
+                "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 3
             },
@@ -11371,7 +11371,15 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 7000,
-                "Unit": "Speed Dial Clone",
+                "Unit": "Clone Guy",
+                "Health": 500,
+                "Cooldown": 3
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 7000,
+                "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 3
             }
