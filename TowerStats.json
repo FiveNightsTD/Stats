@@ -11338,11 +11338,11 @@
         ]
     },
     "Speed Dial": {
-        "Type": "Summon",
-        "Image": "",
+        "Type": "Attack + Summon",
+        "Image": "rbxassetid://76229204396312",
         "Rarity": "Secret",
         "PlacePrice": 100,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 3,
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -11385,13 +11385,14 @@
             }
         ]
     },
-    "Bear5": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+    "bear5": {
+        "Type": "bear5",
+        "Image": "rbxassetid://111268061255623",
+        "Rarity": "Nightmare",
+        "PlacePrice": 555,
         "Offset": 0,
-        "Max": 3,
+        "Max": 5,
+        "Passive": {"Name": "bear5", "Description": "Attacks slow enemies by bear5%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11401,33 +11402,33 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 200,
-                "Cooldown": 0.8,
-                "Slow": 0.70,
+                "Damage": 120,
+                "Cooldown": 0.25,
+                "Slow": 0.95,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 150,
+                "Cooldown": 0.25,
+                "Slow": 0.95,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 180,
+                "Cooldown": 0.25,
+                "Slow": 0.95,
                 "SlowTime": 1
             },
             {
                 "Price": 0,
                 "Range": 22,
                 "Damage": 200,
-                "Cooldown": 0.8,
-                "Slow": 0.70,
-                "SlowTime": 1
-            },
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 200,
-                "Cooldown": 0.8,
-                "Slow": 0.70,
-                "SlowTime": 1
-            },
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 200,
-                "Cooldown": 0.8,
-                "Slow": 0.70,
+                "Cooldown": 0.25,
+                "Slow": 0.95,
                 "SlowTime": 1
             }
         ]
