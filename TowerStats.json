@@ -11344,7 +11344,7 @@
         "PlacePrice": 27000,
         "Offset": 0.5,
         "Max": 2,
-        "Passive": {"Name": "Space Rider", "Description": "+20% damage paired with Astral Bonnie or Planet Buster. Every 15 seconds summons a clone with health equal to 50x his damage"},
+        "Passive": {"Name": "Space Rider", "Description": "+20% damage when paired with Astral Bonnie or Planet Buster. Every 15 seconds summons a clone with health equal to 50x his damage"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
