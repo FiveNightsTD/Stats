@@ -11338,13 +11338,13 @@
         ]
     },
     "Speed Dial": {
-        "Type": "Attack + Summon",
+        "Type": "Splash + Summon",
         "Image": "rbxassetid://76229204396312",
         "Rarity": "Apex",
         "PlacePrice": 27000,
         "Offset": 0.5,
         "Max": 2,
-        "Passive": {"Name": "Space Rider", "Description": "Every 15 seconds summons a clone of himself with health equal to 50x his damage"},
+        "Passive": {"Name": "Space Rider", "Description": "Every 15 seconds summons a clone of himself with health equal to 25x his damage"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
