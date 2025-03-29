@@ -11338,7 +11338,7 @@
         ]
     },
     "Speed Dial": {
-        "Type": "Attack + Summon",
+        "Type": "Splash + Summon",
         "Image": "rbxassetid://76229204396312",
         "Rarity": "Apex",
         "PlacePrice": 27000,
