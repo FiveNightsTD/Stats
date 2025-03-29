@@ -11341,9 +11341,10 @@
         "Type": "Attack + Summon",
         "Image": "rbxassetid://76229204396312",
         "Rarity": "Apex",
-        "PlacePrice": 100,
+        "PlacePrice": 27000,
         "Offset": 0.5,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "Space Rider", "Description": "Every 15 seconds summons a clone of himself with health equal to 50x his damage"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -11353,30 +11354,30 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 35,
-                "Damage": 7000,
+                "Range": 27,
+                "Damage": 4000,
                 "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 0.5
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 7000,
+                "Price": 32000,
+                "Range": 29,
+                "Damage": 5000,
                 "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 0.5
             },
             {
-                "Price": 0,
-                "Range": 30,
-                "Damage": 7000,
+                "Price": 40000,
+                "Range": 31,
+                "Damage": 6000,
                 "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 0.5
             },
             {
-                "Price": 0,
+                "Price": 50000,
                 "Range": 33,
                 "Damage": 7500,
                 "Unit": "Clone Guy",
@@ -11408,7 +11409,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 0,
+                "Price": 777,
                 "Range": 22,
                 "Damage": 150,
                 "Cooldown": 0.25,
@@ -11416,7 +11417,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 0,
+                "Price": 999,
                 "Range": 22,
                 "Damage": 180,
                 "Cooldown": 0.25,
@@ -11424,7 +11425,7 @@
                 "SlowTime": 1
             },
             {
-                "Price": 0,
+                "Price": 1111,
                 "Range": 22,
                 "Damage": 200,
                 "Cooldown": 0.25,
