@@ -11035,7 +11035,7 @@
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Devastator", "Description": "Attacks instantly execute enemies under 15% health"},
+        "Passive": {"Name": "Devastator", "Description": "Attacks instantly execute enemies under 20% health"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
