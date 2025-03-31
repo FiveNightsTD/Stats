@@ -11344,7 +11344,7 @@
         "PlacePrice": 27000,
         "Offset": 0.5,
         "Max": 2,
-        "Passive": {"Name": "Space Rider", "Description": "+20% damage when paired with Astral Bonnie or Planet Buster. Every 15 seconds summons a clone with health equal to 50x his damage"},
+        "Passive": {"Name": "Space Rider", "Description": "+25% damage when paired with Astral Bonnie or Planet Buster. Every 15 seconds summons a clone with health equal to 75x his damage"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -11355,7 +11355,7 @@
             {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 4000,
+                "Damage": 5000,
                 "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 0.5
@@ -11363,7 +11363,7 @@
             {
                 "Price": 32000,
                 "Range": 29,
-                "Damage": 5000,
+                "Damage": 6000,
                 "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 0.5
@@ -11371,7 +11371,7 @@
             {
                 "Price": 40000,
                 "Range": 31,
-                "Damage": 6000,
+                "Damage": 7000,
                 "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 0.5
@@ -11379,7 +11379,7 @@
             {
                 "Price": 50000,
                 "Range": 33,
-                "Damage": 7500,
+                "Damage": 9500,
                 "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 0.5
