@@ -11379,7 +11379,7 @@
             {
                 "Price": 50000,
                 "Range": 33,
-                "Damage": 9500,
+                "Damage": 9000,
                 "Unit": "Clone Guy",
                 "Health": 500,
                 "Cooldown": 0.5
