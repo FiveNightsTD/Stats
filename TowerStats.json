@@ -11033,7 +11033,7 @@
         "Image": "rbxassetid://89049349505606",
         "Rarity": "Apex",
         "PlacePrice": 50000,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "Devastator", "Description": "Attacks instantly execute enemies under 20% health"},
         "hitboxOffset": {
