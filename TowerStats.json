@@ -11433,5 +11433,191 @@
                 "SlowTime": 1
             }
         ]
+    },
+    "Michael Afton": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "TrueStun": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "TrueStun": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "TrueStun": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "TrueStun": 1
+            }
+        ]
+    },
+    "Michael's Demise": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "TrueStun": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "TrueStun": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "TrueStun": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "TrueStun": 1
+            }
+        ]
+    },
+    "Steve Raglan": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Bleed": 0,
+                "BleedTime": 10
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Bleed": 0,
+                "BleedTime": 10
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Bleed": 0,
+                "BleedTime": 10
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Bleed": 0,
+                "BleedTime": 10
+            }
+        ]
+    },
+    "HandUnit ": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 100,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.05
+            }
+        ]
     }
 }
