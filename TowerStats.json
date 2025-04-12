@@ -11435,12 +11435,13 @@
         ]
     },
     "Michael Afton": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Type": "Trapper",
+        "Image": "rbxassetid://114032714827197",
+        "Rarity": "Nightmare",
+        "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "bear5", "Description": "Traps Apply true stun for 2 seconds."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -11480,9 +11481,9 @@
     },
     "Michael's Demise": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://113159149163905",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 20000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -11523,7 +11524,7 @@
     },
     "Steve Raglan": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://73876097031973",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -11569,10 +11570,10 @@
         ]
     },
     "HandUnit": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Triple Boost",
+        "Image": "rbxassetid://132341684644708",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
