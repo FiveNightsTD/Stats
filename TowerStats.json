@@ -11441,7 +11441,7 @@
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "bear5", "Description": "Traps Apply true stun for 2 seconds."},
+        "Passive": {"Name": "bear5", "Description": "Traps Apply true stun for 2 seconds upon impact with an enemy. (Works on bosses/large enemies)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -11454,38 +11454,39 @@
                 "Range": 22,
                 "Damage": 100,
                 "Cooldown": 1,
-                "TrueStun": 1
+                "TrueStun": 2
             },
             {
                 "Price": 0,
                 "Range": 22,
                 "Damage": 100,
                 "Cooldown": 1,
-                "TrueStun": 1
+                "TrueStun": 2
             },
             {
                 "Price": 0,
                 "Range": 22,
                 "Damage": 100,
                 "Cooldown": 1,
-                "TrueStun": 1
+                "TrueStun": 2
             },
             {
                 "Price": 0,
                 "Range": 22,
                 "Damage": 100,
                 "Cooldown": 1,
-                "TrueStun": 1
+                "TrueStun": 2
             }
         ]
     },
     "Michael's Demise": {
-        "Type": "Single",
+        "Type": "Cone AOE + True Stun",
         "Image": "rbxassetid://113159149163905",
-        "Rarity": "Secret",
+        "Rarity": "Forgotten",
         "PlacePrice": 20000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
+        "Passive": {"Name": "Scooper", "Description": "True stun is applied to enemies for 1.5 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11495,30 +11496,30 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
-                "TrueStun": 1
+                "Damage": 140000,
+                "Cooldown": 5,
+                "TrueStun": 1.5
             },
             {
-                "Price": 0,
+                "Price": 25000,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
-                "TrueStun": 1
+                "Damage": 180000,
+                "Cooldown": 5,
+                "TrueStun": 1.5
             },
             {
-                "Price": 0,
+                "Price": 30000,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
-                "TrueStun": 1
+                "Damage": 220000,
+                "Cooldown": 5,
+                "TrueStun": 1.5
             },
             {
-                "Price": 0,
+                "Price": 40000,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
-                "TrueStun": 1
+                "Damage": 260000,
+                "Cooldown": 5,
+                "TrueStun": 1.5
             }
         ]
     },
