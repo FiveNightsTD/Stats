@@ -11441,7 +11441,7 @@
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "bear5", "Description": "Traps Apply true stun for 2 seconds upon impact with an enemy. (Works on bosses/large enemies)"},
+        "Passive": {"Name": "Controlled Shock", "Description": "Traps Apply true stun for 2 seconds upon impact with an enemy. (Works on bosses/large enemies) (Max 100 traps per placement)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -11452,29 +11452,29 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 100,
+                "Damage": 12000,
+                "Cooldown": 3,
+                "TrueStun": 2
+            },
+            {
+                "Price": 12000,
+                "Range": 22,
+                "Damage": 18000,
                 "Cooldown": 1,
                 "TrueStun": 2
             },
             {
-                "Price": 0,
+                "Price": 15000,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Damage": 25000,
+                "Cooldown": 3,
                 "TrueStun": 2
             },
             {
-                "Price": 0,
+                "Price": 20000,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
-                "TrueStun": 2
-            },
-            {
-                "Price": 0,
-                "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Damage": 30000,
+                "Cooldown": 3,
                 "TrueStun": 2
             }
         ]
@@ -11577,6 +11577,7 @@
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Helping Hand", "Description": "Passively grants +10% range"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -11591,34 +11592,34 @@
                 "Cooldown": 1,
                 "CooldownBoost": 0.9,
                 "DamageBoost": 1.1,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.1
             },
             {
-                "Price": 0,
+                "Price": 1750,
                 "Range": 22,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
-                "DamageBoost": 1.1,
-                "RangeBoost": 1.05
+                "CooldownBoost": 0.85,
+                "DamageBoost": 1.15,
+                "RangeBoost": 1.1
             },
             {
-                "Price": 0,
+                "Price": 2000,
                 "Range": 22,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
-                "DamageBoost": 1.1,
-                "RangeBoost": 1.05
+                "CooldownBoost": 0.8,
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.1
             },
             {
-                "Price": 0,
+                "Price": 2500,
                 "Range": 22,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.9,
-                "DamageBoost": 1.1,
-                "RangeBoost": 1.05
+                "CooldownBoost": 0.74,
+                "DamageBoost": 1.24,
+                "RangeBoost": 1.1
             }
         ]
     }
