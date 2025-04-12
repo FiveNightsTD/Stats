@@ -11496,28 +11496,28 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 140000,
+                "Damage": 110000,
                 "Cooldown": 5,
                 "TrueStun": 1.5
             },
             {
                 "Price": 25000,
                 "Range": 27,
-                "Damage": 180000,
+                "Damage": 140000,
                 "Cooldown": 5,
                 "TrueStun": 1.5
             },
             {
                 "Price": 30000,
                 "Range": 30,
-                "Damage": 220000,
+                "Damage": 170000,
                 "Cooldown": 5,
                 "TrueStun": 1.5
             },
             {
                 "Price": 40000,
                 "Range": 32,
-                "Damage": 260000,
+                "Damage": 200000,
                 "Cooldown": 5,
                 "TrueStun": 1.5
             }
