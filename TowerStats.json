@@ -11578,7 +11578,7 @@
         "PlacePrice": 1500,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Helping Hand", "Description": "Passively grants +10% range"},
+        "Passive": {"Name": "Helping Hand", "Description": "Buffs all stats by 20%"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -11602,25 +11602,25 @@
                 "Cooldown": 1,
                 "CooldownBoost": 0.85,
                 "DamageBoost": 1.15,
-                "RangeBoost": 1.1
+                "RangeBoost": 1.15
             },
             {
                 "Price": 2000,
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.8,
-                "DamageBoost": 1.2,
-                "RangeBoost": 1.1
+                "CooldownBoost": 0.82,
+                "DamageBoost": 1.17,
+                "RangeBoost": 1.17
             },
             {
                 "Price": 2500,
                 "Range": 25,
                 "Damage": 100,
                 "Cooldown": 1,
-                "CooldownBoost": 0.77,
-                "DamageBoost": 1.23,
-                "RangeBoost": 1.1
+                "CooldownBoost": 0.8,
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.2
             }
         ]
     }
