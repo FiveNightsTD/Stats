@@ -11524,12 +11524,13 @@
         ]
     },
     "Steve Raglan": {
-        "Type": "Single",
+        "Type": "CONE AOE + Anti Regen",
         "Image": "rbxassetid://73876097031973",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 14000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "Identity Fraud", "Description": "Attacks apply 90% Anti Regen for 10 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11539,33 +11540,33 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Bleed": 0,
+                "Damage": 5000,
+                "Cooldown": 0.9,
+                "Bleed": 0.9,
                 "BleedTime": 10
             },
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Bleed": 0,
+                "Damage": 7000,
+                "Cooldown": 0.9,
+                "Bleed": 0.9,
                 "BleedTime": 10
             },
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Bleed": 0,
+                "Damage": 8000,
+                "Cooldown": 0.9,
+                "Bleed": 0.9,
                 "BleedTime": 10
             },
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Bleed": 0,
+                "Damage": 11000,
+                "Cooldown": 0.9,
+                "Bleed": 0.9,
                 "BleedTime": 10
             }
         ]
