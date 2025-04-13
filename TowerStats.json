@@ -11460,7 +11460,7 @@
                 "Price": 12000,
                 "Range": 22,
                 "Damage": 18000,
-                "Cooldown": 1,
+                "Cooldown": 3,
                 "TrueStun": 2
             },
             {
