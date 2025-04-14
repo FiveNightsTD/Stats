@@ -11441,7 +11441,7 @@
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Controlled Shock", "Description": "Traps Apply true stun for 2 seconds upon impact with an enemy. (Works on bosses/large enemies) (Max 100 traps per placement)"},
+        "Passive": {"Name": "Controlled Shock", "Description": "Traps Apply true stun for 1.5 seconds upon impact with an enemy. (Works on bosses/large enemies) (Max 100 traps per placement)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
