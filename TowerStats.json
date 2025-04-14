@@ -8763,7 +8763,7 @@
         "PlacePrice": 16000,
         "Offset": -1,
         "Max": 1,
-        "Passive": {"Name": "Shell Shock", "Description": "All enemies are stunned for 0.75 second on Impact."},
+        "Passive": {"Name": "Shell Shock", "Description": "All enemies are stunned for 0.6 second on Impact."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8776,7 +8776,7 @@
                 "Damage": 25000,
                 "Cooldown": 4,
                 "Slow": 0,
-                "SlowTime": 0.75
+                "SlowTime": 0.6
             },
             {
                 "Price": 20000,
@@ -8784,7 +8784,7 @@
                 "Damage": 35000,
                 "Cooldown": 4,
                 "Slow": 0,
-                "SlowTime": 0.75
+                "SlowTime": 0.6
             },
             {
                 "Price": 25000,
@@ -8792,7 +8792,7 @@
                 "Damage": 42000,
                 "Cooldown": 4,
                 "Slow": 0,
-                "SlowTime": 0.75
+                "SlowTime": 0.6
             },
             {
                 "Price": 30000,
@@ -8800,7 +8800,7 @@
                 "Damage": 50000,
                 "Cooldown": 4,
                 "Slow": 0,
-                "SlowTime": 0.75
+                "SlowTime": 0.6
             }
         ]
     },
@@ -11496,28 +11496,28 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 110000,
+                "Damage": 130000,
                 "Cooldown": 5,
                 "TrueStun": 1.5
             },
             {
                 "Price": 25000,
                 "Range": 27,
-                "Damage": 140000,
+                "Damage": 180000,
                 "Cooldown": 5,
                 "TrueStun": 1.5
             },
             {
                 "Price": 30000,
                 "Range": 30,
-                "Damage": 170000,
+                "Damage": 200000,
                 "Cooldown": 5,
                 "TrueStun": 1.5
             },
             {
                 "Price": 40000,
                 "Range": 32,
-                "Damage": 220000,
+                "Damage": 250000,
                 "Cooldown": 5,
                 "TrueStun": 1.5
             }
