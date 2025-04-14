@@ -11452,30 +11452,30 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 12000,
+                "Damage": 9000,
                 "Cooldown": 3,
-                "TrueStun": 2
+                "TrueStun": 1.5
             },
             {
                 "Price": 12000,
                 "Range": 22,
-                "Damage": 18000,
+                "Damage": 12000,
                 "Cooldown": 3,
-                "TrueStun": 2
+                "TrueStun": 1.5
             },
             {
                 "Price": 15000,
                 "Range": 22,
-                "Damage": 25000,
+                "Damage": 16000,
                 "Cooldown": 3,
-                "TrueStun": 2
+                "TrueStun": 1.5
             },
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 30000,
+                "Damage": 20000,
                 "Cooldown": 3,
-                "TrueStun": 2
+                "TrueStun": 1.5
             }
         ]
     },
