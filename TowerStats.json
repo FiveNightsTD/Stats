@@ -11473,7 +11473,7 @@
             {
                 "Price": 20000,
                 "Range": 22,
-                "Damage": 20000,
+                "Damage": 18000,
                 "Cooldown": 3,
                 "TrueStun": 1.5
             }
