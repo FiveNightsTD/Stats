@@ -12034,6 +12034,7 @@
         "PlacePrice": 12000,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 65%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12081,6 +12082,7 @@
         "PlacePrice": 350,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Slow", "Description": "Slows enemies by 25%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12122,12 +12124,13 @@
         ]
     },
     "Easter Freddles": {
-        "Type": "Summoner",
+        "Type": "AOE + Summon",
         "Image": "rbxassetid://98145580021622",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Helper Freddle", "Description": "Every 10 seconds summons a helper freddle with health equal to 30x damage"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
