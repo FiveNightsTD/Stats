@@ -11625,12 +11625,12 @@
         ]
     },
     "Orville": {
-        "Type": "Single",
+        "Type": "Splash + Slow",
         "Image": "rbxassetid://97997092352387",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 15000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11640,33 +11640,33 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 18000,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.4,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
+                "Price": 17000,
+                "Range": 27,
+                "Damage": 20000,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.4,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
+                "Price": 20000,
+                "Range": 29,
+                "Damage": 25000,
                 "Cooldown": 1,
-                "Slow": 0.70,
+                "Slow": 0.4,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Price": 24000,
+                "Range": 30,
+                "Damage": 30000,
+                "Cooldown": 1.5,
+                "Slow": 0.4,
                 "SlowTime": 1
             }
         ]
@@ -11693,10 +11693,10 @@
         ]
     },
     "Nedd Bear": {
-        "Type": "Single",
+        "Type": "Cone AOE + Stun",
         "Image": "rbxassetid://132984353966246",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -11708,42 +11708,42 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Damage": 2200,
+                "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 12000,
                 "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Damage": 3000,
+                "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 14000,
                 "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Damage": 3500,
+                "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 16000,
                 "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Damage": 4000,
+                "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             }
         ]
     },
     "Pig Patch": {
-        "Type": "Single",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://101703628765404",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -11755,34 +11755,34 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 350,
                 "Cooldown": 1
             },
             {
-                "Price": 0,
+                "Price": 650,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 400,
                 "Cooldown": 1
             },
             {
-                "Price": 0,
+                "Price": 800,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 450,
                 "Cooldown": 1
             },
             {
-                "Price": 0,
+                "Price": 1000,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 600,
                 "Cooldown": 1
             }
         ]
     },
     "Happy Frog": {
-        "Type": "Single",
+        "Type": "Range Booster",
         "Image": "rbxassetid://106312352744687",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 650,
         "Offset": 0,
         "Max": 3,
         "NoEnemyAttack": true,
@@ -11795,40 +11795,41 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.15
             },
             {
-                "Price": 0,
+                "Price": 750,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.2
             },
             {
-                "Price": 0,
+                "Price": 950,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.25
             },
             {
-                "Price": 0,
+                "Price": 1100,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.3
             }
         ]
     },
     "El Chip": {
-        "Type": "Single",
+        "Type": "Triple Boost",
         "Image": "rbxassetid://90676082223007",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Nightmare",
+        "PlacePrice": 1250,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "El Chip", "Description": "Buffs all stats by 25%"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -11839,46 +11840,46 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 0,
+                "Cooldown": 1,
+                "CooldownBoost": 0.9,
+                "DamageBoost": 1.1,
+                "RangeBoost": 1.1
+            },
+            {
+                "Price": 1500,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 1,
                 "CooldownBoost": 0.85,
                 "DamageBoost": 1.15,
                 "RangeBoost": 1.15
             },
             {
-                "Price": 0,
+                "Price": 1750,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85,
-                "DamageBoost": 1.15,
-                "RangeBoost": 1.15
+                "CooldownBoost": 0.8,
+                "DamageBoost": 1.2,
+                "RangeBoost": 1.2
             },
             {
-                "Price": 0,
+                "Price": 2000,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 0,
                 "Cooldown": 1,
-                "CooldownBoost": 0.85,
-                "DamageBoost": 1.15,
-                "RangeBoost": 1.15
-            },
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "CooldownBoost": 0.85,
-                "DamageBoost": 1.15,
-                "RangeBoost": 1.15
+                "CooldownBoost": 0.75,
+                "DamageBoost": 1.25,
+                "RangeBoost": 1.25
             }
         ]
     },
     "XOR": {
-        "Type": "Single",
+        "Type": "Cone AOE + Poison",
         "Image": "rbxassetid://127369273439025",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Nightmare",
+        "PlacePrice": 19000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -11890,44 +11891,44 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 100,
+                "Damage": 22000,
                 "Cooldown": 1,
                 "Burn": 40,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
+                "Price": 22000,
+                "Range": 27,
+                "Damage": 26000,
                 "Cooldown": 1,
                 "Burn": 40,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
+                "Price": 27000,
+                "Range": 29,
+                "Damage": 37000,
                 "Cooldown": 1,
                 "Burn": 40,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Price": 32000,
+                "Range": 30,
+                "Damage": 42000,
+                "Cooldown": 2,
                 "Burn": 40,
                 "BurnTime": 1.2
             }
         ]
     },
     "Dee Dee": {
-        "Type": "Single",
+        "Type": "Nuke + Stun",
         "Image": "rbxassetid://120034059081977",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Nightmare",
+        "PlacePrice": 8000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11936,35 +11937,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Range": 22,
+                "Damage": 34000,
+                "Cooldown": 4,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Price": 12000,
+                "Range": 27,
+                "Damage": 47000,
+                "Cooldown": 4,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Price": 16000,
+                "Range": 29,
+                "Damage": 58000,
+                "Cooldown": 4,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
+                "Price": 20000,
+                "Range": 32,
+                "Damage": 67000,
+                "Cooldown": 4,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 1
             }
         ]
     },
@@ -12026,7 +12027,7 @@
     "Paperpals": {
         "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://88743014752394",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 12000,
         "Offset": 0,
         "Max": 3,
@@ -12071,10 +12072,10 @@
         ]
     },
     "Crying Soul": {
-        "Type": "Single",
+        "Type": "Cone AOE + Slow",
         "Image": "rbxassetid://123447611843908",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 350,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -12085,34 +12086,34 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Range": 22,
+                "Damage": 140,
+                "Cooldown": 0.25,
+                "Slow": 0.75,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Price": 450,
+                "Range": 24,
+                "Damage": 175,
+                "Cooldown": 0.25,
+                "Slow": 0.75,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Price": 600,
+                "Range": 26,
+                "Damage": 200,
+                "Cooldown": 0.25,
+                "Slow": 0.75,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Price": 750,
+                "Range": 28,
+                "Damage": 250,
+                "Cooldown": 0.25,
+                "Slow": 0.75,
                 "SlowTime": 1
             }
         ]
