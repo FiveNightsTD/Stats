@@ -11626,7 +11626,7 @@
     },
     "Orville": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://97997092352387",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -11673,7 +11673,7 @@
     },
     "Mr Hippo": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://72612922312358",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -11694,7 +11694,7 @@
     },
     "Nedd Bear": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://132984353966246",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -11741,7 +11741,7 @@
     },
     "Pig Patch": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://101703628765404",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -11780,7 +11780,7 @@
     },
     "Happy Frog": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://106312352744687",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -11824,7 +11824,7 @@
     },
     "El Chip": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://90676082223007",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -11876,7 +11876,7 @@
     },
     "XOR": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://127369273439025",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -11923,7 +11923,7 @@
     },
     "Dee Dee": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://120034059081977",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -11969,12 +11969,12 @@
         ]
     },
     "MXES": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Type": "AOE Slow + Poison",
+        "Image": "rbxassetid://81772315176647",
+        "Rarity": "Apex",
+        "PlacePrice": 11111,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11983,51 +11983,51 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1,
+                "Range": 27,
+                "Damage": 72000,
+                "Cooldown": 2.5,
+                "Slow": 0.35,
+                "SlowTime": 3,
                 "Burn": 40,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1,
+                "Price": 23232,
+                "Range": 30,
+                "Damage": 90000,
+                "Cooldown": 2.5,
+                "Slow": 0.35,
+                "SlowTime": 3,
                 "Burn": 40,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1,
+                "Price": 34343,
+                "Range": 33,
+                "Damage": 11000,
+                "Cooldown": 2.5,
+                "Slow": 0.35,
+                "SlowTime": 3,
                 "Burn": 40,
                 "BurnTime": 1.2
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
-                "SlowTime": 1,
+                "Price": 45454,
+                "Range": 35,
+                "Damage": 120000,
+                "Cooldown": 2.5,
+                "Slow": 0.35,
+                "SlowTime": 3,
                 "Burn": 40,
                 "BurnTime": 1.2
             }
         ]
     },
     "Paperpals": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://88743014752394",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 12000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -12038,41 +12038,41 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
+                "Range": 28,
                 "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Cooldown": 0.25,
+                "Slow": 0.35,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
+                "Price": 15000,
+                "Range": 32,
                 "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Cooldown": 0.25,
+                "Slow": 0.35,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
+                "Price": 18000,
+                "Range": 34,
                 "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Cooldown": 0.25,
+                "Slow": 0.35,
                 "SlowTime": 1
             },
             {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1,
-                "Slow": 0.70,
+                "Price": 22000,
+                "Range": 37,
+                "Damage": 4800,
+                "Cooldown": 0.25,
+                "Slow": 0.35,
                 "SlowTime": 1
             }
         ]
     },
     "Crying Soul": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://123447611843908",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
@@ -12119,7 +12119,7 @@
     },
     "Easter Freddles": {
         "Type": "Summoner",
-        "Image": "",
+        "Image": "rbxassetid://98145580021622",
         "Rarity": "Secret",
         "PlacePrice": 100,
         "Offset": 0,
