@@ -11631,6 +11631,7 @@
         "PlacePrice": 15000,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Slow", "Description": "Attacks slow enemies by 60%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11929,6 +11930,7 @@
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 1,
+        "Passive": {"Name": "BOOM BOOM BOOM", "Description": "Stuns lasts for 1 second."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11976,6 +11978,7 @@
         "PlacePrice": 11111,
         "Offset": 0,
         "Max": 1,
+        "Passive": {"Name": "Corruption", "Description": "Slows enemies by 65% and deals +10% damage in poison"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
