@@ -11976,7 +11976,7 @@
         "Image": "rbxassetid://81772315176647",
         "Rarity": "Apex",
         "PlacePrice": 11111,
-        "Offset": 0,
+        "Offset": 1,
         "Max": 1,
         "Passive": {"Name": "Corruption", "Description": "Slows enemies by 65% and deals +10% damage in poison"},
         "hitboxOffset": {
