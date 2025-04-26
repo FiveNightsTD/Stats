@@ -12069,5 +12069,103 @@
                 "SlowTime": 1
             }
         ]
+    },
+    "Crying Soul": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 100,
+                "Cooldown": 1,
+                "Slow": 0.70,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "FreEaster Freddlesddle": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "SummonTime": 10,
+                "Unit": "Easter Freddle",
+                "Health": 500,
+                "Cooldown": 10
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "SummonTime": 10,
+                "Unit": "Easter Freddle",
+                "Health": 500,
+                "Cooldown": 10
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "SummonTime": 10,
+                "Unit": "Easter Freddle",
+                "Health": 500,
+                "Cooldown": 10
+            },
+            {
+                "Price": 0,
+                "Range": 15,
+                "Damage": 500,
+                "SummonTime": 10,
+                "Unit": "Easter Freddle",
+                "Health": 500,
+                "Cooldown": 10
+            }
+        ]
     }
 }
