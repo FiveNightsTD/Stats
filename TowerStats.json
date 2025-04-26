@@ -12129,7 +12129,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Helper Freddle", "Description": "Every 10 seconds summons a helper freddle with health equal to 30x damage"},
         "hitboxOffset": {
             "X": 0,
