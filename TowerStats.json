@@ -11674,7 +11674,7 @@
     "Mr Hippo": {
         "Type": "Single",
         "Image": "rbxassetid://72612922312358",
-        "Rarity": "Secret",
+        "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 3,
@@ -11695,7 +11695,7 @@
     "Nedd Bear": {
         "Type": "Cone AOE + Stun",
         "Image": "rbxassetid://132984353966246",
-        "Rarity": "Secret",
+        "Rarity": "Mythic",
         "PlacePrice": 10000,
         "Offset": 0,
         "Max": 3,
@@ -11742,7 +11742,7 @@
     "Pig Patch": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://101703628765404",
-        "Rarity": "Secret",
+        "Rarity": "Epic",
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
@@ -12121,8 +12121,8 @@
     "Easter Freddles": {
         "Type": "Summoner",
         "Image": "rbxassetid://98145580021622",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Rarity": "Nightmare",
+        "PlacePrice": 15000,
         "Offset": 0,
         "Max": 3,
         "hitboxOffset": {
@@ -12134,38 +12134,38 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 1600,
                 "SummonTime": 10,
                 "Unit": "Easter Freddle",
                 "Health": 500,
-                "Cooldown": 10
+                "Cooldown": 0.25
             },
             {
-                "Price": 0,
+                "Price": 17000,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 1950,
                 "SummonTime": 10,
                 "Unit": "Easter Freddle",
                 "Health": 500,
-                "Cooldown": 10
+                "Cooldown": 0.25
             },
             {
-                "Price": 0,
+                "Price": 20000,
                 "Range": 15,
-                "Damage": 500,
+                "Damage": 2200,
                 "SummonTime": 10,
                 "Unit": "Easter Freddle",
                 "Health": 500,
-                "Cooldown": 10
+                "Cooldown": 0.25
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 500,
+                "Price": 23000,
+                "Range": 27,
+                "Damage": 2750,
                 "SummonTime": 10,
                 "Unit": "Easter Freddle",
                 "Health": 500,
-                "Cooldown": 10
+                "Cooldown": 0.25
             }
         ]
     }
