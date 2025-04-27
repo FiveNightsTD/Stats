@@ -11629,7 +11629,7 @@
         "Image": "rbxassetid://97997092352387",
         "Rarity": "Secret",
         "PlacePrice": 15000,
-        "Offset": -1,
+        "Offset": -1.2,
         "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Attacks slow enemies by 60%"},
         "hitboxOffset": {
@@ -12092,7 +12092,7 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 140,
+                "Damage": 200,
                 "Cooldown": 0.25,
                 "Slow": 0.75,
                 "SlowTime": 1
@@ -12100,7 +12100,7 @@
             {
                 "Price": 450,
                 "Range": 24,
-                "Damage": 175,
+                "Damage": 250,
                 "Cooldown": 0.25,
                 "Slow": 0.75,
                 "SlowTime": 1
@@ -12108,7 +12108,7 @@
             {
                 "Price": 600,
                 "Range": 26,
-                "Damage": 200,
+                "Damage": 270,
                 "Cooldown": 0.25,
                 "Slow": 0.75,
                 "SlowTime": 1
@@ -12116,7 +12116,7 @@
             {
                 "Price": 750,
                 "Range": 28,
-                "Damage": 250,
+                "Damage": 290,
                 "Cooldown": 0.25,
                 "Slow": 0.75,
                 "SlowTime": 1
