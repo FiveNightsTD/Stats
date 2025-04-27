@@ -11629,7 +11629,7 @@
         "Image": "rbxassetid://97997092352387",
         "Rarity": "Secret",
         "PlacePrice": 15000,
-        "Offset": -1.2,
+        "Offset": -1.95,
         "Max": 2,
         "Passive": {"Name": "Slow", "Description": "Attacks slow enemies by 60%"},
         "hitboxOffset": {
@@ -12128,7 +12128,7 @@
         "Image": "rbxassetid://98145580021622",
         "Rarity": "Nightmare",
         "PlacePrice": 15000,
-        "Offset": 0,
+        "Offset": -0.75,
         "Max": 2,
         "Passive": {"Name": "Helper Freddle", "Description": "Every 10 seconds summons a helper freddle with health equal to 30x damage"},
         "hitboxOffset": {
