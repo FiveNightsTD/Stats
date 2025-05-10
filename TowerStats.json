@@ -12180,7 +12180,7 @@
         "Image": "rbxassetid://88671033425525",
         "Rarity": "Nightmare",
         "PlacePrice": 14000,
-        "Offset": -0.8,
+        "Offset": -0.5,
         "Max": 2,
         "Passive": {"Name": "The Deep is Calling", "Description": "Attacks apply 50% Slow"},
         "hitboxOffset": {
