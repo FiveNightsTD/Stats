@@ -12176,12 +12176,13 @@
         ]
     },
     "Piranha Plushtrap": {
-        "Type": "Single",
-        "Image": "",
-        "Rarity": "Secret",
-        "PlacePrice": 100,
+        "Type": "AOE + Slow",
+        "Image": "rbxassetid://88671033425525",
+        "Rarity": "Nightmare",
+        "PlacePrice": 14000,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "The Deep is Calling", "Description": "Attacks apply 50% Slow"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12190,45 +12191,45 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Slow": 0.75,
-                "SlowTime": 1
+                "Range": 20,
+                "Damage": 11000,
+                "Cooldown": 2,
+                "Slow": 0.5,
+                "SlowTime": 3
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Slow": 0.75,
-                "SlowTime": 1
+                "Price": 17000,
+                "Range": 23,
+                "Damage": 15000,
+                "Cooldown": 2,
+                "Slow": 0.5,
+                "SlowTime": 3
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Slow": 0.75,
-                "SlowTime": 1
+                "Price": 20000,
+                "Range": 25,
+                "Damage": 17000,
+                "Cooldown": 2,
+                "Slow": 0.5,
+                "SlowTime": 3
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Slow": 0.75,
-                "SlowTime": 1
+                "Price": 22000,
+                "Range": 27,
+                "Damage": 19800,
+                "Cooldown": 2,
+                "Slow": 0.5,
+                "SlowTime": 3
             }
         ]
     },
     "Liberty Chica": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Range Booster",
+        "Image": "rbxassetid://114586412774377",
         "Rarity": "Epic",
-        "PlacePrice": 100,
+        "PlacePrice": 500,
         "Offset": 0,
-        "Max": 2,
+        "Max": 3,
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -12238,41 +12239,42 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 1,
                 "RangeBoost": 1.05
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
+                "Price": 650,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.1
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
+                "Price": 800,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.15
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
+                "Price": 1000,
+                "Range": 25,
+                "Damage": 0,
                 "Cooldown": 1,
-                "RangeBoost": 1.05
+                "RangeBoost": 1.2
             }
         ]
     },
     "Ringmaster Foxy": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Cone AOE + Slow",
+        "Image": "rbxassetid://132624234904948",
         "Rarity": "Secret",
-        "PlacePrice": 100,
+        "PlacePrice": 11000,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Barrage", "Description": "Attacks apply 60% Slow."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12281,45 +12283,46 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Slow": 0.75,
-                "SlowTime": 1
+                "Range": 20,
+                "Damage": 37000,
+                "Cooldown": 1.75,
+                "Slow": 0.4,
+                "SlowTime": 3
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Slow": 0.75,
-                "SlowTime": 1
+                "Price": 13000,
+                "Range": 24,
+                "Damage": 43000,
+                "Cooldown": 1.75,
+                "Slow": 0.4,
+                "SlowTime": 3
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Slow": 0.75,
-                "SlowTime": 1
+                "Price": 15000,
+                "Range": 27,
+                "Damage": 47000,
+                "Cooldown": 1.75,
+                "Slow": 0.4,
+                "SlowTime": 3
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Slow": 0.75,
-                "SlowTime": 1
+                "Price": 18000,
+                "Range": 30,
+                "Damage": 52500,
+                "Cooldown": 1.75,
+                "Slow": 0.4,
+                "SlowTime": 3
             }
         ]
     },
     "Toxic Springtrap": {
-        "Type": "Single",
-        "Image": "",
+        "Type": "Pierce Spread + Poison + Wither",
+        "Image": "rbxassetid://128503373439117",
         "Rarity": "Apex",
         "PlacePrice": 100,
         "Offset": 0,
         "Max": 2,
+        "Passive": {"Name": "Plague", "Description": "Deal +25% Poison damage and Apply 15% Wither (25% Shiny) for 10 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12334,7 +12337,7 @@
                 "Burn": 38,
                 "BurnTime": 1.2,
                 "Wither": 1.1,
-                "ShinyWither": 1.25,
+                "ShinyWither": 1.15,
                 "WitherTime": 1
             },
             {
