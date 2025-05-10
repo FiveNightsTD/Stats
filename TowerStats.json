@@ -12321,7 +12321,7 @@
         "Rarity": "Apex",
         "PlacePrice": 44000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "Passive": {"Name": "Plague", "Description": "Deal +25% Poison damage and Apply 17% Wither (25% Shiny) for 10 seconds"},
         "hitboxOffset": {
             "X": 0,
