@@ -12319,10 +12319,10 @@
         "Type": "Pierce Spread + Poison + Wither",
         "Image": "rbxassetid://128503373439117",
         "Rarity": "Apex",
-        "PlacePrice": 100,
+        "PlacePrice": 44000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Plague", "Description": "Deal +25% Poison damage and Apply 15% Wither (25% Shiny) for 10 seconds"},
+        "Passive": {"Name": "Plague", "Description": "Deal +25% Poison damage and Apply 17% Wither (25% Shiny) for 10 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12331,47 +12331,47 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Burn": 38,
+                "Range": 30,
+                "Damage": 59000,
+                "Cooldown": 2.25,
+                "Burn": 5850,
                 "BurnTime": 1.2,
-                "Wither": 1.1,
-                "ShinyWither": 1.15,
-                "WitherTime": 1
+                "Wither": 1.17,
+                "ShinyWither": 1.25,
+                "WitherTime": 10
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Burn": 38,
+                "Price": 55000,
+                "Range": 34,
+                "Damage": 70000,
+                "Cooldown": 2.25,
+                "Burn": 5850,
                 "BurnTime": 1.2,
-                "Wither": 1.1,
+                "Wither": 1.17,
                 "ShinyWither": 1.25,
-                "WitherTime": 1
+                "WitherTime": 10
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Burn": 38,
+                "Price": 65000,
+                "Range": 37,
+                "Damage": 95000,
+                "Cooldown": 2.25,
+                "Burn": 5850,
                 "BurnTime": 1.2,
-                "Wither": 1.1,
+                "Wither": 1.17,
                 "ShinyWither": 1.25,
-                "WitherTime": 1
+                "WitherTime": 10
             },
             {
-                "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Cooldown": 1,
-                "Burn": 38,
+                "Price": 80000,
+                "Range": 40,
+                "Damage": 117000,
+                "Cooldown":2.25,
+                "Burn": 5850,
                 "BurnTime": 1.2,
-                "Wither": 1.1,
+                "Wither": 1.17,
                 "ShinyWither": 1.25,
-                "WitherTime": 1
+                "WitherTime": 10
             }
         ]
     }
