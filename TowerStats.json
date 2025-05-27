@@ -4616,9 +4616,9 @@
             "Type": "Continuous Splash",
             "Image": "rbxassetid://128604882971057",
             "Rarity": "Apex",
-            "PlacePrice": 25000,
+            "PlacePrice": 20000,
             "Offset": 0.5,
-            "Max": 2,
+            "Max": 3,
             "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
             "hitboxOffset": {
                 "X": 0,
@@ -4629,31 +4629,31 @@
                 {
                     "Price": 0,
                     "Range": 30,
-                    "Damage": 3000,
+                    "Damage": 2000,
                     "Cooldown": 0.25,
                     "Bleed": 0,
                     "BleedTime": 10
                 },
                 {
-                    "Price": 35000,
+                    "Price": 25000,
                     "Range": 32,
-                    "Damage": 3500,
+                    "Damage": 2400,
+                    "Cooldown": 0.25,
+                    "Bleed": 0,
+                    "BleedTime": 10
+                },
+                {
+                    "Price": 30000,
+                    "Range": 34,
+                    "Damage": 2800,
                     "Cooldown": 0.25,
                     "Bleed": 0,
                     "BleedTime": 10
                 },
                 {
                     "Price": 40000,
-                    "Range": 34,
-                    "Damage": 3750,
-                    "Cooldown": 0.25,
-                    "Bleed": 0,
-                    "BleedTime": 10
-                },
-                {
-                    "Price": 50000,
-                    "Range": 35,
-                    "Damage": 4000,
+                    "Range": 40,
+                    "Damage": 3200,
                     "Cooldown": 0.25,
                     "Bleed": 0,
                     "BleedTime": 10
@@ -8005,10 +8005,10 @@
         "Type": "Nuke + Passive",
         "Image": "rbxassetid://138634254895239",
         "Rarity": "Apex",
-        "PlacePrice": 24879,
+        "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Eternity Clock", "Description": "Every 30 seconds freezes all enemies on the map for 10 seconds."},
+        "Passive": {"Name": "Eternity Clock", "Description": "Every 40 seconds freezes all enemies on the map for 10 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8022,22 +8022,22 @@
                 "Cooldown": 3
             },
             {
-                "Price": 30000,
+                "Price": 65000,
                 "Range": 30,
                 "Damage": 60000,
                 "Cooldown": 3
             },
             {
-                "Price": 40000,
+                "Price": 80000,
                 "Range": 33,
                 "Damage": 75000,
                 "Cooldown": 3
             },
             {
-                "Price": 50000,
-                "Range": 35,
+                "Price": 100000,
+                "Range": 40,
                 "Damage": 80000,
-                "Cooldown": 3
+                "Cooldown": 2
             }
         ]
     },
@@ -10119,11 +10119,11 @@
         "Type": "Pierce Spread + Traps",
         "Image": "rbxassetid://137838669403437",
         "Rarity": "Forgotten",
-        "PlacePrice": 49000,
+        "PlacePrice": 50000,
         "NoEnemyAttack": true,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Flourish", "Description": "Every 7 seconds Gaia Chica summons a cupcake trap with health equal to her damage. (Max traps 100 per placement)"},
+        "Passive": {"Name": "Flourish", "Description": "Every 6 seconds Gaia Chica summons a cupcake trap with health equal to her damage. (Max traps 100 per placement)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10133,26 +10133,26 @@
             {
                 "Price": 0,
                 "Range": 24,
-                "Damage": 52000,
+                "Damage": 50000,
                 "Cooldown": 4
             },
             {
                 "Price": 60000,
                 "Range": 25,
-                "Damage": 65000,
+                "Damage": 58000,
                 "Cooldown": 4
             },
             {
                 "Price": 70000,
                 "Range": 27,
-                "Damage": 87000,
+                "Damage": 66000,
                 "Cooldown": 4
             },
             {
                 "Price": 80000,
                 "Range": 32,
-                "Damage": 95000,
-                "Cooldown": 4
+                "Damage": 72000,
+                "Cooldown": 3
             }
         ]
     },
@@ -10247,10 +10247,10 @@
         "Type": "Nuke + Passive",
         "Image": "rbxassetid://92233400124489",
         "Rarity": "Apex",
-        "PlacePrice": 22000,
+        "PlacePrice": 40000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +10% more damage for 10 seconds. (20% shiny)"},
+        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +15% more damage for 10 seconds. (25% shiny)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10260,7 +10260,7 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 85000,
+                "Damage": 90000,
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
@@ -10269,9 +10269,9 @@
                 "WitherTime": 10
             },
             {
-                "Price": 25000,
+                "Price": 60000,
                 "Range": 32,
-                "Damage": 110000,
+                "Damage": 120000,
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
@@ -10280,9 +10280,9 @@
                 "WitherTime": 10
             },
             {
-                "Price": 30000,
+                "Price": 80000,
                 "Range": 35,
-                "Damage": 130000,
+                "Damage": 150000,
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
@@ -10291,9 +10291,9 @@
                 "WitherTime": 10
             },
             {
-                "Price": 40000,
+                "Price": 100000,
                 "Range": 40,
-                "Damage": 160000,
+                "Damage": 200000,
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
@@ -11032,10 +11032,10 @@
         "Type": "Nuke Stun + Passive",
         "Image": "rbxassetid://89049349505606",
         "Rarity": "Apex",
-        "PlacePrice": 50000,
+        "PlacePrice": 70000,
         "Offset": 0.5,
         "Max": 1,
-        "Passive": {"Name": "Devastator", "Description": "Attacks instantly execute enemies under 20% health"},
+        "Passive": {"Name": "Devastator", "Description": "Attacks instantly execute enemies under 30% health and bosses and imps at 10%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11051,7 +11051,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 65000,
+                "Price": 80000,
                 "Range": 28,
                 "Damage": 65000,
                 "Cooldown": 2.9,
@@ -11059,7 +11059,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 80000,
+                "Price": 90000,
                 "Range": 32,
                 "Damage": 75000,
                 "Cooldown": 2.8,
@@ -11070,9 +11070,9 @@
                 "Price": 100000,
                 "Range": 35,
                 "Damage": 99999,
-                "Cooldown": 2.8,
+                "Cooldown": 3,
                 "Slow": 0,
-                "SlowTime": 0.5
+                "SlowTime": 0.6
             }
         ]
     },
