@@ -10264,8 +10264,8 @@
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
-                "Wither": 1.1,
-                "ShinyWither": 1.2,
+                "Wither": 1.15,
+                "ShinyWither": 1.25,
                 "WitherTime": 10
             },
             {
@@ -10275,8 +10275,8 @@
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
-                "Wither": 1.1,
-                "ShinyWither": 1.2,
+                "Wither": 1.15,
+                "ShinyWither": 1.25,
                 "WitherTime": 10
             },
             {
@@ -10286,8 +10286,8 @@
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
-                "Wither": 1.1,
-                "ShinyWither": 1.2,
+                "Wither": 1.15,
+                "ShinyWither": 1.25,
                 "WitherTime": 10
             },
             {
@@ -10297,8 +10297,8 @@
                 "Cooldown": 4,
                 "Burn": 38,
                 "BurnTime": 1.2,
-                "Wither": 1.1,
-                "ShinyWither": 1.2,
+                "Wither": 1.15,
+                "ShinyWither": 1.25,
                 "WitherTime": 10
             }
         ]
