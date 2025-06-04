@@ -8869,7 +8869,7 @@
         "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://105411536427656",
         "Rarity": "Apex",
-        "PlacePrice": 40000,
+        "PlacePrice": 30000,
         "Offset": 0.65,
         "Max": 1,
         "Passive": {"Name": "Snowstorm", "Description": "All enemies in range get slowed by 65%."},
