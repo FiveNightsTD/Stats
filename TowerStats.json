@@ -12751,6 +12751,7 @@
         "PlacePrice": 1000,
         "Offset": 0,
         "Max": 3,
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12761,25 +12762,29 @@
                 "Price": 0,
                 "Range": 30,
                 "Damage": 1000,
-                "Cooldown": 3
+                "Cooldown": 3,
+                "CooldownBoost": 0.9
             },
                         {
                 "Price": 0,
                 "Range": 30,
                 "Damage": 1000,
-                "Cooldown": 3
+                "Cooldown": 3,
+                "CooldownBoost": 0.9
             },
                         {
                 "Price": 0,
                 "Range": 30,
                 "Damage": 1000,
-                "Cooldown": 3
+                "Cooldown": 3,
+                "CooldownBoost": 0.9
             },
                         {
                 "Price": 0,
                 "Range": 30,
                 "Damage": 1000,
-                "Cooldown": 3
+                "Cooldown": 3,
+                "CooldownBoost": 0.9
             }
         ]
     },
