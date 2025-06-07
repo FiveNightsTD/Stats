@@ -2580,7 +2580,7 @@
             {
                 "Price": 1000,
                 "Range": 26,
-                "Damage": 3750,
+                "Damage": 375,
                 "Cooldown": 0.4,
                 "Wither": 1.075,
                 "ShinyWither": 1.1,
@@ -12790,7 +12790,7 @@
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Prehistoric Boost", "Description": "Springtraps and prehistoric animatronics receive a 30% damage boost (x1.25 if shiny)"},
+        "Passive": {"Name": "Prehistoric Boost", "Description": "Springtraps and prehistoric animatronics receive a 30% damage boost (x1.55 if shiny)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -12808,14 +12808,14 @@
                         {
                 "Price": 36500,
                 "Range": 27,
-                "Damage": 1000,
+                "Damage": 15000,
                 "Cooldown": 2,
                 "CooldownBoost": 0.75
             },
                         {
                 "Price": 40100,
                 "Range": 29,
-                "Damage": 1000,
+                "Damage": 17000,
                 "Cooldown": 2,
                 "CooldownBoost": 0.65
             },
