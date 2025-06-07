@@ -12387,5 +12387,616 @@
                 "WitherTime": 10
             }
         ]
+    },
+    "Sabertooth Foxy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            }
+        ]
+    },
+    "Molten Foxy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 30,
+                "BurnTime": 1.2
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 30,
+                "BurnTime": 1.2
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 30,
+                "BurnTime": 1.2
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 30,
+                "BurnTime": 1.2
+            }
+        ]
+    },
+    "Dino Plane Boy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "RangeBoost": 1.05
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "RangeBoost": 1.05
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "RangeBoost": 1.05
+            }
+        ]
+    },
+    "Dino Dreadbear": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 5
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 5
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 5
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 5
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Slow": 0,
+                "SlowTime": 0.5,
+                "Wither": 1.075,
+                "ShinyWither": 1.15,
+                "WitherTime": 5
+            }
+        ]
+    },
+    "Chicasaurus Rex": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Chicazilla": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Dino Pals": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Triceratops Chica": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Paleontologist Springbonnie": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Partytime Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Dessert Funtime Foxy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3
+            }
+        ]
+    },
+        "Hot Air Balloon Boy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 38,
+                "BurnTime": 1.2
+            }
+        ]
+    },
+        "Blimp Boy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "Burn": 38,
+                "BurnTime": 1.2
+            }
+        ]
+    },
+    "Fossilized Puppet": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "RangeBoost": 1.05
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "RangeBoost": 1.05
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "RangeBoost": 1.05
+            },
+                        {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 1000,
+                "Cooldown": 3,
+                "RangeBoost": 1.05
+            }
+        ]
     }
 }
