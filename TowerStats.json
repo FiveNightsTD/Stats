@@ -12911,7 +12911,7 @@
         "Image": "rbxassetid://81085704927371",
         "Rarity": "Nightmare",
         "PlacePrice": 40000,
-        "Offset": 0,
+        "Offset": -3,
         "Max": 3,
         "Passive": {"Name": "Burn", "Description": "Deals 50% burn damage"},
         "hitboxOffset": {
