@@ -12810,21 +12810,21 @@
                 "Range": 27,
                 "Damage": 15000,
                 "Cooldown": 2,
-                "CooldownBoost": 0.75
+                "CooldownBoost": 0.77
             },
                         {
                 "Price": 40100,
                 "Range": 29,
                 "Damage": 17000,
                 "Cooldown": 2,
-                "CooldownBoost": 0.65
+                "CooldownBoost": 0.72
             },
                         {
                 "Price": 45900,
                 "Range": 32,
                 "Damage": 20000,
                 "Cooldown": 2,
-                "CooldownBoost": 0.57
+                "CooldownBoost": 0.67
             }
         ]
     },
