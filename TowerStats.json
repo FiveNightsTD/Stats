@@ -12423,7 +12423,7 @@
     },
     "Sabertooth Foxy": {
         "Type": "Single",
-        "Image": "rbxassetid://115333642999872",
+        "Image": "rbxassetid://138570611785526",
         "Rarity": "Epic",
         "PlacePrice": 500,
         "Offset": 0,
@@ -12462,8 +12462,8 @@
     },
     "Molten Foxy": {
         "Type": "Splash + Burn",
-        "Image": "rbxassetid://128503373439117",
-        "Rarity": "Secret",
+        "Image": "rbxassetid://121765228317508",
+        "Rarity": "Mythic",
         "PlacePrice": 8000,
         "Offset": 0,
         "Max": 3,
@@ -12509,7 +12509,7 @@
     },
     "Dino Plane Boy": {
         "Type": "Continuous Pierce",
-        "Image": "rbxassetid://74199014933191",
+        "Image": "rbxassetid://99044609988802",
         "Rarity": "Secret",
         "PlacePrice": 20000,
         "Offset": 0,
@@ -12554,7 +12554,7 @@
     },
     "Dino Dreadbear": {
         "Type": "Splash Stun",
-        "Image": "rbxassetid://70993364795151",
+        "Image": "rbxassetid://81040981850985",
         "Rarity": "Nightmare",
         "PlacePrice": 25000,
         "Offset": 0,
@@ -12625,12 +12625,12 @@
     },
     "Chicasaurus Rex": {
         "Type": "Slash",
-        "Image": "rbxassetid://88158224037453",
+        "Image": "rbxassetid://139482431949632",
         "Rarity": "Apex",
         "PlacePrice": 100000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Stampede", "Description": "Unleash a stampede that deals 15x this units damage to every enemy on the map, applying 10% wither for 20 seconds (20% if shiny) wiht a 30s cooldown"},
+        "Passive": {"Name": "Stampede", "Description": "Unleash a stampede that deals 15x this units damage to every enemy on the map, applying 10% wither for 20 seconds (20% if shiny) with a 30s cooldown"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12665,7 +12665,7 @@
     },
         "Chicazilla": {
         "Type": "Cone AOE 180",
-        "Image": "rbxassetid://111264078222825",
+        "Image": "rbxassetid://85789248456776",
         "Rarity": "Apex",
         "PlacePrice": 75000,
         "Offset": 0,
@@ -12705,7 +12705,7 @@
     },
         "Dino Pals": {
         "Type": "Cone AOE 90",
-        "Image": "rbxassetid://116904204991952",
+        "Image": "rbxassetid://121830495643041",
         "Rarity": "Secret",
         "PlacePrice": 6000,
         "Offset": 0,
@@ -12745,7 +12745,7 @@
     },
         "Triceratops Chica": {
         "Type": "Slash",
-        "Image": "rbxassetid://104185245728472",
+        "Image": "rbxassetid://73945180276553",
         "Rarity": "Secret",
         "PlacePrice": 33333,
         "Offset": 0,
@@ -12785,7 +12785,7 @@
     },
         "Paleontologist Springbonnie": {
         "Type": "Booster",
-        "Image": "rbxassetid://115721374057244",
+        "Image": "rbxassetid://75314778427273",
         "Rarity": "Secret",
         "PlacePrice": 30000,
         "Offset": 0,
@@ -12830,7 +12830,7 @@
     },
         "Partytime Freddy": {
         "Type": "Cone AOE 40",
-        "Image": "rbxassetid://77034183670884",
+        "Image": "rbxassetid://117911299758586",
         "Rarity": "Epic",
         "PlacePrice": 800,
         "Offset": 0,
@@ -12869,7 +12869,7 @@
     },
         "Dessert Funtime Foxy": {
         "Type": "Splash",
-        "Image": "rbxassetid://94502086558988",
+        "Image": "rbxassetid://70374908034183",
         "Rarity": "Mythic",
         "PlacePrice": 6000,
         "Offset": 0,
@@ -12908,7 +12908,7 @@
     },
         "Hot Air Balloon Boy": {
         "Type": "Splash + Burn",
-        "Image": "rbxassetid://127970614624992",
+        "Image": "rbxassetid://81085704927371",
         "Rarity": "Nightmare",
         "PlacePrice": 40000,
         "Offset": 0,
@@ -12956,12 +12956,12 @@
     },
         "Blimp Boy": {
         "Type": "Nuke + Burn",
-        "Image": "rbxassetid://111288669071361",
+        "Image": "rbxassetid://136167482897006",
         "Rarity": "Nightmare",
         "PlacePrice": 75000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Anniversary Extravaganza", "Description": "Drops an atomic present that deals 75x damage with with 20% wither and 60% slow for 10 seconds every 40 seconds"},
+        "Passive": {"Name": "Anniversary Extravaganza", "Description": "Drops an atomic present that deals 75x damage with 20% wither and 60% slow for 10 seconds every 40 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12972,32 +12972,32 @@
                 "Price": 0,
                 "Range": 35,
                 "Damage": 7000,
-                "Cooldown": 3,
-                "Burn": 38,
+                "Cooldown": 0.5,
+                "Burn": 5000,
                 "BurnTime": 0.5
             },
                         {
                 "Price": 90000,
                 "Range": 40,
                 "Damage": 8000,
-                "Cooldown": 3,
-                "Burn": 38,
+                "Cooldown": 0.5,
+                "Burn": 5000,
                 "BurnTime": 0.5
             },
                         {
                 "Price": 100000,
                 "Range": 45,
                 "Damage": 9000,
-                "Cooldown": 3,
-                "Burn": 38,
+                "Cooldown": 0.5,
+                "Burn": 5000,
                 "BurnTime": 0.5
             },
                         {
                 "Price": 111111,
                 "Range": 50,
                 "Damage": 10000,
-                "Cooldown": 3,
-                "Burn": 38,
+                "Cooldown": 0.5,
+                "Burn": 5000,
                 "BurnTime": 0.5
             }
         ]
