@@ -12628,7 +12628,7 @@
         "Image": "rbxassetid://139482431949632",
         "Rarity": "Apex",
         "PlacePrice": 100000,
-        "Offset": 0.5,
+        "Offset": 0.7,
         "Max": 1,
         "Passive": {"Name": "Stampede", "Description": "Unleash a stampede that deals 15x this units damage to every enemy on the map, applying 10% wither for 20 seconds (20% if shiny) with a 30s cooldown"},
         "hitboxOffset": {
@@ -12668,7 +12668,7 @@
         "Image": "rbxassetid://85789248456776",
         "Rarity": "Apex",
         "PlacePrice": 75000,
-        "Offset": 0.5,
+        "Offset": 0.7,
         "Max": 1,
         "Passive": {"Name": "Annihilation", "Description": "Charge nuclear breath for 7 seconds to unleash a continous nuke beam that deals damage and burn for 10 seconds"},
         "hitboxOffset": {
