@@ -10016,6 +10016,7 @@
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Controlled Shock", "Description": "Enemies are stunned for 0.2 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11487,7 +11488,7 @@
         "PlacePrice": 9000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Controlled Shock", "Description": "Traps Apply true stun for 1.2 seconds upon impact with an enemy. (Works on bosses/large enemies) (Max 100 traps per placement)"},
+        "Passive": {"Name": "Controlled Shock", "Description": "Traps Apply true stun for 1 second upon impact with an enemy. (Works on bosses/large enemies) (Max 100 traps per placement)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -12710,7 +12711,7 @@
         "PlacePrice": 6000,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Randomizer", "Description": "Every attack has a 33% chance for a different effect"},
+        "Passive": {"Name": "Randomizer", "Description": "Every attack has a 33% chance for a different effect of Slow (55% for 1s), Stun (0.5s) and Wither (15% for 1s)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12784,13 +12785,13 @@
         ]
     },
         "Paleontologist Springbonnie": {
-        "Type": "Booster",
+        "Type": "Splash + Booster",
         "Image": "rbxassetid://75314778427273",
         "Rarity": "Secret",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Prehistoric Boost", "Description": "Springtraps and prehistoric animatronics receive a 30% damage boost (x1.55 if shiny)"},
+        "Passive": {"Name": "Prehistoric Boost", "Description": "This unit deals 12k - 20k every 2 seconds. Springtraps and prehistoric animatronics receive a 30% damage boost (62.5% if shiny)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
