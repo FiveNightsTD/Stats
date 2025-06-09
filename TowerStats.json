@@ -12671,7 +12671,7 @@
         "PlacePrice": 75000,
         "Offset": 3,
         "Max": 1,
-        "Passive": {"Name": "Annihilation", "Description": "Charge nuclear breath for 7 seconds to unleash a continous nuke beam that deals damage and burn for 10 seconds"},
+        "Passive": {"Name": "Annihilation", "Description": "Charge nuclear breath for 5 seconds to unleash a Continous Cone AOE beam that deals damage equal to Chicazilla's Damage for 10 seconds with a 30 second cooldown."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
