@@ -10016,7 +10016,7 @@
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Controlled Shock", "Description": "Enemies are stunned for 0.2 seconds"},
+        "Passive": {"Name": "Zeus's Strike", "Description": "Enemies are stunned for 0.2 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
