@@ -12515,7 +12515,7 @@
         "PlacePrice": 20000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Dino Scout", "Description": "All units in range get +30% range (x1.25 if shiny)"},
+        "Passive": {"Name": "Dino Scout", "Description": "All units in range get +30% range (62.5% if shiny)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -12645,13 +12645,13 @@
                 "Cooldown": 3
             },
                         {
-                "Price": 120000,
+                "Price": 115000,
                 "Range": 27,
                 "Damage": 80000,
                 "Cooldown": 3
             },
                         {
-                "Price": 137000,
+                "Price": 130000,
                 "Range": 30,
                 "Damage": 90000,
                 "Cooldown": 3
@@ -12665,7 +12665,7 @@
         ]
     },
         "Chicazilla": {
-        "Type": "Cone AOE (180°)",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://85789248456776",
         "Rarity": "Apex",
         "PlacePrice": 75000,
@@ -12685,19 +12685,19 @@
                 "Cooldown": 2
             },
                         {
-                "Price": 86420,
+                "Price": 80000,
                 "Range": 33,
                 "Damage": 57000,
                 "Cooldown": 2
             },
                         {
-                "Price": 97888,
+                "Price": 90000,
                 "Range": 36,
                 "Damage": 65000,
                 "Cooldown": 2
             },
                         {
-                "Price": 115000,
+                "Price": 100000,
                 "Range": 40,
                 "Damage": 75000,
                 "Cooldown": 2
@@ -12705,7 +12705,7 @@
         ]
     },
         "Dino Pals": {
-        "Type": "Cone AOE (90°)",
+        "Type": "Cone AOE",
         "Image": "rbxassetid://121830495643041",
         "Rarity": "Secret",
         "PlacePrice": 6000,
