@@ -9081,7 +9081,7 @@
                 "Range": 40,
                 "Damage": 4000,
                 "Cooldown": 0.25,
-                "Slow": 0.5,
+                "Slow": 0.4,
                 "SlowTime": 2,
                 "Wither": 1.1,
                 "ShinyWither": 1.15,
