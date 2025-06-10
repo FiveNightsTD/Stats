@@ -12748,7 +12748,7 @@
         "Triceratops Chica": {
         "Type": "Slash",
         "Image": "rbxassetid://73945180276553",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 33333,
         "Offset": 0,
         "Max": 3,
@@ -12788,7 +12788,7 @@
         "Paleontologist Springbonnie": {
         "Type": "Splash + Booster",
         "Image": "rbxassetid://75314778427273",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
