@@ -12477,7 +12477,7 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1000,
+                "Damage": 3000,
                 "Cooldown": 3.5,
                 "Burn": 2500,
                 "BurnTime": 1
@@ -12485,7 +12485,7 @@
                         {
                 "Price": 10500,
                 "Range": 25,
-                "Damage": 1000,
+                "Damage": 3500,
                 "Cooldown": 3.1,
                 "Burn": 2500,
                 "BurnTime": 1
@@ -12493,7 +12493,7 @@
                         {
                 "Price": 13000,
                 "Range": 28,
-                "Damage": 1000,
+                "Damage": 4000,
                 "Cooldown": 2.8,
                 "Burn": 2500,
                 "BurnTime": 1
@@ -12501,7 +12501,7 @@
                         {
                 "Price": 15500,
                 "Range": 30,
-                "Damage": 1000,
+                "Damage": 5000,
                 "Cooldown": 2.5,
                 "Burn": 2500,
                 "BurnTime": 1
