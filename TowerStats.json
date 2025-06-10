@@ -12468,6 +12468,7 @@
         "PlacePrice": 8000,
         "Offset": 0.5,
         "Max": 3,
+        "Passive": {"Name": "Burn", "Description": "Deals 50% burn damage"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
