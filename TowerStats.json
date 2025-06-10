@@ -12515,7 +12515,7 @@
         "PlacePrice": 20000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Dino Scout", "Description": "All units in range get +30% range (62.5% if shiny)"},
+        "Passive": {"Name": "Dino Scout", "Description": "This unit deals 1k - 2k damage every 0.25s. All units in range get +10 - +30% range (62.5% if shiny)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -12528,21 +12528,21 @@
                 "Range": 20,
                 "Damage": 1000,
                 "Cooldown": 0.25,
-                "RangeBoost": 1.3
+                "RangeBoost": 1.1
             },
             {
                 "Price": 23250,
                 "Range": 24,
                 "Damage": 1200,
                 "Cooldown": 0.25,
-                "RangeBoost": 1.3
+                "RangeBoost": 1.15
             },
                         {
                 "Price": 27654,
                 "Range": 28,
                 "Damage": 1500,
                 "Cooldown": 0.25,
-                "RangeBoost": 1.3
+                "RangeBoost": 1.2
             },
                         {
                 "Price": 31434,
