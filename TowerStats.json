@@ -6674,7 +6674,7 @@
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 60% and reduces enemy regen by 75%"},
+        "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 60% and reduces enemy regen by 50%"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -6688,7 +6688,7 @@
                 "Cooldown": 1,
                 "Slow": 0.40,
                 "SlowTime": 3,
-                "Bleed": 0.25,
+                "Bleed": 0.5,
                 "BleedTime": 3
             },
             {
@@ -6698,7 +6698,7 @@
                 "Cooldown": 1,
                 "Slow": 0.40,
                 "SlowTime": 3,
-                "Bleed": 0.25,
+                "Bleed": 0.5,
                 "BleedTime": 3
             },
             {
@@ -6708,7 +6708,7 @@
                 "Cooldown": 1,
                 "Slow": 0.40,
                 "SlowTime": 3,
-                "Bleed": 0.25,
+                "Bleed": 0.5,
                 "BleedTime": 3
             },
             {
@@ -6718,7 +6718,7 @@
                 "Cooldown": 1,
                 "Slow": 0.40,
                 "SlowTime": 3,
-                "Bleed": 0.25,
+                "Bleed": 0.5,
                 "BleedTime": 3
             }
         ]
@@ -10909,27 +10909,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 27,
-                "Damage": 18000,
-                "Cooldown": 1.2
+                "Range": 28,
+                "Damage": 75000,
+                "Cooldown": 3
             },
             {
                 "Price": 65000,
-                "Range": 30,
-                "Damage": 26000,
-                "Cooldown": 1.1
+                "Range": 31,
+                "Damage": 90000,
+                "Cooldown": 3
             },
             {
                 "Price": 70000,
-                "Range": 32,
-                "Damage": 32000,
-                "Cooldown": 1
+                "Range": 34,
+                "Damage": 105000,
+                "Cooldown": 3
             },
             {
                 "Price": 80000,
-                "Range": 35,
-                "Damage": 40000,
-                "Cooldown": 1
+                "Range": 38,
+                "Damage": 126000,
+                "Cooldown": 3
             }
         ]
     },
@@ -12687,19 +12687,19 @@
                         {
                 "Price": 80000,
                 "Range": 33,
-                "Damage": 57000,
+                "Damage": 60000,
                 "Cooldown": 2
             },
                         {
                 "Price": 90000,
                 "Range": 36,
-                "Damage": 65000,
+                "Damage": 70000,
                 "Cooldown": 2
             },
                         {
                 "Price": 100000,
                 "Range": 40,
-                "Damage": 75000,
+                "Damage": 80000,
                 "Cooldown": 2
             }
         ]
