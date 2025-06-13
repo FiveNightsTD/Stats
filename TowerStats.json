@@ -11564,7 +11564,7 @@
         "PlacePrice": 65000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Scooper", "Description": "True stun is applied to enemies for 1 seconds"},
+        "Passive": {"Name": "Scooper", "Description": "True stun is applied to enemies for 1.2 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
