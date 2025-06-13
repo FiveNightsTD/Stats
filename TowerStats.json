@@ -12630,7 +12630,7 @@
         "Image": "rbxassetid://139482431949632",
         "Rarity": "Apex",
         "PlacePrice": 100000,
-        "Offset": 0,
+        "Offset": 2.2,
         "Max": 1,
         "Passive": {"Name": "Stampede", "Description": "Unleash a stampede that deals 15x this units damage to every enemy on the map, applying 10% wither for 20 seconds (20% if shiny) with a 30s cooldown"},
         "hitboxOffset": {
@@ -12670,7 +12670,7 @@
         "Image": "rbxassetid://85789248456776",
         "Rarity": "Apex",
         "PlacePrice": 75000,
-        "Offset": 3,
+        "Offset": 2.7,
         "Max": 1,
         "Passive": {"Name": "Annihilation", "Description": "Charge nuclear breath for 5 seconds to unleash a Continous Cone AOE beam that deals damage equal to Chicazilla's Damage for 10 seconds with a 30 second cooldown."},
         "hitboxOffset": {
