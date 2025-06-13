@@ -4767,41 +4767,41 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 1800,
-                "Slow": 0.35,
-                "SlowTime": 2,
+                "Cooldown": 0.25,
                 "Burn": 900,
                 "BurnTime": 2,
-                "Cooldown": 0.25
+                "Slow": 0.35,
+                "SlowTime": 2
             },
             {
                 "Price": 50000,
                 "Range": 28,
                 "Damage": 2100,
-                "Slow": 0.35,
-                "SlowTime": 2,
+                "Cooldown": 0.25,
                 "Burn": 1050,
                 "BurnTime": 2,
-                "Cooldown": 0.25
+                "Slow": 0.35,
+                "SlowTime": 2
             },
             {
                 "Price": 60000,
                 "Range": 31,
                 "Damage": 2400,
-                "Slow": 0.35,
-                "SlowTime": 2,
+                "Cooldown": 0.25,
                 "Burn": 1200,
                 "BurnTime": 2,
-                "Cooldown": 0.25
+                "Slow": 0.35,
+                "SlowTime": 2
             },
             {
                 "Price": 70000,
                 "Range": 35,
                 "Damage": 2750,
-                "Slow": 0.35,
-                "SlowTime": 2,
+                "Cooldown": 0.25,
                 "Burn": 1375,
                 "BurnTime": 2,
-                "Cooldown": 0.25
+                "Slow": 0.35,
+                "SlowTime": 2
             }
         ]
     },
