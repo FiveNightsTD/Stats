@@ -4768,8 +4768,8 @@
                 "Range": 25,
                 "Damage": 1800,
                 "Cooldown": 0.25,
-                "Burn": 900,
-                "BurnTime": 2,
+                "Poison": 900,
+                "PoisonLength": 2,
                 "Slow": 0.35,
                 "SlowTime": 2
             },
@@ -4778,8 +4778,8 @@
                 "Range": 28,
                 "Damage": 2100,
                 "Cooldown": 0.25,
-                "Burn": 1050,
-                "BurnTime": 2,
+                "Poison": 1050,
+                "PoisonLength": 2,
                 "Slow": 0.35,
                 "SlowTime": 2
             },
@@ -4788,8 +4788,8 @@
                 "Range": 31,
                 "Damage": 2400,
                 "Cooldown": 0.25,
-                "Burn": 1200,
-                "BurnTime": 2,
+                "Poison": 1200,
+                "PoisonLength": 2,
                 "Slow": 0.35,
                 "SlowTime": 2
             },
@@ -4798,8 +4798,8 @@
                 "Range": 35,
                 "Damage": 2750,
                 "Cooldown": 0.25,
-                "Burn": 1375,
-                "BurnTime": 2,
+                "Poison": 1375,
+                "PoisonLength": 2,
                 "Slow": 0.35,
                 "SlowTime": 2
             }
