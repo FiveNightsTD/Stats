@@ -9428,7 +9428,7 @@
         "PlacePrice": 30000,
         "Offset": -2,
         "Max": 1,
-        "Passive": {"Name": "Golden Basket", "Description": "All units in range receive a +75 income boost"},
+        "Passive": {"Name": "Golden Basket", "Description": "All units in range receive a +75% income boost"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
