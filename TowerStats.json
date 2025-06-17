@@ -4755,8 +4755,8 @@
         "Rarity": "Nightmare",
         "PlacePrice": 40000,
         "Offset": 0,
-        "Max": 3,
-        "Passive": {"Name": "Radioactive", "Description": "Slows enemies by 65% and applies 25% poison over 2 seconds"},
+        "Max": 2,
+        "Passive": {"Name": "Radioactive", "Description": "Slows enemies by 65% and applies 25% poison over 1 second"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4766,40 +4766,40 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1800,
+                "Damage": 2000,
                 "Cooldown": 0.25,
-                "Poison": 900,
-                "PoisonLength": 2,
+                "Poison": 1031,
+                "PoisonLength": 1,
                 "Slow": 0.35,
                 "SlowTime": 2
             },
             {
                 "Price": 50000,
                 "Range": 28,
-                "Damage": 2100,
+                "Damage": 2800,
                 "Cooldown": 0.25,
-                "Poison": 1050,
-                "PoisonLength": 2,
+                "Poison": 1031,
+                "PoisonLength": 1,
                 "Slow": 0.35,
                 "SlowTime": 2
             },
             {
                 "Price": 60000,
                 "Range": 31,
-                "Damage": 2400,
+                "Damage": 3600,
                 "Cooldown": 0.25,
-                "Poison": 1200,
-                "PoisonLength": 2,
+                "Poison": 1031,
+                "PoisonLength": 1,
                 "Slow": 0.35,
                 "SlowTime": 2
             },
             {
                 "Price": 70000,
                 "Range": 35,
-                "Damage": 2750,
+                "Damage": 4125,
                 "Cooldown": 0.25,
-                "Poison": 1375,
-                "PoisonLength": 2,
+                "Poison": 1031,
+                "PoisonLength": 1,
                 "Slow": 0.35,
                 "SlowTime": 2
             }
@@ -4816,7 +4816,7 @@
         "PlacePrice": 62000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Lethal Precision", "Description": "Deal +100% damage to stunned enemies"},
+        "Passive": {"Name": "Lethal Precision", "Description": "Deal +125% damage to stunned enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4827,21 +4827,21 @@
             "Price": 0,
             "Range": 28,
             "Damage": 4000,
-            "StunDamage": 2,
+            "StunDamage": 2.25,
             "Cooldown": 0.5
         },
         {
             "Price": 68000,
             "Range": 31,
             "Damage": 4500,
-            "StunDamage": 2,
+            "StunDamage": 2.25,
             "Cooldown": 0.5
         },
         {
             "Price": 72000,
             "Range": 34,
             "Damage": 5200,
-            "StunDamage": 2,
+            "StunDamage": 2.25,
             "Cooldown": 0.5
 
         },
@@ -4849,7 +4849,7 @@
             "Price": 75000,
             "Range": 38,
             "Damage": 6000,
-            "StunDamage": 2,
+            "StunDamage": 2.25,
             "Cooldown": 0.5
         }
         ]
@@ -10564,7 +10564,7 @@
         "Type": "Pierce Spread + Slow",
         "Image": "rbxassetid://86358962940619",
         "Rarity": "Nightmare",
-        "PlacePrice": 3500,
+        "PlacePrice": 6000,
         "Offset": 0,
         "Max": 2,
         "Passive": {"Name": "Afton's Agony", "Description": "Enemies hit are slowed by 65%, deal +50% Damage if on the same team a Springtrap unit."},
@@ -10583,26 +10583,26 @@
                 "SlowTime": 2
             },
             {
-                "Price": 4500,
-                "Range": 27,
+                "Price": 9000,
+                "Range": 28,
                 "Damage": 10000,
-                "Cooldown": 1.9,
+                "Cooldown": 2,
                 "Slow": 0.35,
                 "SlowTime": 2
             },
             {
-                "Price": 6000,
-                "Range": 29,
+                "Price": 12000,
+                "Range": 31,
                 "Damage": 12000,
-                "Cooldown": 1.8,
+                "Cooldown": 2,
                 "Slow": 0.35,
                 "SlowTime": 2
             },
             {
-                "Price": 8000,
-                "Range": 30,
+                "Price": 15000,
+                "Range": 35,
                 "Damage": 14000,
-                "Cooldown": 1.8,
+                "Cooldown": 2,
                 "Slow": 0.35,
                 "SlowTime": 2
             }
@@ -11166,10 +11166,10 @@
         "Type": "CONE AOE + Anti Regen",
         "Image": "rbxassetid://124509672214842",
         "Rarity": "Nightmare",
-        "PlacePrice": 8000,
+        "PlacePrice": 6000,
         "Offset": 0,
-        "Max": 2,
-        "Passive": {"Name": "Anti Heal", "Description": "Attacks apply 50% anti regen for 5 seconds"},
+        "Max": 3,
+        "Passive": {"Name": "Anti Heal", "Description": "Attacks apply 75% anti regen for 2 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11179,34 +11179,34 @@
             {
                 "Price": 0,
                 "Range": 20,
-                "Damage": 1700,
+                "Damage": 1500,
                 "Cooldown": 0.5,
-                "Bleed": 0.5,
-                "BleedTime": 5
+                "Bleed": 0.25,
+                "BleedTime": 2
+            },
+            {
+                "Price": 8000,
+                "Range": 22,
+                "Damage": 1800,
+                "Cooldown": 0.5,
+                "Bleed": 0.25,
+                "BleedTime": 2
             },
             {
                 "Price": 10000,
-                "Range": 22,
-                "Damage": 2000,
+                "Range": 24,
+                "Damage": 2100,
                 "Cooldown": 0.5,
-                "Bleed": 0.5,
-                "BleedTime": 5
+                "Bleed": 0.25,
+                "BleedTime": 2
             },
             {
                 "Price": 12000,
-                "Range": 24,
+                "Range": 27,
                 "Damage": 2500,
                 "Cooldown": 0.5,
-                "Bleed": 0.5,
-                "BleedTime": 5
-            },
-            {
-                "Price": 1400,
-                "Range": 27,
-                "Damage": 3000,
-                "Cooldown": 0.5,
-                "Bleed": 0.5,
-                "BleedTime": 5
+                "Bleed": 0.25,
+                "BleedTime": 2
             }
         ]
     },
@@ -12831,7 +12831,7 @@
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Prehistoric Boost", "Description": "This unit deals 12k - 20k every 2 seconds. Springtraps and prehistoric animatronics receive a 30% damage boost (62.5% if shiny)"},
+        "Passive": {"Name": "Prehistoric Boost", "Description": "This unit deals 4k - 6k every 2 seconds. Springtraps and prehistoric animatronics receive a 30% damage boost (62.5% if shiny)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -12841,29 +12841,29 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 12000,
+                "Range": 20,
+                "Damage": 4000,
                 "Cooldown": 2,
                 "CooldownBoost": 0.85
             },
                         {
                 "Price": 36500,
-                "Range": 27,
-                "Damage": 15000,
+                "Range": 22,
+                "Damage": 4600,
                 "Cooldown": 2,
                 "CooldownBoost": 0.77
             },
                         {
                 "Price": 40100,
-                "Range": 29,
-                "Damage": 17000,
+                "Range": 23,
+                "Damage": 5400,
                 "Cooldown": 2,
                 "CooldownBoost": 0.72
             },
                         {
                 "Price": 45900,
-                "Range": 32,
-                "Damage": 20000,
+                "Range": 25,
+                "Damage": 6000,
                 "Cooldown": 2,
                 "CooldownBoost": 0.67
             }
