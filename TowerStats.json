@@ -4765,7 +4765,7 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
+                "Range": 28,
                 "Damage": 2000,
                 "Cooldown": 0.25,
                 "Poison": 1031,
@@ -4775,7 +4775,7 @@
             },
             {
                 "Price": 50000,
-                "Range": 28,
+                "Range": 31,
                 "Damage": 2800,
                 "Cooldown": 0.25,
                 "Poison": 1031,
@@ -4785,7 +4785,7 @@
             },
             {
                 "Price": 60000,
-                "Range": 31,
+                "Range": 35,
                 "Damage": 3600,
                 "Cooldown": 0.25,
                 "Poison": 1031,
@@ -4795,7 +4795,7 @@
             },
             {
                 "Price": 70000,
-                "Range": 35,
+                "Range": 38,
                 "Damage": 4125,
                 "Cooldown": 0.25,
                 "Poison": 1031,
