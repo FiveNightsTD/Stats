@@ -13044,12 +13044,13 @@
         ]
     },
     "Fossilized Puppet": {
-        "Type": "Single",
+        "Type": "Chain Splash + Passive",
         "Image": "rbxassetid://102097033004654",
-        "Rarity": "Secret",
-        "PlacePrice": 1000,
+        "Rarity": "Forgotten",
+        "PlacePrice": 90000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 1,
+        "MaxChain": 12,
         "Passive": {"Name": "Hatchlings Fury", "Description": "Spawns in single target turrets that deal 3k-5k damage every 0.25 seconds. Boosts all units in range by +20% (+50% if shiny)."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -13061,48 +13062,49 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3,
-                "DamageBoost": 1.05,
-                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
-                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
+                "Damage": 120000,
+                "Cooldown": 5,
+                "RangeBoost": 1.2,
+                "Turret1": {"Range": 50, "Damage": 3000, "Cooldown": 0.25},
+                "Turret2": {"Range": 50, "Damage": 3000, "Cooldown": 0.25}
             },
                         {
-                "Price": 115115,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3,
-                "DamageBoost": 1.05,
-                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
-                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
+                "Price": 100000,
+                "Range": 33,
+                "Damage": 150000,
+                "Cooldown": 5,
+                "RangeBoost": 1.2,
+                "Turret1": {"Range": 50, "Damage": 3500, "Cooldown": 0.25},
+                "Turret2": {"Range": 50, "Damage": 3500, "Cooldown": 0.25}
             },
                         {
-                "Price": 129777,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3,
-                "DamageBoost": 1.05,
-                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
-                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
+                "Price": 110000,
+                "Range": 36,
+                "Damage": 170000,
+                "Cooldown": 5,
+                "RangeBoost": 1.2,
+                "Turret1": {"Range": 50, "Damage": 4200, "Cooldown": 0.25},
+                "Turret2": {"Range": 50, "Damage": 4200, "Cooldown": 0.25}
             },
                         {
-                "Price": 143143,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3,
-                "DamageBoost": 1.05,
-                "Turret1": {"Range": 30, "Damage": 15, "Cooldown": 0.1},
-                "Turret2": {"Range": 30, "Damage": 15, "Cooldown": 0.1}
+                "Price": 120000,
+                "Range": 40,
+                "Damage": 200000,
+                "Cooldown": 5,
+                "RangeBoost": 1.2,
+                "Turret1": {"Range": 50, "Damage": 5000, "Cooldown": 0.25},
+                "Turret2": {"Range": 50, "Damage": 5000, "Cooldown": 0.25}
             }
         ]
     },
     "LeBronnie": {
-        "Type": "Chain 15",
+        "Type": "Chain",
         "Image": "rbxassetid://94059367110525",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 23000,
         "Offset": 1,
         "Max": 1,
+        "MaxChain": 15,
         "Passive": {"Name": "Slam Dunk", "Description": "This unit deals x23 equal to its damage as Nuke with a cooldown of 23."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -13113,27 +13115,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
             },
                         {
-                "Price": 115115,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3
+                "Price": 36000,
+                "Range": 28,
+                "Damage": 17000,
+                "Cooldown": 2
             },
                         {
-                "Price": 129777,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3
+                "Price": 49000,
+                "Range": 31,
+                "Damage": 20000,
+                "Cooldown": 2
             },
                         {
-                "Price": 143143,
-                "Range": 30,
-                "Damage": 1000,
-                "Cooldown": 3
+                "Price": 62000,
+                "Range": 35,
+                "Damage": 23000,
+                "Cooldown": 2
             }
         ]
     }
