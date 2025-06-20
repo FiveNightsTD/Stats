@@ -13106,7 +13106,6 @@
         "Max": 1,
         "MaxChain": 15,
         "Passive": {"Name": "Slam Dunk", "Description": "This unit deals x23 equal to its damage as Nuke with a cooldown of 23."},
-        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
