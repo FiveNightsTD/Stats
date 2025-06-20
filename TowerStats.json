@@ -13101,7 +13101,7 @@
         "Image": "rbxassetid://94059367110525",
         "Rarity": "Secret",
         "PlacePrice": 23000,
-        "Offset": 0,
+        "Offset": 1,
         "Max": 1,
         "Passive": {"Name": "Slam Dunk", "Description": "This unit deals x23 equal to its damage as Nuke with a cooldown of 23."},
         "NoEnemyAttack": true,
