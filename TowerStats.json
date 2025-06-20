@@ -13080,7 +13080,7 @@
                         {
                 "Price": 75000,
                 "Range": 33,
-                "Damage": 850000,
+                "Damage": 85000,
                 "Cooldown": 5,
                 "RangeBoost": 1.2,
                 "Turret1": {"Range": 33, "Damage": 2600, "Cooldown": 0.25},
