@@ -13045,7 +13045,7 @@
     },
     "Fossilized Puppet": {
         "Type": "Single",
-        "Image": "",
+        "Image": "rbxassetid://102097033004654",
         "Rarity": "Secret",
         "PlacePrice": 1000,
         "Offset": 0,
@@ -13098,7 +13098,7 @@
     },
     "LeBronnie": {
         "Type": "Chain 15",
-        "Image": "",
+        "Image": "rbxassetid://94059367110525",
         "Rarity": "Secret",
         "PlacePrice": 23000,
         "Offset": 0,
