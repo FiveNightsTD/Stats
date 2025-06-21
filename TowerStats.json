@@ -8161,13 +8161,13 @@
     },
 
     "Kronos Endo Freddy": {
-        "Type": "Nuke + Passive",
+        "Type": "Nuke Stun + Passive",
         "Image": "rbxassetid://138634254895239",
         "Rarity": "Apex",
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Eternity Clock", "Description": "Every 20 seconds freezes all enemies on the map for 2.5 seconds."},
+        "Passive": {"Name": "Eternity Clock", "Description": "Normal attacks stun enemies for 1 second. Every 20 seconds freezes all enemies on the map for 2.5 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
