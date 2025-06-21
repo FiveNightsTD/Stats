@@ -2077,7 +2077,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
-        "Passive": {"Name": "Lethal Potions", "Description": "Deals +75% damage in poison over 3 seconds"},
+        "Passive": {"Name": "Lethal Potions", "Description": "Deals 75% damage in poison over 3 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3317,7 +3317,7 @@
         "PlacePrice": 65000,
         "Offset": -1,
         "Max": 2,
-        "Passive": {"Name": "Poison", "Description": "Deals +200% damage in poison over 8 seconds"},
+        "Passive": {"Name": "Poison", "Description": "Deals 200% damage in poison over 8 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -6036,7 +6036,7 @@
         "PlacePrice": 500,
         "Offset": 1,
         "Max": 3,
-        "Passive": {"Name": "Burn", "Description": "Burns enemies at +125% over 2 seconds"},
+        "Passive": {"Name": "Burn", "Description": "Burns enemies at 125% over 2 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12935,7 +12935,7 @@
         "PlacePrice": 30000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Prehistoric Boost", "Description": "This unit deals 4k - 6k every 2 seconds. Springtraps and prehistoric animatronics receive a 30% damage boost (62.5% if shiny)"},
+        "Passive": {"Name": "Prehistoric Boost", "Description": "This unit has a cooldown boost of 0.85 - 0.67 (x1.25 if Shiny). Springtraps and prehistoric animatronics receive a 30% damage boost (62.5% if shiny)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -13155,7 +13155,7 @@
         "Offset": 0,
         "Max": 2,
         "MaxChain": 12,
-        "Passive": {"Name": "Hatchlings Fury", "Description": "Spawns in single target turrets that deal 2k-3k damage every 0.25 seconds. Boosts all units in range by +50% (+87.5% if shiny)."},
+        "Passive": {"Name": "Hatchlings Fury", "Description": "Spawns in single target turrets that deal 2k-3k damage every 0.25 seconds. Boosts all units range by +50% (+87.5% if shiny)."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
