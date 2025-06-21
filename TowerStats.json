@@ -860,6 +860,7 @@
         "PlacePrice": 500,
         "Offset": 0.55,
         "Max": 3,
+        "Passive": {"Name": "Pirate's Curse", "Description": "Targeted enemies take 25% more damage for 1 second"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -868,27 +869,39 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 25,
-                "Cooldown": 0.5
+                "Range": 20,
+                "Damage": 400,
+                "Cooldown": 0.5,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
             },
             {
                 "Price": 800,
-                "Range": 18,
-                "Damage": 35,
-                "Cooldown": 0.4
+                "Range": 23,
+                "Damage": 450,
+                "Cooldown": 0.4,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
             },
             {
                 "Price": 1400,
-                "Range": 20,
-                "Damage": 40,
-                "Cooldown": 0.3
+                "Range": 25,
+                "Damage": 500,
+                "Cooldown": 0.3,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
             },
             {
                 "Price": 2000,
-                "Range": 20,
-                "Damage": 50,
-                "Cooldown": 0.3
+                "Range": 27,
+                "Damage": 550,
+                "Cooldown": 0.3,
+                "Wither": 1.25,
+                "ShinyWither": 1.25,
+                "WitherTime": 1
             }
         ]
     },
@@ -935,9 +948,9 @@
         "Type": "AOE",
         "Image": "rbxassetid://18151573285",
         "Rarity": "Nightmare",
-        "PlacePrice": 19000,
+        "PlacePrice": 71000,
         "Max": 2,
-
+        "Passive": {"Name": "Blight", "Description": "Enemies in range take 20% more damage"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -946,27 +959,39 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 10,
-                "Damage": 150,
-                "Cooldown": 0.05
+                "Range": 25,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
             },
             {
-                "Price": 30000,
-                "Range": 14,
-                "Damage": 175,
-                "Cooldown": 0.05
+                "Price": 75000,
+                "Range": 28,
+                "Damage": 1750,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
             },
             {
-                "Price": 40000,
-                "Range": 18,
-                "Damage": 225,
-                "Cooldown": 0.05
+                "Price": 80000,
+                "Range": 30,
+                "Damage": 2000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
             },
             {
-                "Price": 50000,
-                "Range": 20,
-                "Damage": 250,
-                "Cooldown": 0.05
+                "Price": 85000,
+                "Range": 33,
+                "Damage": 2250,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.2,
+                "WitherTime": 1
             }
         ]
     },
@@ -1682,8 +1707,9 @@
         "Type": "Continuous",
         "Image": "rbxassetid://18363533024",
         "Rarity": "Nightmare",
-        "PlacePrice": 20000,
+        "PlacePrice": 35000,
         "Max": 3,
+        "Passive": {"Name": "Phantasms Wrath", "Description": "Targetted enemies take 50% more damage for 1 second."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -1692,27 +1718,39 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 30,
-                "Cooldown": 0.05
+                "Range": 25,
+                "Damage": 2500,
+                "Cooldown": 0.25,
+                "Wither": 1.5,
+                "ShinyWither": 1.5,
+                "WitherTime": 1
             },
             {
-                "Price": 30000,
+                "Price": 40000,
                 "Range": 28,
-                "Damage": 40,
-                "Cooldown": 0.05
+                "Damage": 2800,
+                "Cooldown": 0.25,
+                "Wither": 1.5,
+                "ShinyWither": 1.5,
+                "WitherTime": 1
             },
             {
-                "Price": 45000,
+                "Price": 55000,
                 "Range": 32,
-                "Damage": 50,
-                "Cooldown": 0.05
+                "Damage": 3200,
+                "Cooldown": 0.25,
+                "Wither": 1.5,
+                "ShinyWither": 1.5,
+                "WitherTime": 1
             },
             {
-                "Price": 60000,
+                "Price": 70000,
                 "Range": 35,
-                "Damage": 60,
-                "Cooldown": 0.05
+                "Damage": 3500,
+                "Cooldown": 0.25,
+                "Wither": 1.5,
+                "ShinyWither": 1.5,
+                "WitherTime": 1
             }
         ]
     },
@@ -2039,7 +2077,7 @@
         "Rarity": "Secret",
         "PlacePrice": 500,
         "Max": 3,
-        "Passive": {"Name": "Lethal Potions", "Description": "Deals an extra 30% damage in poison"},
+        "Passive": {"Name": "Lethal Potions", "Description": "Deals +75% damage in poison over 3 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2050,33 +2088,33 @@
             {
                 "Price": 0,
                 "Range": 15,
-                "Damage": 200,
-                "Cooldown": 3.5,
-                "Poison": 10,
+                "Damage": 600,
+                "Cooldown": 2.5,
+                "Poison": 450,
                 "PoisonLength": 3
             },
             {
                 "Price": 800,
                 "Range": 17,
-                "Damage": 225,
-                "Cooldown": 3,
-                "Poison": 15,
+                "Damage": 800,
+                "Cooldown": 2.3,
+                "Poison": 600,
                 "PoisonLength": 3
             },
             {
                 "Price": 1000,
                 "Range": 20,
-                "Damage": 250,
-                "Cooldown": 3,
-                "Poison": 20,
+                "Damage": 1000,
+                "Cooldown": 2.2,
+                "Poison": 750,
                 "PoisonLength": 3
             },
             {
                 "Price": 1200,
                 "Range": 25,
-                "Damage": 300,
+                "Damage": 1200,
                 "Cooldown": 2,
-                "Poison": 30,
+                "Poison": 900,
                 "PoisonLength": 3
             }
         ]
@@ -2543,7 +2581,7 @@
         "PlacePrice": 600,
         "Offset": 0,
         "Max": 3,
-        "Passive": {"Name": "Tarnish", "Description": "Enemies hit by Tarnished Spring Bonnie's attack take 7.5% more damage for 2 seconds (10% if shiny)"},
+        "Passive": {"Name": "Tarnish", "Description": "Enemies hit by Tarnished Spring Bonnie's attack take 10% more damage for 2 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -2555,7 +2593,7 @@
                 "Range": 22,
                 "Damage": 300,
                 "Cooldown": 0.5,
-                "Wither": 1.075,
+                "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
             },
@@ -2564,7 +2602,7 @@
                 "Range": 24,
                 "Damage": 325,
                 "Cooldown": 0.5,
-                "Wither": 1.075,
+                "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
             },
@@ -2573,7 +2611,7 @@
                 "Range": 25,
                 "Damage": 350,
                 "Cooldown": 0.4,
-                "Wither": 1.075,
+                "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
             },
@@ -2582,7 +2620,7 @@
                 "Range": 26,
                 "Damage": 375,
                 "Cooldown": 0.4,
-                "Wither": 1.075,
+                "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
             },
@@ -2591,7 +2629,7 @@
                 "Range": 27,
                 "Damage": 400,
                 "Cooldown": 0.3,
-                "Wither": 1.075,
+                "Wither": 1.1,
                 "ShinyWither": 1.1,
                 "WitherTime": 2
             }
@@ -2995,7 +3033,7 @@
         "Type": "AOE",
         "Image": "rbxassetid://18975916197",
         "Rarity": "Nightmare",
-        "PlacePrice": 20000,
+        "PlacePrice": 48000,
         "Offset": 0,
         "Max": 2,
         "hitboxOffset": {
@@ -3007,26 +3045,26 @@
             {
                 "Price": 0,
                 "Range": 30,
-                "Damage": 2000,
-                "Cooldown": 1
+                "Damage": 42000,
+                "Cooldown": 3
             },
             {
-                "Price": 30000,
+                "Price": 60000,
                 "Range": 35,
-                "Damage": 2500,
-                "Cooldown": 1
+                "Damage": 48000,
+                "Cooldown": 3
             },
             {
-                "Price": 40000,
+                "Price": 72000,
                 "Range": 40,
-                "Damage": 3000,
-                "Cooldown": 1
+                "Damage": 54000,
+                "Cooldown": 3
             },
             {
-                "Price": 50000,
+                "Price": 84000,
                 "Range": 45,
-                "Damage": 4000,
-                "Cooldown": 1
+                "Damage": 60000,
+                "Cooldown": 3
             }
         ]
     },
@@ -3276,10 +3314,10 @@
         "Type": "AOE Poison",
         "Image": "rbxassetid://18977428026",
         "Rarity": "Nightmare",
-        "PlacePrice": 17500,
-        "Offset": -2.5,
-        "Max": 3,
-        "Passive": {"Name": "Poison", "Description": "Poisons enemies"},
+        "PlacePrice": 65000,
+        "Offset": -1,
+        "Max": 2,
+        "Passive": {"Name": "Poison", "Description": "Deals +200% damage in poison over 8 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -3288,35 +3326,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 1000,
-                "Poison": 300,
-                "PoisonTime": 3,
-                "Cooldown": 2
+                "Range": 25,
+                "Damage": 17500,
+                "Poison": 35000,
+                "PoisonTime": 8,
+                "Cooldown": 3
             },
             {
                 "Price": 20000,
-                "Range": 17,
-                "Damage": 1200,
-                "Poison": 400,
-                "PoisonTime": 3,
-                "Cooldown": 1.85
+                "Range": 27,
+                "Damage": 20000,
+                "Poison": 40000,
+                "PoisonTime": 8,
+                "Cooldown": 3
             },
             {
                 "Price": 25000,
-                "Range": 18,
-                "Damage": 1400,
-                "Poison": 450,
-                "PoisonTime": 3,
-                "Cooldown": 1.7
+                "Range": 29,
+                "Damage": 22500,
+                "Poison": 45000,
+                "PoisonTime": 8,
+                "Cooldown": 3
             },
             {
                 "Price": 30000,
-                "Range": 20,
-                "Damage": 1600,
-                "Poison": 500,
-                "PoisonTime": 3,
-                "Cooldown": 1.5
+                "Range": 32,
+                "Damage": 25000,
+                "Poison": 50000,
+                "PoisonTime": 8,
+                "Cooldown": 3
             }
         ]
     },
@@ -3995,9 +4033,10 @@
         "Type": "Pierce",
         "Image": "rbxassetid://132655301839150",
         "Rarity": "Nightmare",
-        "PlacePrice": 20000,
+        "PlacePrice": 66000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "I Always Come Back", "Description": "Attacks apply 60% Anti Bleed and 15% Wither to enemies for 2 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4007,26 +4046,46 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 1500,
-                "Cooldown": 1
+                "Damage": 18000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
             },
             {
-                "Price": 25000,
+                "Price": 77000,
                 "Range": 27,
-                "Damage": 2000,
-                "Cooldown": 1
+                "Damage": 22000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
             },
             {
-                "Price": 30000,
-                "Range": 28,
-                "Damage": 2500,
-                "Cooldown": 1
+                "Price": 88000,
+                "Range": 31,
+                "Damage": 26000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
             },
             {
-                "Price": 40000,
-                "Range": 30,
-                "Damage": 3000,
-                "Cooldown": 0.8
+                "Price": 99000,
+                "Range": 35,
+                "Damage": 30000,
+                "Cooldown": 2,
+                "Wither": 1.15,
+                "ShinyWither": 1.15,
+                "WitherTime": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
             }
         ]
     },
@@ -4611,9 +4670,10 @@
         "Type": "AOE",
         "Image": "rbxassetid://127646561328941",
         "Rarity": "Nightmare",
-        "PlacePrice": 30000,
+        "PlacePrice": 77000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
+        "Passive": {"Name": "Corruption", "Description": "For every enemy in range of RWQFSFASXC, gain +5% damage."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4622,27 +4682,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 75,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 40000,
-                "Range": 22,
-                "Damage": 100,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 50000,
-                "Range": 24,
-                "Damage": 125,
-                "Cooldown": 0.05
-            },
-            {
-                "Price": 60000,
                 "Range": 25,
-                "Damage": 150,
-                "Cooldown": 0.05
+                "Damage": 1900,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 78000,
+                "Range": 27,
+                "Damage": 2300,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 80000,
+                "Range": 29,
+                "Damage": 2700,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 82000,
+                "Range": 33,
+                "Damage": 3125,
+                "Cooldown": 0.25
             }
         ]
     },
@@ -4816,7 +4876,7 @@
         "PlacePrice": 62000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Lethal Precision", "Description": "Deal +125% damage to stunned enemies"},
+        "Passive": {"Name": "Lethal Precision", "Description": "Deal +125% damage to stunned enemies."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4859,11 +4919,11 @@
         "Type": "Chain Shock",
         "Image": "rbxassetid://82456156246566",
         "Rarity": "Nightmare",
-        "PlacePrice": 18000,
+        "PlacePrice": 43000,
         "Offset": 0.75,
         "Max": 2,
-        "MaxChain": 10,
-        "Passive": {"Name": "Controlled Shock", "Description": "Sends out a controlled shock that bounces between up to 10 nearby units dealing damage and stunning them"},
+        "MaxChain": 15,
+        "Passive": {"Name": "Controlled Shock", "Description": "Sends out a controlled shock that bounces up to 15 different enemies dealing damage and stunning them."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -4872,32 +4932,32 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 25,
-                "Damage": 5000,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 0.5
-            },
-            {
-                "Price": 22000,
-                "Range": 27,
-                "Damage": 7500,
-                "Cooldown": 2,
-                "Slow": 0,
-                "SlowTime": 0.5
-            },
-            {
-                "Price": 24000,
                 "Range": 28,
-                "Damage": 9000,
+                "Damage": 18000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
             {
-                "Price": 26000,
-                "Range": 30,
-                "Damage": 10000,
+                "Price": 50000,
+                "Range": 31,
+                "Damage": 22000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 57000,
+                "Range": 35,
+                "Damage": 25000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 64000,
+                "Range": 38,
+                "Damage": 28000,
                 "Cooldown": 2,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -5331,12 +5391,12 @@
     },
 
 "Endo 05": {
-        "Type": "Splash Stun",
+        "Type": "Nuke Stun",
         "Image": "rbxassetid://75720210105816",
         "Rarity": "Nightmare",
-        "PlacePrice": 15000,
+        "PlacePrice": 54000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 1,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5345,31 +5405,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 4000,
-                "Cooldown": 4.5,
-                "Slow": 0.1
+                "Range": 25,
+                "Damage": 60000,
+                "Cooldown": 4,
+                "Slow": 0
             },
             {
                 "Price": 20000,
-                "Range": 22,
-                "Damage": 5000,
-                "Cooldown": 4.4,
-                "Slow": 0.1
+                "Range": 28,
+                "Damage": 70000,
+                "Cooldown": 4,
+                "Slow": 0
             },
             {
                 "Price": 25000,
-                "Range": 24,
-                "Damage": 6000,
-                "Cooldown": 4.3,
-                "Slow": 0.1
+                "Range": 31,
+                "Damage": 80000,
+                "Cooldown": 4,
+                "Slow": 0
             },
             {
                 "Price": 30000,
-                "Range": 25,
-                "Damage": 7000,
-                "Cooldown": 4.2,
-                "Slow": 0.1
+                "Range": 35,
+                "Damage": 90000,
+                "Cooldown": 4,
+                "Slow": 0
             }
         ]
     },
@@ -5434,6 +5494,7 @@
         "PlacePrice": 500,
         "Offset": 0,
         "Max": 4,
+        "Passive": {"Name": "Infected Circuit", "Description": "Attacks apply 15% Anti Bleed and 7.5 Wither for 1 second"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5444,25 +5505,45 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 60,
-                "Cooldown": 0.2
+                "Cooldown": 0.25,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
             },
             {
                 "Price": 700,
                 "Range": 22,
                 "Damage": 100,
-                "Cooldown": 0.2
+                "Cooldown": 0.25,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
             },
             {
                 "Price": 900,
                 "Range": 24,
                 "Damage": 150,
-                "Cooldown": 0.2
+                "Cooldown": 0.2,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
             },
             {
                 "Price": 1200,
                 "Range": 25,
                 "Damage": 200,
-                "Cooldown": 0.2
+                "Cooldown": 0.25,
+                "Wither": 1.075,
+                "ShinyWither": 1.075,
+                "WitherTime": 1,
+                "Bleed": 0.85,
+                "BleedTime": 1
             }
         ]
     },
@@ -5953,8 +6034,9 @@
         "Image": "rbxassetid://101295016610509",
         "Rarity": "Secret",
         "PlacePrice": 500,
-        "Offset": 0,
+        "Offset": 1,
         "Max": 3,
+        "Passive": {"Name": "Burn", "Description": "Burns enemies at +125% over 2 seconds"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5965,25 +6047,33 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 400,
-                "Cooldown": 2.5
+                "Cooldown": 1.5,
+                "Burn": 500,
+                "BurnTime": 2
             },
             {
                 "Price": 400,
                 "Range": 22,
                 "Damage": 500,
-                "Cooldown": 2.2
+                "Cooldown": 1.5,
+                "Burn": 625,
+                "BurnTime": 2
             },
             {
                 "Price": 500,
                 "Range": 24,
                 "Damage": 600,
-                "Cooldown": 1.8
+                "Cooldown": 1.5,
+                "Burn": 750,
+                "BurnTime": 2
             },
             {
                 "Price": 600,
                 "Range": 25,
                 "Damage": 800,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
+                "Burn": 1000,
+                "BurnTime": 2
             }
         ]
     },
@@ -6900,27 +6990,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 15,
-                "Damage": 1100,
+                "Range": 20,
+                "Damage": 2500,
                 "Cooldown": 4
             },
             {
                 "Price": 500,
-                "Range": 18,
-                "Damage": 1300,
-                "Cooldown": 3.8
+                "Range": 22,
+                "Damage": 3100,
+                "Cooldown": 4
             },
             {
                 "Price": 800,
-                "Range": 20,
-                "Damage": 1500,
-                "Cooldown": 3.7
+                "Range": 23,
+                "Damage": 3500,
+                "Cooldown": 4
             },
             {
                 "Price": 1200,
-                "Range": 22,
-                "Damage": 1700,
-                "Cooldown": 3
+                "Range": 25,
+                "Damage": 4200,
+                "Cooldown": 4
             }
         ]
     },
@@ -7050,7 +7140,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 10000,
         "Offset": 0,
-        "Max": 2,
+        "Max": 3,
         "Passive": {"Name": "Puppet", "Description": "Summons crying souls that are equal to 100x this units damage."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -7061,31 +7151,31 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
-                "Damage": 275,
+                "Range": 25,
+                "Damage": 550,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.1
+                "Cooldown": 0.25
             },
             {
                 "Price": 20000,
-                "Range": 24,
-                "Damage": 350,
+                "Range": 28,
+                "Damage": 800,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.1
+                "Cooldown": 0.25
             },
             {
                 "Price": 30000,
-                "Range": 27,
-                "Damage": 450,
+                "Range": 31,
+                "Damage": 950,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.1
+                "Cooldown": 0.25
             },
             {
                 "Price": 40000,
-                "Range": 30,
-                "Damage": 500,
+                "Range": 35,
+                "Damage": 1250,
                 "Unit": {"Haunted Soul": 1},
-                "Cooldown": 0.1
+                "Cooldown": 0.25
             }
         ]
     },
@@ -7511,37 +7601,37 @@
                 "Price": 0,
                 "Range": 50,
                 "Damage": 0,
-                "Cooldown": 0.75,
+                "Cooldown": 4,
                 "RangeBoost": 1.5,
                 "Slow": 0.4,
-                "SlowTime": 1
+                "SlowTime": 5
             },
             {
                 "Price": 4000,
                 "Range": 50,
                 "Damage": 0,
-                "Cooldown": 0.75,
+                "Cooldown": 4,
                 "RangeBoost": 1.6,
                 "Slow": 0.4,
-                "SlowTime": 1
+                "SlowTime": 5
             },
             {
                 "Price": 5000,
                 "Range": 50,
                 "Damage": 0,
-                "Cooldown": 0.75,
+                "Cooldown": 4,
                 "RangeBoost": 1.7,
                 "Slow": 0.4,
-                "SlowTime": 1
+                "SlowTime": 5
             },
             {
                 "Price": 6000,
                 "Range": 50,
                 "Damage": 0,
-                "Cooldown": 0.75,
+                "Cooldown": 4,
                 "RangeBoost": 1.8,
                 "Slow": 0.4,
-                "SlowTime": 1
+                "SlowTime": 5
             }
         ]
     },
@@ -7602,26 +7692,26 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 20,
-                "Damage": 2500,
-                "Cooldown": 1.5
+                "Range": 25,
+                "Damage": 7000,
+                "Cooldown": 1
             },
             {
                 "Price": 14000,
-                "Range": 22,
-                "Damage": 3000,
-                "Cooldown": 1.4
+                "Range": 28,
+                "Damage": 8000,
+                "Cooldown": 1
             },
             {
                 "Price": 16000,
-                "Range": 24,
-                "Damage": 3500,
-                "Cooldown": 1.2
+                "Range": 31,
+                "Damage": 9000,
+                "Cooldown": 1
             },
             {
                 "Price": 20000,
-                "Range": 25,
-                "Damage": 4000,
+                "Range": 35,
+                "Damage": 10000,
                 "Cooldown": 1
             }
 
@@ -8077,7 +8167,7 @@
         "PlacePrice": 50000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Eternity Clock", "Description": "Every 40 seconds freezes all enemies on the map for 10 seconds."},
+        "Passive": {"Name": "Eternity Clock", "Description": "Every 20 seconds freezes all enemies on the map for 2.5 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -8087,26 +8177,34 @@
                       {
                 "Price": 0,
                 "Range": 27,
-                "Damage": 45000,
-                "Cooldown": 3
+                "Damage": 80000,
+                "Cooldown": 4.4,
+                "Slow": 0,
+                "SlowTime": 1
             },
             {
                 "Price": 65000,
                 "Range": 30,
-                "Damage": 60000,
-                "Cooldown": 3
+                "Damage": 95000,
+                "Cooldown": 4.4,
+                "Slow": 0,
+                "SlowTime": 1
             },
             {
                 "Price": 80000,
                 "Range": 33,
-                "Damage": 75000,
-                "Cooldown": 3
+                "Damage": 110000,
+                "Cooldown": 4.4,
+                "Slow": 0,
+                "SlowTime": 1
             },
             {
                 "Price": 100000,
                 "Range": 40,
-                "Damage": 80000,
-                "Cooldown": 2
+                "Damage": 123200,
+                "Cooldown": 4.4,
+                "Slow": 0,
+                "SlowTime": 1
             }
         ]
     },
@@ -9064,7 +9162,7 @@
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 3 seconds deals splash damage equal to 15x this units damage in poison. All enemies in range are slowed by 60% and take 10% more damage (15% if shiny)."},
+        "Passive": {"Name": "Tidings Of Charcoal", "Description": "Every 3 seconds deals splash damage equal to 15x this units damage in poison. All enemies in range are slowed by 60% and take 15% more damage."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9078,7 +9176,7 @@
                 "Cooldown": 0.25,
                 "Slow": 0.4,
                 "SlowTime": 2,
-                "Wither": 1.1,
+                "Wither": 1.15,
                 "ShinyWither": 1.15,
                 "WitherTime": 2
             },
@@ -9089,7 +9187,7 @@
                 "Cooldown": 0.25,
                 "Slow": 0.4,
                 "SlowTime": 2,
-                "Wither": 1.1,
+                "Wither": 1.15,
                 "ShinyWither": 1.15,
                 "WitherTime": 2
             },
@@ -9100,7 +9198,7 @@
                 "Cooldown": 0.25,
                 "Slow": 0.4,
                 "SlowTime": 2,
-                "Wither": 1.1,
+                "Wither": 1.15,
                 "ShinyWither": 1.15,
                 "WitherTime": 2
             },
@@ -9111,7 +9209,7 @@
                 "Cooldown": 0.25,
                 "Slow": 0.4,
                 "SlowTime": 2,
-                "Wither": 1.1,
+                "Wither": 1.15,
                 "ShinyWither": 1.15,
                 "WitherTime": 2
             }
@@ -10615,7 +10713,7 @@
         "PlacePrice": 18000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Scourch", "Description": "Attacks apply 80% anti regen for 9 seconds."},
+        "Passive": {"Name": "Scourch", "Description": "Attacks apply 100% anti regen for 1.8 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -10624,35 +10722,35 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 22,
+                "Range": 25,
                 "Damage": 12000,
                 "Cooldown": 2.3,
-                "Bleed": 0.2,
-                "BleedTime": 9
+                "Bleed": 0,
+                "BleedTime": 1.8
             },
             {
                 "Price": 22000,
-                "Range": 25,
+                "Range": 28,
                 "Damage": 15000,
                 "Cooldown": 2.2,
-                "Bleed": 0.2,
-                "BleedTime": 9
+                "Bleed": 0,
+                "BleedTime": 1.8
             },
             {
                 "Price": 25000,
-                "Range": 28,
+                "Range": 31,
                 "Damage": 18000,
                 "Cooldown": 2.1,
-                "Bleed": 0.2,
-                "BleedTime": 9
+                "Bleed": 0,
+                "BleedTime": 1.8
             },
             {
                 "Price": 30000,
-                "Range": 30,
+                "Range": 35,
                 "Damage": 22500,
                 "Cooldown": 2,
-                "Bleed": 0.2,
-                "BleedTime": 9
+                "Bleed": 0,
+                "BleedTime": 1.8
             }
         ]
     },
@@ -11343,6 +11441,8 @@
         "PlacePrice": 450,
         "Offset": 0,
         "Max": 3,
+        "Passive": {"Name": "Martian's Boost", "Description": "Boosts all units range by +15% (+43.75% when shiny"},
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -11353,25 +11453,29 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 900,
-                "Cooldown": 2
+                "Cooldown": 2,
+                "RangeBoost": 1.15
             },
             {
                 "Price": 600,
                 "Range": 22,
                 "Damage": 1200,
-                "Cooldown": 1.9
+                "Cooldown": 1.9,
+                "RangeBoost": 1.15
             },
             {
                 "Price": 800,
                 "Range": 24,
                 "Damage": 1400,
-                "Cooldown": 1.75
+                "Cooldown": 1.75,
+                "RangeBoost": 1.15
             },
             {
                 "Price": 1000,
                 "Range": 25,
                 "Damage": 1700,
-                "Cooldown": 1.6
+                "Cooldown": 1.6,
+                "RangeBoost": 1.15
             }
         ]
     },
