@@ -13191,7 +13191,7 @@
                 "RangeBoost": 1.2,
                 "Mini Fossilized Puppet Turret1": {"Range": 33, "Damage": 1700, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret2": {"Range": 33, "Damage": 1700, "Cooldown": 0.25},
-                "Mini Fossilized Puppet Turret3": {"Range": 33, "Damage": 900, "Cooldown": 0.25}
+                "Mini Fossilized Puppet Turret3": {"Range": 33, "Damage": 1700, "Cooldown": 0.25}
             },
                         {
                 "Price": 90000,
