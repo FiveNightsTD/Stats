@@ -13155,7 +13155,7 @@
         "Offset": 0,
         "Max": 2,
         "MaxChain": 12,
-        "Passive": {"Name": "Hatchlings Fury", "Description": "Spawns in 3 single target turrets (up to 12 in total) that deal 700-1k damage every 0.25 seconds. Boosts all units range by +50% (+87.5% if shiny)."},
+        "Passive": {"Name": "Hatchlings Fury", "Description": "Spawns in 3 single target turrets (up to 6 in total) that deal 1k-2k damage every 0.25 seconds. Boosts all units range by +50% (+87.5% if shiny)."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -13169,9 +13169,9 @@
                 "Damage": 60000,
                 "Cooldown": 5,
                 "RangeBoost": 1.2,
-                "Mini Fossilized Puppet Turret1": {"Range": 28, "Damage": 700, "Cooldown": 0.25},
-                "Mini Fossilized Puppet Turret2": {"Range": 28, "Damage": 700, "Cooldown": 0.25},
-                "Mini Fossilized Puppet Turret3": {"Range": 28, "Damage": 700, "Cooldown": 0.25}
+                "Mini Fossilized Puppet Turret1": {"Range": 28, "Damage": 1000, "Cooldown": 0.25},
+                "Mini Fossilized Puppet Turret2": {"Range": 28, "Damage": 1000, "Cooldown": 0.25},
+                "Mini Fossilized Puppet Turret3": {"Range": 28, "Damage": 1000, "Cooldown": 0.25}
             },
                         {
                 "Price": 60000,
@@ -13179,9 +13179,9 @@
                 "Damage": 70000,
                 "Cooldown": 5,
                 "RangeBoost": 1.2,
-                "Mini Fossilized Puppet Turret1": {"Range": 31, "Damage": 800, "Cooldown": 0.25},
-                "Mini Fossilized Puppet Turret2": {"Range": 31, "Damage": 800, "Cooldown": 0.25},
-                "Mini Fossilized Puppet Turret3": {"Range": 31, "Damage": 800, "Cooldown": 0.25}
+                "Mini Fossilized Puppet Turret1": {"Range": 31, "Damage": 1400, "Cooldown": 0.25},
+                "Mini Fossilized Puppet Turret2": {"Range": 31, "Damage": 1400, "Cooldown": 0.25},
+                "Mini Fossilized Puppet Turret3": {"Range": 31, "Damage": 1400, "Cooldown": 0.25}
             },
                         {
                 "Price": 75000,
@@ -13189,8 +13189,8 @@
                 "Damage": 85000,
                 "Cooldown": 5,
                 "RangeBoost": 1.2,
-                "Mini Fossilized Puppet Turret1": {"Range": 33, "Damage": 900, "Cooldown": 0.25},
-                "Mini Fossilized Puppet Turret2": {"Range": 33, "Damage": 900, "Cooldown": 0.25},
+                "Mini Fossilized Puppet Turret1": {"Range": 33, "Damage": 1700, "Cooldown": 0.25},
+                "Mini Fossilized Puppet Turret2": {"Range": 33, "Damage": 1700, "Cooldown": 0.25},
                 "Mini Fossilized Puppet Turret3": {"Range": 33, "Damage": 900, "Cooldown": 0.25}
             },
                         {
@@ -13199,9 +13199,9 @@
                 "Damage": 100000,
                 "Cooldown": 5,
                 "RangeBoost": 1.2,
-                "Mini Fossilized Puppet Turret1": {"Range": 35, "Damage": 1000, "Cooldown": 0.25},
-                "Mini Fossilized Puppet Turret2": {"Range": 35, "Damage": 1000, "Cooldown": 0.25},
-                "Mini Fossilized Puppet Turret3": {"Range": 35, "Damage": 1000, "Cooldown": 0.25}
+                "Mini Fossilized Puppet Turret1": {"Range": 35, "Damage": 2000, "Cooldown": 0.25},
+                "Mini Fossilized Puppet Turret2": {"Range": 35, "Damage": 2000, "Cooldown": 0.25},
+                "Mini Fossilized Puppet Turret3": {"Range": 35, "Damage": 2000, "Cooldown": 0.25}
             }
         ]
     },
