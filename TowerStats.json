@@ -945,7 +945,7 @@
         ]
     },
     "Blighted Endo Freddy": {
-        "Type": "AOE",
+        "Type": "AOE + Wither",
         "Image": "rbxassetid://18151573285",
         "Rarity": "Nightmare",
         "PlacePrice": 71000,
@@ -1704,7 +1704,7 @@
         ]
     },
     "Phantom Mangle": {
-        "Type": "Continuous",
+        "Type": "Continuous Wither",
         "Image": "rbxassetid://18363533024",
         "Rarity": "Nightmare",
         "PlacePrice": 35000,
@@ -2575,7 +2575,7 @@
         ]
     },
     "Tarnished Spring Bonnie": {
-        "Type": "Cone AOE",
+        "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://18777411515",
         "Rarity": "Secret",
         "PlacePrice": 600,
@@ -4030,7 +4030,7 @@
         ]
     },
     "Agonized SpringTrap": {
-        "Type": "Pierce",
+        "Type": "Pierce Spread",
         "Image": "rbxassetid://132655301839150",
         "Rarity": "Nightmare",
         "PlacePrice": 66000,
@@ -5488,7 +5488,7 @@
     },
 
     "Fortified Endo 02": {
-        "Type": "Cone AOE",
+        "Type": "Cone AOE + Passive",
         "Image": "rbxassetid://86634335404738",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -6030,7 +6030,7 @@
 
 
  "Grimm Foxy": {
-        "Type": "Splash",
+        "Type": "Splash Burn",
         "Image": "rbxassetid://101295016610509",
         "Rarity": "Secret",
         "PlacePrice": 500,
@@ -12506,7 +12506,7 @@
         ]
     },
     "Toxic Springtrap": {
-        "Type": "Pierce Spread + Poison + Wither",
+        "Type": "Pierce Spread + Passive",
         "Image": "rbxassetid://128503373439117",
         "Rarity": "Apex",
         "PlacePrice": 30000,
@@ -12769,7 +12769,7 @@
         ]
     },
     "Chicasaurus Rex": {
-        "Type": "Slash",
+        "Type": "Slash + Passive",
         "Image": "rbxassetid://139482431949632",
         "Rarity": "Apex",
         "PlacePrice": 100000,
