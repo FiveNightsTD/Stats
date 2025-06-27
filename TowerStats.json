@@ -4354,6 +4354,7 @@
         "PlacePrice": 4000,
         "Offset": 0,
         "Max": 3,
+        "NoEnemyAttack": true,
         "Passive": {"Name": "Bounty Hunter", "Description": "Generates lots of extra cash after every shot"},
         "hitboxOffset": {
             "X": 0,
