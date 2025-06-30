@@ -5442,9 +5442,9 @@
                 "Price": 25000,
                 "Range": 31,
                 "Damage": 80000,
-                "Cooldown": 3.8,
+                "Cooldown": 4,
                 "Slow": 0,
-                "SlowTime": 0.8
+                "SlowTime": 1
             },
             {
                 "Price": 30000,
