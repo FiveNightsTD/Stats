@@ -11902,27 +11902,6 @@
             }
         ]
     },
-    "Mr Hippo": {
-        "Type": "Single",
-        "Image": "rbxassetid://72612922312358",
-        "Rarity": "Apex",
-        "PlacePrice": 100,
-        "Offset": 0,
-        "Max": 3,
-        "hitboxOffset": {
-            "X": 0,
-            "Y": 0,
-            "Z": 0
-        },
-        "Upgrades": [
-            {
-                "Price": 0,
-                "Range": 25,
-                "Damage": 100,
-                "Cooldown": 1
-            }
-        ]
-    },
     "Nedd Bear": {
         "Type": "Cone AOE + Stun",
         "Image": "rbxassetid://132984353966246",
@@ -13904,36 +13883,36 @@
                 "Range": 25,
                 "Damage": 13000,
                 "Cooldown": 2,
-                "Burn": 38,
-                "BurnTime": 1.2,
-                "StunDamage": 1.25
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
             },
             {
                 "Price": 0,
                 "Range": 25,
                 "Damage": 13000,
                 "Cooldown": 2,
-                "Burn": 38,
-                "BurnTime": 1.2,
-                "StunDamage": 1.25
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
             },
             {
                 "Price": 0,
                 "Range": 25,
                 "Damage": 13000,
                 "Cooldown": 2,
-                "Burn": 38,
-                "BurnTime": 1.2,
-                "StunDamage": 1.25
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
             },
             {
                 "Price": 0,
                 "Range": 25,
                 "Damage": 13000,
                 "Cooldown": 2,
-                "Burn": 38,
-                "BurnTime": 1.2,
-                "StunDamage": 1.25
+                "Wither": 1.35,
+                "ShinyWither": 1.35,
+                "WitherTime": 1
             }
         ]
     },
@@ -13976,7 +13955,7 @@
             }
         ]
     },
-    "Mr.Hippo": {
+    "Mr Hippo": {
         "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
