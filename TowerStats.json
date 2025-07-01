@@ -13285,5 +13285,735 @@
                 "Cooldown": 2
             }
         ]
+    },
+    "Vanessa": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0.70,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0.70,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Gregory": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Tiger Rock": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            }
+        ]
+    },
+    "Funtime Chica": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "RangeBoost": 1.05
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "RangeBoost": 1.05
+            }
+        ]
+    },
+    "ITP Springbonnie": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Prototype Glamrock Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Fetch": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 2
+            }
+        ]
+    },
+    "Jackie": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "The Blob": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Bidybab": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Slow": 0,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Chica's Magic Rainbow": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Carnie": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            }
+        ]
+    },
+    "Minireenas": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "JJ": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Star Spangled Orville": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "StunDamage": 1.25
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "StunDamage": 1.25
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "StunDamage": 1.25
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnTime": 1.2,
+                "StunDamage": 1.25
+            }
+        ]
+    },
+    "Sparky": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
+    },
+    "Mr.Hippo": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 100,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            },
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 13000,
+                "Cooldown": 2
+            }
+        ]
     }
 }
