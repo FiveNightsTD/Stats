@@ -2396,7 +2396,7 @@
         ]
     },
     "Commando Endo": {
-        "Type": "Continuous",
+        "Type": "Continuous Splash",
         "Image": "rbxassetid://18673468864",
         "Rarity": "Secret",
         "PlacePrice": 1000,
@@ -2419,7 +2419,7 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 15,
+                "SummonRange": 25,
                 "SummonDamage": 320,
                 "SummonCooldown": 0.25
             },
@@ -2434,7 +2434,7 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": 0,
-                "SummonRange": 15,
+                "SummonRange": 25,
                 "SummonDamage": 380,
                 "SummonCooldown": 0.25
             },
@@ -2449,7 +2449,7 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 15,
+                "SummonRange": 25,
                 "SummonDamage": 440,
                 "SummonCooldown": 0.25
             },
@@ -2464,7 +2464,7 @@
                 "Amount": 1,
                 "Unit": "Infantry Endo",
                 "Offset": -2,
-                "SummonRange": 15,
+                "SummonRange": 25,
                 "SummonDamage": 500,
                 "SummonCooldown": 0.25
             }
@@ -5666,7 +5666,7 @@
         "PlacePrice": 11340,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every 5 seconds, erasing them completely. Deals x20 damage to bosses and true stuns them for 1 second."},
+        "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every 5 seconds, erasing them completely. Deals x20 damage to bosses and true stuns them for 1.5 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -5676,25 +5676,25 @@
             {
                 "Price": 0,
                 "Range": 25,
-                "Damage": 2500,
+                "Damage": 3000,
                 "Cooldown": 0.25
             },
             {
                 "Price": 22222,
                 "Range": 28,
-                "Damage": 3125,
+                "Damage": 3600,
                 "Cooldown": 0.25
             },
             {
                 "Price": 33333,
                 "Range": 32,
-                "Damage": 3750,
+                "Damage": 4200,
                 "Cooldown": 0.25
             },
             {
                 "Price": 44444,
                 "Range": 35,
-                "Damage": 4500,
+                "Damage": 5000,
                 "Cooldown": 0.25
             }
         ]
@@ -7638,7 +7638,7 @@
                 "Price": 0,
                 "Range": 50,
                 "Damage": 0,
-                "Cooldown": 4,
+                "Cooldown": 2.2,
                 "RangeBoost": 1.5,
                 "Slow": 0.4,
                 "SlowTime": 5
@@ -7647,7 +7647,7 @@
                 "Price": 4000,
                 "Range": 50,
                 "Damage": 0,
-                "Cooldown": 4,
+                "Cooldown": 2.2,
                 "RangeBoost": 1.6,
                 "Slow": 0.4,
                 "SlowTime": 5
@@ -7656,7 +7656,7 @@
                 "Price": 5000,
                 "Range": 50,
                 "Damage": 0,
-                "Cooldown": 4,
+                "Cooldown": 2.2,
                 "RangeBoost": 1.7,
                 "Slow": 0.4,
                 "SlowTime": 5
@@ -7665,7 +7665,7 @@
                 "Price": 6000,
                 "Range": 50,
                 "Damage": 0,
-                "Cooldown": 4,
+                "Cooldown": 2.2,
                 "RangeBoost": 1.8,
                 "Slow": 0.4,
                 "SlowTime": 5
