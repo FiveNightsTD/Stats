@@ -1,3 +1,4 @@
+
 {
     "Freddy": {
         "Type": "Single",
@@ -13974,28 +13975,28 @@
                 "Range": 25,
                 "Damage": 13000,
                 "Cooldown": 2,
-                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+                "HippoTurret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
             },
             {
                 "Price": 0,
                 "Range": 25,
                 "Damage": 13000,
                 "Cooldown": 2,
-                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+                "HippoTurret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
             },
             {
                 "Price": 0,
                 "Range": 25,
                 "Damage": 13000,
                 "Cooldown": 2,
-                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+                "HippoTurret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
             },
             {
                 "Price": 0,
                 "Range": 25,
                 "Damage": 13000,
                 "Cooldown": 2,
-                "Turret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
+                "HippoTurret1": {"Range": 30, "Damage": 7.5, "Cooldown": 0.1}
             }
         ]
     },
