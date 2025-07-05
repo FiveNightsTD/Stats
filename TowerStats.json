@@ -13588,7 +13588,7 @@
         "Rarity": "Nightmare",
         "PlacePrice": 6000,
         "Offset": -2,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Time to Play!", "Description": "Attacks apply 60% slow for 4 seconds and Stun enemies for 0.5 seconds."},
         "hitboxOffset": {
             "X": 0,
