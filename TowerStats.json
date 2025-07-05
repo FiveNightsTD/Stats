@@ -13890,7 +13890,7 @@
         "Image": "rbxassetid://127898009659800",
         "Rarity": "Nightmare",
         "PlacePrice": 44000,
-        "Offset": 0,
+        "Offset": -1.5,
         "Max": 2,
         "Passive": {"Name": "Fireworks All Around", "Description": "Attacks apply 10% Wither for 2 seconds (20% if shiny). Every 15 seconds deals AOE damage equal to 15x this units damage in Burn."},
         "hitboxOffset": {
