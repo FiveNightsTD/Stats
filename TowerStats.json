@@ -10,7 +10,7 @@
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
-            "Z": 0
+            "Z": 0F
         },
         "Upgrades": [
             {
@@ -13510,7 +13510,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 16600,
                 "Range": 28,
                 "Damage": 1200,
                 "Cooldown": 0.25,
@@ -13518,7 +13518,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 21500,
                 "Range": 31,
                 "Damage": 1500,
                 "Cooldown": 0.25,
@@ -13526,7 +13526,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 27800,
                 "Range": 35,
                 "Damage": 1750,
                 "Cooldown": 0.25,
@@ -13569,7 +13569,7 @@
                 "Price": 800,
                 "Range": 23,
                 "Damage": 2500,
-                "Cooldown": 2,
+                "Cooldown": 3,
                 "Bleed": 0.5,
                 "BleedTime": 1
             },
