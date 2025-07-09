@@ -13447,13 +13447,13 @@
         ]
     },
     "ITP Springbonnie": {
-        "Type": "AOE + Passive",
+        "Type": "Continous Splash + Passive",
         "Image": "rbxassetid://72646308433490",
         "Rarity": "Nightmare",
         "PlacePrice": 39000,
         "Offset": 0.5,
         "Max": 1,
-        "Passive": {"Name": "Back to the Past...", "Description": "Kidnaps an enemey for 2 seconds every 7 seconds."},
+        "Passive": {"Name": "Far Beyond Return", "Description": "This unit deals 2x damage when enemies are beyond 20 range of him."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -13464,26 +13464,26 @@
             {
                 "Price": 0,
                 "Range": 28,
-                "Damage": 68000,
-                "Cooldown": 4
+                "Damage": 5000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 42000,
                 "Range": 32,
-                "Damage": 85000,
-                "Cooldown": 4
+                "Damage": 7500,
+                "Cooldown": 0.5
             },
             {
                 "Price": 45000,
                 "Range": 35,
-                "Damage": 100500,
-                "Cooldown": 4
+                "Damage": 10000,
+                "Cooldown": 0.5
             },
             {
                 "Price": 48000,
                 "Range": 38,
-                "Damage": 128000,
-                "Cooldown": 4
+                "Damage": 12500,
+                "Cooldown": 0.5
             }
         ]
     },
