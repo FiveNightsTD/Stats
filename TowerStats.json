@@ -13588,7 +13588,7 @@
         "Image": "rbxassetid://118660039926391",
         "Rarity": "Nightmare",
         "PlacePrice": 6000,
-        "Offset": -1,
+        "Offset": -1.3,
         "Max": 2,
         "Passive": {"Name": "Time to Play!", "Description": "Attacks apply 60% slow for 4 seconds and Stun enemies for 0.5 seconds."},
         "hitboxOffset": {
