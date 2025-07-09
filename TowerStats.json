@@ -4731,7 +4731,7 @@
             "Image": "rbxassetid://128604882971057",
             "Rarity": "Apex",
             "PlacePrice": 20000,
-            "Offset": 0.5,
+            "Offset": 1,
             "Max": 3,
             "Passive": {"Name": "Nuclear Fission", "Description": "Completely halts regen on targeted enemies"},
             "hitboxOffset": {
@@ -5414,7 +5414,7 @@
         "Image": "rbxassetid://75720210105816",
         "Rarity": "Nightmare",
         "PlacePrice": 54000,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "Controlled Shock", "Description": "Attacks stun enemies for 1 second."},
         "hitboxOffset": {
@@ -9930,7 +9930,7 @@
         "Image": "rbxassetid://78775426136136",
         "Rarity": "Apex",
         "PlacePrice": 80000,
-        "Offset": 0,
+        "Offset": 0.3,
         "Max": 1,
         "Passive": {"Name": "Giant Slayer", "Description": "Deal +70% damage to large enemies"},
         "hitboxOffset": {
@@ -11258,7 +11258,7 @@
         "Image": "rbxassetid://89049349505606",
         "Rarity": "Apex",
         "PlacePrice": 70000,
-        "Offset": 0.5,
+        "Offset": 1,
         "Max": 1,
         "Passive": {"Name": "Devastator", "Description": "Attacks instantly execute enemies under 30% health and bosses and imps at 10%"},
         "hitboxOffset": {
@@ -13406,7 +13406,7 @@
         "Image": "rbxassetid://103017752267035",
         "Rarity": "Nightmare",
         "PlacePrice": 20000,
-        "Offset": 0,
+        "Offset": 0.4,
         "Max": 2,
         "Passive": {"Name": "Smile! Say Cheese!", "Description": "Provides a 1.1x-1.3x range boost to all units in range. Also boosts all Chica's damage on the team by 1.3x (62.5% when Shiny)."},
         "NoEnemyAttack": true,
