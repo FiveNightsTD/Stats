@@ -2407,7 +2407,7 @@
             "Y": 0,
             "Z": 0
         },
-        "Offset": -0.5,
+        "Offset": 0,
         "Upgrades": [
             {
                 "Price": 0,
@@ -5665,7 +5665,7 @@
         "Image": "rbxassetid://95479691284429",
         "Rarity": "Apex",
         "PlacePrice": 11340,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "Hook and Line", "Description": "Reels in an enemy every 5 seconds, erasing them completely. Deals x20 damage to bosses and true stuns them for 1.5 seconds."},
         "hitboxOffset": {
@@ -6814,7 +6814,7 @@
         "Image": "rbxassetid://100997380896121",
         "Rarity": "Nightmare",
         "PlacePrice": 30000,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 2,
         "Passive": {"Name": "Blight", "Description": "Slows all enemies in range by 60% and reduces enemy regen by 50%"},
         "hitboxOffset": {
@@ -13451,7 +13451,7 @@
         "Image": "rbxassetid://72646308433490",
         "Rarity": "Nightmare",
         "PlacePrice": 39000,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "Back to the Past...", "Description": "Kidnaps an enemey for 2 seconds every 7 seconds."},
         "NoEnemyAttack": true,
@@ -13588,7 +13588,7 @@
         "Image": "rbxassetid://118660039926391",
         "Rarity": "Nightmare",
         "PlacePrice": 6000,
-        "Offset": -2,
+        "Offset": -1,
         "Max": 2,
         "Passive": {"Name": "Time to Play!", "Description": "Attacks apply 60% slow for 4 seconds and Stun enemies for 0.5 seconds."},
         "hitboxOffset": {
@@ -13636,7 +13636,7 @@
         "Image": "rbxassetid://75705628462698",
         "Rarity": "Nightmare",
         "PlacePrice": 45000,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "Tangled", "Description": "The 6th slot on your team gets -1 placement but gains a +150% damage bonus."},
         "hitboxOffset": {
