@@ -12530,7 +12530,7 @@
         "Image": "rbxassetid://128503373439117",
         "Rarity": "Apex",
         "PlacePrice": 30000,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 1,
         "Passive": {"Name": "Plague", "Description": "Deal +25% Poison damage and Apply 17% Wither (25% Shiny) for 10 seconds"},
         "hitboxOffset": {
@@ -13172,7 +13172,7 @@
         "Image": "rbxassetid://102097033004654",
         "Rarity": "Forgotten",
         "PlacePrice": 45000,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 2,
         "MaxChain": 12,
         "Passive": {"Name": "Hatchlings Fury", "Description": "Spawns in 3 single target turrets (up to 6 in total) that deal 1k-2k damage every 0.25 seconds. Boosts all units range by +50% (+87.5% if shiny)."},
