@@ -5834,7 +5834,7 @@
     },
 
     "Overclocked Puppeteer": {
-        "Type": "Splash",
+        "Type": "Nuke",
         "Image": "rbxassetid://100495958746039",
         "Rarity": "Nightmare",
         "PlacePrice": 80000,
@@ -5968,7 +5968,7 @@
 
 
 "Scarecrow Foxy": {
-        "Type": "Splash Burn + Passive",
+        "Type": "Splash Stun + Passive",
         "Image": "rbxassetid://112050273953919",
         "Rarity": "Nightmare",
         "PlacePrice": 16000,
