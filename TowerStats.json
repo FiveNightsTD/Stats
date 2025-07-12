@@ -6026,7 +6026,7 @@
                 "SlowTime": 0.5,
                 "Burn": 14400,
                 "BurnTime": 2,
-                "Bleed": 0,
+                "Bleed": 0.5,
                 "BleedTime": 1
             }
         ]
