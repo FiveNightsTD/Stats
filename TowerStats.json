@@ -13982,9 +13982,9 @@
         "Type": "Single",
         "Image": "rbxassetid://106044817477654",
         "Rarity": "Forgotten",
-        "PlacePrice": 999999,
+        "PlacePrice": 59214,
         "Offset": 0.4,
-        "Max": 3,
+        "Max": 1,
         "Passive": {"Name": "Where Am I?", "Description": "To summon the truths from shadows unseen... A present of light where darkness had been... Revealing what's hidden in silence between... Where am I?."},
         "hitboxOffset": {
             "X": 0,
@@ -13994,27 +13994,27 @@
         "Upgrades": [
             {
                 "Price": 0,
-                "Range": 5,
-                "Damage": 1000000,
-                "Cooldown": 10
+                "Range": 30,
+                "Damage": 50000,
+                "Cooldown": 1
             },
             {
-                "Price": 999999,
-                "Range": 5,
-                "Damage": 1000000,
-                "Cooldown": 10
+                "Price": 64323,
+                "Range": 33,
+                "Damage": 74000,
+                "Cooldown": 1
             },
             {
-                "Price": 999999,
-                "Range": 5,
-                "Damage": 1000000,
-                "Cooldown": 10
+                "Price": 78567,
+                "Range": 36,
+                "Damage": 88000,
+                "Cooldown": 1
             },
             {
-                "Price": 999999,
-                "Range": 5,
-                "Damage": 1000000,
-                "Cooldown": 10
+                "Price": 95873,
+                "Range": 40,
+                "Damage": 100000,
+                "Cooldown": 1
             }
         ]
     },
