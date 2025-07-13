@@ -13985,7 +13985,7 @@
         "PlacePrice": 59214,
         "Offset": 0.4,
         "Max": 1,
-        "Passive": {"Name": "Where Am I?", "Description": "To summon the truths from shadows unseen... A present of light where darkness had been... Revealing what's hidden in silence between... Where am I?."},
+        "Passive": {"Name": "Where Am I?", "Description": "Gains +0.1% extra damage per enemy killed up to +50% and gains +0.5% extra damage for every 1 base HP lost."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
