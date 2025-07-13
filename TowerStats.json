@@ -2000,7 +2000,7 @@
             },
             {
                 "Price": 6000,
-                "Range": 20,
+                "Range": 30,
                 "Damage": 3800,
                 "Cooldown": 0.25,
                 "Bleed": 0,
