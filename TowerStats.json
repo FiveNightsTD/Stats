@@ -5849,11 +5849,11 @@
             {
                 "Price": 0,
                 "Range": 35,
-                "Damage": 250000,
+                "Damage": 80000,
                 "Cooldown": 18
             },
             {
-                "Price": 85000,
+                "Price": 10000,
                 "Range": 38,
                 "Damage": 320000,
                 "Cooldown": 17
