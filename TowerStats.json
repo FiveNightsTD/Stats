@@ -10508,6 +10508,7 @@
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +15% more damage for 10 seconds. (25% shiny)"},
+        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
