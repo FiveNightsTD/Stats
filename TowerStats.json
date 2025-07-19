@@ -14178,7 +14178,7 @@
         "Image": "rbxassetid://126934941324179",
         "Rarity": "Secret",
         "PlacePrice": 3000,
-        "Offset": 0,
+        "Offset": 0.6,
         "Max": 1,
         "Passive": {"Name": "Codebreak", "Description": "Damaged enemies take 12.5% Wither for 1 second."},
         "NoEnemyAttack": true,
