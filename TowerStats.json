@@ -14272,7 +14272,7 @@
         "Image": "rbxassetid://93532497758458",
         "Rarity": "Nightmare",
         "PlacePrice": 39000,
-        "Offset": 0,
+        "Offset": 2,
         "Max": 2,
         "Passive": {"Name": "Ironpost", "Description": "Every 30 seconds this unit deals 10x its current damage as Nuke, Boss Stunning for 2.5 seconds."},
         "NoEnemyAttack": true,
