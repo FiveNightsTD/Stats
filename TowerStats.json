@@ -14123,7 +14123,7 @@
         "PlacePrice": 25000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Grand Harlequin", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage. Units within range gain a +30% income boost."},
+        "Passive": {"Name": "Grand Harlequin", "Description": "Attacks apply 30% Wither for 1.5 seconds. Performs an AOE attack every 10 seconds that deals 5x this units damage. Units within range gain a +30% income boost."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -14134,41 +14134,41 @@
             {
                 "Price": 0,
                 "Range": 28,
-                "Damage": 3000,
-                "Cooldown": 0.25,
+                "Damage": 18000,
+                "Cooldown": 1.2,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
-                "WitherTime": 1,
+                "WitherTime": 1.5,
                 "MoneyBoost": 1.3
             },
             {
                 "Price": 30000,
                 "Range": 32,
-                "Damage": 4000,
-                "Cooldown": 0.25,
+                "Damage": 22000,
+                "Cooldown": 1.2,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
-                "WitherTime": 1,
+                "WitherTime": 1.5,
                 "MoneyBoost": 1.3
             },
             {
                 "Price": 35000,
                 "Range": 35,
-                "Damage": 5000,
-                "Cooldown": 0.25,
+                "Damage": 26000,
+                "Cooldown": 1.2,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
-                "WitherTime": 1,
+                "WitherTime": 1.5,
                 "MoneyBoost": 1.3
             },
             {
                 "Price": 40000,
                 "Range": 38,
-                "Damage": 6250,
-                "Cooldown": 0.25,
+                "Damage": 30000,
+                "Cooldown": 1.2,
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
-                "WitherTime": 1,
+                "WitherTime": 1.5,
                 "MoneyBoost": 1.3
             }
         ]
