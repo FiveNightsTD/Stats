@@ -10508,7 +10508,6 @@
         "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +15% more damage for 10 seconds. (25% shiny)"},
-        "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -13932,7 +13931,7 @@
         "Image": "rbxassetid://127898009659800",
         "Rarity": "Nightmare",
         "PlacePrice": 44000,
-        "Offset": -0.4,
+        "Offset": -1.5,
         "Max": 2,
         "Passive": {"Name": "Fireworks All Around", "Description": "Attacks apply 10% Wither for 2 seconds (20% if shiny). Every 15 seconds deals AOE damage equal to 15x this units damage in Burn."},
         "hitboxOffset": {
@@ -14114,6 +14113,198 @@
                 "Wither": 1.2,
                 "ShinyWither": 1.3,
                 "WitherTime": 1
+            }
+        ]
+    },
+    "Gilded Jester Puppet": {
+        "Type": "Continous Splash Wither + Passive",
+        "Image": "rbxassetid://103324053538505",
+        "Rarity": "Apex",
+        "PlacePrice": 25000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Grand Harlequin", "Description": "Attacks apply 20% Wither for 1 second (30% if shiny). Performs an AOE attack every 10 seconds that deals 25x this units damage. Units within range gain a +30% income boost."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 28,
+                "Damage": 3000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1,
+                "MoneyBoost": 1.3
+            },
+            {
+                "Price": 30000,
+                "Range": 32,
+                "Damage": 4000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1,
+                "MoneyBoost": 1.3
+            },
+            {
+                "Price": 35000,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1,
+                "MoneyBoost": 1.3
+            },
+            {
+                "Price": 40000,
+                "Range": 38,
+                "Damage": 6250,
+                "Cooldown": 0.25,
+                "Wither": 1.2,
+                "ShinyWither": 1.3,
+                "WitherTime": 1,
+                "MoneyBoost": 1.3
+            }
+        ]
+    },
+    "Cyber Police Roxy": {
+        "Type": "Pierce Wither",
+        "Image": "rbxassetid://126934941324179",
+        "Rarity": "Secret",
+        "PlacePrice": 3000,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Codebreak", "Description": "Damaged enemies take 12.5% Wither for 1 second."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 200,
+                "Cooldown": 0.25,
+                "Wither": 1.125,
+                "ShinyWither": 1.125,
+                "WitherTime": 1
+            },
+            {
+                "Price": 6000,
+                "Range": 24,
+                "Damage": 350,
+                "Cooldown": 0.25,
+                "Wither": 1.125,
+                "ShinyWither": 1.125,
+                "WitherTime": 1
+            },
+            {
+                "Price": 8000,
+                "Range": 26,
+                "Damage": 500,
+                "Cooldown": 0.25,
+                "Wither": 1.125,
+                "ShinyWither": 1.125,
+                "WitherTime": 1
+            },
+            {
+                "Price": 10000,
+                "Range": 28,
+                "Damage": 650,
+                "Cooldown": 0.25,
+                "Wither": 1.125,
+                "ShinyWither": 1.125,
+                "WitherTime": 1
+            }
+        ]
+    },
+    "Flipside Freddy": {
+        "Type": "Slash + Passive",
+        "Image": "rbxassetid://98510603589544",
+        "Rarity": "Nightmare",
+        "PlacePrice": 99999,
+        "Offset": 0,
+        "Max": 1,
+        "Passive": {"Name": "Software Malfunction", "Description": "When an enemy reaches an exit this unit forms a portal that sends the enemy to the furthest entrance on the map, 60 second global cooldown. Gains a +25% damage boost if other Glitched units are on the same team."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 65000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 77777,
+                "Range": 28,
+                "Damage": 88000,
+                "Cooldown": 4.6
+            },
+            {
+                "Price": 88888,
+                "Range": 35,
+                "Damage": 112000,
+                "Cooldown": 4.3
+            },
+            {
+                "Price": 99999,
+                "Range": 35,
+                "Damage": 137000,
+                "Cooldown": 4
+            }
+        ]
+    },
+    "Engineer Chica": {
+        "Type": "Explosion + Passive",
+        "Image": "rbxassetid://93532497758458",
+        "Rarity": "Nightmare",
+        "PlacePrice": 39000,
+        "Offset": 0,
+        "Max": 2,
+        "Passive": {"Name": "Ironpost", "Description": "Every 30 seconds this unit deals 10x its current damage as Nuke, Boss Stunning for 2.5 seconds."},
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 11000,
+                "Cooldown": 3.5
+            },
+            {
+                "Price": 60000,
+                "Range": 25,
+                "Damage": 19000,
+                "Cooldown": 3.3
+            },
+            {
+                "Price": 70000,
+                "Range": 29,
+                "Damage": 25000,
+                "Cooldown": 3.2
+            },
+            {
+                "Price": 80000,
+                "Range": 32,
+                "Damage": 33000,
+                "Cooldown": 3
             }
         ]
     }
