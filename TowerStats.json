@@ -14275,7 +14275,7 @@
         "PlacePrice": 39000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Ironpost", "Description": "Every 30 seconds this unit deals 10x its current damage as Nuke, True Stunning for 2.5 seconds."},
+        "Passive": {"Name": "Ironpost", "Description": "Every 30 seconds this unit deals 240x its current damage as Nuke, True Stunning for 2.5 seconds."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -14286,26 +14286,26 @@
             {
                 "Price": 0,
                 "Range": 22,
-                "Damage": 11000,
-                "Cooldown": 3.5
+                "Damage": 1500,
+                "Cooldown": 0.25
             },
             {
                 "Price": 60000,
                 "Range": 25,
-                "Damage": 19000,
-                "Cooldown": 3.3
+                "Damage": 1900,
+                "Cooldown": 0.25
             },
             {
                 "Price": 70000,
                 "Range": 29,
-                "Damage": 25000,
-                "Cooldown": 3.2
+                "Damage": 2300,
+                "Cooldown": 0.25
             },
             {
                 "Price": 80000,
                 "Range": 32,
-                "Damage": 33000,
-                "Cooldown": 3
+                "Damage": 2750,
+                "Cooldown": 0.25
             }
         ]
     }
