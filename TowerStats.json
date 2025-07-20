@@ -14232,7 +14232,7 @@
         "Image": "rbxassetid://98510603589544",
         "Rarity": "Nightmare",
         "PlacePrice": 99999,
-        "Offset": 0,
+        "Offset": 0.7,
         "Max": 1,
         "Passive": {"Name": "Software Malfunction", "Description": "When an enemy reaches an exit this unit forms a portal that sends the enemy to a random entrance on the map with a 60 second global cooldown. Gains a +25% damage boost if other Glitched units are on the same team."},
         "NoEnemyAttack": true,
