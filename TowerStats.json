@@ -14234,7 +14234,7 @@
         "PlacePrice": 99999,
         "Offset": 0.7,
         "Max": 1,
-        "Passive": {"Name": "Software Malfunction", "Description": "Enemies that reach exits proc a 4 second portal that sends enemies back to the entrace they came from (60 second Global Cooldown). Gains a +25% damage bonus if other Glitched units are on the same team."},
+        "Passive": {"Name": "Software Malfunction", "Description": "Enemies/Imps/Bosses that reach exits proc a 4 second portal that sends enemies back to the entrace they came from (60 second Global Cooldown). Gains a +25% damage bonus if other Glitched units are on the same team."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
