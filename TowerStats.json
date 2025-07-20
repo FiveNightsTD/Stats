@@ -13622,7 +13622,7 @@
         "PlacePrice": 6000,
         "Offset": -1.3,
         "Max": 2,
-        "Passive": {"Name": "Time to Play!", "Description": "Attacks apply 60% slow for 4 seconds and Stun enemies for 0.5 seconds."},
+        "Passive": {"Name": "Time to Play!", "Description": "Attacks apply 60% slow for 4 seconds and Stun enemies for 0.4 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
