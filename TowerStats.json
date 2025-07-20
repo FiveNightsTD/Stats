@@ -13979,14 +13979,14 @@
         ]
     },
     "Sparky": {
-        "Type": "Single",
+        "Type": "Chain",
         "Image": "rbxassetid://106044817477654",
         "Rarity": "Forgotten",
         "PlacePrice": 59214,
         "Offset": 0.4,
         "Max": 1,
         "MaxChain": 3,
-        "Passive": {"Name": "Power Hungry", "Description": "Gains +0.1% extra damage per enemy killed up to +50% and gains +0.5% extra damage for every 1 base HP lost."},
+        "Passive": {"Name": "Power Hungry", "Description": "Attacks hit up to 3 different targets. Gains +0.1% extra damage per enemy killed up to +50% and gains +0.5% extra damage for every 1 base HP lost."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
