@@ -10507,7 +10507,7 @@
         "PlacePrice": 40000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +25% more damage for 3 seconds. Apollo Moon now does an AOE attack every 8 seconds equal to its damage doing 25% Wither for 3 seconds."},
+        "Passive": {"Name": "Dark of The Moon", "Description": "Enemies hit by Apollo's Attacks take +25% more damage for 3 seconds and apply 10% Burn over 1 second. Apollo Moon now does an AOE attack every 8 seconds equal to its damage doing 25% Wither for 3 seconds."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -12564,7 +12564,7 @@
         "PlacePrice": 30000,
         "Offset": 0.5,
         "Max": 1,
-        "Passive": {"Name": "Decay", "Description": "Deal +25% Poison damage over 1 second and apply 25% Wither for 2.5 seconds. Every 5th attack deals 15 of total enemy HP left (0.25% to Bosses and Imps)"},
+        "Passive": {"Name": "Decay", "Description": "Deal +25% Poison damage over 1 second and apply 25% Wither for 2.5 seconds. Every 5th attack deals 1% of total enemy HP left (0.25% to Bosses and Imps)"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
