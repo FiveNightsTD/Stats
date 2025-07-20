@@ -14026,7 +14026,7 @@
         "PlacePrice": 68000,
         "Offset": 0,
         "Max": 2,
-        "Passive": {"Name": "Life Story or Something", "Description": "Mr Hippo's turret does 5k-11.5k every 0.5s while applying 10% Wither for 5 seconds (20% when shiny). Traps do damage equal to Mr Hippo and True Stun for 3 seconds (Cap 100)."},
+        "Passive": {"Name": "Life Story or Something", "Description": "Mr Hippo's turret does 5k-11.5k every 0.5s while applying 20% Wither for 5 seconds. Traps do damage equal to Mr Hippo and True Stun for 3 seconds (Cap 100)."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
