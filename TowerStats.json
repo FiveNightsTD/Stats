@@ -14065,7 +14065,7 @@
         ]
     },
     "Jester Puppet": {
-        "Type": "Continous Splash Wither + Passive",
+        "Type": "Splash Wither + Passive",
         "Image": "rbxassetid://112806747062575",
         "Rarity": "Apex",
         "PlacePrice": 50000,
@@ -14118,7 +14118,7 @@
         ]
     },
     "Gilded Jester Puppet": {
-        "Type": "Continous Splash Wither + Passive",
+        "Type": "Splash Wither + Passive",
         "Image": "rbxassetid://103324053538505",
         "Rarity": "Apex",
         "PlacePrice": 25000,
