@@ -6052,7 +6052,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 3500,
-                "Cooldown": 2,
+                "Cooldown": 2.5,
                 "Slow": 0,
                 "SlowTime": 0.5,
                 "Wither": 1.1,
