@@ -14340,7 +14340,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 1000,
-        "Offset": -0.6,
+        "Offset": -0.8,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -14689,7 +14689,7 @@
             }
         ]
     },
-    "Aquatic Ballora Evo": {
+    "Oceanic Ballora": {
         "Type": "Single",
         "Image": "",
         "Rarity": "Secret",
