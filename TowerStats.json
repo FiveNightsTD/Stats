@@ -14340,7 +14340,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 1000,
-        "Offset": 0,
+        "Offset": -0.6,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -14352,7 +14352,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25
+                "Cooldown": 1
             },
             {
                 "Price": 0,
@@ -14391,7 +14391,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25
+                "Cooldown": 1.2
             },
             {
                 "Price": 0,
@@ -14431,7 +14431,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25,
+                "Cooldown": 2.5,
                 "CooldownBoost": 0.9,
                 "Slow": 0,
                 "SlowTime": 0.5
@@ -14482,7 +14482,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25,
+                "Cooldown": 5,
                 "Bleed": 0,
                 "BleedTime": 1
             },
@@ -14517,7 +14517,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 1000,
-        "Offset": 0,
+        "Offset": 0.5,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -14529,7 +14529,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25,
+                "Cooldown": 0.8,
                 "Slow": 0.5,
                 "SlowTime": 0.5,
                 "SummonTime": 20,
@@ -14612,7 +14612,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25,
+                "Cooldown": 1.5,
                 "Slow": 0.5,
                 "SlowTime": 3
             },
@@ -14647,7 +14647,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 1000,
-        "Offset": 0,
+        "Offset": 0.4,
         "Max": 3,
         "hitboxOffset": {
             "X": 0,
@@ -14659,7 +14659,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25,
+                "Cooldown": 1.8,
                 "Slow": 0.5,
                 "SlowTime": 1
             },
@@ -14734,7 +14734,7 @@
         "Image": "",
         "Rarity": "Secret",
         "PlacePrice": 1000,
-        "Offset": 0,
+        "Offset": -0.3,
         "Max": 3,
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -14747,7 +14747,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25,
+                "Cooldown": 1.8,
                 "DamageBoost": 1.06
             },
             {
@@ -14790,7 +14790,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25,
+                "Cooldown": 2,
                 "Burn": 38,
                 "BurnTime": 1.2
             },
@@ -14885,7 +14885,7 @@
                 "Price": 0,
                 "Range": 22,
                 "Damage": 1500,
-                "Cooldown": 0.25,
+                "Cooldown": 2,
                 "Slow": 0.5,
                 "SlowTime": 1
             },
