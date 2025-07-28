@@ -14334,5 +14334,632 @@
                 "Cooldown": 0.25
             }
         ]
+    },
+    "Sandy Helpy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Heatwave Sun": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "El Jellychip": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "CooldownBoost": 0.9,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "CooldownBoost": 0.9,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "CooldownBoost": 0.9,
+                "Slow": 0,
+                "SlowTime": 0.5
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "CooldownBoost": 0.9,
+                "Slow": 0,
+                "SlowTime": 0.5
+            }
+        ]
+    },
+    "Molten Serpent": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Bleed": 0,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Bleed": 0,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Bleed": 0,
+                "BleedTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Bleed": 0,
+                "BleedTime": 1
+            }
+        ]
+    },
+    "Tropic Terror Duo": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 0.5,
+                "SummonTime": 20,
+                "Health": 500000,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Undead Sea Monster",
+                "Offset": 0,
+                "SummonRange": 25,
+                "SummonDamage": 1500,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 0.5,
+                "SummonTime": 20,
+                "Health": 500000,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Undead Sea Monster",
+                "Offset": 0,
+                "SummonRange": 25,
+                "SummonDamage": 1500,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 0.5,
+                "SummonTime": 20,
+                "Health": 500000,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Undead Sea Monster",
+                "Offset": 0,
+                "SummonRange": 25,
+                "SummonDamage": 1500,
+                "SummonCooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 0.5,
+                "SummonTime": 20,
+                "Health": 500000,
+                "WalkSpeed": 12,
+                "Amount": 1,
+                "Unit": "Undead Sea Monster",
+                "Offset": 0,
+                "SummonRange": 25,
+                "SummonDamage": 1500,
+                "SummonCooldown": 0.25
+            }
+        ]
+    },
+    "Strawbaby": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 3
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 3
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 3
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 3
+            }
+        ]
+    },
+    "Aquatic Ballora": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Aquatic Ballora Evo": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25
+            }
+        ]
+    },
+    "Drained Coffee": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "DamageBoost": 1.06
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "DamageBoost": 1.06
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "DamageBoost": 1.06
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "DamageBoost": 1.06
+            }
+        ]
+    },
+    "Sun Guardian Freddy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Burn": 38,
+                "BurnTime": 1.2
+            }
+        ]
+    },
+    "Waterworks Foxy": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Into the Pool": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "NoEnemyAttack": true,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "Slow": 0.5,
+                "SlowTime": 1
+            }
+        ]
+    },
+    "Porcelain Weaver Chica": {
+        "Type": "Single",
+        "Image": "",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "SummonTime": 15,
+                "Unit": "Porcelain Cupcake Doll"
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "SummonTime": 15,
+                "Unit": "Porcelain Cupcake Doll"
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "SummonTime": 15,
+                "Unit": "Porcelain Cupcake Doll"
+            },
+            {
+                "Price": 0,
+                "Range": 22,
+                "Damage": 1500,
+                "Cooldown": 0.25,
+                "SummonTime": 15,
+                "Unit": "Porcelain Cupcake Doll"
+            }
+        ]
     }
 }
