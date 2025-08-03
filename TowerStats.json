@@ -14701,7 +14701,7 @@
         "PlacePrice": 35000,
         "Offset": 0,
         "Max": 1,
-        "Passive": {"Name": "Amplifying Wave", "Description": "This unit gains scaling Slow and Wither based on nearby enemies within range: up to 70% Slow and 20% Wither at 11+ enmies. Oceanic Ballora also unleashes a Tidal Wave every 10 seconds that deals 5x its current damage."},
+        "Passive": {"Name": "Amplifying Wave", "Description": "This unit gains scaling Slow and Wither based on nearby enemies within range: up to 70% Slow and 20% Wither at 11+ enemies. Oceanic Ballora also unleashes a Tidal Wave every 10 seconds that deals 5x its current damage."},
         "NoEnemyAttack": true,
         "hitboxOffset": {
             "X": 0,
@@ -14895,33 +14895,33 @@
                 "Price": 0,
                 "Range": 28,
                 "Damage": 56000,
-                "Cooldown": 2.8,
+                "Cooldown": 4,
                 "Slow": 0.3,
-                "SlowTime": 2
+                "SlowTime": 4
             },
             {
                 "Price": 0,
                 "Range": 32,
                 "Damage": 72000,
-                "Cooldown": 2.7,
+                "Cooldown": 4,
                 "Slow": 0.3,
-                "SlowTime": 2
+                "SlowTime": 4
             },
             {
                 "Price": 0,
                 "Range": 35,
                 "Damage": 85000,
-                "Cooldown": 2.6,
+                "Cooldown": 3.9,
                 "Slow": 0.3,
-                "SlowTime": 2
+                "SlowTime": 4
             },
             {
                 "Price": 0,
                 "Range": 38,
-                "Damage": 115000,
-                "Cooldown": 2.5,
+                "Damage": 114000,
+                "Cooldown": 3.8,
                 "Slow": 0.3,
-                "SlowTime": 2
+                "SlowTime": 4
             }
         ]
     },
