@@ -14357,7 +14357,7 @@
     },
     "Sandy Helpy": {
         "Type": "Splash",
-        "Image": "rbxassetid://75451502118007",
+        "Image": "rbxassetid://133012407919193",
         "Rarity": "Epic",
         "PlacePrice": 350,
         "Offset": -0.8,
@@ -14396,7 +14396,7 @@
     },
     "Heatwave Sun": {
         "Type": "Cone AOE",
-        "Image": "rbxassetid://122563931277863",
+        "Image": "rbxassetid://75319446250390",
         "Rarity": "Mythic",
         "PlacePrice": 4500,
         "Offset": 0,
@@ -14435,7 +14435,7 @@
     },
     "El Jellychip": {
         "Type": "Zap + Boost",
-        "Image": "rbxassetid://140565622581549",
+        "Image": "rbxassetid://136969034043541",
         "Rarity": "Secret",
         "PlacePrice": 12000,
         "Offset": 0,
@@ -14488,7 +14488,7 @@
     },
     "Molten Serpent": {
         "Type": "Chain Melee",
-        "Image": "rbxassetid://91006404073305",
+        "Image": "rbxassetid://125846840665791",
         "Rarity": "Nightmare",
         "PlacePrice": 35000,
         "Offset": 0,
@@ -14536,7 +14536,7 @@
     },
     "Tropic Terror Duo": {
         "Type": "Splash Slow + Passive",
-        "Image": "rbxassetid://106027233336749",
+        "Image": "rbxassetid://99621129596373",
         "Rarity": "Forgotten",
         "PlacePrice": 33333,
         "Offset": 0.5,
@@ -14620,7 +14620,7 @@
     },
     "Strawbaby": {
         "Type": "Splash Slow",
-        "Image": "rbxassetid://84995432153771",
+        "Image": "rbxassetid://75900449156657",
         "Rarity": "Secret",
         "PlacePrice": 9000,
         "Offset": 0,
@@ -14668,7 +14668,7 @@
     },
     "Aquatic Ballora": {
         "Type": "Pierce Spread",
-        "Image": "rbxassetid://71939897381875",
+        "Image": "rbxassetid://109953928431580",
         "Rarity": "Apex",
         "PlacePrice": 22000,
         "Offset": 0.4,
@@ -14716,7 +14716,7 @@
     },
     "Oceanic Ballora": {
         "Type": "AOE + Passive",
-        "Image": "rbxassetid://125134188495745",
+        "Image": "rbxassetid://109670372514457",
         "Rarity": "Apex",
         "PlacePrice": 35000,
         "Offset": 0,
@@ -14757,7 +14757,7 @@
     },
     "Drained Coffee": {
         "Type": "Splash",
-        "Image": "rbxassetid://111757262088268",
+        "Image": "rbxassetid://88006758893374",
         "Rarity": "Secret",
         "PlacePrice": 750,
         "Offset": -0.3,
@@ -14802,7 +14802,7 @@
     },
     "Sun Guardian Freddy": {
         "Type": "Explosion",
-        "Image": "rbxassetid://82810572693019",
+        "Image": "rbxassetid://134863215965587",
         "Rarity": "Nightmare",
         "PlacePrice": 29000,
         "Offset": 0,
@@ -14850,7 +14850,7 @@
     },
     "Waterworks Foxy": {
         "Type": "Continous Splash Slow",
-        "Image": "rbxassetid://72150258993953",
+        "Image": "rbxassetid://121168642208042",
         "Rarity": "Nightmare",
         "PlacePrice": 3000,
         "Offset": 0,
@@ -14898,7 +14898,7 @@
     },
     "Into the Pool": {
         "Type": "Single Slow AOE + Passive",
-        "Image": "rbxassetid://97154624998710",
+        "Image": "rbxassetid://131726719551115",
         "Rarity": "Nightmare",
         "PlacePrice": 50000,
         "Offset": 0,
@@ -14947,7 +14947,7 @@
     },
     "Porcelain Weaver Chica": {
         "Type": "Pierce + Summon",
-        "Image": "rbxassetid://127916572937948",
+        "Image": "rbxassetid://70660696068882",
         "Rarity": "Nightmare",
         "PlacePrice": 22000,
         "Offset": 0,
