@@ -14491,7 +14491,7 @@
         "Image": "rbxassetid://125846840665791",
         "Rarity": "Nightmare",
         "PlacePrice": 35000,
-        "Offset": -0.3,
+        "Offset": -5,
         "Max": 2,
         "Passive": {"Name": "Bleed", "Description": "Attacks hit up to 5 enemies, applying 100% Anti Regen for 1 second."},
         "hitboxOffset": {
