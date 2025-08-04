@@ -14736,19 +14736,19 @@
                 "Cooldown": 2
             },
             {
-                "Price": 0,
+                "Price": 40000,
                 "Range": 36,
                 "Damage": 58000,
                 "Cooldown": 2
             },
             {
-                "Price": 0,
+                "Price": 50000,
                 "Range": 39,
                 "Damage": 70000,
                 "Cooldown": 2
             },
             {
-                "Price": 0,
+                "Price": 60000,
                 "Range": 42,
                 "Damage": 82000,
                 "Cooldown": 2
