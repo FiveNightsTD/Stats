@@ -14871,7 +14871,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 4000,
                 "Range": 24,
                 "Damage": 600,
                 "Cooldown": 0.25,
@@ -14879,7 +14879,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 5000,
                 "Range": 27,
                 "Damage": 900,
                 "Cooldown": 0.25,
@@ -14887,7 +14887,7 @@
                 "SlowTime": 0.5
             },
             {
-                "Price": 0,
+                "Price": 6000,
                 "Range": 30,
                 "Damage": 1200,
                 "Cooldown": 0.25,
