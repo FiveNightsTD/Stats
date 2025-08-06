@@ -2144,7 +2144,7 @@
     "Abyssal Foxy": {
         "Type": "Continuous Slow",
         "Image": "rbxassetid://18578478327",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 45000,
         "Max": 1,
         "Passive": {"Name": "Slow", "Description": "Main Attack slows enemies by 60%. During charge state enemies are slowed by 70%"},
