@@ -14992,5 +14992,52 @@
                 "Unit": "Porcelain Cupcake Doll"
             }
         ]
+    },
+    "Birthday Bash Bonnie": {
+        "Type": "Single",
+        "Image": "rbxassetid://72792573129785",
+        "Rarity": "Secret",
+        "PlacePrice": 1000,
+        "Offset": 0,
+        "Max": 3,
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 14000,
+                "Cooldown": 2.2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 28000,
+                "Range": 28,
+                "Damage": 20000,
+                "Cooldown": 2.2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 32000,
+                "Range": 32,
+                "Damage": 26000,
+                "Cooldown": 2.1,
+                "Burn": 38,
+                "BurnTime": 1.2
+            },
+            {
+                "Price": 36000,
+                "Range": 35,
+                "Damage": 30000,
+                "Cooldown": 2,
+                "Burn": 38,
+                "BurnTime": 1.2
+            }
+        ]
     }
 }
