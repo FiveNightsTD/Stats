@@ -14998,7 +14998,7 @@
         "Image": "rbxassetid://72792573129785",
         "Rarity": "Secret",
         "PlacePrice": 45000,
-        "Offset": 1,
+        "Offset": 0,
         "Max": 1,
         "Passive": {"Name": "Party Smash", "Description": "When this unit attacks, the affected area leaves a burning pile of candles and cake dealing 40% of its current damage in burn over 3s. Piles lasts for 3s."},
         "hitboxOffset": {
