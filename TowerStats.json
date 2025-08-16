@@ -15053,7 +15053,7 @@
         "PlacePrice": 56000,
         "Offset": 0.3,
         "Max": 1,
-        "Passive": {"Name": "Giant Slayer", "Description": "Deal +70% damage to large enemies"},
+        "Passive": {"Name": "Giant Slayer", "Description": "Deal +75% damage to large enemies"},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -15065,28 +15065,28 @@
                 "Range": 30,
                 "Damage": 60000,
                 "Cooldown": 3,
-                "LargeDamage": 1.7
+                "LargeDamage": 1.75
             },
             {
                 "Price": 59500,
                 "Range": 32,
                 "Damage": 80000,
                 "Cooldown": 3,
-                "LargeDamage": 1.7
+                "LargeDamage": 1.75
             },
             {
                 "Price": 63000,
                 "Range": 35,
                 "Damage": 92000,
                 "Cooldown": 3,
-                "LargeDamage": 1.7
+                "LargeDamage": 1.75
             },
             {
                 "Price": 70000,
                 "Range": 40,
                 "Damage": 105000,
                 "Cooldown": 3,
-                "LargeDamage": 1.7
+                "LargeDamage": 1.75
             }
         ]
     }
