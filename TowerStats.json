@@ -1266,24 +1266,32 @@
                 "Range": 15,
                 "Damage": 1250,
                 "Cooldown": 2
+                "Slow": 0.45,
+                "SlowTime": 1
             },
             {
                 "Price": 5000,
                 "Range": 18,
                 "Damage": 1500,
                 "Cooldown": 1.5
+                "Slow": 0.45,
+                "SlowTime": 1
             },
             {
                 "Price": 7000,
                 "Range": 20,
                 "Damage": 1750,
                 "Cooldown": 1.25
+                "Slow": 0.45,
+                "SlowTime": 1
             },
             {
                 "Price": 10000,
                 "Range": 25,
                 "Damage": 2000,
                 "Cooldown": 1
+                "Slow": 0.45,
+                "SlowTime": 1
             }
         ]
     },
@@ -3534,24 +3542,32 @@
                 "Range": 20,
                 "Damage": 1250,
                 "Cooldown": 0.25
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 6000,
                 "Range": 22,
                 "Damage": 1650,
                 "Cooldown": 0.25
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 7500,
                 "Range": 25,
                 "Damage": 2075,
                 "Cooldown": 0.25
+                "Slow": 0,
+                "SlowTime": 0.5
             },
             {
                 "Price": 9000,
                 "Range": 30,
                 "Damage": 2500,
                 "Cooldown": 0.25
+                "Slow": 0,
+                "SlowTime": 0.5
             }
         ]
     },
@@ -5171,7 +5187,7 @@
         "Rarity": "Secret",
         "PlacePrice": 8000,
         "Offset": 0,
-        "Max": 3,
+        "Max": 2,
         "Passive": {"Name": "Beartrap", "Description": "Spawns Beartraps that last forever until an enemy steps on them (300 max)"},
         "NoEnemyAttack": true,
         "hitboxOffset": {
@@ -14574,7 +14590,7 @@
         "PlacePrice": 33333,
         "Offset": 0.5,
         "Max": 1,
-        "Passive": {"Name": "Coastal Echo", "Description": "This Duo deploys a waterwall that slows enemies by 70% for 3 seconds dealing 2x their current damage, 7 second cooldown. Waterwall applies a 25% burn to enemies for 5 seconds."},
+        "Passive": {"Name": "Coastal Echo", "Description": "Main attack applies 60% Slow. This duo deploys a waterwall lasting for 3s, dealing 2x their damage and applying 25% Burn and 70% Slow for 3s (7s cooldown)."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
