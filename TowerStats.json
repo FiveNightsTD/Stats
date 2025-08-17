@@ -1265,7 +1265,7 @@
                 "Price": 0,
                 "Range": 15,
                 "Damage": 1250,
-                "Cooldown": 2
+                "Cooldown": 2,
                 "Slow": 0.45,
                 "SlowTime": 1
             },
@@ -1273,7 +1273,7 @@
                 "Price": 5000,
                 "Range": 18,
                 "Damage": 1500,
-                "Cooldown": 1.5
+                "Cooldown": 1.5,
                 "Slow": 0.45,
                 "SlowTime": 1
             },
@@ -1281,7 +1281,7 @@
                 "Price": 7000,
                 "Range": 20,
                 "Damage": 1750,
-                "Cooldown": 1.25
+                "Cooldown": 1.25,
                 "Slow": 0.45,
                 "SlowTime": 1
             },
@@ -1289,7 +1289,7 @@
                 "Price": 10000,
                 "Range": 25,
                 "Damage": 2000,
-                "Cooldown": 1
+                "Cooldown": 1,
                 "Slow": 0.45,
                 "SlowTime": 1
             }
@@ -3541,7 +3541,7 @@
                 "Price": 0,
                 "Range": 20,
                 "Damage": 1250,
-                "Cooldown": 0.25
+                "Cooldown": 0.25,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
@@ -3549,7 +3549,7 @@
                 "Price": 6000,
                 "Range": 22,
                 "Damage": 1650,
-                "Cooldown": 0.25
+                "Cooldown": 0.25,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
@@ -3557,7 +3557,7 @@
                 "Price": 7500,
                 "Range": 25,
                 "Damage": 2075,
-                "Cooldown": 0.25
+                "Cooldown": 0.25,
                 "Slow": 0,
                 "SlowTime": 0.5
             },
@@ -3565,7 +3565,7 @@
                 "Price": 9000,
                 "Range": 30,
                 "Damage": 2500,
-                "Cooldown": 0.25
+                "Cooldown": 0.25,
                 "Slow": 0,
                 "SlowTime": 0.5
             }
