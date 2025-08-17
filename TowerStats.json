@@ -15069,7 +15069,7 @@
         "PlacePrice": 56000,
         "Offset": 0.3,
         "Max": 1,
-        "Passive": {"Name": "Giant Slayer", "Description": "Deal +75% damage to large enemies"},
+        "Passive": {"Name": "Giant Slayer", "Description": "+75% damage to bosses/imps -> Gains a stacking +23.3% damage to imps (Cap of 3). Scaling True Stun, 1 = 0.5s. 2 = 1s. 3 = 1.5s. If a boss is in range acts as max scaling."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
