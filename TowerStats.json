@@ -8586,25 +8586,33 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 16250,
-                "Cooldown": 2
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 3
             },
             {
                 "Price": 80000,
                 "Range": 30,
                 "Damage": 19500,
-                "Cooldown": 2
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 3
             },
             {
                 "Price": 90000,
                 "Range": 32,
                 "Damage": 22750,
-                "Cooldown": 2
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 3
             },
             {
                 "Price": 100000,
                 "Range": 35,
                 "Damage": 27000,
-                "Cooldown": 2
+                "Cooldown": 2,
+                "Bleed": 0.4,
+                "BleedTime": 3
             }
         ]
     },
@@ -9858,7 +9866,7 @@
         "Offset": 0,
         "Max": 2,
         "NoEnemyAttack": true,
-        "Passive": {"Name": "Grand Equionox", "Description": "Every 3rd attack deals 400% damage. Does +1% damage per enemy within range. Units within range gain a +30% income boost."},
+        "Passive": {"Name": "Grand Equionox", "Description": "Every 3rd attack deals 400% damage and applies 60% Anti-Regen for 3 seconds. Does +1% damage per enemy within range. Units within range gain a +30% income boost."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -9870,28 +9878,36 @@
                 "Range": 25,
                 "Damage": 16000,
                 "Cooldown": 2,
-                "MoneyBoost": 1.3
+                "MoneyBoost": 1.3,
+                "Bleed": 0.4,
+                "BleedTime": 3
             },
             {
                 "Price": 35000,
                 "Range": 30,
                 "Damage": 19000,
                 "Cooldown": 2,
-                "MoneyBoost": 1.3
+                "MoneyBoost": 1.3,
+                "Bleed": 0.4,
+                "BleedTime": 3
             },
             {
                 "Price": 40000,
                 "Range": 32,
                 "Damage": 22000,
                 "Cooldown": 2,
-                "MoneyBoost": 1.3
+                "MoneyBoost": 1.3,
+                "Bleed": 0.4,
+                "BleedTime": 3
             },
             {
                 "Price": 50000,
                 "Range": 35,
                 "Damage": 26000,
                 "Cooldown": 2,
-                "MoneyBoost": 1.3
+                "MoneyBoost": 1.3,
+                "Bleed": 0.4,
+                "BleedTime": 3
             }
         ]
     },
