@@ -15124,7 +15124,7 @@
     },
      "Painter Puppet": {
         "Type": "Cone AOE",
-        "Image": "",
+        "Image": "rbxassetid://74447601469380",
         "Rarity": "Secret",
         "PlacePrice": 20000,
         "Max": 2,
