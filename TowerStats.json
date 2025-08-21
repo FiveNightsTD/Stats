@@ -15125,7 +15125,7 @@
      "Painter Puppet": {
         "Type": "Cone AOE",
         "Image": "rbxassetid://74447601469380",
-        "Rarity": "Secret",
+        "Rarity": "Nightmare",
         "PlacePrice": 20000,
         "Max": 2,
         "Passive": {"Name": "Paint Splatter", "Description": "When this unit attacks, has a 60% chance to apply Slow (58.5% for 1s), Wither (17.5% for 1s), and Anti-Regen (35% for 1.5s) "},
