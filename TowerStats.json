@@ -15185,5 +15185,157 @@
                 "BleedTime": 1.5
             }
         ]
+    },
+	"Warpseer Mangle": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://134052825970100",
+        "Rarity": "Secret",
+        "PlacePrice": 25000,
+        "Max": 2,
+        "Passive": {"Name": "Witchrot", "Description": "Main attack applies 50% Anti-Regen for 2s. Every 5 seconds the next attack deals an additional 40% damage in Poison over 2s."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 12500,
+                "Cooldown": 3,
+                "Poison": 5000,
+                "PoisonTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 2
+            },
+            {
+                "Price": 35000,
+                "Range": 28,
+                "Damage": 16500,
+                "Cooldown": 2.66,
+                "Poison": 6600,
+                "PoisonTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 2
+            },
+            {
+                "Price": 40000,
+                "Range": 32,
+                "Damage": 20000,
+                "Cooldown": 2.33,
+                "Poison": 8000,
+                "PoisonTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 2
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 25000,
+                "Cooldown": 2,
+                "Poison": 10000,
+                "PoisonTime": 2,
+                "Bleed": 0.5,
+                "BleedTime": 2
+            }
+        ]
+    },
+    "Glitchtrap": {
+        "Type": "Pierce",
+        "Image": "rbxassetid://101957224781287",
+        "Rarity": "Apex",
+        "PlacePrice": 45000,
+        "Max": 1,
+        "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 25% (8.5% to Bosses/Imps) and attacks apply 20% Wither."},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 30,
+                "Damage": 3750,
+                "Cooldown": 0.25,
+                "Wither": 1.20,
+                "ShinyWither": 1.20,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 50000,
+                "Range": 35,
+                "Damage": 5000,
+                "Cooldown": 0.25,
+                "Wither": 1.20,
+                "ShinyWither": 1.20,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 60000,
+                "Range": 40,
+                "Damage": 6250,
+                "Cooldown": 0.25,
+                "Wither": 1.20,
+                "ShinyWither": 1.20,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            },
+            {
+                "Price": 70000,
+                "Range": 45,
+                "Damage": 7500,
+                "Cooldown": 0.25,
+                "Wither": 1.20,
+                "ShinyWither": 1.20,
+                "WitherTime": 1,
+                "DamageBoost": 1.30
+            }
+        ]
+    },
+    "The Glitched": {
+        "Type": "Nuke",
+        "Image": "rbxassetid://103032877502508",
+        "Rarity": "Apex",
+        "PlacePrice": 99999,
+        "Max": 1,
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking enemies (maximum of 3) causing 0.7s True Stun and 20% Auto Execute. When a marked enemy is hit again, Mega Virus strikes dealing +300% damage, 1.2s True Stun and 45% Auto Execute (15% to Bosses/Imps. Only when marked). "},
+        "hitboxOffset": {
+            "X": 0,
+            "Y": 0,
+            "Z": 0
+        },
+        "Offset": 0.3,
+        "Upgrades": [
+            {
+                "Price": 0,
+                "Range": 25,
+                "Damage": 75000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 119999,
+                "Range": 28,
+                "Damage": 100000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 139999,
+                "Range": 32,
+                "Damage": 125000,
+                "Cooldown": 5
+            },
+            {
+                "Price": 159999,
+                "Range": 35,
+                "Damage": 150000,
+                "Cooldown": 5
+            }
+        ]
     }
 }
