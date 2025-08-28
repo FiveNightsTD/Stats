@@ -15248,7 +15248,7 @@
         "Rarity": "Apex",
         "PlacePrice": 45000,
         "Max": 1,
-        "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 25% (8.5% to Bosses/Imps) and attacks apply 20% Wither."},
+        "Passive": {"Name": "Distortion", "Description": "Passively boosts all unit damage by 30%. Auto executes enemies at 20% (8.5% to Bosses/Imps) and attacks apply 10% Wither."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -15261,8 +15261,8 @@
                 "Range": 30,
                 "Damage": 3750,
                 "Cooldown": 0.25,
-                "Wither": 1.20,
-                "ShinyWither": 1.20,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
                 "WitherTime": 1,
                 "DamageBoost": 1.30
             },
@@ -15271,8 +15271,8 @@
                 "Range": 35,
                 "Damage": 5000,
                 "Cooldown": 0.25,
-                "Wither": 1.20,
-                "ShinyWither": 1.20,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
                 "WitherTime": 1,
                 "DamageBoost": 1.30
             },
@@ -15281,8 +15281,8 @@
                 "Range": 40,
                 "Damage": 6250,
                 "Cooldown": 0.25,
-                "Wither": 1.20,
-                "ShinyWither": 1.20,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
                 "WitherTime": 1,
                 "DamageBoost": 1.30
             },
@@ -15291,8 +15291,8 @@
                 "Range": 45,
                 "Damage": 7500,
                 "Cooldown": 0.25,
-                "Wither": 1.20,
-                "ShinyWither": 1.20,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
                 "WitherTime": 1,
                 "DamageBoost": 1.30
             }
@@ -15304,7 +15304,7 @@
         "Rarity": "Apex",
         "PlacePrice": 99999,
         "Max": 1,
-        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking enemies (maximum of 3) causing 0.7s True Stun and 20% Auto Execute. When a marked enemy is hit again, Mega Virus strikes dealing +300% damage, 1.2s True Stun and 45% Auto Execute (15% to Bosses/Imps. Only when marked). "},
+        "Passive": {"Name": "Mega Virus", "Description": "Attacks apply Mega Virus marking enemies causing 20% Wither and 20% Auto Execute. When a marked enemy is hit again, Mega Virus strikes dealing +300% damage, 3s True Stun and 45% Auto Execute (15% to Bosses/Imps)."},
         "hitboxOffset": {
             "X": 0,
             "Y": 0,
@@ -15316,25 +15316,37 @@
                 "Price": 0,
                 "Range": 25,
                 "Damage": 75000,
-                "Cooldown": 5
+                "Cooldown": 5,
+                "Wither": 1.20,
+                "ShinyWither": 1.20,
+                "WitherTime": 5
             },
             {
                 "Price": 119999,
                 "Range": 28,
                 "Damage": 100000,
-                "Cooldown": 5
+                "Cooldown": 5,
+                "Wither": 1.20,
+                "ShinyWither": 1.20,
+                "WitherTime": 5
             },
             {
                 "Price": 139999,
                 "Range": 32,
                 "Damage": 125000,
-                "Cooldown": 5
+                "Cooldown": 5,
+                "Wither": 1.20,
+                "ShinyWither": 1.20,
+                "WitherTime": 5
             },
             {
                 "Price": 159999,
                 "Range": 35,
                 "Damage": 150000,
-                "Cooldown": 5
+                "Cooldown": 5,
+                "Wither": 1.20,
+                "ShinyWither": 1.20,
+                "WitherTime": 5
             }
         ]
     }
