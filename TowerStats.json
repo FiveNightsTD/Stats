@@ -6471,8 +6471,8 @@
                 "WalkSpeed": 9,
                 "Health": 500,
                 "Cooldown": 2,
-                "Wither": 1.010,
-                "ShinyWither": 1.010,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
                 "WitherTime": 1
             },
             {
@@ -6483,8 +6483,8 @@
                 "WalkSpeed": 9,
                 "Health": 500,
                 "Cooldown": 1.66,
-                "Wither": 1.010,
-                "ShinyWither": 1.010,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
                 "WitherTime": 1
             },
             {
@@ -6495,8 +6495,8 @@
                 "WalkSpeed": 9,
                 "Health": 500,
                 "Cooldown": 1.33,
-                "Wither": 1.010,
-                "ShinyWither": 1.010,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
                 "WitherTime": 1
             },
             {
@@ -6507,8 +6507,8 @@
                 "WalkSpeed": 9,
                 "Health": 50000,
                 "Cooldown": 1.33,
-                "Wither": 1.010,
-                "ShinyWither": 1.010,
+                "Wither": 1.10,
+                "ShinyWither": 1.10,
                 "WitherTime": 1
             }
         ]
