@@ -7906,7 +7906,7 @@
             {
                 "Price": 17000,
                 "Range": 30,
-                "Damage": 250,
+                "Damage": 416,
                 "Cooldown": 0.25,
                 "DamageBoost": 1.35
 
@@ -7914,7 +7914,7 @@
             {
                 "Price": 22000,
                 "Range": 35,
-                "Damage": 300,
+                "Damage": 520,
                 "Cooldown": 0.25,
                 "DamageBoost": 1.35
 
